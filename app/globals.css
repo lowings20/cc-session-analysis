@@ -1,0 +1,50 @@
+@import "tailwindcss";
+
+body {
+  background-color: #0f172a;
+  color: #e2e8f0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+/* Segment tooltip */
+.segment-tooltip {
+  position: absolute;
+  bottom: calc(100% + 6px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: #1e293b;
+  border: 1px solid #475569;
+  color: #e2e8f0;
+  font-size: 11px;
+  padding: 4px 8px;
+  border-radius: 4px;
+  white-space: nowrap;
+  pointer-events: none;
+  z-index: 50;
+  max-width: 240px;
+  white-space: normal;
+  text-align: center;
+  line-height: 1.4;
+}
+
+.segment-tooltip::after {
+  content: '';
+  position: absolute;
+  top: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  border: 4px solid transparent;
+  border-top-color: #475569;
+}
+
+/* Focus outline for keyboard nav */
+[data-segment]:focus {
+  outline: 2px solid #60a5fa;
+  outline-offset: 1px;
+  z-index: 10;
+}

@@ -1,0 +1,1409 @@
+{
+  "Analyzing Profit Drivers": [
+    {
+      "section": "INTRO",
+      "length_s": 600,
+      "start_s": 0,
+      "end_s": 600,
+      "focus": "* Welcome everyone to the sessions\n* Why Here and Opening question\n* Introduce the narrative, role, and learning objectives"
+    },
+    {
+      "section": "",
+      "length_s": 180,
+      "start_s": 600,
+      "end_s": 780,
+      "focus": "2-MINUTE BREAKOUT: \nHave people join the appropriate team"
+    },
+    {
+      "section": "CHAPTER 1",
+      "length_s": 480,
+      "start_s": 780,
+      "end_s": 1260,
+      "focus": "* Introduce the chapter\n* Briefly introduce income statement"
+    },
+    {
+      "section": "",
+      "length_s": 780,
+      "start_s": 1260,
+      "end_s": 2040,
+      "focus": "13-MINUTE BREAKOUT: \n* 10 minute timer to play the chapter\n* 3  answer chapter question\n(No feedback for this chapter)"
+    },
+    {
+      "section": "",
+      "length_s": 360,
+      "start_s": 2040,
+      "end_s": 2400,
+      "focus": "* Debrief the chapter together\n   [If falling behind, cut time here to get back on pace.]"
+    },
+    {
+      "section": "CHAPTER 2",
+      "length_s": 180,
+      "start_s": 2400,
+      "end_s": 2580,
+      "focus": "* Introduce the chapter"
+    },
+    {
+      "section": "",
+      "length_s": 1200,
+      "start_s": 2580,
+      "end_s": 3780,
+      "focus": "20-MINUTE BREAKOUT: \n* 15 minute timer to play the chapter\n* 3 minutes to answer chapter question\n* 2 minutes to review feedback"
+    },
+    {
+      "section": "",
+      "length_s": 600,
+      "start_s": 3780,
+      "end_s": 4380,
+      "focus": "* Debrief the chapter together\n   [If falling behind, cut time here to get back on pace.]"
+    },
+    {
+      "section": "BREAK",
+      "length_s": 300,
+      "start_s": 4380,
+      "end_s": 4680,
+      "focus": "Short break"
+    },
+    {
+      "section": "CHAPTER 3",
+      "length_s": 180,
+      "start_s": 4680,
+      "end_s": 4860,
+      "focus": "* Introduce the chapter"
+    },
+    {
+      "section": "",
+      "length_s": 1020,
+      "start_s": 4860,
+      "end_s": 5880,
+      "focus": "17-MINUTE BREAKOUT: \n* 12 minute timer to play the chapter\n* 3 minutes to answer end of chapter decision\n* 2 minutes to review feedback"
+    },
+    {
+      "section": "",
+      "length_s": 720,
+      "start_s": 5880,
+      "end_s": 6600,
+      "focus": "* Debrief the chapter together\n* Session reflections"
+    },
+    {
+      "section": "CLOSING",
+      "length_s": 300,
+      "start_s": 6600,
+      "end_s": 6900,
+      "focus": "* Thank everyone for joining\n* Distribute survey link"
+    },
+    {
+      "section": "BUFFER",
+      "length_s": 300,
+      "start_s": 6900,
+      "end_s": 7200,
+      "focus": "Buffer"
+    }
+  ],
+  "Balancing Growth and Risk": [
+    {
+      "section": "INTRO",
+      "length_s": 540,
+      "start_s": 0,
+      "end_s": 540,
+      "focus": "* Welcome everyone to the session\n* Introduce the narrative: you are a producer at Fictitious, a streaming platform evaluating three content projects\n* Introduce the role, learning objectives, and the"
+    },
+    {
+      "section": "",
+      "length_s": 180,
+      "start_s": 540,
+      "end_s": 720,
+      "focus": "3-MINUTE BREAKOUT: \nHave people join the appropriate team"
+    },
+    {
+      "section": "CHAPTER 1",
+      "length_s": 240,
+      "start_s": 720,
+      "end_s": 960,
+      "focus": "* Introduce the chapter: \"The Numbers Game\"\n* Brief the teams: review three content projects \u2014 their creative briefs and financials\n* Highlight the Cash Flow Explorer tool and the goal of forming an i"
+    },
+    {
+      "section": "",
+      "length_s": 1080,
+      "start_s": 960,
+      "end_s": 2040,
+      "focus": "18-MINUTE BREAKOUT: \n* 15 minute timer to play the chapter\n* Learners review project briefs (Nomadic Nation, The Shadow Protocol, Silk & Mahogany), explore cash flows, and select which project excites"
+    },
+    {
+      "section": "",
+      "length_s": 300,
+      "start_s": 2040,
+      "end_s": 2340,
+      "focus": "* Debrief the chapter together\n* Ask: Which project caught your eye and why?\n* Surface the tension between raw returns (Shadow Protocol) vs. lower risk (Nomadic Nation) vs. balanced (Silk & Mahogany)\n"
+    },
+    {
+      "section": "CHAPTER 2",
+      "length_s": 240,
+      "start_s": 2340,
+      "end_s": 2580,
+      "focus": "* Introduce the chapter: \"Building the Case\"\n* Briefly introduce the concept of risk-adjusted returns and discount rates\n* Frame the working session with Haisam (VP of Finance) \u2014 he won't hand you ans"
+    },
+    {
+      "section": "",
+      "length_s": 1380,
+      "start_s": 2580,
+      "end_s": 3960,
+      "focus": "23-MINUTE BREAKOUT: \n* 20 minute timer to play the chapter\n* Learners use the NPV & IRR Explorer, then have a Socratic conversation with Haisam about discount rates and risk-adjusted analysis\n* Learne"
+    },
+    {
+      "section": "",
+      "length_s": 300,
+      "start_s": 3960,
+      "end_s": 4260,
+      "focus": "* Debrief the chapter together\n* Ask: How did the risk-adjusted analysis change your view?\n* Discuss: Did anyone switch their project choice after applying discount rates?\n* Highlight the NPV surprise"
+    },
+    {
+      "section": "BREAK",
+      "length_s": 300,
+      "start_s": 4260,
+      "end_s": 4560,
+      "focus": "Short break"
+    },
+    {
+      "section": "CHAPTER 3",
+      "length_s": 240,
+      "start_s": 4560,
+      "end_s": 4800,
+      "focus": "* Introduce the chapter: \"The Pitch\"\n* Remind learners of what Melissa (SVP of Content) evaluates: Financials, Risks, Strategic Value, and Story\n* Emphasize: she's evaluating both the project AND the "
+    },
+    {
+      "section": "",
+      "length_s": 1380,
+      "start_s": 4800,
+      "end_s": 6180,
+      "focus": "23-MINUTE BREAKOUT: \n* 20 minute timer to play the chapter\n* Learners use the Pitch Prep Template and Executive Summary tool, then pitch their chosen project to Melissa\n* Melissa will push back on ass"
+    },
+    {
+      "section": "",
+      "length_s": 300,
+      "start_s": 6180,
+      "end_s": 6480,
+      "focus": "* Debrief the chapter together\n* Ask: What was hardest about the pitch \u2014 the numbers, the risk framing, or the storytelling?\n* Discuss: How did Melissa's pushback change your approach?\n* Connect to th"
+    },
+    {
+      "section": "FINAL REFLECTION",
+      "length_s": 360,
+      "start_s": 6480,
+      "end_s": 6840,
+      "focus": "* Debrief the overall experience\n* Key takeaway: raw financial returns can be misleading without risk adjustment\n* Discuss: How does this apply to resource allocation decisions in your own organizatio"
+    },
+    {
+      "section": "CLOSING",
+      "length_s": 240,
+      "start_s": 6840,
+      "end_s": 7080,
+      "focus": "* Thank everyone for joining\n* Distribute survey link"
+    },
+    {
+      "section": "BUFFER",
+      "length_s": 300,
+      "start_s": 7080,
+      "end_s": 7380,
+      "focus": "Buffer"
+    }
+  ],
+  "Creating Strategic Alignment": [
+    {
+      "section": "INTRO",
+      "length_s": 540,
+      "start_s": 0,
+      "end_s": 540,
+      "focus": "* Welcome everyone to the sessions\n* Introduce the narrative, role, and learning objectives"
+    },
+    {
+      "section": "",
+      "length_s": 180,
+      "start_s": 540,
+      "end_s": 720,
+      "focus": "2-MINUTE BREAKOUT: \nHave people join the appropriate team"
+    },
+    {
+      "section": "CHAPTER 1",
+      "length_s": 240,
+      "start_s": 720,
+      "end_s": 960,
+      "focus": "* Introduce the chapter\n* Briefly introduce key framework"
+    },
+    {
+      "section": "",
+      "length_s": 1200,
+      "start_s": 960,
+      "end_s": 2160,
+      "focus": "20-MINUTE BREAKOUT: \n* 17 minute timer to play the chapter - including listing core competencies\n* 3 minutes to review feedback"
+    },
+    {
+      "section": "",
+      "length_s": 300,
+      "start_s": 2160,
+      "end_s": 2460,
+      "focus": "* Debrief the chapter together\n   [If falling behind, cut time here to get back on pace.]"
+    },
+    {
+      "section": "CHAPTER 2",
+      "length_s": 240,
+      "start_s": 2460,
+      "end_s": 2700,
+      "focus": "* Introduce the chapter\n* Briefly introduce key framework"
+    },
+    {
+      "section": "",
+      "length_s": 1200,
+      "start_s": 2700,
+      "end_s": 3900,
+      "focus": "20-MINUTE BREAKOUT: \n* 17 minute timer to play the chapter - including creating a brand positioning statement\n* 3 minutes to review feedback"
+    },
+    {
+      "section": "",
+      "length_s": 300,
+      "start_s": 3900,
+      "end_s": 4200,
+      "focus": "* Debrief the chapter together\n   [If falling behind, cut time here to get back on pace.]"
+    },
+    {
+      "section": "BREAK",
+      "length_s": 300,
+      "start_s": 4200,
+      "end_s": 4500,
+      "focus": "Short break"
+    },
+    {
+      "section": "CHAPTER 3",
+      "length_s": 240,
+      "start_s": 4500,
+      "end_s": 4740,
+      "focus": "* Introduce the chapter\n* Briefly introduce key framework"
+    },
+    {
+      "section": "",
+      "length_s": 1200,
+      "start_s": 4740,
+      "end_s": 5940,
+      "focus": "20-MINUTE BREAKOUT: \n* 17 minute timer to play the chapter\n* 3 minutes to review feedback"
+    },
+    {
+      "section": "",
+      "length_s": 300,
+      "start_s": 5940,
+      "end_s": 6240,
+      "focus": "* Debrief the chapter together"
+    },
+    {
+      "section": "FINAL REFLECTION",
+      "length_s": 420,
+      "start_s": 6240,
+      "end_s": 6660,
+      "focus": "* Debrief the overall experience"
+    },
+    {
+      "section": "CLOSING",
+      "length_s": 240,
+      "start_s": 6660,
+      "end_s": 6900,
+      "focus": "* Thank everyone for joining\n* Distribute survey link"
+    },
+    {
+      "section": "BUFFER",
+      "length_s": 300,
+      "start_s": 6900,
+      "end_s": 7200,
+      "focus": "Buffer"
+    }
+  ],
+  "Enabling Peak Performance": [
+    {
+      "section": "INTRO",
+      "length_s": 600,
+      "start_s": 0,
+      "end_s": 600,
+      "focus": "* Welcome everyone to the sessions\n* Introduce the narrative, role, and learning objectives"
+    },
+    {
+      "section": "",
+      "length_s": 180,
+      "start_s": 600,
+      "end_s": 780,
+      "focus": "3-MINUTE BREAKOUT: \nHave people join the appropriate team"
+    },
+    {
+      "section": "CHAPTER 1",
+      "length_s": 240,
+      "start_s": 780,
+      "end_s": 1020,
+      "focus": "* Introduce the chapter"
+    },
+    {
+      "section": "",
+      "length_s": 300,
+      "start_s": 1020,
+      "end_s": 1320,
+      "focus": "5-MINUTE BREAKOUT: \n* 5 minute timer to play the chapter\n(this chapter does not have written feedback)"
+    },
+    {
+      "section": "",
+      "length_s": 60,
+      "start_s": 1320,
+      "end_s": 1380,
+      "focus": "* Debrief the chapter together"
+    },
+    {
+      "section": "CHAPTER 2",
+      "length_s": 180,
+      "start_s": 1380,
+      "end_s": 1560,
+      "focus": "* Introduce the chapter\n* Briefly introduce key framework"
+    },
+    {
+      "section": "",
+      "length_s": 1080,
+      "start_s": 1560,
+      "end_s": 2640,
+      "focus": "18-MINUTE BREAKOUT: \n* 15 minute timer to play the chapter\n* 3 minutes to review feedback"
+    },
+    {
+      "section": "",
+      "length_s": 300,
+      "start_s": 2640,
+      "end_s": 2940,
+      "focus": "* Debrief the chapter together"
+    },
+    {
+      "section": "BREAK",
+      "length_s": 300,
+      "start_s": 2940,
+      "end_s": 3240,
+      "focus": "Short break\n(Alternatively, you can choose to do this after Chapter 3)"
+    },
+    {
+      "section": "CHAPTER 3",
+      "length_s": 180,
+      "start_s": 3240,
+      "end_s": 3420,
+      "focus": "* Introduce the chapter\n* Briefly introduce key framework"
+    },
+    {
+      "section": "",
+      "length_s": 1080,
+      "start_s": 3420,
+      "end_s": 4500,
+      "focus": "18-MINUTE BREAKOUT: \n* 15 minute timer to play the chapter\n* 3 minutes to review feedback"
+    },
+    {
+      "section": "",
+      "length_s": 300,
+      "start_s": 4500,
+      "end_s": 4800,
+      "focus": "* Debrief the chapter together"
+    },
+    {
+      "section": "CHAPTER 4",
+      "length_s": 180,
+      "start_s": 4800,
+      "end_s": 4980,
+      "focus": "* Introduce the chapter\n* Briefly introduce key framework"
+    },
+    {
+      "section": "",
+      "length_s": 1080,
+      "start_s": 4980,
+      "end_s": 6060,
+      "focus": "18-MINUTE BREAKOUT: \n* 15 minute timer to play the chapter\n* 3 minutes to review feedback"
+    },
+    {
+      "section": "",
+      "length_s": 240,
+      "start_s": 6060,
+      "end_s": 6300,
+      "focus": "* Debrief the chapter together"
+    },
+    {
+      "section": "FINAL REFLECTION",
+      "length_s": 360,
+      "start_s": 6300,
+      "end_s": 6660,
+      "focus": "* Debrief the overall experience"
+    },
+    {
+      "section": "CLOSING",
+      "length_s": 240,
+      "start_s": 6660,
+      "end_s": 6900,
+      "focus": "* Thank everyone for joining\n* Distribute survey link"
+    },
+    {
+      "section": "BUFFER",
+      "length_s": 300,
+      "start_s": 6900,
+      "end_s": 7200,
+      "focus": "Buffer"
+    }
+  ],
+  "Influence Without Authority": [
+    {
+      "section": "INTRO",
+      "length_s": 600,
+      "start_s": 0,
+      "end_s": 600,
+      "focus": "* Welcome everyone to the sessions\n* Why Here and Opening question\n* Introduce the narrative, role, and learning objectives"
+    },
+    {
+      "section": "",
+      "length_s": 180,
+      "start_s": 600,
+      "end_s": 780,
+      "focus": "3-MINUTE BREAKOUT: \nHave people join the appropriate team"
+    },
+    {
+      "section": "CHAPTER 1",
+      "length_s": 300,
+      "start_s": 780,
+      "end_s": 1080,
+      "focus": "* Introduce the chapter\n* Briefly introduce key framework"
+    },
+    {
+      "section": "",
+      "length_s": 180,
+      "start_s": 1080,
+      "end_s": 1260,
+      "focus": "3-MINUTE BREAKOUT: \n* 3 minute timer to play the chapter\n(No feedback or debrief for this chapter)"
+    },
+    {
+      "section": "CHAPTER 2",
+      "length_s": 300,
+      "start_s": 1260,
+      "end_s": 1560,
+      "focus": "* Introduce the chapter\n* Briefly introduce key framework"
+    },
+    {
+      "section": "",
+      "length_s": 1440,
+      "start_s": 1560,
+      "end_s": 3000,
+      "focus": "24-MINUTE BREAKOUT: \n* 24 minute timer to play the chapter\n(No feedback for this chapter)"
+    },
+    {
+      "section": "",
+      "length_s": 120,
+      "start_s": 3000,
+      "end_s": 3120,
+      "focus": "* Debrief the chapter quickly"
+    },
+    {
+      "section": "BREAK",
+      "length_s": 300,
+      "start_s": 3120,
+      "end_s": 3420,
+      "focus": "Short break"
+    },
+    {
+      "section": "CHAPTER 3",
+      "length_s": 480,
+      "start_s": 3420,
+      "end_s": 3900,
+      "focus": "* Introduce the chapter"
+    },
+    {
+      "section": "",
+      "length_s": 900,
+      "start_s": 3900,
+      "end_s": 4800,
+      "focus": "15-MINUTE BREAKOUT: \n* 15 minute timer to play the chapter\n(No feedback for this chapter)"
+    },
+    {
+      "section": "",
+      "length_s": 240,
+      "start_s": 4800,
+      "end_s": 5040,
+      "focus": "* Debrief the chapter together"
+    },
+    {
+      "section": "CHAPTER 4",
+      "length_s": 300,
+      "start_s": 5040,
+      "end_s": 5340,
+      "focus": "* Introduce the chapter"
+    },
+    {
+      "section": "",
+      "length_s": 900,
+      "start_s": 5340,
+      "end_s": 6240,
+      "focus": "15-MINUTE BREAKOUT: \n* 12 minute timer to play the chapter\n* 3 minutes to review feedback"
+    },
+    {
+      "section": "",
+      "length_s": 540,
+      "start_s": 6240,
+      "end_s": 6780,
+      "focus": "* Debrief the chapter together\n* Session reflections"
+    },
+    {
+      "section": "CLOSING",
+      "length_s": 120,
+      "start_s": 6780,
+      "end_s": 6900,
+      "focus": "* Thank everyone for joining\n* Distribute survey link"
+    },
+    {
+      "section": "BUFFER",
+      "length_s": 300,
+      "start_s": 6900,
+      "end_s": 7200,
+      "focus": "Buffer"
+    }
+  ],
+  "Kickoff_ Get the Message": [
+    {
+      "section": "INTRO",
+      "length_s": 180,
+      "start_s": 0,
+      "end_s": 180,
+      "focus": "* Welcome everyone to the session\n* Introduce yourself and the agenda"
+    },
+    {
+      "section": "",
+      "length_s": 120,
+      "start_s": 180,
+      "end_s": 300,
+      "focus": "* Introduce the program sponsor (if available)"
+    },
+    {
+      "section": "",
+      "length_s": 120,
+      "start_s": 300,
+      "end_s": 420,
+      "focus": "* Introductions (in the chat)"
+    },
+    {
+      "section": "",
+      "length_s": 180,
+      "start_s": 420,
+      "end_s": 600,
+      "focus": "* Program Overview"
+    },
+    {
+      "section": "CHAPTER 1",
+      "length_s": 240,
+      "start_s": 600,
+      "end_s": 840,
+      "focus": "* Introduce the chapter"
+    },
+    {
+      "section": "",
+      "length_s": 180,
+      "start_s": 840,
+      "end_s": 1020,
+      "focus": "3-MINUTE BREAKOUT: \nHave people join the appropriate team"
+    },
+    {
+      "section": "",
+      "length_s": 120,
+      "start_s": 1020,
+      "end_s": 1140,
+      "focus": "Provide timing for upcoming breakout"
+    },
+    {
+      "section": "",
+      "length_s": 1560,
+      "start_s": 1140,
+      "end_s": 2700,
+      "focus": "26-MINUTE BREAKOUT: \n* 20 minute timer to play the chapter\n* 4 minute timer for the decision\n* 2 minutes to review feedback"
+    },
+    {
+      "section": "",
+      "length_s": 360,
+      "start_s": 2700,
+      "end_s": 3060,
+      "focus": "* Debrief the chapter together"
+    },
+    {
+      "section": "CLOSING",
+      "length_s": 240,
+      "start_s": 3060,
+      "end_s": 3300,
+      "focus": "* Thank everyone for joining\n* Distribute survey link"
+    },
+    {
+      "section": "BUFFER",
+      "length_s": 300,
+      "start_s": 3300,
+      "end_s": 3600,
+      "focus": "Buffer"
+    }
+  ],
+  "Kickoff_ Handle With Care.": [
+    {
+      "section": "INTRO",
+      "length_s": 180,
+      "start_s": 0,
+      "end_s": 180,
+      "focus": "* Welcome everyone to the session\n* Introduce yourself and the agenda"
+    },
+    {
+      "section": "",
+      "length_s": 120,
+      "start_s": 180,
+      "end_s": 300,
+      "focus": "* Introduce the program sponsor (if available)"
+    },
+    {
+      "section": "",
+      "length_s": 120,
+      "start_s": 300,
+      "end_s": 420,
+      "focus": "* Introductions (in the chat)"
+    },
+    {
+      "section": "",
+      "length_s": 180,
+      "start_s": 420,
+      "end_s": 600,
+      "focus": "* Program Overview"
+    },
+    {
+      "section": "CHAPTER 1",
+      "length_s": 240,
+      "start_s": 600,
+      "end_s": 840,
+      "focus": "* Introduce the chapter"
+    },
+    {
+      "section": "",
+      "length_s": 180,
+      "start_s": 840,
+      "end_s": 1020,
+      "focus": "3-MINUTE BREAKOUT: \nHave people join the appropriate team"
+    },
+    {
+      "section": "",
+      "length_s": 120,
+      "start_s": 1020,
+      "end_s": 1140,
+      "focus": "Provide timing for upcoming breakout"
+    },
+    {
+      "section": "",
+      "length_s": 1560,
+      "start_s": 1140,
+      "end_s": 2700,
+      "focus": "26-MINUTE BREAKOUT: \n* 20 minute timer to play the chapter\n* 4 minute timer for the decision\n* 2 minutes to review feedback"
+    },
+    {
+      "section": "",
+      "length_s": 360,
+      "start_s": 2700,
+      "end_s": 3060,
+      "focus": "* Debrief the chapter together"
+    },
+    {
+      "section": "CLOSING",
+      "length_s": 240,
+      "start_s": 3060,
+      "end_s": 3300,
+      "focus": "* Thank everyone for joining\n* Distribute survey link"
+    },
+    {
+      "section": "BUFFER",
+      "length_s": 300,
+      "start_s": 3300,
+      "end_s": 3600,
+      "focus": "Buffer"
+    }
+  ],
+  "Kickoff_ Hold the Line_": [
+    {
+      "section": "INTRO",
+      "length_s": 180,
+      "start_s": 0,
+      "end_s": 180,
+      "focus": "* Welcome everyone to the session\n* Introduce yourself and the agenda"
+    },
+    {
+      "section": "",
+      "length_s": 120,
+      "start_s": 180,
+      "end_s": 300,
+      "focus": "* Introduce the program sponsor (if available)"
+    },
+    {
+      "section": "",
+      "length_s": 120,
+      "start_s": 300,
+      "end_s": 420,
+      "focus": "* Introductions (in the chat)"
+    },
+    {
+      "section": "",
+      "length_s": 180,
+      "start_s": 420,
+      "end_s": 600,
+      "focus": "* Program Overview"
+    },
+    {
+      "section": "CHAPTER 1",
+      "length_s": 240,
+      "start_s": 600,
+      "end_s": 840,
+      "focus": "* Introduce the chapter"
+    },
+    {
+      "section": "",
+      "length_s": 180,
+      "start_s": 840,
+      "end_s": 1020,
+      "focus": "3-MINUTE BREAKOUT: \nHave people join the appropriate team"
+    },
+    {
+      "section": "",
+      "length_s": 120,
+      "start_s": 1020,
+      "end_s": 1140,
+      "focus": "Provide timing for upcoming breakout"
+    },
+    {
+      "section": "",
+      "length_s": 1560,
+      "start_s": 1140,
+      "end_s": 2700,
+      "focus": "26-MINUTE BREAKOUT: \n* 20 minute timer to play the chapter\n* 4 minute timer for the decision\n* 2 minutes to review feedback"
+    },
+    {
+      "section": "",
+      "length_s": 360,
+      "start_s": 2700,
+      "end_s": 3060,
+      "focus": "* Debrief the chapter together"
+    },
+    {
+      "section": "CLOSING",
+      "length_s": 240,
+      "start_s": 3060,
+      "end_s": 3300,
+      "focus": "* Thank everyone for joining\n* Distribute survey link"
+    },
+    {
+      "section": "BUFFER",
+      "length_s": 300,
+      "start_s": 3300,
+      "end_s": 3600,
+      "focus": "Buffer"
+    }
+  ],
+  "Kickoff_ Shelf Awareness": [
+    {
+      "section": "INTRO",
+      "length_s": 180,
+      "start_s": 0,
+      "end_s": 180,
+      "focus": "* Welcome everyone to the session\n* Introduce yourself and the agenda"
+    },
+    {
+      "section": "",
+      "length_s": 120,
+      "start_s": 180,
+      "end_s": 300,
+      "focus": "* Introduce the program sponsor (if available)"
+    },
+    {
+      "section": "",
+      "length_s": 120,
+      "start_s": 300,
+      "end_s": 420,
+      "focus": "* Introductions (in the chat)"
+    },
+    {
+      "section": "",
+      "length_s": 180,
+      "start_s": 420,
+      "end_s": 600,
+      "focus": "* Program Overview"
+    },
+    {
+      "section": "CHAPTER 1",
+      "length_s": 240,
+      "start_s": 600,
+      "end_s": 840,
+      "focus": "* Introduce the chapter"
+    },
+    {
+      "section": "",
+      "length_s": 180,
+      "start_s": 840,
+      "end_s": 1020,
+      "focus": "3-MINUTE BREAKOUT: \nHave people join the appropriate team"
+    },
+    {
+      "section": "",
+      "length_s": 120,
+      "start_s": 1020,
+      "end_s": 1140,
+      "focus": "Provide timing for upcoming breakout"
+    },
+    {
+      "section": "",
+      "length_s": 1560,
+      "start_s": 1140,
+      "end_s": 2700,
+      "focus": "26-MINUTE BREAKOUT: \n* 20 minute timer to play the chapter\n* 4 minute timer for the decision\n* 2 minutes to review feedback"
+    },
+    {
+      "section": "",
+      "length_s": 360,
+      "start_s": 2700,
+      "end_s": 3060,
+      "focus": "* Debrief the chapter together"
+    },
+    {
+      "section": "CLOSING",
+      "length_s": 240,
+      "start_s": 3060,
+      "end_s": 3300,
+      "focus": "* Thank everyone for joining\n* Distribute survey link"
+    },
+    {
+      "section": "BUFFER",
+      "length_s": 300,
+      "start_s": 3300,
+      "end_s": 3600,
+      "focus": "Buffer"
+    }
+  ],
+  "Leading Through Vision": [
+    {
+      "section": "INTRO",
+      "length_s": 480,
+      "start_s": 0,
+      "end_s": 480,
+      "focus": "* Welcome everyone to the sessions\n* Introduce the narrative, role, and learning objectives"
+    },
+    {
+      "section": "",
+      "length_s": 180,
+      "start_s": 480,
+      "end_s": 660,
+      "focus": "2-MINUTE BREAKOUT: \nHave people join the appropriate team"
+    },
+    {
+      "section": "CHAPTER 1",
+      "length_s": 480,
+      "start_s": 660,
+      "end_s": 1140,
+      "focus": "* Introduce the chapter\n* Briefly introduce key framework"
+    },
+    {
+      "section": "",
+      "length_s": 1080,
+      "start_s": 1140,
+      "end_s": 2220,
+      "focus": "18-MINUTE BREAKOUT: \n* 15 minute timer to play the chapter\n* 3 minutes to review feedback"
+    },
+    {
+      "section": "",
+      "length_s": 240,
+      "start_s": 2220,
+      "end_s": 2460,
+      "focus": "* Debrief the chapter together\n   [If falling behind, cut time here to get back on pace.]"
+    },
+    {
+      "section": "CHAPTER 2",
+      "length_s": 240,
+      "start_s": 2460,
+      "end_s": 2700,
+      "focus": "* Introduce the chapter\n* Briefly introduce key framework"
+    },
+    {
+      "section": "",
+      "length_s": 1080,
+      "start_s": 2700,
+      "end_s": 3780,
+      "focus": "18-MINUTE BREAKOUT: \n* 15 minute timer to play the chapter\n* 3 minutes to review feedback"
+    },
+    {
+      "section": "",
+      "length_s": 240,
+      "start_s": 3780,
+      "end_s": 4020,
+      "focus": "* Debrief the chapter together\n   [If falling behind, cut time here to get back on pace.]"
+    },
+    {
+      "section": "BREAK",
+      "length_s": 300,
+      "start_s": 4020,
+      "end_s": 4320,
+      "focus": "Short break"
+    },
+    {
+      "section": "CHAPTER 3",
+      "length_s": 240,
+      "start_s": 4320,
+      "end_s": 4560,
+      "focus": "* Introduce the chapter\n* Briefly introduce key framework"
+    },
+    {
+      "section": "",
+      "length_s": 780,
+      "start_s": 4560,
+      "end_s": 5340,
+      "focus": "13-MINUTE BREAKOUT: \n* 10 minute timer to play the chapter\n* 3 minutes to review feedback"
+    },
+    {
+      "section": "",
+      "length_s": 240,
+      "start_s": 5340,
+      "end_s": 5580,
+      "focus": "* Debrief the chapter together"
+    },
+    {
+      "section": "FINAL REFLECTION & Buffer",
+      "length_s": 1500,
+      "start_s": 5580,
+      "end_s": 7080,
+      "focus": "* Debrief the overall experience/Application"
+    },
+    {
+      "section": "CLOSING",
+      "length_s": 120,
+      "start_s": 7080,
+      "end_s": 7200,
+      "focus": "* Thank everyone for joining\n* Distribute survey link"
+    }
+  ],
+  "Leading in Times of Change": [
+    {
+      "section": "INTRO",
+      "length_s": 720,
+      "start_s": 0,
+      "end_s": 720,
+      "focus": "* Welcome everyone to the sessions\n* Why Here and Opening question\n* Introduce the narrative, role, and learning objectives"
+    },
+    {
+      "section": "",
+      "length_s": 180,
+      "start_s": 720,
+      "end_s": 900,
+      "focus": "2-MINUTE BREAKOUT: \nHave people join the appropriate team"
+    },
+    {
+      "section": "CHAPTER 1",
+      "length_s": 300,
+      "start_s": 900,
+      "end_s": 1200,
+      "focus": "* Introduce the chapter\n* Briefly introduce key framework"
+    },
+    {
+      "section": "",
+      "length_s": 1200,
+      "start_s": 1200,
+      "end_s": 2400,
+      "focus": "20-MINUTE BREAKOUT: \n* 15 minute timer to play the chapter\n* 3  minutes to make decision\n* 2 minutes to review feedback"
+    },
+    {
+      "section": "",
+      "length_s": 600,
+      "start_s": 2400,
+      "end_s": 3000,
+      "focus": "* Debrief the chapter together\n   [If falling behind, cut time here to get back on pace.]"
+    },
+    {
+      "section": "BREAK",
+      "length_s": 300,
+      "start_s": 3000,
+      "end_s": 3300,
+      "focus": "Short break"
+    },
+    {
+      "section": "CHAPTER 2",
+      "length_s": 180,
+      "start_s": 3300,
+      "end_s": 3480,
+      "focus": "* Introduce the chapter"
+    },
+    {
+      "section": "",
+      "length_s": 720,
+      "start_s": 3480,
+      "end_s": 4200,
+      "focus": "12-MINUTE BREAKOUT: \n* 12 minute timer to play the chapter\n(No feedback for this chapter)"
+    },
+    {
+      "section": "",
+      "length_s": 300,
+      "start_s": 4200,
+      "end_s": 4500,
+      "focus": "* Debrief the chapter together\n   [If falling behind, cut time here to get back on pace.]"
+    },
+    {
+      "section": "CHAPTER 3",
+      "length_s": 180,
+      "start_s": 4500,
+      "end_s": 4680,
+      "focus": "* Introduce the chapter"
+    },
+    {
+      "section": "",
+      "length_s": 1200,
+      "start_s": 4680,
+      "end_s": 5880,
+      "focus": "20-MINUTE BREAKOUT: \n* 15 minute timer to play the chapter\n* 3 minutes to answer reflection question \n* 2 minutes to review feedback"
+    },
+    {
+      "section": "",
+      "length_s": 720,
+      "start_s": 5880,
+      "end_s": 6600,
+      "focus": "* Debrief the chapter together\n* Session reflections"
+    },
+    {
+      "section": "CLOSING",
+      "length_s": 300,
+      "start_s": 6600,
+      "end_s": 6900,
+      "focus": "* Thank everyone for joining\n* Distribute survey link"
+    },
+    {
+      "section": "BUFFER",
+      "length_s": 300,
+      "start_s": 6900,
+      "end_s": 7200,
+      "focus": "Buffer"
+    }
+  ],
+  "Managing Profitability": [
+    {
+      "section": "INTRO",
+      "length_s": 600,
+      "start_s": 0,
+      "end_s": 600,
+      "focus": "* Welcome everyone to the sessions\n* Opening question and hint at today's topics/tools\n* Introduce the narrative, role, and learning objectives"
+    },
+    {
+      "section": "",
+      "length_s": 180,
+      "start_s": 600,
+      "end_s": 780,
+      "focus": "3-MINUTE BREAKOUT: \nHave people join the appropriate team"
+    },
+    {
+      "section": "CHAPTER 1",
+      "length_s": 300,
+      "start_s": 780,
+      "end_s": 1080,
+      "focus": "* Introduce the chapter\n* Briefly introduce the tools they'll use in the chapter"
+    },
+    {
+      "section": "",
+      "length_s": 1140,
+      "start_s": 1080,
+      "end_s": 2220,
+      "focus": "19-MINUTE BREAKOUT: \n* 12 minute timer to play the chapter\n* 4 minute timer to make the decision\n* 3 minutes to review feedback"
+    },
+    {
+      "section": "",
+      "length_s": 360,
+      "start_s": 2220,
+      "end_s": 2580,
+      "focus": "* Debrief the chapter together\n   [If falling behind, cut time here to get back on pace.]"
+    },
+    {
+      "section": "CHAPTER 2",
+      "length_s": 180,
+      "start_s": 2580,
+      "end_s": 2760,
+      "focus": "* Introduce the chapter\n* Briefly introduce the tools they'll use in the chapter"
+    },
+    {
+      "section": "",
+      "length_s": 1380,
+      "start_s": 2760,
+      "end_s": 4140,
+      "focus": "23-MINUTE BREAKOUT: \n* 16 minute timer to play the chapter\n* 4 minutes to answer chapter question\n* 3 minutes to review feedback"
+    },
+    {
+      "section": "",
+      "length_s": 360,
+      "start_s": 4140,
+      "end_s": 4500,
+      "focus": "* Debrief the chapter together\n   [If falling behind, cut time here to get back on pace.]"
+    },
+    {
+      "section": "BREAK",
+      "length_s": 300,
+      "start_s": 4500,
+      "end_s": 4800,
+      "focus": "Short break"
+    },
+    {
+      "section": "CHAPTER 3",
+      "length_s": 180,
+      "start_s": 4800,
+      "end_s": 4980,
+      "focus": "* Introduce the chapter"
+    },
+    {
+      "section": "",
+      "length_s": 1140,
+      "start_s": 4980,
+      "end_s": 6120,
+      "focus": "19-MINUTE BREAKOUT: \n* 16 minute timer to play the chapter\n* 3 minutes to review feedback"
+    },
+    {
+      "section": "",
+      "length_s": 480,
+      "start_s": 6120,
+      "end_s": 6600,
+      "focus": "* Debrief the chapter together\n* Session reflections"
+    },
+    {
+      "section": "CLOSING",
+      "length_s": 300,
+      "start_s": 6600,
+      "end_s": 6900,
+      "focus": "* Thank everyone for joining\n* Distribute survey link"
+    },
+    {
+      "section": "BUFFER",
+      "length_s": 300,
+      "start_s": 6900,
+      "end_s": 7200,
+      "focus": "Buffer"
+    }
+  ],
+  "Navigating Critical Conversations": [
+    {
+      "section": "INTRO",
+      "length_s": 480,
+      "start_s": 0,
+      "end_s": 480,
+      "focus": "* Welcome everyone to the sessions\n* Introduce the narrative, role, and learning objectives"
+    },
+    {
+      "section": "",
+      "length_s": 180,
+      "start_s": 480,
+      "end_s": 660,
+      "focus": "3-MINUTE BREAKOUT: \nHave people join the appropriate team"
+    },
+    {
+      "section": "CHAPTER 1",
+      "length_s": 120,
+      "start_s": 660,
+      "end_s": 780,
+      "focus": "* Introduce the chapter"
+    },
+    {
+      "section": "",
+      "length_s": 420,
+      "start_s": 780,
+      "end_s": 1200,
+      "focus": "7-MINUTE BREAKOUT: \n* 5 minute timer to play the chapter\n(this chapter does not have written feedback)"
+    },
+    {
+      "section": "",
+      "length_s": 120,
+      "start_s": 1200,
+      "end_s": 1320,
+      "focus": "* Debrief the chapter together"
+    },
+    {
+      "section": "CHAPTER 2",
+      "length_s": 180,
+      "start_s": 1320,
+      "end_s": 1500,
+      "focus": "* Introduce the chapter\n* Briefly introduce key framework"
+    },
+    {
+      "section": "",
+      "length_s": 1080,
+      "start_s": 1500,
+      "end_s": 2580,
+      "focus": "18-MINUTE BREAKOUT: \n* 15 minute timer to play the chapter\n* 3 minutes to review feedback"
+    },
+    {
+      "section": "",
+      "length_s": 360,
+      "start_s": 2580,
+      "end_s": 2940,
+      "focus": "* Debrief the chapter together\n[If you are running behind, you can cut a couple of minutes here.]"
+    },
+    {
+      "section": "BREAK",
+      "length_s": 300,
+      "start_s": 2940,
+      "end_s": 3240,
+      "focus": "Short break\n(Alternatively, you can choose to do this after Chapter 3)"
+    },
+    {
+      "section": "CHAPTER 3",
+      "length_s": 180,
+      "start_s": 3240,
+      "end_s": 3420,
+      "focus": "* Introduce the chapter\n* Briefly introduce key framework"
+    },
+    {
+      "section": "",
+      "length_s": 1080,
+      "start_s": 3420,
+      "end_s": 4500,
+      "focus": "18-MINUTE BREAKOUT: \n* 15 minute timer to play the chapter\n* 3 minutes to review feedback"
+    },
+    {
+      "section": "",
+      "length_s": 360,
+      "start_s": 4500,
+      "end_s": 4860,
+      "focus": "* Debrief the chapter together\n[If you are running behind, you can cut a couple of minutes here.]"
+    },
+    {
+      "section": "CHAPTER 4",
+      "length_s": 180,
+      "start_s": 4860,
+      "end_s": 5040,
+      "focus": "* Introduce the chapter\n* Briefly introduce key framework"
+    },
+    {
+      "section": "",
+      "length_s": 1080,
+      "start_s": 5040,
+      "end_s": 6120,
+      "focus": "18-MINUTE BREAKOUT: \n* 15 minute timer to play the chapter\n* 3 minutes to review feedback"
+    },
+    {
+      "section": "",
+      "length_s": 360,
+      "start_s": 6120,
+      "end_s": 6480,
+      "focus": "* Debrief the chapter together"
+    },
+    {
+      "section": "FINAL REFLECTION",
+      "length_s": 300,
+      "start_s": 6480,
+      "end_s": 6780,
+      "focus": "* Debrief the overall experience"
+    },
+    {
+      "section": "CLOSING",
+      "length_s": 120,
+      "start_s": 6780,
+      "end_s": 6900,
+      "focus": "* Thank everyone for joining\n* Distribute survey link"
+    },
+    {
+      "section": "BUFFER",
+      "length_s": 300,
+      "start_s": 6900,
+      "end_s": 7200,
+      "focus": "Buffer"
+    }
+  ],
+  "Shifting Mindsets and Behaviors": [
+    {
+      "section": "INTRO",
+      "length_s": 600,
+      "start_s": 0,
+      "end_s": 600,
+      "focus": "* Welcome everyone to the sessions\n* Introduce the narrative, role, and learning objectives"
+    },
+    {
+      "section": "",
+      "length_s": 180,
+      "start_s": 600,
+      "end_s": 780,
+      "focus": "2-MINUTE BREAKOUT: \nHave people join the appropriate team"
+    },
+    {
+      "section": "CHAPTER 1",
+      "length_s": 240,
+      "start_s": 780,
+      "end_s": 1020,
+      "focus": "* Introduce the chapter"
+    },
+    {
+      "section": "",
+      "length_s": 600,
+      "start_s": 1020,
+      "end_s": 1620,
+      "focus": "10-MINUTE BREAKOUT: \n* 6-minute timer to play the chapter\n* 4-minute timer to make the final decision\n(this chapter does not have written feedback)"
+    },
+    {
+      "section": "",
+      "length_s": 300,
+      "start_s": 1620,
+      "end_s": 1920,
+      "focus": "* Debrief the chapter together"
+    },
+    {
+      "section": "CHAPTER 2",
+      "length_s": 120,
+      "start_s": 1920,
+      "end_s": 2040,
+      "focus": "* Introduce the chapter\n* Briefly introduce key framework"
+    },
+    {
+      "section": "",
+      "length_s": 1380,
+      "start_s": 2040,
+      "end_s": 3420,
+      "focus": "23-MINUTE BREAKOUT: \n* 20 minute timer to play the chapter\n* 3 minutes to review feedback"
+    },
+    {
+      "section": "BREAK",
+      "length_s": 300,
+      "start_s": 3420,
+      "end_s": 3720,
+      "focus": "Short break"
+    },
+    {
+      "section": "CHAPTER 2 Debrief",
+      "length_s": 600,
+      "start_s": 3720,
+      "end_s": 4320,
+      "focus": "* Debrief the chapter together"
+    },
+    {
+      "section": "CHAPTER 3",
+      "length_s": 120,
+      "start_s": 4320,
+      "end_s": 4440,
+      "focus": "* Introduce the chapter\n* Briefly introduce key framework"
+    },
+    {
+      "section": "",
+      "length_s": 1380,
+      "start_s": 4440,
+      "end_s": 5820,
+      "focus": "23-MINUTE BREAKOUT: \n* 20 minute timer to play the chapter\n* 3 minutes to review feedback"
+    },
+    {
+      "section": "",
+      "length_s": 720,
+      "start_s": 5820,
+      "end_s": 6540,
+      "focus": "* Debrief the chapter together"
+    },
+    {
+      "section": "FINAL REFLECTION",
+      "length_s": 240,
+      "start_s": 6540,
+      "end_s": 6780,
+      "focus": "* Debrief the overall experience"
+    },
+    {
+      "section": "CLOSING",
+      "length_s": 120,
+      "start_s": 6780,
+      "end_s": 6900,
+      "focus": "* Thank everyone for joining\n* Distribute survey link"
+    },
+    {
+      "section": "BUFFER",
+      "length_s": 300,
+      "start_s": 6900,
+      "end_s": 7200,
+      "focus": "Buffer"
+    }
+  ]
+}

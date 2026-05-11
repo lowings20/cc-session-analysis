@@ -1,0 +1,2766 @@
+{
+  "cases": {
+    "Creating Strategic Alignment": {
+      "expected": [
+        {
+          "label": "INTRO",
+          "type": "intro",
+          "start_s": 0,
+          "end_s": 540,
+          "duration_s": 540
+        },
+        {
+          "label": "2-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 540,
+          "end_s": 720,
+          "duration_s": 180
+        },
+        {
+          "label": "CHAPTER 1",
+          "type": "chapter",
+          "start_s": 720,
+          "end_s": 960,
+          "duration_s": 240
+        },
+        {
+          "label": "20-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 960,
+          "end_s": 2160,
+          "duration_s": 1200
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 2160,
+          "end_s": 2460,
+          "duration_s": 300
+        },
+        {
+          "label": "CHAPTER 2",
+          "type": "chapter",
+          "start_s": 2460,
+          "end_s": 2700,
+          "duration_s": 240
+        },
+        {
+          "label": "20-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 2700,
+          "end_s": 3900,
+          "duration_s": 1200
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 3900,
+          "end_s": 4200,
+          "duration_s": 300
+        },
+        {
+          "label": "BREAK",
+          "type": "break",
+          "start_s": 4200,
+          "end_s": 4500,
+          "duration_s": 300
+        },
+        {
+          "label": "CHAPTER 3",
+          "type": "chapter",
+          "start_s": 4500,
+          "end_s": 4740,
+          "duration_s": 240
+        },
+        {
+          "label": "20-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 4740,
+          "end_s": 5940,
+          "duration_s": 1200
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 5940,
+          "end_s": 6240,
+          "duration_s": 300
+        },
+        {
+          "label": "FINAL REFLECTION",
+          "type": "debrief",
+          "start_s": 6240,
+          "end_s": 6660,
+          "duration_s": 420
+        },
+        {
+          "label": "CLOSING",
+          "type": "close",
+          "start_s": 6660,
+          "end_s": 6900,
+          "duration_s": 240
+        },
+        {
+          "label": "BUFFER",
+          "type": "buffer",
+          "start_s": 6900,
+          "end_s": 7200,
+          "duration_s": 300
+        }
+      ],
+      "sessions": [
+        {
+          "id": "77d9e89d-927f-447e-9a01-11f0faa35d6a",
+          "name": "openlawenrollment",
+          "cohort": "Low RLP Spring 2026",
+          "teams": 8,
+          "players": 22,
+          "session_start_display": "May 6, 12:00 PM EDT",
+          "inferred": false,
+          "scheduled_duration_min": 120,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 1183,
+              "duration_s": 1183
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 1183,
+              "end_s": 2264,
+              "duration_s": 1081
+            },
+            {
+              "label": "Ch1 Debrief",
+              "type": "debrief",
+              "start_s": 2264,
+              "end_s": 2686,
+              "duration_s": 422
+            },
+            {
+              "label": "Chapter 2",
+              "type": "chapter",
+              "start_s": 2686,
+              "end_s": 3594,
+              "duration_s": 908
+            },
+            {
+              "label": "Ch2 Debrief",
+              "type": "debrief",
+              "start_s": 3594,
+              "end_s": 3978,
+              "duration_s": 384
+            },
+            {
+              "label": "Chapter 3",
+              "type": "chapter",
+              "start_s": 3978,
+              "end_s": 4999,
+              "duration_s": 1021
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 4999,
+              "end_s": 5599,
+              "duration_s": 600
+            }
+          ]
+        }
+      ]
+    },
+    "Enabling Peak Performance": {
+      "expected": [
+        {
+          "label": "INTRO",
+          "type": "intro",
+          "start_s": 0,
+          "end_s": 600,
+          "duration_s": 600
+        },
+        {
+          "label": "3-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 600,
+          "end_s": 780,
+          "duration_s": 180
+        },
+        {
+          "label": "CHAPTER 1",
+          "type": "chapter",
+          "start_s": 780,
+          "end_s": 1020,
+          "duration_s": 240
+        },
+        {
+          "label": "5-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 1020,
+          "end_s": 1320,
+          "duration_s": 300
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 1320,
+          "end_s": 1380,
+          "duration_s": 60
+        },
+        {
+          "label": "CHAPTER 2",
+          "type": "chapter",
+          "start_s": 1380,
+          "end_s": 1560,
+          "duration_s": 180
+        },
+        {
+          "label": "18-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 1560,
+          "end_s": 2640,
+          "duration_s": 1080
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 2640,
+          "end_s": 2940,
+          "duration_s": 300
+        },
+        {
+          "label": "BREAK",
+          "type": "break",
+          "start_s": 2940,
+          "end_s": 3240,
+          "duration_s": 300
+        },
+        {
+          "label": "CHAPTER 3",
+          "type": "chapter",
+          "start_s": 3240,
+          "end_s": 3420,
+          "duration_s": 180
+        },
+        {
+          "label": "18-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 3420,
+          "end_s": 4500,
+          "duration_s": 1080
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 4500,
+          "end_s": 4800,
+          "duration_s": 300
+        },
+        {
+          "label": "CHAPTER 4",
+          "type": "chapter",
+          "start_s": 4800,
+          "end_s": 4980,
+          "duration_s": 180
+        },
+        {
+          "label": "18-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 4980,
+          "end_s": 6060,
+          "duration_s": 1080
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 6060,
+          "end_s": 6300,
+          "duration_s": 240
+        },
+        {
+          "label": "FINAL REFLECTION",
+          "type": "debrief",
+          "start_s": 6300,
+          "end_s": 6660,
+          "duration_s": 360
+        },
+        {
+          "label": "CLOSING",
+          "type": "close",
+          "start_s": 6660,
+          "end_s": 6900,
+          "duration_s": 240
+        },
+        {
+          "label": "BUFFER",
+          "type": "buffer",
+          "start_s": 6900,
+          "end_s": 7200,
+          "duration_s": 300
+        }
+      ],
+      "sessions": [
+        {
+          "id": "58da2202-6916-4fe4-b9c3-9d349f434332",
+          "name": "entain4",
+          "cohort": "Entain MP 2026-Cohort 1",
+          "teams": 5,
+          "players": 11,
+          "session_start_display": "May 11, 2:00 PM GMT+1",
+          "inferred": false,
+          "scheduled_duration_min": 120,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 827,
+              "duration_s": 827
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 827,
+              "end_s": 1287,
+              "duration_s": 460
+            },
+            {
+              "label": "Ch1 Debrief",
+              "type": "debrief",
+              "start_s": 1287,
+              "end_s": 1799,
+              "duration_s": 512
+            },
+            {
+              "label": "Chapter 2",
+              "type": "chapter",
+              "start_s": 1799,
+              "end_s": 2901,
+              "duration_s": 1102
+            },
+            {
+              "label": "Ch2 Debrief",
+              "type": "debrief",
+              "start_s": 2901,
+              "end_s": 3930,
+              "duration_s": 1029
+            },
+            {
+              "label": "Chapter 3",
+              "type": "chapter",
+              "start_s": 3930,
+              "end_s": 4858,
+              "duration_s": 928
+            },
+            {
+              "label": "Ch3 Debrief",
+              "type": "debrief",
+              "start_s": 4858,
+              "end_s": 5727,
+              "duration_s": 869
+            },
+            {
+              "label": "Chapter 4",
+              "type": "chapter",
+              "start_s": 5727,
+              "end_s": 6630,
+              "duration_s": 903
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 6630,
+              "end_s": 7230,
+              "duration_s": 600
+            }
+          ]
+        },
+        {
+          "id": "763da6da-38e4-44c8-9400-9026f9c42046",
+          "name": "rxo3",
+          "cohort": "RXO RLP_Accelerate_26",
+          "teams": 6,
+          "players": 16,
+          "session_start_display": "Apr 28, 11:00 AM EDT",
+          "inferred": false,
+          "scheduled_duration_min": 120,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 1114,
+              "duration_s": 1114
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 1114,
+              "end_s": 1654,
+              "duration_s": 540
+            },
+            {
+              "label": "Ch1 Debrief",
+              "type": "debrief",
+              "start_s": 1654,
+              "end_s": 1660,
+              "duration_s": 6
+            },
+            {
+              "label": "Chapter 2",
+              "type": "chapter",
+              "start_s": 1660,
+              "end_s": 2987,
+              "duration_s": 1327
+            },
+            {
+              "label": "Ch2 Debrief",
+              "type": "debrief",
+              "start_s": 2987,
+              "end_s": 4362,
+              "duration_s": 1375
+            },
+            {
+              "label": "Chapter 3",
+              "type": "chapter",
+              "start_s": 4362,
+              "end_s": 5325,
+              "duration_s": 963
+            },
+            {
+              "label": "Ch3 Debrief",
+              "type": "debrief",
+              "start_s": 5325,
+              "end_s": 6120,
+              "duration_s": 795
+            },
+            {
+              "label": "Chapter 4",
+              "type": "chapter",
+              "start_s": 6120,
+              "end_s": 6962,
+              "duration_s": 842
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 6962,
+              "end_s": 7562,
+              "duration_s": 600
+            }
+          ]
+        }
+      ]
+    },
+    "Influencing Without Authority": {
+      "expected": [
+        {
+          "label": "INTRO",
+          "type": "intro",
+          "start_s": 0,
+          "end_s": 600,
+          "duration_s": 600
+        },
+        {
+          "label": "3-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 600,
+          "end_s": 780,
+          "duration_s": 180
+        },
+        {
+          "label": "CHAPTER 1",
+          "type": "chapter",
+          "start_s": 780,
+          "end_s": 1080,
+          "duration_s": 300
+        },
+        {
+          "label": "3-MINUTE BREAKOUT: ",
+          "type": "debrief",
+          "start_s": 1080,
+          "end_s": 1260,
+          "duration_s": 180
+        },
+        {
+          "label": "CHAPTER 2",
+          "type": "chapter",
+          "start_s": 1260,
+          "end_s": 1560,
+          "duration_s": 300
+        },
+        {
+          "label": "24-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 1560,
+          "end_s": 3000,
+          "duration_s": 1440
+        },
+        {
+          "label": "* Debrief the chapter quickly",
+          "type": "debrief",
+          "start_s": 3000,
+          "end_s": 3120,
+          "duration_s": 120
+        },
+        {
+          "label": "BREAK",
+          "type": "break",
+          "start_s": 3120,
+          "end_s": 3420,
+          "duration_s": 300
+        },
+        {
+          "label": "CHAPTER 3",
+          "type": "chapter",
+          "start_s": 3420,
+          "end_s": 3900,
+          "duration_s": 480
+        },
+        {
+          "label": "15-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 3900,
+          "end_s": 4800,
+          "duration_s": 900
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 4800,
+          "end_s": 5040,
+          "duration_s": 240
+        },
+        {
+          "label": "CHAPTER 4",
+          "type": "chapter",
+          "start_s": 5040,
+          "end_s": 5340,
+          "duration_s": 300
+        },
+        {
+          "label": "15-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 5340,
+          "end_s": 6240,
+          "duration_s": 900
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 6240,
+          "end_s": 6780,
+          "duration_s": 540
+        },
+        {
+          "label": "CLOSING",
+          "type": "close",
+          "start_s": 6780,
+          "end_s": 6900,
+          "duration_s": 120
+        },
+        {
+          "label": "BUFFER",
+          "type": "buffer",
+          "start_s": 6900,
+          "end_s": 7200,
+          "duration_s": 300
+        }
+      ],
+      "sessions": [
+        {
+          "id": "b466fcce-ea62-40fd-a055-719b42db1bfc",
+          "name": "kraftheinz2",
+          "cohort": "KraftHeinz WENetwork May26",
+          "teams": 14,
+          "players": 40,
+          "session_start_display": "May 7, 8:30 AM CDT",
+          "inferred": false,
+          "scheduled_duration_min": 120,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 1687,
+              "duration_s": 1687
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 1687,
+              "end_s": 2031,
+              "duration_s": 344
+            },
+            {
+              "label": "Ch1 Debrief",
+              "type": "debrief",
+              "start_s": 2031,
+              "end_s": 2318,
+              "duration_s": 287
+            },
+            {
+              "label": "Chapter 2",
+              "type": "chapter",
+              "start_s": 2318,
+              "end_s": 3937,
+              "duration_s": 1619
+            },
+            {
+              "label": "Ch2 Debrief",
+              "type": "debrief",
+              "start_s": 3937,
+              "end_s": 4506,
+              "duration_s": 569
+            },
+            {
+              "label": "Chapter 3",
+              "type": "chapter",
+              "start_s": 4506,
+              "end_s": 5813,
+              "duration_s": 1307
+            },
+            {
+              "label": "Ch3 Debrief",
+              "type": "debrief",
+              "start_s": 5813,
+              "end_s": 6841,
+              "duration_s": 1028
+            },
+            {
+              "label": "Chapter 4",
+              "type": "chapter",
+              "start_s": 6841,
+              "end_s": 8063,
+              "duration_s": 1222
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 8063,
+              "end_s": 8663,
+              "duration_s": 600
+            }
+          ]
+        },
+        {
+          "id": "d7fc6697-2d36-4f62-826d-43226930fdf5",
+          "name": "bectondickinson9",
+          "cohort": "BD EMEA_LEAPICohort2",
+          "teams": 10,
+          "players": 22,
+          "session_start_display": "Apr 9, 10:00 AM GMT+2",
+          "inferred": false,
+          "scheduled_duration_min": 120,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 1470,
+              "duration_s": 1470
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 1470,
+              "end_s": 2047,
+              "duration_s": 577
+            },
+            {
+              "label": "Ch1 Debrief",
+              "type": "debrief",
+              "start_s": 2047,
+              "end_s": 2060,
+              "duration_s": 13
+            },
+            {
+              "label": "Chapter 2",
+              "type": "chapter",
+              "start_s": 2060,
+              "end_s": 3506,
+              "duration_s": 1446
+            },
+            {
+              "label": "Ch2 Debrief",
+              "type": "debrief",
+              "start_s": 3506,
+              "end_s": 4392,
+              "duration_s": 886
+            },
+            {
+              "label": "Chapter 3",
+              "type": "chapter",
+              "start_s": 4392,
+              "end_s": 5290,
+              "duration_s": 898
+            },
+            {
+              "label": "Ch3 Debrief",
+              "type": "debrief",
+              "start_s": 5290,
+              "end_s": 5803,
+              "duration_s": 513
+            },
+            {
+              "label": "Chapter 4",
+              "type": "chapter",
+              "start_s": 5803,
+              "end_s": 6573,
+              "duration_s": 770
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 6573,
+              "end_s": 7173,
+              "duration_s": 600
+            }
+          ]
+        },
+        {
+          "id": "efcd2a40-0d14-4e98-a087-c33ae52cd0f3",
+          "name": "bectondickinson8",
+          "cohort": "BD EMEA_LEAPICohort1",
+          "teams": 8,
+          "players": 21,
+          "session_start_display": "Apr 8, 10:00 AM GMT+2",
+          "inferred": false,
+          "scheduled_duration_min": 120,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 1567,
+              "duration_s": 1567
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 1567,
+              "end_s": 1791,
+              "duration_s": 224
+            },
+            {
+              "label": "Ch1 Debrief",
+              "type": "debrief",
+              "start_s": 1791,
+              "end_s": 2183,
+              "duration_s": 392
+            },
+            {
+              "label": "Chapter 2",
+              "type": "chapter",
+              "start_s": 2183,
+              "end_s": 3633,
+              "duration_s": 1450
+            },
+            {
+              "label": "Ch2 Debrief",
+              "type": "debrief",
+              "start_s": 3633,
+              "end_s": 4627,
+              "duration_s": 994
+            },
+            {
+              "label": "Chapter 3",
+              "type": "chapter",
+              "start_s": 4627,
+              "end_s": 5543,
+              "duration_s": 916
+            },
+            {
+              "label": "Ch3 Debrief",
+              "type": "debrief",
+              "start_s": 5543,
+              "end_s": 6118,
+              "duration_s": 575
+            },
+            {
+              "label": "Chapter 4",
+              "type": "chapter",
+              "start_s": 6118,
+              "end_s": 6975,
+              "duration_s": 857
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 6975,
+              "end_s": 7575,
+              "duration_s": 600
+            }
+          ]
+        },
+        {
+          "id": "7c228f89-3589-41a3-8316-fafa689f8e63",
+          "name": "bectondickinson11",
+          "cohort": "BD GA_LEAPICohort1",
+          "teams": 11,
+          "players": 27,
+          "session_start_display": "Apr 15, 11:00 AM GMT+8",
+          "inferred": false,
+          "scheduled_duration_min": 120,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 1302,
+              "duration_s": 1302
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 1302,
+              "end_s": 1707,
+              "duration_s": 405
+            },
+            {
+              "label": "Ch1 Debrief",
+              "type": "debrief",
+              "start_s": 1707,
+              "end_s": 1907,
+              "duration_s": 200
+            },
+            {
+              "label": "Chapter 2",
+              "type": "chapter",
+              "start_s": 1907,
+              "end_s": 3410,
+              "duration_s": 1503
+            },
+            {
+              "label": "Ch2 Debrief",
+              "type": "debrief",
+              "start_s": 3410,
+              "end_s": 3810,
+              "duration_s": 400
+            },
+            {
+              "label": "Chapter 3",
+              "type": "chapter",
+              "start_s": 3810,
+              "end_s": 4776,
+              "duration_s": 966
+            },
+            {
+              "label": "Ch3 Debrief",
+              "type": "debrief",
+              "start_s": 4776,
+              "end_s": 5123,
+              "duration_s": 347
+            },
+            {
+              "label": "Chapter 4",
+              "type": "chapter",
+              "start_s": 5123,
+              "end_s": 5990,
+              "duration_s": 867
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 5990,
+              "end_s": 6590,
+              "duration_s": 600
+            }
+          ]
+        },
+        {
+          "id": "aa585374-b327-4387-a4ca-4cbff5df52e9",
+          "name": "bectondickinson13",
+          "cohort": "BD AMS_LEAPICohort2",
+          "teams": 12,
+          "players": 25,
+          "session_start_display": "Apr 15, 11:00 AM EDT",
+          "inferred": false,
+          "scheduled_duration_min": 120,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 1312,
+              "duration_s": 1312
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 1312,
+              "end_s": 1513,
+              "duration_s": 201
+            },
+            {
+              "label": "Ch1 Debrief",
+              "type": "debrief",
+              "start_s": 1513,
+              "end_s": 1723,
+              "duration_s": 210
+            },
+            {
+              "label": "Chapter 2",
+              "type": "chapter",
+              "start_s": 1723,
+              "end_s": 3171,
+              "duration_s": 1448
+            },
+            {
+              "label": "Ch2 Debrief",
+              "type": "debrief",
+              "start_s": 3171,
+              "end_s": 4052,
+              "duration_s": 881
+            },
+            {
+              "label": "Chapter 3",
+              "type": "chapter",
+              "start_s": 4052,
+              "end_s": 4957,
+              "duration_s": 905
+            },
+            {
+              "label": "Ch3 Debrief",
+              "type": "debrief",
+              "start_s": 4957,
+              "end_s": 5335,
+              "duration_s": 378
+            },
+            {
+              "label": "Chapter 4",
+              "type": "chapter",
+              "start_s": 5335,
+              "end_s": 6074,
+              "duration_s": 739
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 6074,
+              "end_s": 6674,
+              "duration_s": 600
+            }
+          ]
+        },
+        {
+          "id": "d1be1c97-7a50-44b7-ada4-0f208c38ebd2",
+          "name": "bectondickinson10",
+          "cohort": "BD AMS_LEAPICohort1",
+          "teams": 10,
+          "players": 22,
+          "session_start_display": "Apr 14, 11:00 AM EDT",
+          "inferred": false,
+          "scheduled_duration_min": 120,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 1532,
+              "duration_s": 1532
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 1532,
+              "end_s": 1780,
+              "duration_s": 248
+            },
+            {
+              "label": "Ch1 Debrief",
+              "type": "debrief",
+              "start_s": 1780,
+              "end_s": 2028,
+              "duration_s": 248
+            },
+            {
+              "label": "Chapter 2",
+              "type": "chapter",
+              "start_s": 2028,
+              "end_s": 3493,
+              "duration_s": 1465
+            },
+            {
+              "label": "Ch2 Debrief",
+              "type": "debrief",
+              "start_s": 3493,
+              "end_s": 4228,
+              "duration_s": 735
+            },
+            {
+              "label": "Chapter 3",
+              "type": "chapter",
+              "start_s": 4228,
+              "end_s": 5135,
+              "duration_s": 907
+            },
+            {
+              "label": "Ch3 Debrief",
+              "type": "debrief",
+              "start_s": 5135,
+              "end_s": 5497,
+              "duration_s": 362
+            },
+            {
+              "label": "Chapter 4",
+              "type": "chapter",
+              "start_s": 5497,
+              "end_s": 6226,
+              "duration_s": 729
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 6226,
+              "end_s": 6826,
+              "duration_s": 600
+            }
+          ]
+        }
+      ]
+    },
+    "Kickoff: Get the Message?": {
+      "expected": [
+        {
+          "label": "INTRO",
+          "type": "intro",
+          "start_s": 0,
+          "end_s": 180,
+          "duration_s": 180
+        },
+        {
+          "label": "* Introduce the program sponso",
+          "type": "other",
+          "start_s": 180,
+          "end_s": 300,
+          "duration_s": 120
+        },
+        {
+          "label": "* Introductions (in the chat)",
+          "type": "other",
+          "start_s": 300,
+          "end_s": 420,
+          "duration_s": 120
+        },
+        {
+          "label": "* Program Overview",
+          "type": "other",
+          "start_s": 420,
+          "end_s": 600,
+          "duration_s": 180
+        },
+        {
+          "label": "CHAPTER 1",
+          "type": "chapter",
+          "start_s": 600,
+          "end_s": 840,
+          "duration_s": 240
+        },
+        {
+          "label": "3-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 840,
+          "end_s": 1020,
+          "duration_s": 180
+        },
+        {
+          "label": "Provide timing for upcoming br",
+          "type": "chapter_breakout",
+          "start_s": 1020,
+          "end_s": 1140,
+          "duration_s": 120
+        },
+        {
+          "label": "26-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 1140,
+          "end_s": 2700,
+          "duration_s": 1560
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 2700,
+          "end_s": 3060,
+          "duration_s": 360
+        },
+        {
+          "label": "CLOSING",
+          "type": "close",
+          "start_s": 3060,
+          "end_s": 3300,
+          "duration_s": 240
+        },
+        {
+          "label": "BUFFER",
+          "type": "buffer",
+          "start_s": 3300,
+          "end_s": 3600,
+          "duration_s": 300
+        }
+      ],
+      "sessions": [
+        {
+          "id": "53e1bb67-a7c7-4fb3-8f83-c1a9a2c3f720",
+          "name": "abbott",
+          "cohort": "Abbott DC+ 2026",
+          "teams": 8,
+          "players": 24,
+          "session_start_display": "May 5, 10:00 AM CDT",
+          "inferred": false,
+          "scheduled_duration_min": 60,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 2110,
+              "duration_s": 2110
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 2110,
+              "end_s": 3367,
+              "duration_s": 1257
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 3367,
+              "end_s": 3967,
+              "duration_s": 600
+            }
+          ]
+        }
+      ]
+    },
+    "Kickoff: Shelf Awareness": {
+      "expected": [
+        {
+          "label": "INTRO",
+          "type": "intro",
+          "start_s": 0,
+          "end_s": 180,
+          "duration_s": 180
+        },
+        {
+          "label": "* Introduce the program sponso",
+          "type": "other",
+          "start_s": 180,
+          "end_s": 300,
+          "duration_s": 120
+        },
+        {
+          "label": "* Introductions (in the chat)",
+          "type": "other",
+          "start_s": 300,
+          "end_s": 420,
+          "duration_s": 120
+        },
+        {
+          "label": "* Program Overview",
+          "type": "other",
+          "start_s": 420,
+          "end_s": 600,
+          "duration_s": 180
+        },
+        {
+          "label": "CHAPTER 1",
+          "type": "chapter",
+          "start_s": 600,
+          "end_s": 840,
+          "duration_s": 240
+        },
+        {
+          "label": "3-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 840,
+          "end_s": 1020,
+          "duration_s": 180
+        },
+        {
+          "label": "Provide timing for upcoming br",
+          "type": "chapter_breakout",
+          "start_s": 1020,
+          "end_s": 1140,
+          "duration_s": 120
+        },
+        {
+          "label": "26-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 1140,
+          "end_s": 2700,
+          "duration_s": 1560
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 2700,
+          "end_s": 3060,
+          "duration_s": 360
+        },
+        {
+          "label": "CLOSING",
+          "type": "close",
+          "start_s": 3060,
+          "end_s": 3300,
+          "duration_s": 240
+        },
+        {
+          "label": "BUFFER",
+          "type": "buffer",
+          "start_s": 3300,
+          "end_s": 3600,
+          "duration_s": 300
+        }
+      ],
+      "sessions": [
+        {
+          "id": "2325c5ca-b46a-44a4-a2a0-16633d33087e",
+          "name": "dubaichambers2",
+          "cohort": "Dubai 12WeekMBA May2026 (Kickoff)",
+          "teams": 12,
+          "players": 36,
+          "session_start_display": "May 5, 9:00 AM GMT+4",
+          "inferred": false,
+          "scheduled_duration_min": 60,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 110,
+              "duration_s": 110
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 110,
+              "end_s": 1555,
+              "duration_s": 1445
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 1555,
+              "end_s": 2155,
+              "duration_s": 600
+            }
+          ]
+        },
+        {
+          "id": "0472226f-2c77-4655-82d0-4ac5c4e867ae",
+          "name": "bectondickinson5",
+          "cohort": "BD GA_LEAPICohort1 Kickoff",
+          "teams": 11,
+          "players": 27,
+          "session_start_display": "Apr 8, 1:00 PM GMT+8",
+          "inferred": false,
+          "scheduled_duration_min": 60,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 1568,
+              "duration_s": 1568
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 1568,
+              "end_s": 3018,
+              "duration_s": 1450
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 3018,
+              "end_s": 3618,
+              "duration_s": 600
+            }
+          ]
+        },
+        {
+          "id": "e76ee14e-d6cc-4c96-b3d9-8188363250eb",
+          "name": "bectondickinson6",
+          "cohort": "BD AMS_LEAPICohort1 Kickoff",
+          "teams": 21,
+          "players": 41,
+          "session_start_display": "Apr 8, 11:00 AM EDT",
+          "inferred": false,
+          "scheduled_duration_min": 60,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 1716,
+              "duration_s": 1716
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 1716,
+              "end_s": 2877,
+              "duration_s": 1161
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 2877,
+              "end_s": 3477,
+              "duration_s": 600
+            }
+          ]
+        },
+        {
+          "id": "027b0213-ae05-457b-9854-853a1ae86280",
+          "name": "rxo",
+          "cohort": "RXO RLP_Accelerate_26 Kickoff",
+          "teams": 6,
+          "players": 15,
+          "session_start_display": "Apr 23, 1:00 PM EDT",
+          "inferred": false,
+          "scheduled_duration_min": 90,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 3281,
+              "duration_s": 3281
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 3281,
+              "end_s": 4923,
+              "duration_s": 1642
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 4923,
+              "end_s": 5523,
+              "duration_s": 600
+            }
+          ]
+        },
+        {
+          "id": "6c4fe11f-e1ee-4852-a066-d6f1e327463d",
+          "name": "rxo2",
+          "cohort": "RXO SLP_Rise_26 Kickoff",
+          "teams": 4,
+          "players": 11,
+          "session_start_display": "Apr 23, 11:00 AM EDT",
+          "inferred": false,
+          "scheduled_duration_min": 90,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 3129,
+              "duration_s": 3129
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 3129,
+              "end_s": 4593,
+              "duration_s": 1464
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 4593,
+              "end_s": 5193,
+              "duration_s": 600
+            }
+          ]
+        },
+        {
+          "id": "61f7de83-8dd8-4b38-ba1d-e46f3b0721bb",
+          "name": "BD Kickoff",
+          "cohort": "BD Kickoff",
+          "teams": 22,
+          "players": 46,
+          "session_start_display": "2026-04-01 08:00 UTC (inferred)",
+          "inferred": true,
+          "scheduled_duration_min": null,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 2188,
+              "duration_s": 2188
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 2188,
+              "end_s": 3349,
+              "duration_s": 1161
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 3349,
+              "end_s": 3949,
+              "duration_s": 600
+            }
+          ]
+        }
+      ]
+    },
+    "Leading Through Vision": {
+      "expected": [
+        {
+          "label": "INTRO",
+          "type": "intro",
+          "start_s": 0,
+          "end_s": 480,
+          "duration_s": 480
+        },
+        {
+          "label": "2-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 480,
+          "end_s": 660,
+          "duration_s": 180
+        },
+        {
+          "label": "CHAPTER 1",
+          "type": "chapter",
+          "start_s": 660,
+          "end_s": 1140,
+          "duration_s": 480
+        },
+        {
+          "label": "18-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 1140,
+          "end_s": 2220,
+          "duration_s": 1080
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 2220,
+          "end_s": 2460,
+          "duration_s": 240
+        },
+        {
+          "label": "CHAPTER 2",
+          "type": "chapter",
+          "start_s": 2460,
+          "end_s": 2700,
+          "duration_s": 240
+        },
+        {
+          "label": "18-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 2700,
+          "end_s": 3780,
+          "duration_s": 1080
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 3780,
+          "end_s": 4020,
+          "duration_s": 240
+        },
+        {
+          "label": "BREAK",
+          "type": "break",
+          "start_s": 4020,
+          "end_s": 4320,
+          "duration_s": 300
+        },
+        {
+          "label": "CHAPTER 3",
+          "type": "chapter",
+          "start_s": 4320,
+          "end_s": 4560,
+          "duration_s": 240
+        },
+        {
+          "label": "13-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 4560,
+          "end_s": 5340,
+          "duration_s": 780
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 5340,
+          "end_s": 5580,
+          "duration_s": 240
+        },
+        {
+          "label": "FINAL REFLECTION & Buffer",
+          "type": "debrief",
+          "start_s": 5580,
+          "end_s": 7080,
+          "duration_s": 1500
+        },
+        {
+          "label": "CLOSING",
+          "type": "close",
+          "start_s": 7080,
+          "end_s": 7200,
+          "duration_s": 120
+        }
+      ],
+      "sessions": [
+        {
+          "id": "8a2532eb-aa70-4e32-b3a9-982b506cab2e",
+          "name": "LTV Beta 5.6.26",
+          "cohort": "LTV Beta 5.6.26",
+          "teams": 4,
+          "players": 9,
+          "session_start_display": "2026-05-06 17:00 UTC (inferred)",
+          "inferred": true,
+          "scheduled_duration_min": null,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 1996,
+              "duration_s": 1996
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 1996,
+              "end_s": 2958,
+              "duration_s": 962
+            },
+            {
+              "label": "Ch1 Debrief",
+              "type": "debrief",
+              "start_s": 2958,
+              "end_s": 3478,
+              "duration_s": 520
+            },
+            {
+              "label": "Chapter 2",
+              "type": "chapter",
+              "start_s": 3478,
+              "end_s": 4605,
+              "duration_s": 1127
+            },
+            {
+              "label": "Ch2 Debrief",
+              "type": "debrief",
+              "start_s": 4605,
+              "end_s": 5671,
+              "duration_s": 1066
+            },
+            {
+              "label": "Chapter 3",
+              "type": "chapter",
+              "start_s": 5671,
+              "end_s": 6545,
+              "duration_s": 874
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 6545,
+              "end_s": 7145,
+              "duration_s": 600
+            }
+          ]
+        }
+      ]
+    },
+    "Leading in Times of Change": {
+      "expected": [
+        {
+          "label": "INTRO",
+          "type": "intro",
+          "start_s": 0,
+          "end_s": 720,
+          "duration_s": 720
+        },
+        {
+          "label": "2-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 720,
+          "end_s": 900,
+          "duration_s": 180
+        },
+        {
+          "label": "CHAPTER 1",
+          "type": "chapter",
+          "start_s": 900,
+          "end_s": 1200,
+          "duration_s": 300
+        },
+        {
+          "label": "20-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 1200,
+          "end_s": 2400,
+          "duration_s": 1200
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 2400,
+          "end_s": 3000,
+          "duration_s": 600
+        },
+        {
+          "label": "BREAK",
+          "type": "break",
+          "start_s": 3000,
+          "end_s": 3300,
+          "duration_s": 300
+        },
+        {
+          "label": "CHAPTER 2",
+          "type": "chapter",
+          "start_s": 3300,
+          "end_s": 3480,
+          "duration_s": 180
+        },
+        {
+          "label": "12-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 3480,
+          "end_s": 4200,
+          "duration_s": 720
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 4200,
+          "end_s": 4500,
+          "duration_s": 300
+        },
+        {
+          "label": "CHAPTER 3",
+          "type": "chapter",
+          "start_s": 4500,
+          "end_s": 4680,
+          "duration_s": 180
+        },
+        {
+          "label": "20-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 4680,
+          "end_s": 5880,
+          "duration_s": 1200
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 5880,
+          "end_s": 6600,
+          "duration_s": 720
+        },
+        {
+          "label": "CLOSING",
+          "type": "close",
+          "start_s": 6600,
+          "end_s": 6900,
+          "duration_s": 300
+        },
+        {
+          "label": "BUFFER",
+          "type": "buffer",
+          "start_s": 6900,
+          "end_s": 7200,
+          "duration_s": 300
+        }
+      ],
+      "sessions": [
+        {
+          "id": "d0b4809c-9f71-47a2-bc37-6096a34976bf",
+          "name": "rxo5",
+          "cohort": "RXO SLP_Rise_26",
+          "teams": 5,
+          "players": 15,
+          "session_start_display": "Apr 30, 11:00 AM EDT",
+          "inferred": false,
+          "scheduled_duration_min": 120,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 1782,
+              "duration_s": 1782
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 1782,
+              "end_s": 2874,
+              "duration_s": 1092
+            },
+            {
+              "label": "Ch1 Debrief",
+              "type": "debrief",
+              "start_s": 2874,
+              "end_s": 4096,
+              "duration_s": 1222
+            },
+            {
+              "label": "Chapter 2",
+              "type": "chapter",
+              "start_s": 4096,
+              "end_s": 4857,
+              "duration_s": 761
+            },
+            {
+              "label": "Ch2 Debrief",
+              "type": "debrief",
+              "start_s": 4857,
+              "end_s": 5486,
+              "duration_s": 629
+            },
+            {
+              "label": "Chapter 3",
+              "type": "chapter",
+              "start_s": 5486,
+              "end_s": 6423,
+              "duration_s": 937
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 6423,
+              "end_s": 7023,
+              "duration_s": 600
+            }
+          ]
+        }
+      ]
+    },
+    "Managing Profitability": {
+      "expected": [
+        {
+          "label": "INTRO",
+          "type": "intro",
+          "start_s": 0,
+          "end_s": 600,
+          "duration_s": 600
+        },
+        {
+          "label": "3-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 600,
+          "end_s": 780,
+          "duration_s": 180
+        },
+        {
+          "label": "CHAPTER 1",
+          "type": "chapter",
+          "start_s": 780,
+          "end_s": 1080,
+          "duration_s": 300
+        },
+        {
+          "label": "19-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 1080,
+          "end_s": 2220,
+          "duration_s": 1140
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 2220,
+          "end_s": 2580,
+          "duration_s": 360
+        },
+        {
+          "label": "CHAPTER 2",
+          "type": "chapter",
+          "start_s": 2580,
+          "end_s": 2760,
+          "duration_s": 180
+        },
+        {
+          "label": "23-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 2760,
+          "end_s": 4140,
+          "duration_s": 1380
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 4140,
+          "end_s": 4500,
+          "duration_s": 360
+        },
+        {
+          "label": "BREAK",
+          "type": "break",
+          "start_s": 4500,
+          "end_s": 4800,
+          "duration_s": 300
+        },
+        {
+          "label": "CHAPTER 3",
+          "type": "chapter",
+          "start_s": 4800,
+          "end_s": 4980,
+          "duration_s": 180
+        },
+        {
+          "label": "19-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 4980,
+          "end_s": 6120,
+          "duration_s": 1140
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 6120,
+          "end_s": 6600,
+          "duration_s": 480
+        },
+        {
+          "label": "CLOSING",
+          "type": "close",
+          "start_s": 6600,
+          "end_s": 6900,
+          "duration_s": 300
+        },
+        {
+          "label": "BUFFER",
+          "type": "buffer",
+          "start_s": 6900,
+          "end_s": 7200,
+          "duration_s": 300
+        }
+      ],
+      "sessions": [
+        {
+          "id": "f2ce48ec-749a-4e2e-a169-873685fc0647",
+          "name": "bectondickinson25",
+          "cohort": "BD AMS_LEAPICohort2",
+          "teams": 10,
+          "players": 24,
+          "session_start_display": "May 7, 11:00 AM EDT",
+          "inferred": false,
+          "scheduled_duration_min": 120,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 1507,
+              "duration_s": 1507
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 1507,
+              "end_s": 2485,
+              "duration_s": 978
+            },
+            {
+              "label": "Ch1 Debrief",
+              "type": "debrief",
+              "start_s": 2485,
+              "end_s": 3234,
+              "duration_s": 749
+            },
+            {
+              "label": "Chapter 2",
+              "type": "chapter",
+              "start_s": 3234,
+              "end_s": 4464,
+              "duration_s": 1230
+            },
+            {
+              "label": "Ch2 Debrief",
+              "type": "debrief",
+              "start_s": 4464,
+              "end_s": 5527,
+              "duration_s": 1063
+            },
+            {
+              "label": "Chapter 3",
+              "type": "chapter",
+              "start_s": 5527,
+              "end_s": 6503,
+              "duration_s": 976
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 6503,
+              "end_s": 7103,
+              "duration_s": 600
+            }
+          ]
+        },
+        {
+          "id": "a9dabb46-8808-4f47-9396-fb6e0078b059",
+          "name": "bectondickinson24",
+          "cohort": "BD GA_LEAPICohort1",
+          "teams": 8,
+          "players": 30,
+          "session_start_display": "May 6, 12:00 PM GMT+8",
+          "inferred": false,
+          "scheduled_duration_min": 120,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 1293,
+              "duration_s": 1293
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 1293,
+              "end_s": 2266,
+              "duration_s": 973
+            },
+            {
+              "label": "Ch1 Debrief",
+              "type": "debrief",
+              "start_s": 2266,
+              "end_s": 2831,
+              "duration_s": 565
+            },
+            {
+              "label": "Chapter 2",
+              "type": "chapter",
+              "start_s": 2831,
+              "end_s": 4063,
+              "duration_s": 1232
+            },
+            {
+              "label": "Ch2 Debrief",
+              "type": "debrief",
+              "start_s": 4063,
+              "end_s": 4947,
+              "duration_s": 884
+            },
+            {
+              "label": "Chapter 3",
+              "type": "chapter",
+              "start_s": 4947,
+              "end_s": 6043,
+              "duration_s": 1096
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 6043,
+              "end_s": 6643,
+              "duration_s": 600
+            }
+          ]
+        },
+        {
+          "id": "4ba46e37-7378-432a-a4ed-414d1c5abff3",
+          "name": "bectondickinson26",
+          "cohort": "BD AMS_LEAPICohort1",
+          "teams": 8,
+          "players": 18,
+          "session_start_display": "May 6, 11:00 AM EDT",
+          "inferred": false,
+          "scheduled_duration_min": 120,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 1310,
+              "duration_s": 1310
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 1310,
+              "end_s": 2324,
+              "duration_s": 1014
+            },
+            {
+              "label": "Ch1 Debrief",
+              "type": "debrief",
+              "start_s": 2324,
+              "end_s": 3139,
+              "duration_s": 815
+            },
+            {
+              "label": "Chapter 2",
+              "type": "chapter",
+              "start_s": 3139,
+              "end_s": 4359,
+              "duration_s": 1220
+            },
+            {
+              "label": "Ch2 Debrief",
+              "type": "debrief",
+              "start_s": 4359,
+              "end_s": 5319,
+              "duration_s": 960
+            },
+            {
+              "label": "Chapter 3",
+              "type": "chapter",
+              "start_s": 5319,
+              "end_s": 6298,
+              "duration_s": 979
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 6298,
+              "end_s": 6898,
+              "duration_s": 600
+            }
+          ]
+        },
+        {
+          "id": "1c336ad4-7985-45cc-a4c7-47c46ff6229a",
+          "name": "bectondickinson21",
+          "cohort": "BD EMEA_LEAPICohort2",
+          "teams": 13,
+          "players": 51,
+          "session_start_display": "Apr 30, 10:00 AM GMT+2",
+          "inferred": false,
+          "scheduled_duration_min": 120,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 1711,
+              "duration_s": 1711
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 1711,
+              "end_s": 2684,
+              "duration_s": 973
+            },
+            {
+              "label": "Ch1 Debrief",
+              "type": "debrief",
+              "start_s": 2684,
+              "end_s": 3425,
+              "duration_s": 741
+            },
+            {
+              "label": "Chapter 2",
+              "type": "chapter",
+              "start_s": 3425,
+              "end_s": 4663,
+              "duration_s": 1238
+            },
+            {
+              "label": "Ch2 Debrief",
+              "type": "debrief",
+              "start_s": 4663,
+              "end_s": 5368,
+              "duration_s": 705
+            },
+            {
+              "label": "Chapter 3",
+              "type": "chapter",
+              "start_s": 5368,
+              "end_s": 6331,
+              "duration_s": 963
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 6331,
+              "end_s": 6931,
+              "duration_s": 600
+            }
+          ]
+        },
+        {
+          "id": "e108b56c-b7b1-4189-bf69-d2d783d50bcd",
+          "name": "bectondickinson20",
+          "cohort": "BD EMEA_LEAPICohort1",
+          "teams": 7,
+          "players": 28,
+          "session_start_display": "Apr 29, 10:00 AM GMT+2",
+          "inferred": false,
+          "scheduled_duration_min": 120,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 1501,
+              "duration_s": 1501
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 1501,
+              "end_s": 2539,
+              "duration_s": 1038
+            },
+            {
+              "label": "Ch1 Debrief",
+              "type": "debrief",
+              "start_s": 2539,
+              "end_s": 3311,
+              "duration_s": 772
+            },
+            {
+              "label": "Chapter 2",
+              "type": "chapter",
+              "start_s": 3311,
+              "end_s": 4525,
+              "duration_s": 1214
+            },
+            {
+              "label": "Ch2 Debrief",
+              "type": "debrief",
+              "start_s": 4525,
+              "end_s": 5262,
+              "duration_s": 737
+            },
+            {
+              "label": "Chapter 3",
+              "type": "chapter",
+              "start_s": 5262,
+              "end_s": 6231,
+              "duration_s": 969
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 6231,
+              "end_s": 6831,
+              "duration_s": 600
+            }
+          ]
+        }
+      ]
+    },
+    "Navigating Critical Conversations": {
+      "expected": [
+        {
+          "label": "INTRO",
+          "type": "intro",
+          "start_s": 0,
+          "end_s": 480,
+          "duration_s": 480
+        },
+        {
+          "label": "3-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 480,
+          "end_s": 660,
+          "duration_s": 180
+        },
+        {
+          "label": "CHAPTER 1",
+          "type": "chapter",
+          "start_s": 660,
+          "end_s": 780,
+          "duration_s": 120
+        },
+        {
+          "label": "7-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 780,
+          "end_s": 1200,
+          "duration_s": 420
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 1200,
+          "end_s": 1320,
+          "duration_s": 120
+        },
+        {
+          "label": "CHAPTER 2",
+          "type": "chapter",
+          "start_s": 1320,
+          "end_s": 1500,
+          "duration_s": 180
+        },
+        {
+          "label": "18-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 1500,
+          "end_s": 2580,
+          "duration_s": 1080
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 2580,
+          "end_s": 2940,
+          "duration_s": 360
+        },
+        {
+          "label": "BREAK",
+          "type": "break",
+          "start_s": 2940,
+          "end_s": 3240,
+          "duration_s": 300
+        },
+        {
+          "label": "CHAPTER 3",
+          "type": "chapter",
+          "start_s": 3240,
+          "end_s": 3420,
+          "duration_s": 180
+        },
+        {
+          "label": "18-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 3420,
+          "end_s": 4500,
+          "duration_s": 1080
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 4500,
+          "end_s": 4860,
+          "duration_s": 360
+        },
+        {
+          "label": "CHAPTER 4",
+          "type": "chapter",
+          "start_s": 4860,
+          "end_s": 5040,
+          "duration_s": 180
+        },
+        {
+          "label": "18-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 5040,
+          "end_s": 6120,
+          "duration_s": 1080
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 6120,
+          "end_s": 6480,
+          "duration_s": 360
+        },
+        {
+          "label": "FINAL REFLECTION",
+          "type": "debrief",
+          "start_s": 6480,
+          "end_s": 6780,
+          "duration_s": 300
+        },
+        {
+          "label": "CLOSING",
+          "type": "close",
+          "start_s": 6780,
+          "end_s": 6900,
+          "duration_s": 120
+        },
+        {
+          "label": "BUFFER",
+          "type": "buffer",
+          "start_s": 6900,
+          "end_s": 7200,
+          "duration_s": 300
+        }
+      ],
+      "sessions": [
+        {
+          "id": "01220f24-4e4c-49c0-9611-cadf9ec2c283",
+          "name": "dubaichamberscc1",
+          "cohort": "Dubai 12WeekMBA May2026 (NCC)",
+          "teams": 12,
+          "players": 34,
+          "session_start_display": "May 5, 10:00 AM GMT+4",
+          "inferred": false,
+          "scheduled_duration_min": 120,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 1339,
+              "duration_s": 1339
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 1339,
+              "end_s": 1991,
+              "duration_s": 652
+            },
+            {
+              "label": "Ch1 Debrief",
+              "type": "debrief",
+              "start_s": 1991,
+              "end_s": 2606,
+              "duration_s": 615
+            },
+            {
+              "label": "Chapter 2",
+              "type": "chapter",
+              "start_s": 2606,
+              "end_s": 3514,
+              "duration_s": 908
+            },
+            {
+              "label": "Ch2 Debrief",
+              "type": "debrief",
+              "start_s": 3514,
+              "end_s": 4725,
+              "duration_s": 1211
+            },
+            {
+              "label": "Chapter 3",
+              "type": "chapter",
+              "start_s": 4725,
+              "end_s": 5629,
+              "duration_s": 904
+            },
+            {
+              "label": "Ch3 Debrief",
+              "type": "debrief",
+              "start_s": 5629,
+              "end_s": 6281,
+              "duration_s": 652
+            },
+            {
+              "label": "Chapter 4",
+              "type": "chapter",
+              "start_s": 6281,
+              "end_s": 7334,
+              "duration_s": 1053
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 7334,
+              "end_s": 7934,
+              "duration_s": 600
+            }
+          ]
+        },
+        {
+          "id": "673774e5-7511-4553-94ad-a74344a041dd",
+          "name": "rxo4",
+          "cohort": "RXO RLP_Accelerate_26",
+          "teams": 6,
+          "players": 15,
+          "session_start_display": "Apr 30, 11:00 AM EDT",
+          "inferred": false,
+          "scheduled_duration_min": 120,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 925,
+              "duration_s": 925
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 925,
+              "end_s": 1365,
+              "duration_s": 440
+            },
+            {
+              "label": "Ch1 Debrief",
+              "type": "debrief",
+              "start_s": 1365,
+              "end_s": 1571,
+              "duration_s": 206
+            },
+            {
+              "label": "Chapter 2",
+              "type": "chapter",
+              "start_s": 1571,
+              "end_s": 2561,
+              "duration_s": 990
+            },
+            {
+              "label": "Ch2 Debrief",
+              "type": "debrief",
+              "start_s": 2561,
+              "end_s": 4245,
+              "duration_s": 1684
+            },
+            {
+              "label": "Chapter 3",
+              "type": "chapter",
+              "start_s": 4245,
+              "end_s": 5231,
+              "duration_s": 986
+            },
+            {
+              "label": "Ch3 Debrief",
+              "type": "debrief",
+              "start_s": 5231,
+              "end_s": 5825,
+              "duration_s": 594
+            },
+            {
+              "label": "Chapter 4",
+              "type": "chapter",
+              "start_s": 5825,
+              "end_s": 6727,
+              "duration_s": 902
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 6727,
+              "end_s": 7327,
+              "duration_s": 600
+            }
+          ]
+        },
+        {
+          "id": "4eb9e0c7-efcb-46e5-a48b-dfc8ad4f2f9c",
+          "name": "abilitie45",
+          "cohort": "abilitie45",
+          "teams": 10,
+          "players": 26,
+          "session_start_display": "2026-04-28 17:00 UTC (inferred)",
+          "inferred": true,
+          "scheduled_duration_min": null,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 1327,
+              "duration_s": 1327
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 1327,
+              "end_s": 1769,
+              "duration_s": 442
+            },
+            {
+              "label": "Ch1 Debrief",
+              "type": "debrief",
+              "start_s": 1769,
+              "end_s": 2321,
+              "duration_s": 552
+            },
+            {
+              "label": "Chapter 2",
+              "type": "chapter",
+              "start_s": 2321,
+              "end_s": 3238,
+              "duration_s": 917
+            },
+            {
+              "label": "Ch2 Debrief",
+              "type": "debrief",
+              "start_s": 3238,
+              "end_s": 4601,
+              "duration_s": 1363
+            },
+            {
+              "label": "Chapter 3",
+              "type": "chapter",
+              "start_s": 4601,
+              "end_s": 5510,
+              "duration_s": 909
+            },
+            {
+              "label": "Ch3 Debrief",
+              "type": "debrief",
+              "start_s": 5510,
+              "end_s": 5916,
+              "duration_s": 406
+            },
+            {
+              "label": "Chapter 4",
+              "type": "chapter",
+              "start_s": 5916,
+              "end_s": 6647,
+              "duration_s": 731
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 6647,
+              "end_s": 7247,
+              "duration_s": 600
+            }
+          ]
+        },
+        {
+          "id": "ccd1314b-60e7-4e8b-a0cd-edf0541a9d12",
+          "name": "PENN AI Learning & Pedagogy Program",
+          "cohort": "PENN AI Learning & Pedagogy Program",
+          "teams": 12,
+          "players": 26,
+          "session_start_display": "2026-02-25 18:00 UTC (inferred)",
+          "inferred": true,
+          "scheduled_duration_min": null,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 1540,
+              "duration_s": 1540
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 1540,
+              "end_s": 1943,
+              "duration_s": 403
+            },
+            {
+              "label": "Ch1 Debrief",
+              "type": "debrief",
+              "start_s": 1943,
+              "end_s": 2286,
+              "duration_s": 343
+            },
+            {
+              "label": "Chapter 2",
+              "type": "chapter",
+              "start_s": 2286,
+              "end_s": 3253,
+              "duration_s": 967
+            },
+            {
+              "label": "Ch2 Debrief",
+              "type": "debrief",
+              "start_s": 3253,
+              "end_s": 4331,
+              "duration_s": 1078
+            },
+            {
+              "label": "Chapter 3",
+              "type": "chapter",
+              "start_s": 4331,
+              "end_s": 5232,
+              "duration_s": 901
+            },
+            {
+              "label": "Ch3 Debrief",
+              "type": "debrief",
+              "start_s": 5232,
+              "end_s": 5782,
+              "duration_s": 550
+            },
+            {
+              "label": "Chapter 4",
+              "type": "chapter",
+              "start_s": 5782,
+              "end_s": 6633,
+              "duration_s": 851
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 6633,
+              "end_s": 7233,
+              "duration_s": 600
+            }
+          ]
+        }
+      ]
+    },
+    "Shifting Mindsets and Behaviors": {
+      "expected": [
+        {
+          "label": "INTRO",
+          "type": "intro",
+          "start_s": 0,
+          "end_s": 600,
+          "duration_s": 600
+        },
+        {
+          "label": "2-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 600,
+          "end_s": 780,
+          "duration_s": 180
+        },
+        {
+          "label": "CHAPTER 1",
+          "type": "chapter",
+          "start_s": 780,
+          "end_s": 1020,
+          "duration_s": 240
+        },
+        {
+          "label": "10-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 1020,
+          "end_s": 1620,
+          "duration_s": 600
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 1620,
+          "end_s": 1920,
+          "duration_s": 300
+        },
+        {
+          "label": "CHAPTER 2",
+          "type": "chapter",
+          "start_s": 1920,
+          "end_s": 2040,
+          "duration_s": 120
+        },
+        {
+          "label": "23-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 2040,
+          "end_s": 3420,
+          "duration_s": 1380
+        },
+        {
+          "label": "BREAK",
+          "type": "break",
+          "start_s": 3420,
+          "end_s": 3720,
+          "duration_s": 300
+        },
+        {
+          "label": "CHAPTER 2 Debrief",
+          "type": "chapter",
+          "start_s": 3720,
+          "end_s": 4320,
+          "duration_s": 600
+        },
+        {
+          "label": "CHAPTER 3",
+          "type": "chapter",
+          "start_s": 4320,
+          "end_s": 4440,
+          "duration_s": 120
+        },
+        {
+          "label": "23-MINUTE BREAKOUT: ",
+          "type": "chapter_breakout",
+          "start_s": 4440,
+          "end_s": 5820,
+          "duration_s": 1380
+        },
+        {
+          "label": "* Debrief the chapter together",
+          "type": "debrief",
+          "start_s": 5820,
+          "end_s": 6540,
+          "duration_s": 720
+        },
+        {
+          "label": "FINAL REFLECTION",
+          "type": "debrief",
+          "start_s": 6540,
+          "end_s": 6780,
+          "duration_s": 240
+        },
+        {
+          "label": "CLOSING",
+          "type": "close",
+          "start_s": 6780,
+          "end_s": 6900,
+          "duration_s": 120
+        },
+        {
+          "label": "BUFFER",
+          "type": "buffer",
+          "start_s": 6900,
+          "end_s": 7200,
+          "duration_s": 300
+        }
+      ],
+      "sessions": [
+        {
+          "id": "cef29ffc-6256-44f8-8ebe-13cf6524eddd",
+          "name": "Play Session: Shifting Mindsets and Behaviors 3.10.2026",
+          "cohort": "Play Session: Shifting Mindsets and Behaviors 3.10.2026",
+          "teams": 6,
+          "players": 18,
+          "session_start_display": "2026-03-10 14:00 UTC (inferred)",
+          "inferred": true,
+          "scheduled_duration_min": null,
+          "actual": [
+            {
+              "label": "Intro/Onboard",
+              "type": "intro",
+              "start_s": 0,
+              "end_s": 1818,
+              "duration_s": 1818
+            },
+            {
+              "label": "Chapter 1",
+              "type": "chapter",
+              "start_s": 1818,
+              "end_s": 2647,
+              "duration_s": 829
+            },
+            {
+              "label": "Ch1 Debrief",
+              "type": "debrief",
+              "start_s": 2647,
+              "end_s": 2648,
+              "duration_s": 1
+            },
+            {
+              "label": "Chapter 2",
+              "type": "chapter",
+              "start_s": 2648,
+              "end_s": 3790,
+              "duration_s": 1142
+            },
+            {
+              "label": "Ch2 Debrief",
+              "type": "debrief",
+              "start_s": 3790,
+              "end_s": 4529,
+              "duration_s": 739
+            },
+            {
+              "label": "Chapter 3",
+              "type": "chapter",
+              "start_s": 4529,
+              "end_s": 5731,
+              "duration_s": 1202
+            },
+            {
+              "label": "Reflect/Close+",
+              "type": "reflect",
+              "start_s": 5731,
+              "end_s": 6331,
+              "duration_s": 600
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_comment": "Maps case-challenge title (as returned by cc.abilitie.com analytics_list_sessions) to the runsheet folder name used in runsheets.json. Add new mappings here as new cases are added to the platform. If a case title is missing here, the dashboard falls back to fuzzy-matching the title to a runsheet key.",
+  "Influencing Without Authority": "Influence Without Authority",
+  "Kickoff: Shelf Awareness": "Kickoff_ Shelf Awareness",
+  "Kickoff: Get the Message?": "Kickoff_ Get the Message",
+  "Kickoff: Hold the Line?": "Kickoff_ Hold the Line_",
+  "Kickoff: Handle With Care.": "Kickoff_ Handle With Care.",
+  "Managing Profitability": "Managing Profitability",
+  "Enabling Peak Performance": "Enabling Peak Performance",
+  "Creating Strategic Alignment": "Creating Strategic Alignment",
+  "Leading Through Vision": "Leading Through Vision",
+  "Leading in Times of Change": "Leading in Times of Change",
+  "Navigating Critical Conversations": "Navigating Critical Conversations",
+  "Shifting Mindsets and Behaviors": "Shifting Mindsets and Behaviors",
+  "Analyzing Profit Drivers": "Analyzing Profit Drivers",
+  "Balancing Growth and Risk": "Balancing Growth and Risk"
+}
