@@ -7,6 +7,7 @@ import nickAnalysisRaw from '@/app/data/nick-analysis.json'
 import type { StaffMap } from '@/lib/insights'
 import TalkTimeChart from '@/components/faculty/TalkTimeChart'
 import MagicMomentCard from '@/components/faculty/MagicMomentCard'
+import CoachingPanel from '@/components/faculty/CoachingPanel'
 
 type SurveyEntry = {
   folder: string
@@ -177,6 +178,14 @@ export default async function NickPage() {
             </div>
           </Section>
         )}
+
+        {/* AI coaching */}
+        <Section
+          title="3 ideas to consider"
+          subtitle="Auto-generated from session data. Regenerate for a fresh perspective, or ask a specific question below."
+        >
+          <CoachingPanel />
+        </Section>
 
         {/* Open-text survey responses */}
         <Section
