@@ -68,6 +68,17 @@ function simColor(v: number) {
   return v >= 80 ? '#4ade80' : v >= 65 ? '#facc15' : '#f87171'
 }
 
+function Check({ present }: { present: boolean }) {
+  return (
+    <div className="flex justify-center">
+      {present
+        ? <span className="text-[#4ade80] text-xs font-semibold">✓</span>
+        : <span className="text-[#334155] text-xs">–</span>
+      }
+    </div>
+  )
+}
+
 function ScoreBar({ value }: { value: number }) {
   const pct = (value / 5) * 100
   const color = surveyColor(value)
@@ -304,18 +315,40 @@ export default function FacilitatorView({ activeFacilitator, sessions }: Props) 
       </div>
 
       {/* Session summary */}
-      <div className="bg-[#1e293b] border border-[#334155] rounded-lg p-5 space-y-3">
+      <div className="bg-[#1e293b] border border-[#334155] rounded-lg p-5 space-y-4">
         <p className="text-xs font-semibold text-[#e2e8f0]">{sessions.length} sessions in this dataset</p>
-        <div className="space-y-2">
-          {sessions.map(s => (
-            <div key={s.id} className="flex items-center gap-3 text-xs">
-              <span className="text-[#e2e8f0] w-20 shrink-0">{s.date.replace(', 2026', '')}</span>
-              <span className="text-[10px] px-1.5 py-0.5 rounded bg-[#0f172a] border border-[#334155] text-[#475569]">
-                {s.caseShort}
-              </span>
-              <span className="text-[#94a3b8]">{s.cohort}</span>
-            </div>
-          ))}
+
+        {/* Column headers */}
+        <div className="grid grid-cols-[5rem_4rem_1fr_5rem_4rem_5rem_4rem] gap-x-3 items-center">
+          <span className="text-[10px] text-[#334155] uppercase tracking-wide">Date</span>
+          <span className="text-[10px] text-[#334155] uppercase tracking-wide">Case</span>
+          <span className="text-[10px] text-[#334155] uppercase tracking-wide">Cohort</span>
+          <span className="text-[10px] text-[#334155] uppercase tracking-wide text-center">Sim admin</span>
+          <span className="text-[10px] text-[#334155] uppercase tracking-wide text-center">Survey</span>
+          <span className="text-[10px] text-[#334155] uppercase tracking-wide text-center">Transcript</span>
+          <span className="text-[10px] text-[#334155] uppercase tracking-wide text-center">Magic</span>
+        </div>
+
+        <div className="space-y-2.5 border-t border-[#334155]/50 pt-3">
+          {sessions.map(s => {
+            const hasSim = !!(s.simScores?.chapter_scores && Object.keys(s.simScores.chapter_scores).length > 0)
+            const hasSurvey = !!s.survey
+            const hasTranscript = !!s.talkTime
+            const hasMagic = s.magicMoments.length > 0
+            return (
+              <div key={s.id} className="grid grid-cols-[5rem_4rem_1fr_5rem_4rem_5rem_4rem] gap-x-3 items-center">
+                <span className="text-xs text-[#e2e8f0]">{s.date.replace(', 2026', '')}</span>
+                <span className="text-[10px] px-1.5 py-0.5 rounded bg-[#0f172a] border border-[#334155] text-[#475569] text-center">
+                  {s.caseShort}
+                </span>
+                <span className="text-xs text-[#94a3b8] truncate">{s.cohort}</span>
+                <Check present={hasSim} />
+                <Check present={hasSurvey} />
+                <Check present={hasTranscript} />
+                <Check present={hasMagic} />
+              </div>
+            )
+          })}
         </div>
       </div>
 
