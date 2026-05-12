@@ -78,7 +78,7 @@ DETAIL: [2–3 sentences. Be specific. Reference the actual transcript moment, t
 ---
 
 Output only LEAN/DETAIL/--- blocks. Nothing else. No preamble, no summary.`
-    : `Nick or his programme manager is asking a coaching question. Answer specifically using his session data. Be direct and honest. If they're asking about growth areas, be candid — don't hedge.
+    : `Nick or his programme manager is asking a coaching question. Answer specifically using his session data. Be grounded in the data and constructive in tone — frame observations as opportunities and growth edges rather than deficits. When pointing to something to work on, name what to move toward, not just what to move away from. Stay specific and avoid vague encouragement.
 
 Question: ${question}`
 
