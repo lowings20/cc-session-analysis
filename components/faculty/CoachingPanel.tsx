@@ -1,42 +1,49 @@
 'use client'
 
 import { useEffect, useRef, useState } from 'react'
-import { Send, RefreshCw, Sparkles } from 'lucide-react'
+import { Send, RefreshCw } from 'lucide-react'
 
-interface Idea {
+interface Item {
   title: string
-  why: string
-  tryText: string
+  detail: string
 }
 
-function parseIdeas(text: string): Idea[] {
-  // Split on the --- separator
-  const blocks = text.split(/\n---\n?/).filter(b => b.trim())
+interface Suggestions {
+  strong: Item[]
+  consider: Item[]
+}
+
+function parseItems(text: string, prefix: string): Item[] {
+  // Split on --- separators, find blocks with the given prefix
+  const blocks = text.split(/\n---\n?/)
   return blocks.flatMap(block => {
-    const title = block.match(/IDEA:\s*(.+)/)?.[1]?.trim()
-    const why = block.match(/WHY:\s*(.+)/)?.[1]?.trim()
-    const tryMatch = block.match(/TRY:\s*([\s\S]+?)(?=\n[A-Z]+:|$)/)
-    const tryText = tryMatch?.[1]?.trim()
-    if (!title) return []
-    return [{ title, why: why ?? '', tryText: tryText ?? '' }]
+    const titleMatch = block.match(new RegExp(`${prefix}:\\s*(.+)`))
+    const detailMatch = block.match(/DETAIL:\s*([\s\S]+?)(?=\n[A-Z]+:|$)/)
+    if (!titleMatch) return []
+    return [{ title: titleMatch[1].trim(), detail: detailMatch?.[1]?.trim() ?? '' }]
   }).slice(0, 3)
 }
 
+function parseSuggestions(text: string): Suggestions {
+  return {
+    strong: parseItems(text, 'STRONG'),
+    consider: parseItems(text, 'CONSIDER'),
+  }
+}
+
 async function streamRequest(
+  url: string,
   body: object,
   onChunk: (accumulated: string) => void,
   signal?: AbortSignal,
 ): Promise<string> {
-  const res = await fetch('/api/nick-coach', {
+  const res = await fetch(url, {
     method: 'POST',
     headers: { 'Content-Type': 'application/json' },
     body: JSON.stringify(body),
     signal,
   })
-  if (!res.ok) {
-    const msg = await res.text()
-    throw new Error(msg || `HTTP ${res.status}`)
-  }
+  if (!res.ok) throw new Error(await res.text() || `HTTP ${res.status}`)
   const reader = res.body!.getReader()
   const decoder = new TextDecoder()
   let full = ''
@@ -49,10 +56,50 @@ async function streamRequest(
   return full
 }
 
-export default function CoachingPanel() {
-  const [ideas, setIdeas] = useState<Idea[]>([])
-  const [loadingIdeas, setLoadingIdeas] = useState(true)
-  const [ideasError, setIdeasError] = useState<string | null>(null)
+function Skeleton() {
+  return (
+    <div className="space-y-3">
+      {[0, 1, 2].map(i => (
+        <div key={i} className="rounded-lg p-4 animate-pulse space-y-2.5 bg-[#0f172a]">
+          <div className="h-3.5 rounded w-2/5 bg-[#1e293b]" />
+          <div className="h-2.5 rounded w-4/5 bg-[#1e293b]" />
+          <div className="h-2.5 rounded w-full bg-[#1e293b]" />
+        </div>
+      ))}
+    </div>
+  )
+}
+
+interface CardProps {
+  item: Item
+  index: number
+  variant: 'strong' | 'consider'
+}
+
+function Card({ item, index, variant }: CardProps) {
+  const accent = variant === 'strong' ? '#4ade80' : '#fb923c'
+  const bg = variant === 'strong' ? 'border-green-900/40' : 'border-orange-900/40'
+  return (
+    <div className={`bg-[#0f172a] border ${bg} rounded-lg p-4 space-y-2`}>
+      <div className="flex items-start gap-2.5">
+        <span className="text-xs font-bold mt-px shrink-0 w-4" style={{ color: accent }}>{index + 1}</span>
+        <h3 className="text-sm font-semibold text-[#e2e8f0] leading-snug">{item.title}</h3>
+      </div>
+      {item.detail && (
+        <p className="text-xs text-[#94a3b8] leading-relaxed pl-6">{item.detail}</p>
+      )}
+    </div>
+  )
+}
+
+interface Props {
+  apiRoute?: string
+}
+
+export default function CoachingPanel({ apiRoute = '/api/nick-coach' }: Props) {
+  const [suggestions, setSuggestions] = useState<Suggestions | null>(null)
+  const [loading, setLoading] = useState(true)
+  const [error, setError] = useState<string | null>(null)
 
   const [question, setQuestion] = useState('')
   const [answer, setAnswer] = useState<string | null>(null)
@@ -61,31 +108,31 @@ export default function CoachingPanel() {
 
   const abortRef = useRef<AbortController | null>(null)
 
-  const fetchIdeas = async () => {
+  const fetchSuggestions = async () => {
     abortRef.current?.abort()
     const ac = new AbortController()
     abortRef.current = ac
-    setLoadingIdeas(true)
-    setIdeasError(null)
-    setIdeas([])
+    setLoading(true)
+    setError(null)
+    setSuggestions(null)
     try {
-      const full = await streamRequest({ type: 'suggestions' }, () => {}, ac.signal)
-      setIdeas(parseIdeas(full))
+      const full = await streamRequest(apiRoute, { type: 'suggestions' }, () => {}, ac.signal)
+      setSuggestions(parseSuggestions(full))
     } catch (e) {
       if ((e as Error).name === 'AbortError') return
       const msg = (e as Error).message
-      setIdeasError(
+      setError(
         msg.includes('API_KEY') || msg.includes('not set')
           ? 'Add ANTHROPIC_API_KEY to .env.local to enable AI coaching.'
           : msg,
       )
     } finally {
-      setLoadingIdeas(false)
+      setLoading(false)
     }
   }
 
   useEffect(() => {
-    fetchIdeas()
+    fetchSuggestions()
     return () => abortRef.current?.abort()
   }, []) // eslint-disable-line react-hooks/exhaustive-deps
 
@@ -97,10 +144,7 @@ export default function CoachingPanel() {
     setAnswerError(null)
     setLoadingAnswer(true)
     try {
-      await streamRequest(
-        { type: 'question', question: q },
-        (partial) => setAnswer(partial),
-      )
+      await streamRequest(apiRoute, { type: 'question', question: q }, partial => setAnswer(partial))
     } catch (e) {
       setAnswerError((e as Error).message)
     } finally {
@@ -109,72 +153,56 @@ export default function CoachingPanel() {
   }
 
   return (
-    <div className="space-y-6">
-      {/* 3 ideas */}
-      <div>
-        <div className="flex items-center justify-between mb-4">
-          <div className="flex items-center gap-1.5 text-xs text-[#94a3b8]">
-            <Sparkles size={13} className="text-[#a78bfa]" />
-            Based on Nick&apos;s session data
+    <div className="space-y-8">
+      {/* Outstanding + Consider side by side on wide, stacked on narrow */}
+      {error ? (
+        <div className="text-xs text-amber-400 bg-amber-900/10 border border-amber-800/30 rounded-lg p-4">{error}</div>
+      ) : loading ? (
+        <div className="grid sm:grid-cols-2 gap-6">
+          <div>
+            <p className="text-[11px] font-semibold text-green-400 uppercase tracking-wider mb-3">Outstanding</p>
+            <Skeleton />
           </div>
-          {!loadingIdeas && !ideasError && (
-            <button
-              onClick={fetchIdeas}
-              className="flex items-center gap-1 text-[10px] text-[#475569] hover:text-[#94a3b8] transition-colors"
-            >
-              <RefreshCw size={10} />
-              Regenerate
-            </button>
-          )}
+          <div>
+            <p className="text-[11px] font-semibold text-orange-400 uppercase tracking-wider mb-3">To consider</p>
+            <Skeleton />
+          </div>
         </div>
-
-        {loadingIdeas ? (
-          <div className="space-y-3">
-            {[0, 1, 2].map(i => (
-              <div key={i} className="bg-[#0f172a] rounded-lg p-4 animate-pulse space-y-2.5">
-                <div className="h-3.5 bg-[#1e293b] rounded w-2/5" />
-                <div className="h-2.5 bg-[#1e293b] rounded w-4/5" />
-                <div className="h-2.5 bg-[#1e293b] rounded w-full" />
-                <div className="h-2.5 bg-[#1e293b] rounded w-3/5" />
-              </div>
-            ))}
-            <p className="text-[10px] text-[#334155] text-center pt-1">Analysing session data…</p>
+      ) : suggestions && (
+        <div className="grid sm:grid-cols-2 gap-6">
+          <div>
+            <div className="flex items-center justify-between mb-3">
+              <p className="text-[11px] font-semibold text-green-400 uppercase tracking-wider">Outstanding</p>
+            </div>
+            <div className="space-y-3">
+              {suggestions.strong.map((item, i) => (
+                <Card key={i} item={item} index={i} variant="strong" />
+              ))}
+            </div>
           </div>
-        ) : ideasError ? (
-          <div className="text-xs text-amber-400 bg-amber-900/10 border border-amber-800/30 rounded-lg p-4">
-            {ideasError}
+          <div>
+            <div className="flex items-center justify-between mb-3">
+              <p className="text-[11px] font-semibold text-orange-400 uppercase tracking-wider">To consider</p>
+              <button
+                onClick={fetchSuggestions}
+                className="flex items-center gap-1 text-[10px] text-[#475569] hover:text-[#94a3b8] transition-colors"
+              >
+                <RefreshCw size={10} />
+                Regenerate
+              </button>
+            </div>
+            <div className="space-y-3">
+              {suggestions.consider.map((item, i) => (
+                <Card key={i} item={item} index={i} variant="consider" />
+              ))}
+            </div>
           </div>
-        ) : (
-          <div className="space-y-3">
-            {ideas.map((idea, i) => (
-              <div key={i} className="bg-[#0f172a] border border-[#334155] rounded-lg p-4 space-y-2">
-                <div className="flex items-start gap-2.5">
-                  <span className="text-xs font-bold text-[#a78bfa] mt-px shrink-0 w-4">{i + 1}</span>
-                  <h3 className="text-sm font-semibold text-[#e2e8f0] leading-snug">{idea.title}</h3>
-                </div>
-                {idea.why && (
-                  <div className="pl-6 space-y-0.5">
-                    <span className="text-[9px] font-semibold text-[#334155] uppercase tracking-wider">Why</span>
-                    <p className="text-xs text-[#475569] leading-relaxed">{idea.why}</p>
-                  </div>
-                )}
-                {idea.tryText && (
-                  <div className="pl-6 space-y-0.5">
-                    <span className="text-[9px] font-semibold text-[#475569] uppercase tracking-wider">Try</span>
-                    <p className="text-xs text-[#94a3b8] leading-relaxed">{idea.tryText}</p>
-                  </div>
-                )}
-              </div>
-            ))}
-          </div>
-        )}
-      </div>
+        </div>
+      )}
 
       {/* Q&A */}
-      <div className="border-t border-[#334155] pt-5 space-y-3">
-        <p className="text-[10px] text-[#475569]">
-          Ask a question about Nick&apos;s sessions, pacing patterns, or facilitation style.
-        </p>
+      <div className="border-t border-[#334155] pt-6 space-y-3">
+        <p className="text-[10px] text-[#475569]">Ask a question about the data — specific patterns, facilitation style, or anything you want to dig into.</p>
         <div className="flex gap-2">
           <input
             value={question}
@@ -194,7 +222,7 @@ export default function CoachingPanel() {
         </div>
 
         {(answer !== null || loadingAnswer) && (
-          <div className="bg-[#0f172a] border border-[#334155] rounded-lg p-4 min-h-[60px]">
+          <div className="bg-[#0f172a] border border-[#334155] rounded-lg p-4 min-h-[56px]">
             {answer ? (
               <p className="text-xs text-[#94a3b8] leading-relaxed whitespace-pre-wrap">
                 {answer}
@@ -210,10 +238,7 @@ export default function CoachingPanel() {
             )}
           </div>
         )}
-
-        {answerError && (
-          <p className="text-[10px] text-red-400">{answerError}</p>
-        )}
+        {answerError && <p className="text-[10px] text-red-400">{answerError}</p>}
       </div>
     </div>
   )

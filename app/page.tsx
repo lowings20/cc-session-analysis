@@ -1,6 +1,7 @@
 import { Suspense } from 'react'
 import { getDashboard } from '@/lib/data'
 import DashboardView from '@/components/DashboardView'
+import DashboardCoach from '@/components/DashboardCoach'
 import staffMappingsRaw from '@/app/data/staff-mappings.json'
 import type { StaffMap } from '@/lib/insights'
 
@@ -25,8 +26,11 @@ export default async function Page() {
   const staffMap = staffMappingsRaw as unknown as StaffMap
 
   return (
-    <Suspense fallback={<div className="p-8 text-[#94a3b8]">Loading…</div>}>
-      <DashboardView dashboard={dashboard} snapshotDate={snapshotDate} staffMap={staffMap} />
-    </Suspense>
+    <>
+      <DashboardCoach />
+      <Suspense fallback={<div className="p-8 text-[#94a3b8]">Loading…</div>}>
+        <DashboardView dashboard={dashboard} snapshotDate={snapshotDate} staffMap={staffMap} />
+      </Suspense>
+    </>
   )
 }

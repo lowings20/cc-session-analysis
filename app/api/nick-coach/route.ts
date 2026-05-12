@@ -51,21 +51,24 @@ export async function POST(req: NextRequest) {
   const client = new Anthropic({ apiKey })
 
   const userMessage = type === 'suggestions'
-    ? `Based on Nick's data, give him exactly 3 specific, honest coaching suggestions to help him improve.
+    ? `Give Nick White feedback on his facilitation in exactly two parts.
 
-Each should be grounded in something concrete from the data (talk time %, score gaps, pacing, participant language). Don't just be encouraging — be direct about what the data actually suggests.
+Part 1 — 3 things he does OUTSTANDINGLY well. Be specific and grounded in the data.
 
-Format each idea exactly like this (nothing else before or between):
-
-IDEA: [title, 5 words or fewer]
-WHY: [one sentence grounding this in the data]
-TRY: [one or two sentences of what to actually do differently]
+STRONG: [title, 5 words or fewer]
+DETAIL: [1–2 sentences referencing specific data — talk time %, scores, participant quotes, or facilitation moves]
 ---
 
-Repeat for ideas 2 and 3. End after idea 3 — no summary.`
-    : `Nick is asking a coaching question. Answer specifically, using his session data where relevant. Be direct.
+Part 2 — 3 things he should CONSIDER working on. Be honest and direct; do not soften or hedge.
 
-Nick's question: ${question}`
+CONSIDER: [title, 5 words or fewer]
+DETAIL: [1–2 sentences referencing specific data]
+---
+
+Output: three STRONG/DETAIL/--- blocks, then three CONSIDER/DETAIL/--- blocks. Nothing else.`
+    : `Nick or his programme manager is asking a coaching question. Answer specifically using his session data. Be direct.
+
+Question: ${question}`
 
   const stream = await client.messages.stream({
     model: 'claude-opus-4-6',

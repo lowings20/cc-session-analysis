@@ -64,7 +64,6 @@ export default async function NickPage() {
     s.magicMoments.map(m => ({ ...m, caseShort: s.caseShort, date: s.date }))
   )
 
-  // Survey stats for Nick
   const nickSurveys = nickSessions
     .map(s => ({ session: s, survey: surveyScores[s.id] ?? null }))
     .filter(x => x.survey !== null) as Array<{
@@ -86,16 +85,16 @@ export default async function NickPage() {
     <div className="min-h-screen">
       <header className="bg-[#1e293b] border-b border-[#334155] px-6 py-4">
         <a
-          href="/insights"
+          href="/"
           className="inline-flex items-center gap-1.5 text-xs text-[#94a3b8] hover:text-[#e2e8f0] transition-colors mb-3"
         >
           <ArrowLeft size={12} />
-          Back to insights
+          Back to dashboard
         </a>
         <div>
           <h1 className="text-lg font-semibold text-[#e2e8f0]">Nick White — Facilitator Deep Dive</h1>
           <p className="text-xs text-[#94a3b8] mt-0.5">
-            {nickPts.length} sessions · BectonDickinson EMEA &amp; GA LEAP programme
+            {nickPts.length} sessions · BectonDickinson EMEA LEAP programme
           </p>
         </div>
       </header>
@@ -107,7 +106,7 @@ export default async function NickPage() {
           {[
             { label: 'Sessions', value: nickPts.length },
             { label: 'Avg overrun', value: avgOverrun !== null ? `${avgOverrun > 0 ? '+' : ''}${avgOverrun}m` : '—' },
-            { label: '% overran', value: `${overranCount}/${nickPts.length}` },
+            { label: 'Sessions overran', value: `${overranCount} of ${nickPts.length}` },
             { label: 'Avg Q4 score', value: avgQ4 !== null ? avgQ4.toFixed(2) : '—' },
           ].map(s => (
             <div key={s.label} className="bg-[#1e293b] border border-[#334155] rounded-lg p-4">
@@ -115,6 +114,21 @@ export default async function NickPage() {
               <div className="text-[10px] text-[#94a3b8] mt-0.5">{s.label}</div>
             </div>
           ))}
+        </div>
+
+        {/* AI coaching — outstanding + consider + Q&A */}
+        <Section
+          title="Coaching overview"
+          subtitle="Auto-generated from session data. Regenerate for a fresh perspective, or ask a specific question."
+        >
+          <CoachingPanel apiRoute="/api/nick-coach" />
+        </Section>
+
+        {/* ── Session data ─────────────────────────────────────── */}
+        <div className="flex items-center gap-3 pt-2">
+          <div className="flex-1 border-t border-[#334155]" />
+          <span className="text-[10px] text-[#334155] uppercase tracking-widest">Session data</span>
+          <div className="flex-1 border-t border-[#334155]" />
         </div>
 
         {/* Talk time */}
@@ -179,14 +193,6 @@ export default async function NickPage() {
           </Section>
         )}
 
-        {/* AI coaching */}
-        <Section
-          title="3 ideas to consider"
-          subtitle="Auto-generated from session data. Regenerate for a fresh perspective, or ask a specific question below."
-        >
-          <CoachingPanel />
-        </Section>
-
         {/* Open-text survey responses */}
         <Section
           title="What participants said"
@@ -194,11 +200,9 @@ export default async function NickPage() {
         >
           <div className="space-y-6">
             {nickSurveys.map(({ session, survey }) => {
-              const responses = [
-                ...(survey.q3_takeaways ?? []).filter(r => !r.startsWith('The facilitator was')),
-                ...(survey.q6_liked_most ?? []),
-              ]
-              if (!responses.length) return null
+              const hasQ3 = survey.q3_takeaways.filter(r => !r.startsWith('The facilitator was')).length > 0
+              const hasQ6 = survey.q6_liked_most.length > 0
+              if (!hasQ3 && !hasQ6) return null
               return (
                 <div key={session.id}>
                   <div className="flex items-center gap-2 mb-3">
@@ -207,8 +211,8 @@ export default async function NickPage() {
                       {session.caseShort}
                     </span>
                   </div>
-                  <div className="space-y-1.5">
-                    {survey.q3_takeaways.filter(r => !r.startsWith('The facilitator was')).length > 0 && (
+                  <div className="space-y-4">
+                    {hasQ3 && (
                       <div>
                         <div className="text-[10px] text-[#475569] mb-1.5 uppercase tracking-wide">Key takeaways</div>
                         <ul className="space-y-1">
@@ -223,8 +227,8 @@ export default async function NickPage() {
                         </ul>
                       </div>
                     )}
-                    {survey.q6_liked_most.length > 0 && (
-                      <div className="mt-3">
+                    {hasQ6 && (
+                      <div>
                         <div className="text-[10px] text-[#475569] mb-1.5 uppercase tracking-wide">Liked most</div>
                         <ul className="space-y-1">
                           {survey.q6_liked_most.map((r, i) => (
