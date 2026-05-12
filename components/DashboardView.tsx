@@ -359,7 +359,7 @@ export default function DashboardView({
       <header className="bg-[#1e293b] border-b border-[#334155] px-6 pt-4 sticky top-0 z-40">
         <div className="flex items-start justify-between gap-4">
           <div>
-            <h1 className="text-lg font-semibold text-[#e2e8f0]">Runsheet vs Actual</h1>
+            <h1 className="text-lg font-semibold text-[#e2e8f0]">Case Challenge Dashboard</h1>
             <p className="text-xs text-[#94a3b8] mt-0.5">
               cc.abilitie.com session pacing analysis
               {snapshotDate && ` · snapshot from ${snapshotDate}`}
