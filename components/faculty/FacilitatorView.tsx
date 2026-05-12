@@ -319,24 +319,22 @@ export default function FacilitatorView({ activeFacilitator, sessions }: Props) 
         <p className="text-xs font-semibold text-[#e2e8f0]">{sessions.length} sessions in this dataset</p>
 
         {/* Column headers */}
-        <div className="grid grid-cols-[5rem_4rem_1fr_5rem_4rem_5rem_4rem] gap-x-3 items-center">
+        <div className="grid grid-cols-[5rem_4rem_1fr_5rem_4rem_5rem] gap-x-3 items-center">
           <span className="text-[10px] text-[#334155] uppercase tracking-wide">Date</span>
           <span className="text-[10px] text-[#334155] uppercase tracking-wide">Case</span>
           <span className="text-[10px] text-[#334155] uppercase tracking-wide">Cohort</span>
           <span className="text-[10px] text-[#334155] uppercase tracking-wide text-center">Sim admin</span>
           <span className="text-[10px] text-[#334155] uppercase tracking-wide text-center">Survey</span>
           <span className="text-[10px] text-[#334155] uppercase tracking-wide text-center">Transcript</span>
-          <span className="text-[10px] text-[#334155] uppercase tracking-wide text-center">Magic</span>
         </div>
 
         <div className="space-y-2.5 border-t border-[#334155]/50 pt-3">
           {sessions.map(s => {
             const hasSim = !!(s.simScores?.chapter_scores && Object.keys(s.simScores.chapter_scores).length > 0)
             const hasSurvey = !!s.survey
-            const hasTranscript = !!s.talkTime
-            const hasMagic = s.magicMoments.length > 0
+            const hasTranscript = !!(s.talkTime || s.magicMoments.length > 0)
             return (
-              <div key={s.id} className="grid grid-cols-[5rem_4rem_1fr_5rem_4rem_5rem_4rem] gap-x-3 items-center">
+              <div key={s.id} className="grid grid-cols-[5rem_4rem_1fr_5rem_4rem_5rem] gap-x-3 items-center">
                 <span className="text-xs text-[#e2e8f0]">{s.date.replace(', 2026', '')}</span>
                 <span className="text-[10px] px-1.5 py-0.5 rounded bg-[#0f172a] border border-[#334155] text-[#475569] text-center">
                   {s.caseShort}
@@ -345,7 +343,6 @@ export default function FacilitatorView({ activeFacilitator, sessions }: Props) 
                 <Check present={hasSim} />
                 <Check present={hasSurvey} />
                 <Check present={hasTranscript} />
-                <Check present={hasMagic} />
               </div>
             )
           })}
