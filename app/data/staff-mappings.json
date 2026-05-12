@@ -96,10 +96,10 @@
     "score": 50
   },
   "8a2532eb-aa70-4e32-b3a9-982b506cab2e": {
-    "faculty": "James Gutierrez",
+    "faculty": "Andy",
     "producer": null,
-    "program": "ENTAIN Group ELP C7 Apr 2026: AIC - Building Effective Teams",
-    "score": 50
+    "program": null,
+    "score": 100
   },
   "d0b4809c-9f71-47a2-bc37-6096a34976bf": {
     "faculty": "Paul Kirkitelos",
@@ -156,15 +156,15 @@
     "score": 65
   },
   "ccd1314b-60e7-4e8b-a0cd-edf0541a9d12": {
-    "faculty": null,
+    "faculty": "Paul",
     "producer": null,
-    "program": "CGSH:IC_2026",
-    "score": 55
+    "program": null,
+    "score": 100
   },
   "cef29ffc-6256-44f8-8ebe-13cf6524eddd": {
-    "faculty": "James Gutierrez",
+    "faculty": "Andy",
     "producer": null,
-    "program": "ENTAIN Group ELP C7 Apr 2026: AIC - Shifting Mindsets and Behavior",
+    "program": null,
     "score": 100
   }
 }
