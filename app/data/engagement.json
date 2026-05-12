@@ -1,0 +1,296 @@
+{
+  "efcd2a40-0d14-4e98-a087-c33ae52cd0f3": {
+    "chapter_scores": {
+      "IWA_Ch4": {
+        "avg": 74.63,
+        "median": 73.5,
+        "min": 63,
+        "max": 90,
+        "n": 8,
+        "zeros": 0
+      }
+    },
+    "reflection_pct": 33.3,
+    "conversation": {
+      "total": 184,
+      "user": 84,
+      "asst": 100,
+      "teams": 8,
+      "players": 21
+    }
+  },
+  "d1be1c97-7a50-44b7-ada4-0f208c38ebd2": {
+    "chapter_scores": {
+      "IWA_Ch4": {
+        "avg": 85.7,
+        "median": 86.5,
+        "min": 70,
+        "max": 100,
+        "n": 10,
+        "zeros": 0
+      }
+    },
+    "reflection_pct": 72.7,
+    "conversation": {
+      "total": 314,
+      "user": 147,
+      "asst": 167,
+      "teams": 10,
+      "players": 22
+    }
+  },
+  "7c228f89-3589-41a3-8316-fafa689f8e63": {
+    "chapter_scores": {
+      "IWA_Ch4": {
+        "avg": 70.09,
+        "median": 76,
+        "min": 0,
+        "max": 98,
+        "n": 11,
+        "zeros": 1
+      }
+    },
+    "reflection_pct": 70.4,
+    "conversation": {
+      "total": 321,
+      "user": 153,
+      "asst": 168,
+      "teams": 11,
+      "players": 27
+    }
+  },
+  "aa585374-b327-4387-a4ca-4cbff5df52e9": {
+    "chapter_scores": {
+      "IWA_Ch4": {
+        "avg": 84.0,
+        "median": 86.5,
+        "min": 52,
+        "max": 96,
+        "n": 12,
+        "zeros": 0
+      }
+    },
+    "reflection_pct": 84.0,
+    "bookmarks": 1,
+    "conversation": {
+      "total": 432,
+      "user": 204,
+      "asst": 228,
+      "teams": 12,
+      "players": 25
+    }
+  },
+  "e108b56c-b7b1-4189-bf69-d2d783d50bcd": {
+    "chapter_scores": {
+      "MP_Ch1_Gelatoat": {
+        "avg": 88.29,
+        "median": 95,
+        "min": 36,
+        "max": 100,
+        "n": 7,
+        "zeros": 0
+      },
+      "MP_Ch2_Demand": {
+        "avg": 81.0,
+        "median": 83,
+        "min": 65,
+        "max": 92,
+        "n": 7,
+        "zeros": 0
+      },
+      "MP_Ch3_Recommendation": {
+        "avg": 84.14,
+        "median": 85,
+        "min": 75,
+        "max": 91,
+        "n": 7,
+        "zeros": 0
+      }
+    },
+    "reflection_pct": 10.7,
+    "conversation": {
+      "total": 220,
+      "user": 101,
+      "asst": 119,
+      "teams": 7,
+      "players": 28
+    }
+  },
+  "1c336ad4-7985-45cc-a4c7-47c46ff6229a": {
+    "chapter_scores": {
+      "MP_Ch1_Gelatoat": {
+        "avg": 74.0,
+        "median": 94,
+        "min": 5,
+        "max": 97,
+        "n": 13,
+        "zeros": 0,
+        "fails": 2
+      },
+      "MP_Ch2_Demand": {
+        "avg": 89.38,
+        "median": 90,
+        "min": 73,
+        "max": 98,
+        "n": 13,
+        "zeros": 0
+      },
+      "MP_Ch3_Recommendation": {
+        "avg": 74.92,
+        "median": 76,
+        "min": 0,
+        "max": 95,
+        "n": 13,
+        "zeros": 1
+      }
+    },
+    "reflection_pct": 11.8,
+    "conversation": {
+      "total": 437,
+      "user": 202,
+      "asst": 235,
+      "teams": 13,
+      "players": 51
+    }
+  },
+  "4ba46e37-7378-432a-a4ed-414d1c5abff3": {
+    "chapter_scores": {
+      "MP_Ch1_Gelatoat": {
+        "avg": 61.63,
+        "median": 64.5,
+        "min": 12,
+        "max": 100,
+        "n": 8,
+        "zeros": 0
+      },
+      "MP_Ch2_Demand": {
+        "avg": 89.38,
+        "median": 91,
+        "min": 78,
+        "max": 95,
+        "n": 8,
+        "zeros": 0
+      },
+      "MP_Ch3_Recommendation": {
+        "avg": 92.75,
+        "median": 92,
+        "min": 87,
+        "max": 98,
+        "n": 8,
+        "zeros": 0
+      }
+    },
+    "reflection_pct": 55.6,
+    "conversation": {
+      "total": 290,
+      "user": 132,
+      "asst": 158,
+      "teams": 8,
+      "players": 18
+    }
+  },
+  "a9dabb46-8808-4f47-9396-fb6e0078b059": {
+    "chapter_scores": {
+      "MP_Ch1_Gelatoat": {
+        "avg": 54.38,
+        "median": 70.5,
+        "min": 0,
+        "max": 99,
+        "n": 8,
+        "zeros": 1
+      },
+      "MP_Ch2_Demand": {
+        "avg": 63.38,
+        "median": 77,
+        "min": 0,
+        "max": 90,
+        "n": 8,
+        "zeros": 1
+      },
+      "MP_Ch3_Recommendation": {
+        "avg": 68.38,
+        "median": 81,
+        "min": 0,
+        "max": 93,
+        "n": 8,
+        "zeros": 1
+      }
+    },
+    "reflection_pct": 23.3,
+    "bookmarks": 19,
+    "conversation": {
+      "total": 245,
+      "user": 113,
+      "asst": 132,
+      "teams": 8,
+      "players": 30
+    }
+  },
+  "f2ce48ec-749a-4e2e-a169-873685fc0647": {
+    "chapter_scores": {
+      "MP_Ch1_Gelatoat": {
+        "avg": 68.5,
+        "median": 86,
+        "min": 0,
+        "max": 100,
+        "n": 10,
+        "zeros": 1
+      },
+      "MP_Ch2_Demand": {
+        "avg": 61.0,
+        "median": 81.5,
+        "min": 0,
+        "max": 96,
+        "n": 10,
+        "zeros": 2
+      },
+      "MP_Ch3_Recommendation": {
+        "avg": 66.0,
+        "median": 81,
+        "min": 0,
+        "max": 89,
+        "n": 10,
+        "zeros": 2
+      }
+    },
+    "reflection_pct": 45.8,
+    "bookmarks": 1,
+    "conversation": {
+      "total": 318,
+      "user": 145,
+      "asst": 173,
+      "teams": 10,
+      "players": 24
+    }
+  },
+  "61f7de83-8dd8-4b38-ba1d-e46f3b0721bb": {
+    "reflection_pct": 0.0,
+    "conversation": {
+      "total": 274,
+      "user": 126,
+      "asst": 148,
+      "teams": 23,
+      "players": 46
+    }
+  },
+  "e76ee14e-d6cc-4c96-b3d9-8188363250eb": {
+    "reflection_pct": 87.8,
+    "conversation": {
+      "total": 302,
+      "user": 141,
+      "asst": 161,
+      "teams": 21,
+      "players": 41
+    }
+  },
+  "0472226f-2c77-4655-82d0-4ac5c4e867ae": {
+    "reflection_pct": 0.0,
+    "conversation": {
+      "total": 247,
+      "user": 118,
+      "asst": 129,
+      "teams": 11,
+      "players": 27
+    }
+  }
+}

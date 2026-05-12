@@ -4,6 +4,7 @@ import { computeSessionPoints } from '@/lib/insights'
 import staffMappingsRaw from '@/app/data/staff-mappings.json'
 import surveyScoresRaw from '@/app/data/survey-scores.json'
 import nickAnalysisRaw from '@/app/data/nick-analysis.json'
+import engagementRaw from '@/app/data/engagement.json'
 import type { StaffMap } from '@/lib/insights'
 import TalkTimeChart from '@/components/faculty/TalkTimeChart'
 import MagicMomentCard from '@/components/faculty/MagicMomentCard'
@@ -18,10 +19,23 @@ type SurveyEntry = {
   q3_takeaways: string[]
   q5_facilitator_feedback: string[]
   q6_liked_most: string[]
+  q7_improve: string[]
+  q8_comments: string[]
+}
+
+type ChapterScore = { avg: number; median: number; min: number; max: number; n: number; zeros?: number }
+type EngagementEntry = { chapter_scores?: Record<string, ChapterScore>; reflection_pct?: number; bookmarks?: number }
+
+const CHAPTER_LABEL: Record<string, string> = {
+  IWA_Ch4: 'Ch4 (narrative outcome)',
+  MP_Ch1_Gelatoat: 'Ch1 – Gelat-oat',
+  MP_Ch2_Demand: 'Ch2 – Demand',
+  MP_Ch3_Recommendation: 'Ch3 – Recommendation',
 }
 
 const surveyScores = surveyScoresRaw as unknown as Record<string, SurveyEntry>
 const staffMap = staffMappingsRaw as unknown as StaffMap
+const engagement = engagementRaw as unknown as Record<string, EngagementEntry>
 
 function ScoreBar({ value, max = 5 }: { value: number; max?: number }) {
   const pct = (value / max) * 100
@@ -174,6 +188,53 @@ export default async function NickPage() {
           </div>
         </Section>
 
+        {/* Simulation scores */}
+        {(() => {
+          const nickEngSessions = nickSurveys
+            .map(({ session }) => ({ session, eng: engagement[session.id] ?? null }))
+            .filter(x => x.eng?.chapter_scores)
+          if (!nickEngSessions.length) return null
+          return (
+            <Section
+              title="Simulation scores"
+              subtitle="Team average scores per chapter (out of 100). Reflection participation from Arrow platform."
+            >
+              <div className="divide-y divide-[#334155]/50">
+                {nickEngSessions.map(({ session, eng }) => (
+                  <div key={session.id} className="py-3 first:pt-0 last:pb-0">
+                    <div className="flex items-center gap-2 mb-3">
+                      <span className="text-xs font-medium text-[#e2e8f0]">{session.date.replace(', 2026', '')}</span>
+                      <span className="text-[10px] text-[#475569] px-1.5 py-0.5 rounded bg-[#0f172a] border border-[#334155]">
+                        {session.caseShort}
+                      </span>
+                      {eng!.reflection_pct !== undefined && (
+                        <span className="text-[10px] text-[#475569]">
+                          {Math.round(eng!.reflection_pct!)}% reflected
+                        </span>
+                      )}
+                    </div>
+                    <div className="space-y-2">
+                      {Object.entries(eng!.chapter_scores!).map(([key, s]) => {
+                        const color = s.avg >= 80 ? '#4ade80' : s.avg >= 65 ? '#facc15' : '#f87171'
+                        return (
+                          <div key={key} className="flex items-center gap-3">
+                            <span className="text-[10px] text-[#475569] w-40 shrink-0">{CHAPTER_LABEL[key] ?? key}</span>
+                            <div className="flex-1 bg-[#0f172a] rounded-full h-1.5 overflow-hidden">
+                              <div className="h-full rounded-full" style={{ width: `${s.avg}%`, background: color }} />
+                            </div>
+                            <span className="text-xs font-semibold tabular-nums w-8 text-right" style={{ color }}>{Math.round(s.avg)}</span>
+                            <span className="text-[10px] text-[#334155] w-24 shrink-0">({s.min}–{s.max}, n={s.n})</span>
+                          </div>
+                        )
+                      })}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </Section>
+          )
+        })()}
+
         {/* Magic moments */}
         {allMoments.length > 0 && (
           <Section
@@ -196,13 +257,15 @@ export default async function NickPage() {
         {/* Open-text survey responses */}
         <Section
           title="What participants said"
-          subtitle="Open-text responses from Arrow surveys. Q3 = key takeaway, Q6 = what they liked most."
+          subtitle="Open-text responses from Arrow surveys. Q3 = key takeaway, Q6 = what they liked most, Q7 = how to improve."
         >
           <div className="space-y-6">
             {nickSurveys.map(({ session, survey }) => {
-              const hasQ3 = survey.q3_takeaways.filter(r => !r.startsWith('The facilitator was')).length > 0
+              const takeaways = survey.q3_takeaways.filter(r => !r.startsWith('The facilitator was'))
+              const hasQ3 = takeaways.length > 0
               const hasQ6 = survey.q6_liked_most.length > 0
-              if (!hasQ3 && !hasQ6) return null
+              const hasQ7 = (survey.q7_improve ?? []).length > 0
+              if (!hasQ3 && !hasQ6 && !hasQ7) return null
               return (
                 <div key={session.id}>
                   <div className="flex items-center gap-2 mb-3">
@@ -216,14 +279,12 @@ export default async function NickPage() {
                       <div>
                         <div className="text-[10px] text-[#475569] mb-1.5 uppercase tracking-wide">Key takeaways</div>
                         <ul className="space-y-1">
-                          {survey.q3_takeaways
-                            .filter(r => !r.startsWith('The facilitator was'))
-                            .map((r, i) => (
-                              <li key={i} className="text-xs text-[#94a3b8] leading-relaxed flex gap-2">
-                                <span className="text-[#334155] shrink-0">—</span>
-                                <span>{r.replace(/^\d+\.\s*/, '')}</span>
-                              </li>
-                            ))}
+                          {takeaways.map((r, i) => (
+                            <li key={i} className="text-xs text-[#94a3b8] leading-relaxed flex gap-2">
+                              <span className="text-[#334155] shrink-0">—</span>
+                              <span>{r.replace(/^\d+\.\s*/, '')}</span>
+                            </li>
+                          ))}
                         </ul>
                       </div>
                     )}
@@ -235,6 +296,19 @@ export default async function NickPage() {
                             <li key={i} className="text-xs text-[#94a3b8] leading-relaxed flex gap-2">
                               <span className="text-[#334155] shrink-0">—</span>
                               <span>{r.replace(/^\d+\.\s*/, '')}</span>
+                            </li>
+                          ))}
+                        </ul>
+                      </div>
+                    )}
+                    {hasQ7 && (
+                      <div>
+                        <div className="text-[10px] text-[#f59e0b] mb-1.5 uppercase tracking-wide">How to improve</div>
+                        <ul className="space-y-1">
+                          {(survey.q7_improve ?? []).map((r, i) => (
+                            <li key={i} className="text-xs text-[#94a3b8] leading-relaxed flex gap-2">
+                              <span className="text-[#334155] shrink-0">—</span>
+                              <span>{r}</span>
                             </li>
                           ))}
                         </ul>

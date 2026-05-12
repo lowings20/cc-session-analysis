@@ -3,16 +3,27 @@ import { NextRequest } from 'next/server'
 import dashboardRaw from '@/app/data/dashboard.json'
 import staffMappingsRaw from '@/app/data/staff-mappings.json'
 import surveyScoresRaw from '@/app/data/survey-scores.json'
+import engagementRaw from '@/app/data/engagement.json'
 import { computeSessionPoints } from '@/lib/insights'
 import type { Dashboard } from '@/app/data/types'
 import type { StaffMap } from '@/lib/insights'
 
-type SurveyEntry = { q1_value: number; q2_learning: number; responses: number }
+type SurveyEntry = { q1_value: number; q2_learning: number; responses: number; q7_improve?: string[]; q8_comments?: string[] }
+type ChapterScore = { avg: number; median: number; min: number; max: number; n: number }
+type EngagementEntry = { chapter_scores?: Record<string, ChapterScore>; reflection_pct?: number; bookmarks?: number }
 type Scope = { type: 'all' } | { type: 'case'; value: string } | { type: 'faculty'; value: string }
+
+const CHAPTER_LABEL: Record<string, string> = {
+  IWA_Ch4: 'IWA Ch4',
+  MP_Ch1_Gelatoat: 'MP Ch1 (Gelat-oat)',
+  MP_Ch2_Demand: 'MP Ch2 (Demand)',
+  MP_Ch3_Recommendation: 'MP Ch3 (Recommendation)',
+}
 
 const dashboard = dashboardRaw as unknown as Dashboard
 const staffMap = staffMappingsRaw as unknown as StaffMap
 const surveyScores = surveyScoresRaw as unknown as Record<string, SurveyEntry>
+const engagement = engagementRaw as unknown as Record<string, EngagementEntry>
 
 function buildContext(scope: Scope): string {
   const allPts = computeSessionPoints(dashboard, staffMap)
@@ -66,6 +77,40 @@ function buildContext(scope: Scope): string {
     return `- ${p.cohort} (${p.caseTitle.replace('Influencing Without Authority', 'IWA').replace('Managing Profitability', 'MP').replace('Enabling Peak Performance', 'EPP').replace('Navigating Critical Conversations', 'NCC')}): ${[intro, end, scores].filter(Boolean).join(', ')}`
   })
 
+  const allQ7 = surveyPts.flatMap(p => surveyScores[p.sessionId].q7_improve ?? [])
+  const q7Section = allQ7.length > 0
+    ? `\nPARTICIPANT FEEDBACK — HOW TO IMPROVE (Q7, verbatim):\n${allQ7.map(q => `- "${q}"`).join('\n')}`
+    : ''
+
+  // Sim scores
+  const engPts = pts.filter(p => engagement[p.sessionId])
+  const chapterScoreLines: string[] = []
+  const chapterMap: Record<string, { total: number; count: number; mins: number[]; maxs: number[] }> = {}
+  for (const p of engPts) {
+    const eng = engagement[p.sessionId]
+    for (const [key, s] of Object.entries(eng.chapter_scores ?? {})) {
+      const label = CHAPTER_LABEL[key] ?? key
+      if (!chapterMap[label]) chapterMap[label] = { total: 0, count: 0, mins: [], maxs: [] }
+      chapterMap[label].total += s.avg
+      chapterMap[label].count++
+      chapterMap[label].mins.push(s.min)
+      chapterMap[label].maxs.push(s.max)
+    }
+  }
+  for (const [label, d] of Object.entries(chapterMap)) {
+    chapterScoreLines.push(`- ${label}: avg score ${Math.round(d.total / d.count)}/100 across ${d.count} session(s)`)
+  }
+  const reflLines = engPts
+    .filter(p => engagement[p.sessionId].reflection_pct !== undefined)
+    .map(p => {
+      const pct = engagement[p.sessionId].reflection_pct!
+      const short = p.caseTitle.replace('Influencing Without Authority', 'IWA').replace('Managing Profitability', 'MP')
+      return `- ${p.cohort} (${short}): ${Math.round(pct)}% reflection participation`
+    })
+  const simSection = (chapterScoreLines.length > 0 || reflLines.length > 0)
+    ? `\nSIMULATION SCORES (out of 100):\n${chapterScoreLines.join('\n')}${reflLines.length > 0 ? `\n\nREFLECTION PARTICIPATION:\n${reflLines.join('\n')}` : ''}`
+    : ''
+
   return `You are an operations and learning design consultant reviewing session delivery data for cc.abilitie.com, a platform running AI-simulation business case sessions for corporate leadership programmes (BectonDickinson EMEA LEAP programme on the Arrow platform).
 
 SCOPE: ${scopeDesc}
@@ -78,6 +123,8 @@ PACING SUMMARY:
 - Late intros: ${lateIntro.length} of ${withIntro.length} sessions
 ${uniqueCases.length > 1 ? `\nBY CASE:\n${caseBreakdown.join('\n')}` : ''}
 ${surveyPts.length > 0 ? `\nSURVEY (${surveyPts.length} sessions with data, scale 1–5):\n- Avg Q1 Content Value: ${avgQ1}\n- Avg Q2 Learning: ${avgQ2}` : ''}
+${simSection}
+${q7Section}
 
 PER-SESSION DETAIL:
 ${perSessionLines.join('\n')}`.trim()

@@ -6,7 +6,7 @@
     "q4_facilitator": 4.88,
     "responses": 8,
     "q3_takeaways": [
-      "1. Title doesn\u2019t always mean influence",
+      "1. Title doesn’t always mean influence",
       "2. Framework on power dynamics and stakeholder map",
       "3. Great tool, super interactive and well built!",
       "4. Loges the AI case study and feedback",
@@ -22,6 +22,16 @@
       "3. The case studies",
       "4. Key to. Identify influencers",
       "5. The possibility of interact with the different characters"
+    ],
+    "q7_improve": [
+      "I would prefer a discussion and construction in group but an individual submissions",
+      "Good as it was. Possible new cases available to do by ourself",
+      "I think these sessions need more theory to be included. It is hard to do a proper exercise with zero information on the topics. I do not feel like I learned enough to be able to use the information at work.",
+      "I would suggest small teams of 4 people instead of only 2."
+    ],
+    "q8_comments": [
+      "Super nice!!",
+      "Thank You!"
     ]
   },
   "d7fc6697-2d36-4f62-826d-43226930fdf5": {
@@ -39,6 +49,14 @@
     "q5_facilitator_feedback": [],
     "q6_liked_most": [
       "1. I love everything about it"
+    ],
+    "q7_improve": [
+      "Better explanation of the positional and personal - formal and informal powers.",
+      "Make it longer :)"
+    ],
+    "q8_comments": [
+      "I think this is a great platform and really good cases so far.",
+      "It could be a little more difficult in my opinion"
     ]
   },
   "7c228f89-3589-41a3-8316-fafa689f8e63": {
@@ -62,14 +80,22 @@
     ],
     "q5_facilitator_feedback": [],
     "q6_liked_most": [
-      "1. It\u2019s amazing technology! I like it!",
+      "1. It’s amazing technology! I like it!",
       "2. Case studies",
       "3. fast feedback on result",
-      "4. How it\u2019s like a game",
+      "4. How it’s like a game",
       "5. love the interactivity! these sessions are amazing!",
       "6. Interesting to learn how to get these info tactically",
       "7. The interaction in the platform is interesting",
       "8. Good engaging exercise"
+    ],
+    "q7_improve": [
+      "More time, less rush",
+      "People are motivated with recognition, so team ranking, perhaps?",
+      "Time sensitive exercise — if possible allocate some additional minutes."
+    ],
+    "q8_comments": [
+      "We need more time to complete the tasks"
     ]
   },
   "d1be1c97-7a50-44b7-ada4-0f208c38ebd2": {
@@ -84,7 +110,11 @@
       "The facilitator was effective in setting up and debriefing the"
     ],
     "q5_facilitator_feedback": [],
-    "q6_liked_most": []
+    "q6_liked_most": [],
+    "q7_improve": [
+      "The session was fast paced and took a little to get the workflow down to work with the small group."
+    ],
+    "q8_comments": []
   },
   "aa585374-b327-4387-a4ca-4cbff5df52e9": {
     "folder": "IWA-04.15.26-Tam",
@@ -94,7 +124,7 @@
     "responses": 16,
     "q3_takeaways": [
       "1. Building alliances",
-      "2. Difference between \u201ctittle & influence",
+      "2. Difference between “tittle & influence",
       "3. Re-evaluate how I connect with influences and bring them in to finalize a pitch",
       "The power dynamic matrix put into words what I think I have known, but it will help Me to organize and name",
       "the power and influence in my next project",
@@ -103,22 +133,29 @@
       "7. Scoping the types of power is new to me and very useful.",
       "8. Need to be more intentional",
       "9. Formal terms to intuitive sources of power dynamics",
-      "10. Strategic thinking on how I\u2019m leveraging my network",
+      "10. Strategic thinking on how I’m leveraging my network",
       "The facilitator was effective in setting up and debriefing the"
     ],
     "q5_facilitator_feedback": [],
     "q6_liked_most": [
       "1. How we could apply concepts in real time",
       "2. Practical.case",
-      "3. The objective was more clear on this one\u2026or I was paying more attention this time :-). The tools are really nice",
+      "3. The objective was more clear on this one…or I was paying more attention this time :-). The tools are really nice",
       "4. Very interactive",
       "5. The ability to have a real dialog and explore is unique and very useful",
       "6. Simulation!!",
       "7. Chance to work with a new colleague",
       "8. Extremely interactive",
-      "I like the ability to have a conversation with a simulated person to get the information I want. I\u2019m a bit of a slow",
+      "I like the ability to have a conversation with a simulated person to get the information I want. I’m a bit of a slow",
       "reader so having a data dump to have to read through is really daunting."
-    ]
+    ],
+    "q7_improve": [
+      "Everything happens so fast!!",
+      "Language barriers for non-English native speakers — some words and sentences were difficult to understand",
+      "Be careful about calling some people truthful (implying others aren't), and making a point of who is vs isn't on camera",
+      "30 more minutes and access to previous chapters content would be great"
+    ],
+    "q8_comments": []
   },
   "e108b56c-b7b1-4189-bf69-d2d783d50bcd": {
     "folder": "MP-04.29.26-Nick",
@@ -137,7 +174,11 @@
       "1. AI",
       "2. Nice to work through the case challenges",
       "3. Exercices business cases"
-    ]
+    ],
+    "q7_improve": [
+      "Practice by myself on the platform"
+    ],
+    "q8_comments": []
   },
   "1c336ad4-7985-45cc-a4c7-47c46ff6229a": {
     "folder": "MP-04.30.26-Nick",
@@ -156,6 +197,14 @@
       "1. the simulator (demand planning, etc.) it helps to understand impact of the few variables",
       "2. The Zena discussion that helps use finetuning our position",
       "3. facility to use"
+    ],
+    "q7_improve": [
+      "Longer conversation with Zena",
+      "For someone not familiar with finance terminology at all, the pace was slightly fast."
+    ],
+    "q8_comments": [
+      "love it!",
+      "thanks"
     ]
   },
   "a9dabb46-8808-4f47-9396-fb6e0078b059": {
@@ -177,7 +226,11 @@
       "1. Simulation",
       "2. digging deep into options was nice",
       "3. Gives tough challenging conversations"
-    ]
+    ],
+    "q7_improve": [
+      "We did not have enough time to do chapters 2/3 — hope to go deeper"
+    ],
+    "q8_comments": []
   },
   "4ba46e37-7378-432a-a4ed-414d1c5abff3": {
     "folder": "MP-05.06.26-Tam",
@@ -195,11 +248,13 @@
     "q5_facilitator_feedback": [],
     "q6_liked_most": [
       "1. Interaction with facilitator and peers",
-      "Different calculations as well as cross functional insights. In real life it\u2019s never black and white so it\u2019s about",
+      "Different calculations as well as cross functional insights. In real life it’s never black and white so it’s about",
       "2. balancing all the risks and having good plans to track and mitigate. Glad it was accessible even to those of us",
       "with a very light finance background",
       "3. Leaning excercise outside of my day to day was very rewarding"
-    ]
+    ],
+    "q7_improve": [],
+    "q8_comments": []
   },
   "f2ce48ec-749a-4e2e-a169-873685fc0647": {
     "folder": "MP-05.07.26-Tam",
@@ -208,12 +263,14 @@
     "q4_facilitator": 5.0,
     "responses": 1,
     "q3_takeaways": [
-      "1. It\u2019s importante to have strong data to support and talk to the C Suite levels",
+      "1. It’s importante to have strong data to support and talk to the C Suite levels",
       "The facilitator was effective in setting up and debriefing the"
     ],
     "q5_facilitator_feedback": [],
     "q6_liked_most": [
-      "1. It\u2019s real life answers"
-    ]
+      "1. It’s real life answers"
+    ],
+    "q7_improve": [],
+    "q8_comments": []
   }
 }

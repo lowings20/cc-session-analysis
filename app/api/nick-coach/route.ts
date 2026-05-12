@@ -2,7 +2,7 @@ import Anthropic from '@anthropic-ai/sdk'
 import { NextRequest } from 'next/server'
 
 const NICK_CONTEXT = `
-You are an expert facilitation coach giving honest, specific coaching to Nick White.
+You are an expert facilitation coach giving honest, specific coaching to Nick White. You have access to his session data including talk time from transcripts, simulation scores, reflection participation rates, survey scores, and participant open-text feedback. When asked what to work on, be candid and specific — reference the data. When asked about other facilitators to learn from, draw on what you know about Tam and FA from this programme's data and be specific about what Nick would actually learn.
 
 Nick is a business school facilitator running AI-simulation case sessions for BectonDickinson's EMEA LEAP leadership programme on the Arrow platform.
 
@@ -29,15 +29,31 @@ PACING:
 - IWA Apr 8 intro ran 5 minutes late
 - MP Apr 29 ran roughly on time
 
+SIMULATION SCORES (out of 100, team averages):
+- IWA Apr 8 Ch4: avg 75, median 74, min 63, max 90 (n=8 teams)
+- MP Apr 29 Ch1: avg 88, Ch2: avg 81, Ch3: avg 84 (n=7 teams each)
+- MP Apr 30 Ch1: avg 74, Ch2: avg 89, Ch3: avg 75 (n=13 teams — note 2 teams failed Ch1)
+
+REFLECTION PARTICIPATION:
+- IWA Apr 8: 33% of participants completed reflections
+- MP Apr 29: 11% of participants completed reflections
+- MP Apr 30: 12% of participants completed reflections
+
 NOTABLE FACILITATION MOVES (from transcripts):
 - Opened MP sessions with "Why do you think we're learning about finance in the age of AI?" — led with provocation before content
 - Redirected finance expert Mark Norman from participant to "coach": "Mark, I want to reframe your role here today. You're not a participant, you're a coach."
 - Debriefed via AI character: "What did Zena tell you that surprised you?"
 - Stated philosophy: "I am not here to teach, I am here to facilitate. Facilitation is about planting seeds."
 
-PARTICIPANT OPEN-TEXT FEEDBACK:
+PARTICIPANT OPEN-TEXT FEEDBACK — LIKED MOST (Q6):
 IWA: "Great balance of theory and practice", "The case studies", "Interactive, relevant", "Influencing without authority is key for my role", "I love everything about it", "Understanding the two types of power"
 MP: "The simulator helps understand impact of variables", "The Zena discussion helps fine-tune our position", "Simple case study with clear scenarios helps understand finance mechanics", "Nice to work through the case challenges"
+
+PARTICIPANT FEEDBACK — HOW TO IMPROVE (Q7, verbatim):
+IWA Apr 8: "I would prefer a discussion and construction in group but individual submissions", "I think these sessions need more theory", "I would suggest small teams of 4 people instead of only 2"
+IWA Apr 9: "Better explanation of the positional and personal — formal and informal powers", "Make it longer :)"
+MP Apr 29: "Practise by myself on the platform"
+MP Apr 30: "Longer conversation with Zena", "For someone not familiar with finance terminology, the pace was slightly fast"
 `.trim()
 
 export async function POST(req: NextRequest) {
@@ -51,28 +67,24 @@ export async function POST(req: NextRequest) {
   const client = new Anthropic({ apiKey })
 
   const userMessage = type === 'suggestions'
-    ? `Give Nick White feedback on his facilitation in exactly two parts.
+    ? `You are writing directly to Nick White about what makes him a distinctive facilitator. The goal is to help him feel seen and recognised — not evaluated. Be specific, warm, and grounded in the actual data.
 
-Part 1 — 3 things he does OUTSTANDINGLY well. Be specific and grounded in the data.
+Give Nick exactly 3–5 "things to lean into": the specific qualities, moves, and instincts that make his facilitation memorable and effective. Draw on the magic moments from transcripts, his talk time pattern, participant quotes, and any score or reflection data. Name the actual moves. Quote him where it lands. Reference specific sessions and specific participants where you can.
 
-STRONG: [title, 5 words or fewer]
-DETAIL: [1–2 sentences referencing specific data — talk time %, scores, participant quotes, or facilitation moves]
+Format each item as:
+
+LEAN: [the quality or move — 6 words or fewer, evocative]
+DETAIL: [2–3 sentences. Be specific. Reference the actual transcript moment, the quote, the participant response, or the score. Help Nick recognise himself in this.]
 ---
 
-Part 2 — 3 things he should CONSIDER working on. Be honest and direct; do not soften or hedge. Do NOT flag that facilitator scores are higher than learning scores — that gap is a known constant in this format and is not meaningful feedback for Nick.
-
-CONSIDER: [title, 5 words or fewer]
-DETAIL: [1–2 sentences referencing specific data]
----
-
-Output: three STRONG/DETAIL/--- blocks, then three CONSIDER/DETAIL/--- blocks. Nothing else.`
-    : `Nick or his programme manager is asking a coaching question. Answer specifically using his session data. Be direct.
+Output only LEAN/DETAIL/--- blocks. Nothing else. No preamble, no summary.`
+    : `Nick or his programme manager is asking a coaching question. Answer specifically using his session data. Be direct and honest. If they're asking about growth areas, be candid — don't hedge.
 
 Question: ${question}`
 
   const stream = await client.messages.stream({
     model: 'claude-opus-4-6',
-    max_tokens: 700,
+    max_tokens: 900,
     system: NICK_CONTEXT,
     messages: [{ role: 'user', content: userMessage }],
   })

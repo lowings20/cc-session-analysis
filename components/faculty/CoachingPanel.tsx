@@ -8,27 +8,14 @@ interface Item {
   detail: string
 }
 
-interface Suggestions {
-  strong: Item[]
-  consider: Item[]
-}
-
-function parseItems(text: string, prefix: string): Item[] {
-  // Split on --- separators, find blocks with the given prefix
+function parseItems(text: string): Item[] {
   const blocks = text.split(/\n---\n?/)
   return blocks.flatMap(block => {
-    const titleMatch = block.match(new RegExp(`${prefix}:\\s*(.+)`))
+    const titleMatch = block.match(/LEAN:\s*(.+)/)
     const detailMatch = block.match(/DETAIL:\s*([\s\S]+?)(?=\n[A-Z]+:|$)/)
     if (!titleMatch) return []
     return [{ title: titleMatch[1].trim(), detail: detailMatch?.[1]?.trim() ?? '' }]
-  }).slice(0, 3)
-}
-
-function parseSuggestions(text: string): Suggestions {
-  return {
-    strong: parseItems(text, 'STRONG'),
-    consider: parseItems(text, 'CONSIDER'),
-  }
+  }).slice(0, 5)
 }
 
 async function streamRequest(
@@ -70,19 +57,11 @@ function Skeleton() {
   )
 }
 
-interface CardProps {
-  item: Item
-  index: number
-  variant: 'strong' | 'consider'
-}
-
-function Card({ item, index, variant }: CardProps) {
-  const accent = variant === 'strong' ? '#4ade80' : '#fb923c'
-  const bg = variant === 'strong' ? 'border-green-900/40' : 'border-orange-900/40'
+function LeanCard({ item, index }: { item: Item; index: number }) {
   return (
-    <div className={`bg-[#0f172a] border ${bg} rounded-lg p-4 space-y-2`}>
+    <div className="bg-[#0f172a] border border-green-900/30 rounded-lg p-4 space-y-2">
       <div className="flex items-start gap-2.5">
-        <span className="text-xs font-bold mt-px shrink-0 w-4" style={{ color: accent }}>{index + 1}</span>
+        <span className="text-xs font-bold mt-px shrink-0 w-4 text-green-400">{index + 1}</span>
         <h3 className="text-sm font-semibold text-[#e2e8f0] leading-snug">{item.title}</h3>
       </div>
       {item.detail && (
@@ -92,21 +71,29 @@ function Card({ item, index, variant }: CardProps) {
   )
 }
 
+const PRESETS = [
+  { label: 'Give me 3 things to consider', question: 'Give me 3 honest things I should consider working on to keep developing as a facilitator.' },
+  { label: 'Who should I learn from?', question: 'Tell me one facilitator I might learn something from based on the programme data. Who is it and what specific question should I ask them?' },
+]
+
 interface Props {
   apiRoute?: string
 }
 
 export default function CoachingPanel({ apiRoute = '/api/nick-coach' }: Props) {
-  const [suggestions, setSuggestions] = useState<Suggestions | null>(null)
+  const [items, setItems] = useState<Item[] | null>(null)
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
 
   const [question, setQuestion] = useState('')
+  const [showInput, setShowInput] = useState(false)
   const [answer, setAnswer] = useState<string | null>(null)
   const [loadingAnswer, setLoadingAnswer] = useState(false)
   const [answerError, setAnswerError] = useState<string | null>(null)
+  const [activePreset, setActivePreset] = useState<string | null>(null)
 
   const abortRef = useRef<AbortController | null>(null)
+  const inputRef = useRef<HTMLInputElement>(null)
 
   const fetchSuggestions = async () => {
     abortRef.current?.abort()
@@ -114,10 +101,10 @@ export default function CoachingPanel({ apiRoute = '/api/nick-coach' }: Props) {
     abortRef.current = ac
     setLoading(true)
     setError(null)
-    setSuggestions(null)
+    setItems(null)
     try {
       const full = await streamRequest(apiRoute, { type: 'suggestions' }, () => {}, ac.signal)
-      setSuggestions(parseSuggestions(full))
+      setItems(parseItems(full))
     } catch (e) {
       if ((e as Error).name === 'AbortError') return
       const msg = (e as Error).message
@@ -136,15 +123,15 @@ export default function CoachingPanel({ apiRoute = '/api/nick-coach' }: Props) {
     return () => abortRef.current?.abort()
   }, []) // eslint-disable-line react-hooks/exhaustive-deps
 
-  const askQuestion = async () => {
-    const q = question.trim()
-    if (!q || loadingAnswer) return
+  const sendQuestion = async (q: string) => {
+    const trimmed = q.trim()
+    if (!trimmed || loadingAnswer) return
     setQuestion('')
     setAnswer('')
     setAnswerError(null)
     setLoadingAnswer(true)
     try {
-      await streamRequest(apiRoute, { type: 'question', question: q }, partial => setAnswer(partial))
+      await streamRequest(apiRoute, { type: 'question', question: trimmed }, partial => setAnswer(partial))
     } catch (e) {
       setAnswerError((e as Error).message)
     } finally {
@@ -152,74 +139,106 @@ export default function CoachingPanel({ apiRoute = '/api/nick-coach' }: Props) {
     }
   }
 
+  const handlePreset = (preset: typeof PRESETS[number]) => {
+    setActivePreset(preset.label)
+    setShowInput(false)
+    setAnswer(null)
+    setAnswerError(null)
+    sendQuestion(preset.question)
+  }
+
+  const handleCustomSubmit = () => {
+    setActivePreset(null)
+    sendQuestion(question)
+  }
+
   return (
     <div className="space-y-8">
-      {/* Outstanding + Consider side by side on wide, stacked on narrow */}
-      {error ? (
-        <div className="text-xs text-amber-400 bg-amber-900/10 border border-amber-800/30 rounded-lg p-4">{error}</div>
-      ) : loading ? (
-        <div className="grid sm:grid-cols-2 gap-6">
-          <div>
-            <p className="text-[11px] font-semibold text-green-400 uppercase tracking-wider mb-3">Outstanding</p>
-            <Skeleton />
-          </div>
-          <div>
-            <p className="text-[11px] font-semibold text-orange-400 uppercase tracking-wider mb-3">To consider</p>
-            <Skeleton />
-          </div>
-        </div>
-      ) : suggestions && (
-        <div className="grid sm:grid-cols-2 gap-6">
-          <div>
-            <div className="flex items-center justify-between mb-3">
-              <p className="text-[11px] font-semibold text-green-400 uppercase tracking-wider">Outstanding</p>
-            </div>
-            <div className="space-y-3">
-              {suggestions.strong.map((item, i) => (
-                <Card key={i} item={item} index={i} variant="strong" />
-              ))}
-            </div>
-          </div>
-          <div>
-            <div className="flex items-center justify-between mb-3">
-              <p className="text-[11px] font-semibold text-orange-400 uppercase tracking-wider">To consider</p>
-              <button
-                onClick={fetchSuggestions}
-                className="flex items-center gap-1 text-[10px] text-[#475569] hover:text-[#94a3b8] transition-colors"
-              >
-                <RefreshCw size={10} />
-                Regenerate
-              </button>
-            </div>
-            <div className="space-y-3">
-              {suggestions.consider.map((item, i) => (
-                <Card key={i} item={item} index={i} variant="consider" />
-              ))}
-            </div>
-          </div>
-        </div>
-      )}
 
-      {/* Q&A */}
-      <div className="border-t border-[#334155] pt-6 space-y-3">
-        <p className="text-[10px] text-[#475569]">Ask a question about the data — specific patterns, facilitation style, or anything you want to dig into.</p>
-        <div className="flex gap-2">
-          <input
-            value={question}
-            onChange={e => setQuestion(e.target.value)}
-            onKeyDown={e => { if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); askQuestion() } }}
-            placeholder="e.g. Why might learning scores be lower than facilitator scores?"
-            disabled={loadingAnswer}
-            className="flex-1 bg-[#0f172a] border border-[#334155] rounded-lg px-3 py-2 text-xs text-[#e2e8f0] placeholder:text-[#334155] focus:outline-none focus:border-[#475569] transition-colors disabled:opacity-50"
-          />
+      {/* Things to lean into */}
+      <div>
+        <div className="flex items-center justify-between mb-4">
+          <p className="text-[11px] font-semibold text-green-400 uppercase tracking-wider">Things to lean into</p>
+          {!loading && items && (
+            <button
+              onClick={fetchSuggestions}
+              className="flex items-center gap-1 text-[10px] text-[#475569] hover:text-[#94a3b8] transition-colors"
+            >
+              <RefreshCw size={10} />
+              Regenerate
+            </button>
+          )}
+        </div>
+
+        {error ? (
+          <div className="text-xs text-amber-400 bg-amber-900/10 border border-amber-800/30 rounded-lg p-4">{error}</div>
+        ) : loading ? (
+          <Skeleton />
+        ) : items && (
+          <div className="space-y-3">
+            {items.map((item, i) => (
+              <LeanCard key={i} item={item} index={i} />
+            ))}
+          </div>
+        )}
+      </div>
+
+      {/* Feedback Q&A */}
+      <div className="border-t border-[#334155] pt-6 space-y-4">
+        <p className="text-sm font-medium text-[#e2e8f0]">What are you working on and would like some feedback on?</p>
+
+        <div className="flex flex-wrap gap-2">
+          {PRESETS.map(preset => (
+            <button
+              key={preset.label}
+              onClick={() => handlePreset(preset)}
+              disabled={loadingAnswer}
+              className={`px-3 py-1.5 rounded-lg text-xs border transition-colors disabled:opacity-40 disabled:cursor-not-allowed ${
+                activePreset === preset.label
+                  ? 'bg-[#a78bfa]/20 border-[#a78bfa]/50 text-[#a78bfa]'
+                  : 'bg-transparent border-[#334155] text-[#94a3b8] hover:border-[#475569] hover:text-[#e2e8f0]'
+              }`}
+            >
+              {preset.label}
+            </button>
+          ))}
           <button
-            onClick={askQuestion}
-            disabled={!question.trim() || loadingAnswer}
-            className="px-3 py-2 bg-[#a78bfa]/10 border border-[#a78bfa]/30 rounded-lg text-[#a78bfa] hover:bg-[#a78bfa]/20 transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
+            onClick={() => {
+              setShowInput(true)
+              setActivePreset(null)
+              setTimeout(() => inputRef.current?.focus(), 50)
+            }}
+            disabled={loadingAnswer}
+            className={`px-3 py-1.5 rounded-lg text-xs border transition-colors disabled:opacity-40 disabled:cursor-not-allowed ${
+              showInput && !activePreset
+                ? 'bg-[#a78bfa]/20 border-[#a78bfa]/50 text-[#a78bfa]'
+                : 'bg-transparent border-[#334155] text-[#94a3b8] hover:border-[#475569] hover:text-[#e2e8f0]'
+            }`}
           >
-            <Send size={13} />
+            Enter yourself…
           </button>
         </div>
+
+        {showInput && (
+          <div className="flex gap-2">
+            <input
+              ref={inputRef}
+              value={question}
+              onChange={e => setQuestion(e.target.value)}
+              onKeyDown={e => { if (e.key === 'Enter' && !e.shiftKey) { e.preventDefault(); handleCustomSubmit() } }}
+              placeholder="e.g. How can I get participants talking more?"
+              disabled={loadingAnswer}
+              className="flex-1 bg-[#0f172a] border border-[#334155] rounded-lg px-3 py-2 text-xs text-[#e2e8f0] placeholder:text-[#334155] focus:outline-none focus:border-[#475569] transition-colors disabled:opacity-50"
+            />
+            <button
+              onClick={handleCustomSubmit}
+              disabled={!question.trim() || loadingAnswer}
+              className="px-3 py-2 bg-[#a78bfa]/10 border border-[#a78bfa]/30 rounded-lg text-[#a78bfa] hover:bg-[#a78bfa]/20 transition-colors disabled:opacity-30 disabled:cursor-not-allowed"
+            >
+              <Send size={13} />
+            </button>
+          </div>
+        )}
 
         {(answer !== null || loadingAnswer) && (
           <div className="bg-[#0f172a] border border-[#334155] rounded-lg p-4 min-h-[56px]">
@@ -240,6 +259,7 @@ export default function CoachingPanel({ apiRoute = '/api/nick-coach' }: Props) {
         )}
         {answerError && <p className="text-[10px] text-red-400">{answerError}</p>}
       </div>
+
     </div>
   )
 }

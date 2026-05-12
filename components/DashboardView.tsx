@@ -8,6 +8,29 @@ import type { StaffMap } from '@/lib/insights'
 import { applyFilters, defaultFilterState, parseFilterState, toDateStr, type FilterState } from '@/lib/filter'
 import Timeline from '@/components/Timeline'
 import InsightsTab from '@/components/InsightsTab'
+import engagementRaw from '@/app/data/engagement.json'
+
+type ChapterScore = { avg: number; median: number; min: number; max: number; n: number; zeros?: number }
+type EngagementEntry = {
+  chapter_scores?: Record<string, ChapterScore>
+  reflection_pct?: number
+  bookmarks?: number
+  conversation?: { total: number; user: number; asst: number; teams: number; players: number }
+}
+const engagement = engagementRaw as unknown as Record<string, EngagementEntry>
+
+const CHAPTER_LABEL: Record<string, string> = {
+  IWA_Ch4: 'Ch4',
+  MP_Ch1_Gelatoat: 'Ch1',
+  MP_Ch2_Demand: 'Ch2',
+  MP_Ch3_Recommendation: 'Ch3',
+}
+
+function scoreColor(avg: number) {
+  if (avg >= 80) return '#4ade80'
+  if (avg >= 65) return '#facc15'
+  return '#f87171'
+}
 
 const EPP = 'Enabling Peak Performance'
 
@@ -471,6 +494,36 @@ export default function DashboardView({
                           sessionId={session.id}
                           sessionLabel={session.cohort || session.name}
                         />
+
+                        {/* Sim scores + reflection */}
+                        {(() => {
+                          const eng = engagement[session.id]
+                          if (!eng) return null
+                          const scores = eng.chapter_scores
+                          const reflPct = eng.reflection_pct
+                          return (
+                            <div className="mt-2.5 flex flex-wrap items-center gap-x-4 gap-y-1">
+                              {scores && Object.entries(scores).map(([key, s]) => (
+                                <div key={key} className="flex items-center gap-1.5">
+                                  <span className="text-[10px] text-[#475569]">{CHAPTER_LABEL[key] ?? key}</span>
+                                  <span className="text-[11px] font-semibold tabular-nums" style={{ color: scoreColor(s.avg) }}>
+                                    {Math.round(s.avg)}
+                                  </span>
+                                  <span className="text-[10px] text-[#334155]">avg</span>
+                                  <span className="text-[10px] text-[#475569]">({s.min}–{s.max}, n={s.n})</span>
+                                </div>
+                              ))}
+                              {reflPct !== undefined && (
+                                <div className="flex items-center gap-1.5">
+                                  <span className="text-[10px] text-[#475569]">reflections</span>
+                                  <span className="text-[11px] font-semibold tabular-nums" style={{ color: scoreColor(reflPct) }}>
+                                    {Math.round(reflPct)}%
+                                  </span>
+                                </div>
+                              )}
+                            </div>
+                          )
+                        })()}
                       </div>
                     )
                   })}
