@@ -7,6 +7,7 @@ import type { Dashboard, MergedSession, SegmentBlock } from '@/app/data/types'
 import type { StaffMap } from '@/lib/insights'
 import { applyFilters, defaultFilterState, parseFilterState, toDateStr, type FilterState } from '@/lib/filter'
 import Timeline from '@/components/Timeline'
+import InsightsTab from '@/components/InsightsTab'
 
 const EPP = 'Enabling Peak Performance'
 
@@ -303,6 +304,8 @@ export default function DashboardView({
     [router]
   )
 
+  const [tab, setTab] = useState<'sessions' | 'insights'>('sessions')
+
   const filtered = applyFilters(dashboard, filters)
   const sortedTitles = sortedCaseTitles(dashboard)
   const allCases = sortedTitles
@@ -314,10 +317,23 @@ export default function DashboardView({
 
   const maxSeconds = computeMaxSeconds(filtered.cases ? filtered : dashboard)
 
+  // For InsightsTab scope pickers
+  const caseOptions = sortedTitles.map(title => ({
+    title,
+    count: dashboard.cases[title]?.sessions.length ?? 0,
+  }))
+  const facultyCounts: Record<string, number> = {}
+  for (const entry of Object.values(staffMap)) {
+    if (entry.faculty) facultyCounts[entry.faculty] = (facultyCounts[entry.faculty] ?? 0) + 1
+  }
+  const facultyOptions = Object.entries(facultyCounts)
+    .sort((a, b) => b[1] - a[1])
+    .map(([name, count]) => ({ name, count }))
+
   return (
     <div className="min-h-screen">
       {/* Header */}
-      <header className="bg-[#1e293b] border-b border-[#334155] px-6 py-4 sticky top-0 z-40">
+      <header className="bg-[#1e293b] border-b border-[#334155] px-6 pt-4 sticky top-0 z-40">
         <div className="flex items-start justify-between gap-4">
           <div>
             <h1 className="text-lg font-semibold text-[#e2e8f0]">Runsheet vs Actual</h1>
@@ -342,18 +358,40 @@ export default function DashboardView({
             <RefreshButton />
           </div>
         </div>
+        {/* Tab bar */}
+        <div className="flex items-center gap-0 mt-3">
+          {([
+            { id: 'sessions', label: 'Sessions' },
+            { id: 'insights', label: 'Generate Insights' },
+          ] as const).map(t => (
+            <button
+              key={t.id}
+              onClick={() => setTab(t.id)}
+              className={`px-4 py-2 text-xs font-medium border-b-2 transition-colors cursor-pointer ${
+                tab === t.id
+                  ? t.id === 'insights'
+                    ? 'border-[#a78bfa] text-[#a78bfa]'
+                    : 'border-[#e2e8f0] text-[#e2e8f0]'
+                  : 'border-transparent text-[#475569] hover:text-[#94a3b8]'
+              }`}
+            >
+              {t.label}
+            </button>
+          ))}
+        </div>
       </header>
 
-      {/* Filter bar */}
-      <FilterBar
-        filters={filters}
-        allCases={allCases}
-        totalSessions={totalSessions}
-        onChange={updateFilters}
-      />
-
-      {/* Content */}
-      <main className="px-6 py-6 space-y-6">
+      {tab === 'sessions' && (
+        <>
+          {/* Filter bar */}
+          <FilterBar
+            filters={filters}
+            allCases={allCases}
+            totalSessions={totalSessions}
+            onChange={updateFilters}
+          />
+          {/* Content */}
+          <main className="px-6 py-6 space-y-6">
         {totalSessions === 0 ? (
           <div className="text-center py-16 text-[#94a3b8]">
             No sessions match. Try widening the date range or lowering the team threshold.
@@ -442,6 +480,16 @@ export default function DashboardView({
           })
         )}
       </main>
+        </>
+      )}
+
+      {tab === 'insights' && (
+        <InsightsTab
+          cases={caseOptions}
+          faculty={facultyOptions}
+          totalSessions={Object.values(dashboard.cases).reduce((s, c) => s + c.sessions.length, 0)}
+        />
+      )}
     </div>
   )
 }
