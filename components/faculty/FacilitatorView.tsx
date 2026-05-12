@@ -287,7 +287,31 @@ interface Props {
   sessions: SessionData[]
 }
 
+type SortKey = 'date' | 'sim'
+
+function avgSimScore(s: SessionData): number | null {
+  const scores = s.simScores?.chapter_scores
+  if (!scores || !Object.keys(scores).length) return null
+  const vals = Object.values(scores).map(c => c.avg)
+  return vals.reduce((a, b) => a + b, 0) / vals.length
+}
+
+function parseDate(s: SessionData): number {
+  return new Date(`${s.date}`).getTime()
+}
+
 export default function FacilitatorView({ activeFacilitator, sessions }: Props) {
+  const [sortBy, setSortBy] = useState<SortKey>('date')
+
+  const sorted = [...sessions].sort((a, b) => {
+    if (sortBy === 'sim') {
+      const as = avgSimScore(a) ?? -1
+      const bs = avgSimScore(b) ?? -1
+      return bs - as
+    }
+    return parseDate(a) - parseDate(b)
+  })
+
   return (
     <div className="px-6 py-8 space-y-10 max-w-4xl">
 
@@ -316,25 +340,45 @@ export default function FacilitatorView({ activeFacilitator, sessions }: Props) 
 
       {/* Session summary */}
       <div className="bg-[#1e293b] border border-[#334155] rounded-lg p-5 space-y-4">
-        <p className="text-xs font-semibold text-[#e2e8f0]">{sessions.length} sessions in this dataset</p>
+        <div className="flex items-center justify-between">
+          <p className="text-xs font-semibold text-[#e2e8f0]">{sessions.length} sessions in this dataset</p>
+          <div className="flex items-center gap-1">
+            <span className="text-[10px] text-[#475569] mr-1">Sort:</span>
+            {(['date', 'sim'] as SortKey[]).map(key => (
+              <button
+                key={key}
+                onClick={() => setSortBy(key)}
+                className={`px-2 py-0.5 rounded text-[10px] border transition-colors ${
+                  sortBy === key
+                    ? 'bg-[#334155] border-[#475569] text-[#e2e8f0]'
+                    : 'bg-transparent border-[#334155] text-[#475569] hover:text-[#94a3b8]'
+                }`}
+              >
+                {key === 'date' ? 'Date' : 'Sim score'}
+              </button>
+            ))}
+          </div>
+        </div>
 
         {/* Column headers */}
-        <div className="grid grid-cols-[5rem_4rem_1fr_5rem_4rem_5rem] gap-x-3 items-center">
+        <div className="grid grid-cols-[5rem_4rem_1fr_5rem_4rem_5rem_4rem] gap-x-3 items-center">
           <span className="text-[10px] text-[#334155] uppercase tracking-wide">Date</span>
           <span className="text-[10px] text-[#334155] uppercase tracking-wide">Case</span>
           <span className="text-[10px] text-[#334155] uppercase tracking-wide">Cohort</span>
           <span className="text-[10px] text-[#334155] uppercase tracking-wide text-center">Sim admin</span>
           <span className="text-[10px] text-[#334155] uppercase tracking-wide text-center">Survey</span>
           <span className="text-[10px] text-[#334155] uppercase tracking-wide text-center">Transcript</span>
+          <span className="text-[10px] text-[#334155] uppercase tracking-wide text-center">Avg sim</span>
         </div>
 
         <div className="space-y-2.5 border-t border-[#334155]/50 pt-3">
-          {sessions.map(s => {
+          {sorted.map(s => {
             const hasSim = !!(s.simScores?.chapter_scores && Object.keys(s.simScores.chapter_scores).length > 0)
             const hasSurvey = !!s.survey
             const hasTranscript = !!(s.talkTime || s.magicMoments.length > 0)
+            const avg = avgSimScore(s)
             return (
-              <div key={s.id} className="grid grid-cols-[5rem_4rem_1fr_5rem_4rem_5rem] gap-x-3 items-center">
+              <div key={s.id} className="grid grid-cols-[5rem_4rem_1fr_5rem_4rem_5rem_4rem] gap-x-3 items-center">
                 <span className="text-xs text-[#e2e8f0]">{s.date.replace(', 2026', '')}</span>
                 <span className="text-[10px] px-1.5 py-0.5 rounded bg-[#0f172a] border border-[#334155] text-[#475569] text-center">
                   {s.caseShort}
@@ -343,6 +387,12 @@ export default function FacilitatorView({ activeFacilitator, sessions }: Props) 
                 <Check present={hasSim} />
                 <Check present={hasSurvey} />
                 <Check present={hasTranscript} />
+                <div className="flex justify-center">
+                  {avg !== null
+                    ? <span className="text-xs font-semibold tabular-nums" style={{ color: simColor(avg) }}>{Math.round(avg)}</span>
+                    : <span className="text-[#334155] text-xs">–</span>
+                  }
+                </div>
               </div>
             )
           })}
@@ -364,7 +414,7 @@ export default function FacilitatorView({ activeFacilitator, sessions }: Props) 
       <div>
         <h2 className="text-base font-semibold text-[#e2e8f0] mb-4">Sessions</h2>
         <div className="space-y-2">
-          {sessions.map(session => (
+          {sorted.map(session => (
             <SessionAccordion key={session.id} session={session} />
           ))}
         </div>
