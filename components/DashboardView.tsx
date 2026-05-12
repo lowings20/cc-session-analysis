@@ -7,7 +7,7 @@ import type { Dashboard, MergedSession, SegmentBlock } from '@/app/data/types'
 import type { StaffMap } from '@/lib/insights'
 import { applyFilters, defaultFilterState, parseFilterState, toDateStr, type FilterState } from '@/lib/filter'
 import Timeline from '@/components/Timeline'
-import InsightsTab from '@/components/InsightsTab'
+import DashboardChatbot from '@/components/DashboardChatbot'
 import engagementRaw from '@/app/data/engagement.json'
 
 type ChapterScore = { avg: number; median: number; min: number; max: number; n: number; zeros?: number }
@@ -327,8 +327,6 @@ export default function DashboardView({
     [router]
   )
 
-  const [tab, setTab] = useState<'sessions' | 'insights'>('sessions')
-
   const filtered = applyFilters(dashboard, filters)
   const sortedTitles = sortedCaseTitles(dashboard)
   const allCases = sortedTitles
@@ -339,19 +337,6 @@ export default function DashboardView({
   )
 
   const maxSeconds = computeMaxSeconds(filtered.cases ? filtered : dashboard)
-
-  // For InsightsTab scope pickers
-  const caseOptions = sortedTitles.map(title => ({
-    title,
-    count: dashboard.cases[title]?.sessions.length ?? 0,
-  }))
-  const facultyCounts: Record<string, number> = {}
-  for (const entry of Object.values(staffMap)) {
-    if (entry.faculty) facultyCounts[entry.faculty] = (facultyCounts[entry.faculty] ?? 0) + 1
-  }
-  const facultyOptions = Object.entries(facultyCounts)
-    .sort((a, b) => b[1] - a[1])
-    .map(([name, count]) => ({ name, count }))
 
   return (
     <div className="min-h-screen">
@@ -366,46 +351,21 @@ export default function DashboardView({
             </p>
           </div>
           <div className="flex items-center gap-2">
-            <a
-              href="/insights"
-              className="flex items-center gap-1.5 px-3 py-1.5 rounded text-xs border border-[#334155] text-[#94a3b8] hover:text-[#e2e8f0] hover:border-[#475569] transition-colors"
-            >
-              Insights
-            </a>
+            <span className="px-3 py-1.5 rounded text-xs border border-[#475569] text-[#e2e8f0] bg-[#334155]/40">
+              CC Dash
+            </span>
             <a
               href="/faculty/nick"
               className="flex items-center gap-1.5 px-3 py-1.5 rounded text-xs border border-[#334155] text-[#94a3b8] hover:text-[#e2e8f0] hover:border-[#475569] transition-colors"
             >
-              Facilitator
+              Facilitator Insights
             </a>
             <RefreshButton />
           </div>
         </div>
-        {/* Tab bar */}
-        <div className="flex items-center gap-0 mt-3">
-          {([
-            { id: 'sessions', label: 'Sessions' },
-            { id: 'insights', label: 'Generate Insights' },
-          ] as const).map(t => (
-            <button
-              key={t.id}
-              onClick={() => setTab(t.id)}
-              className={`px-4 py-2 text-xs font-medium border-b-2 transition-colors cursor-pointer ${
-                tab === t.id
-                  ? t.id === 'insights'
-                    ? 'border-[#a78bfa] text-[#a78bfa]'
-                    : 'border-[#e2e8f0] text-[#e2e8f0]'
-                  : 'border-transparent text-[#475569] hover:text-[#94a3b8]'
-              }`}
-            >
-              {t.label}
-            </button>
-          ))}
-        </div>
       </header>
 
-      {tab === 'sessions' && (
-        <>
+      <>
           {/* Filter bar */}
           <FilterBar
             filters={filters}
@@ -534,15 +494,8 @@ export default function DashboardView({
         )}
       </main>
         </>
-      )}
 
-      {tab === 'insights' && (
-        <InsightsTab
-          cases={caseOptions}
-          faculty={facultyOptions}
-          totalSessions={Object.values(dashboard.cases).reduce((s, c) => s + c.sessions.length, 0)}
-        />
-      )}
+      <DashboardChatbot />
     </div>
   )
 }
