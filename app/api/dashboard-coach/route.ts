@@ -26,11 +26,10 @@ OVERRUN BY CASE:
 - Creating Strategic Alignment: 0/1, avg −27m — ended dramatically early (possible session issue)
 
 SURVEY SCORES (Arrow survey, 1–5 scale, 10 sessions with data):
-- IWA avg: Q4 Facilitator=4.67, Q1 Content Value=4.51, Q2 Learning=4.29
-- MP avg: Q4 Facilitator=4.86, Q1 Content Value=4.67, Q2 Learning=4.49
-- Q4 (facilitator rating) is consistently higher than Q2 (learning) across all sessions and all faculty
-- Highest Q4: Nick White's MP Apr 30 = 5.00/5.00 (n=7)
-- Lowest Q4: Tamara's IWA Apr 14 = 4.00/5.00 (n=2, very small sample)
+- IWA avg: Q1 Content Value=4.51, Q2 Learning=4.29
+- MP avg: Q1 Content Value=4.67, Q2 Learning=4.49
+- Highest Q1 content value: MP sessions overall
+- Note: Q4 facilitator scores are excluded from this analysis — the facilitator/learning gap is a known constant in this format and not a useful signal here
 
 FACULTY NOTES:
 - Nick White (MP): 0/2 overruns, avg −8m — runs MP efficiently and scores top Q4
@@ -40,7 +39,7 @@ FACULTY NOTES:
 NOTABLE PATTERNS:
 - Late intros are nearly universal (27/28) — likely a setup or participant readiness issue rather than content pacing
 - MP case is consistently short while EPP consistently overruns — suggests the cases themselves may need timing recalibration
-- Q2 (learning) gap vs Q4 (facilitator): participants rate the facilitator highly but their own learning lower — may reflect case difficulty or debrief quality
+- Creating Strategic Alignment ended 27 minutes early — possible session or data issue worth investigating
 `.trim()
 
 export async function POST(req: NextRequest) {
@@ -62,10 +61,10 @@ AWARE: [title, 5 words or fewer]
 DETAIL: [1–2 sentences with specifics from the data]
 ---
 
-Part 2 — 3 PRODUCT or SESSION DESIGN improvements to consider. These are actionable suggestions for improving Arrow cases, runsheet timing, or session structure.
+Part 2 — 3 PRODUCT improvements: concrete changes to the Arrow case content or runsheet that the product team could actually make. Think about what to cut from the intro, how to adjust chapter timing, what to restructure in the session flow, or where the planned time doesn't match reality. Do NOT compare facilitator scores to learning scores — that gap is expected and not a product problem. Focus only on what the product itself can change.
 
 IMPROVE: [title, 5 words or fewer]
-DETAIL: [1–2 sentences]
+DETAIL: [1–2 sentences describing the specific change]
 ---
 
 Output: three AWARE/DETAIL/--- blocks, then three IMPROVE/DETAIL/--- blocks. Nothing else.`

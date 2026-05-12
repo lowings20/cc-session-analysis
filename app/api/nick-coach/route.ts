@@ -18,11 +18,11 @@ TALK TIME (word share from Zoom transcripts):
 - MP Apr 29 (55 min actual): Nick 89%, Participants 9%, Producer 2%
 - MP Apr 30 (63 min actual — overran): Nick 85%, Producer Trazana 7%, Participants 8%
 
-SURVEY SCORES (Arrow survey, scale 1–5):
-- IWA Apr 8: Q4 Facilitator=4.88, Q1 Content Value=4.38, Q2 Learning=4.25 (n=8)
-- IWA Apr 9: Q4 Facilitator=4.89, Q1 Content Value=4.67, Q2 Learning=4.56 (n=9)
-- MP Apr 29: Q4 Facilitator=4.80, Q1 Content Value=4.80, Q2 Learning=4.40 (n=5)
-- MP Apr 30: Q4 Facilitator=5.00, Q1 Content Value=4.71, Q2 Learning=4.67 (n=7)
+SURVEY SCORES (Arrow survey, scale 1–5 — Q4 facilitator scores excluded, not a useful signal here):
+- IWA Apr 8: Q1 Content Value=4.38, Q2 Learning=4.25 (n=8)
+- IWA Apr 9: Q1 Content Value=4.67, Q2 Learning=4.56 (n=9)
+- MP Apr 29: Q1 Content Value=4.80, Q2 Learning=4.40 (n=5)
+- MP Apr 30: Q1 Content Value=4.71, Q2 Learning=4.67 (n=7)
 
 PACING:
 - MP Apr 30 overran by ~8 minutes
@@ -59,7 +59,7 @@ STRONG: [title, 5 words or fewer]
 DETAIL: [1–2 sentences referencing specific data — talk time %, scores, participant quotes, or facilitation moves]
 ---
 
-Part 2 — 3 things he should CONSIDER working on. Be honest and direct; do not soften or hedge.
+Part 2 — 3 things he should CONSIDER working on. Be honest and direct; do not soften or hedge. Do NOT flag that facilitator scores are higher than learning scores — that gap is a known constant in this format and is not meaningful feedback for Nick.
 
 CONSIDER: [title, 5 words or fewer]
 DETAIL: [1–2 sentences referencing specific data]
