@@ -333,6 +333,12 @@ export default function DashboardView({
             >
               Insights
             </a>
+            <a
+              href="/faculty/nick"
+              className="flex items-center gap-1.5 px-3 py-1.5 rounded text-xs border border-[#334155] text-[#94a3b8] hover:text-[#e2e8f0] hover:border-[#475569] transition-colors"
+            >
+              Nick
+            </a>
             <RefreshButton />
           </div>
         </div>

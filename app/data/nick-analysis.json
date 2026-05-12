@@ -1,0 +1,127 @@
+{
+  "sessions": [
+    {
+      "id": "efcd2a40-0d14-4e98-a087-c33ae52cd0f3",
+      "folder": "IWA-04.08.26-Nick",
+      "case": "Influencing Without Authority",
+      "caseShort": "IWA",
+      "date": "Apr 8, 2026",
+      "cohort": "BD EMEA Cohort 1",
+      "talkTime": null,
+      "magicMoments": []
+    },
+    {
+      "id": "d7fc6697-2d36-4f62-826d-43226930fdf5",
+      "folder": "IWA-04.09.26-Nick",
+      "case": "Influencing Without Authority",
+      "caseShort": "IWA",
+      "date": "Apr 9, 2026",
+      "cohort": "BD EMEA Cohort 2",
+      "talkTime": null,
+      "magicMoments": []
+    },
+    {
+      "id": "61f7de83-8dd8-4b38-ba1d-e46f3b0721bb",
+      "folder": "Kickoff-04.01.26",
+      "case": "Kickoff: Shelf Awareness",
+      "caseShort": "Kickoff",
+      "date": "Apr 1, 2026",
+      "cohort": "BD EMEA (Both Cohorts)",
+      "talkTime": {
+        "totalWords": 4139,
+        "durationMin": 30,
+        "speakers": [
+          { "name": "Nick White", "role": "faculty", "words": 3392, "wordPct": 82.0, "turns": 162 },
+          { "name": "Caroline Vanelderen", "role": "host", "words": 419, "wordPct": 10.1, "turns": 16 },
+          { "name": "Bruna M. (Producer)", "role": "producer", "words": 284, "wordPct": 6.9, "turns": 10 },
+          { "name": "Participants", "role": "participants", "words": 44, "wordPct": 1.0, "turns": 9 }
+        ]
+      },
+      "magicMoments": [
+        {
+          "title": "Setting the facilitation philosophy",
+          "quote": "I am not here to teach, I am here to facilitate. Facilitation is about planting seeds.",
+          "context": "Nick opened with this philosophy statement, immediately calibrating participant expectations away from passive learning towards active engagement."
+        },
+        {
+          "title": "Framing the AI simulation",
+          "quote": "What I want you to notice is that when you interact with these characters, they behave exactly like a real person would.",
+          "context": "Introduced the Arrow AI simulation to both EMEA cohorts together — generating curiosity and a shared sense of 'this is different' before the program had even started."
+        }
+      ]
+    },
+    {
+      "id": "e108b56c-b7b1-4189-bf69-d2d783d50bcd",
+      "folder": "MP-04.29.26-Nick",
+      "case": "Managing Profitability",
+      "caseShort": "MP",
+      "date": "Apr 29, 2026",
+      "cohort": "BD EMEA Cohort 1",
+      "talkTime": {
+        "totalWords": 6973,
+        "durationMin": 55,
+        "speakers": [
+          { "name": "Nick White", "role": "faculty", "words": 6190, "wordPct": 88.8, "turns": 322 },
+          { "name": "Bruno Taveira", "role": "participant", "words": 225, "wordPct": 3.2, "turns": 15 },
+          { "name": "Leslie Yang", "role": "participant", "words": 174, "wordPct": 2.5, "turns": 11 },
+          { "name": "Bruna M. (Producer)", "role": "producer", "words": 133, "wordPct": 1.9, "turns": 8 },
+          { "name": "Benjamin de Ezcurra", "role": "participant", "words": 119, "wordPct": 1.7, "turns": 7 },
+          { "name": "Others (3 participants)", "role": "participants", "words": 132, "wordPct": 1.9, "turns": 21 }
+        ]
+      },
+      "magicMoments": [
+        {
+          "title": "Opening with a provocation",
+          "quote": "Why do you think we're learning about finance in the age of AI?",
+          "context": "Rather than opening with a learning objective slide, Nick led with a question that placed participants' current reality front and centre — immediately making finance feel relevant before any content was taught."
+        },
+        {
+          "title": "Co-constructing the cost framework",
+          "quote": null,
+          "context": "Instead of explaining fixed vs variable costs from a slide, Nick built the framework iteratively from examples volunteered by participants. The group felt they had arrived at the framework themselves."
+        },
+        {
+          "title": "Using Zena to debrief assumptions",
+          "quote": "What did Zena tell you that surprised you?",
+          "context": "After the simulation, Nick positioned Zena (the AI character) as a third voice in the debrief — asking what she pushed back on — creating productive distance from participants' own assumptions."
+        }
+      ]
+    },
+    {
+      "id": "1c336ad4-7985-45cc-a4c7-47c46ff6229a",
+      "folder": "MP-04.30.26-Nick",
+      "case": "Managing Profitability",
+      "caseShort": "MP",
+      "date": "Apr 30, 2026",
+      "cohort": "BD EMEA Cohort 2",
+      "talkTime": {
+        "totalWords": 7546,
+        "durationMin": 63,
+        "speakers": [
+          { "name": "Nick White", "role": "faculty", "words": 6416, "wordPct": 85.0, "turns": 391 },
+          { "name": "Trazana (Producer)", "role": "producer", "words": 558, "wordPct": 7.4, "turns": 72 },
+          { "name": "Caroline Vanelderen", "role": "participant", "words": 198, "wordPct": 2.6, "turns": 18 },
+          { "name": "Emilie Guillet Lhermite", "role": "participant", "words": 96, "wordPct": 1.3, "turns": 3 },
+          { "name": "Others (4 participants)", "role": "participants", "words": 278, "wordPct": 3.7, "turns": 25 }
+        ]
+      },
+      "magicMoments": [
+        {
+          "title": "Redirecting the in-room finance expert",
+          "quote": "Mark, I want to reframe your role here today. You're not a participant, you're a coach.",
+          "context": "Mark Norman — an experienced finance professional — was in the cohort. Rather than letting this create a 'knowing vs learning' dynamic, Nick pre-empted it by repositioning Mark as a coach. This protected psychological safety for everyone else and turned a potential disruption into an asset."
+        },
+        {
+          "title": "Consistent Socratic questioning",
+          "quote": "How did you arrive at that recommendation?",
+          "context": "Throughout the debrief, Nick consistently asked 'how did you get there?' rather than validating or correcting — keeping the reasoning with participants and reinforcing that the insight was theirs to own."
+        },
+        {
+          "title": "Building the monitoring framework from the room",
+          "quote": null,
+          "context": "In the final debrief, Nick co-constructed the 90-day monitoring framework from participant outputs rather than revealing a pre-prepared answer — giving the group full ownership of the conclusion."
+        }
+      ]
+    }
+  ]
+}

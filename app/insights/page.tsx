@@ -5,7 +5,18 @@ import ScatterPlot, { type ScatterPoint } from '@/components/insights/ScatterPlo
 import ChapterVariance from '@/components/insights/ChapterVariance'
 import IncompleteSessions from '@/components/insights/IncompleteSessions'
 import StaffTable from '@/components/insights/StaffTable'
+import PacingScatter, { type PacingPoint } from '@/components/insights/PacingScatter'
 import staffMappingsRaw from '@/app/data/staff-mappings.json'
+import surveyScoresRaw from '@/app/data/survey-scores.json'
+
+type SurveyEntry = {
+  folder: string
+  q1_value: number
+  q2_learning: number
+  q4_facilitator: number
+  responses: number
+}
+const surveyScores = surveyScoresRaw as unknown as Record<string, SurveyEntry>
 
 function Section({ title, subtitle, children }: {
   title: string
@@ -77,6 +88,34 @@ export default async function InsightsPage() {
     }))
 
   const debriefHint = regressionHint(debriefScatterPts.map(p => ({ x: p.x, y: p.y })))
+
+  // Scatter 3: pacing × facilitator satisfaction
+  const caseColorMap: Record<string, string> = {
+    'Influencing Without Authority': '#818cf8',
+    'Managing Profitability': '#34d399',
+    'Enabling Peak Performance': '#a78bfa',
+    'Kickoff: Shelf Awareness': '#fb923c',
+    'Navigating Critical Conversations': '#60a5fa',
+  }
+  const pacingQ4Pts: PacingPoint[] = pts
+    .filter(p => surveyScores[p.sessionId] && p.endDeltaMin !== null)
+    .map(p => {
+      const s = surveyScores[p.sessionId]
+      const caseKey = Object.keys(caseColorMap).find(k => p.caseTitle.startsWith(k.substring(0, 12)))
+      return {
+        sessionId: p.sessionId,
+        overrunMin: p.endDeltaMin!,
+        score: s.q4_facilitator,
+        faculty: p.faculty ?? 'Unknown',
+        caseShort: p.caseTitle.replace('Influencing Without Authority', 'IWA')
+          .replace('Managing Profitability', 'MP')
+          .replace('Enabling Peak Performance', 'EPP')
+          .replace(/^Kickoff.*/, 'Kickoff'),
+        date: p.date,
+        responses: s.responses,
+        color: caseColorMap[p.caseTitle] ?? '#94a3b8',
+      }
+    })
 
   return (
     <div className="min-h-screen">
@@ -209,6 +248,43 @@ export default async function InsightsPage() {
           <p className="mt-3 text-[11px] text-[#475569]">
             {pts.filter(p => p.producer).length} of {pts.length} sessions matched to a producer.
           </p>
+        </Section>
+
+        {/* 7. Pacing vs satisfaction */}
+        <Section
+          title="7 · Pacing × satisfaction"
+          subtitle="Does session overrun affect how participants rate the facilitator? Each dot is one session. Circle size = response count. Hover for detail."
+        >
+          <PacingScatter points={pacingQ4Pts} scoreLabel="Q4 facilitator score" />
+          <div className="mt-4 grid grid-cols-3 gap-3">
+            {[
+              {
+                label: 'Sessions with survey data',
+                value: pacingQ4Pts.length,
+              },
+              {
+                label: 'Avg Q4 score when overrunning',
+                value: (() => {
+                  const over = pacingQ4Pts.filter(p => p.overrunMin > 0)
+                  if (!over.length) return '—'
+                  return (over.reduce((s, p) => s + p.score, 0) / over.length).toFixed(2)
+                })(),
+              },
+              {
+                label: 'Avg Q4 score when on time / under',
+                value: (() => {
+                  const under = pacingQ4Pts.filter(p => p.overrunMin <= 0)
+                  if (!under.length) return '—'
+                  return (under.reduce((s, p) => s + p.score, 0) / under.length).toFixed(2)
+                })(),
+              },
+            ].map(s => (
+              <div key={s.label} className="bg-[#0f172a] rounded p-3">
+                <div className="text-xl font-bold text-[#e2e8f0]">{s.value}</div>
+                <div className="text-[10px] text-[#94a3b8] mt-0.5">{s.label}</div>
+              </div>
+            ))}
+          </div>
         </Section>
 
       </main>
