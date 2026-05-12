@@ -302,6 +302,7 @@ function parseDate(s: SessionData): number {
 
 export default function FacilitatorView({ activeFacilitator, sessions }: Props) {
   const [sortBy, setSortBy] = useState<SortKey>('date')
+  const [tableOpen, setTableOpen] = useState(false)
 
   const sorted = [...sessions].sort((a, b) => {
     if (sortBy === 'sim') {
@@ -339,56 +340,71 @@ export default function FacilitatorView({ activeFacilitator, sessions }: Props) 
       </div>
 
       {/* Session summary */}
-      <div className="bg-[#1e293b] border border-[#334155] rounded-lg p-5 space-y-4">
-        <div className="flex items-center justify-between">
-          <p className="text-xs font-semibold text-[#e2e8f0]">{sessions.length} sessions in this dataset</p>
-          <div className="flex items-center gap-1">
-            <span className="text-[10px] text-[#475569] mr-1">Sort:</span>
-            {(['date', 'sim'] as SortKey[]).map(key => (
-              <button
-                key={key}
-                onClick={() => setSortBy(key)}
-                className={`px-2 py-0.5 rounded text-[10px] border transition-colors ${
-                  sortBy === key
-                    ? 'bg-[#334155] border-[#475569] text-[#e2e8f0]'
-                    : 'bg-transparent border-[#334155] text-[#475569] hover:text-[#94a3b8]'
-                }`}
-              >
-                {key === 'date' ? 'Date' : 'Sim score'}
-              </button>
-            ))}
+      <div className="bg-[#1e293b] border border-[#334155] rounded-lg overflow-hidden">
+        <button
+          onClick={() => setTableOpen(o => !o)}
+          className="w-full flex items-center justify-between px-5 py-4 hover:bg-[#253348] transition-colors text-left"
+        >
+          <div className="flex items-center gap-2">
+            {tableOpen
+              ? <ChevronDown size={14} className="text-[#475569] shrink-0" />
+              : <ChevronRight size={14} className="text-[#475569] shrink-0" />
+            }
+            <p className="text-xs font-semibold text-[#e2e8f0]">{sessions.length} sessions in this dataset</p>
           </div>
-        </div>
+          {tableOpen && (
+            <div className="flex items-center gap-1" onClick={e => e.stopPropagation()}>
+              <span className="text-[10px] text-[#475569] mr-1">Sort:</span>
+              {(['date', 'sim'] as SortKey[]).map(key => (
+                <button
+                  key={key}
+                  onClick={() => setSortBy(key)}
+                  className={`px-2 py-0.5 rounded text-[10px] border transition-colors ${
+                    sortBy === key
+                      ? 'bg-[#334155] border-[#475569] text-[#e2e8f0]'
+                      : 'bg-transparent border-[#334155] text-[#475569] hover:text-[#94a3b8]'
+                  }`}
+                >
+                  {key === 'date' ? 'Date' : 'Sim score'}
+                </button>
+              ))}
+            </div>
+          )}
+        </button>
 
-        {/* Column headers */}
-        <div className="grid grid-cols-[5rem_4rem_1fr_5rem_4rem_5rem] gap-x-3 items-center">
-          <span className="text-[10px] text-[#334155] uppercase tracking-wide">Date</span>
-          <span className="text-[10px] text-[#334155] uppercase tracking-wide">Case</span>
-          <span className="text-[10px] text-[#334155] uppercase tracking-wide">Cohort</span>
-          <span className="text-[10px] text-[#334155] uppercase tracking-wide text-center">Sim admin</span>
-          <span className="text-[10px] text-[#334155] uppercase tracking-wide text-center">Survey</span>
-          <span className="text-[10px] text-[#334155] uppercase tracking-wide text-center">Transcript</span>
-        </div>
+        {tableOpen && (
+          <div className="px-5 pb-5 space-y-4 border-t border-[#334155]">
+            {/* Column headers */}
+            <div className="grid grid-cols-[5rem_4rem_1fr_5rem_4rem_5rem] gap-x-3 items-center pt-4">
+              <span className="text-[10px] text-[#334155] uppercase tracking-wide">Date</span>
+              <span className="text-[10px] text-[#334155] uppercase tracking-wide">Case</span>
+              <span className="text-[10px] text-[#334155] uppercase tracking-wide">Cohort</span>
+              <span className="text-[10px] text-[#334155] uppercase tracking-wide text-center">Sim admin</span>
+              <span className="text-[10px] text-[#334155] uppercase tracking-wide text-center">Survey</span>
+              <span className="text-[10px] text-[#334155] uppercase tracking-wide text-center">Transcript</span>
+            </div>
 
-        <div className="space-y-2.5 border-t border-[#334155]/50 pt-3">
-          {sorted.map(s => {
-            const hasSim = !!(s.simScores?.chapter_scores && Object.keys(s.simScores.chapter_scores).length > 0)
-            const hasSurvey = !!s.survey
-            const hasTranscript = !!(s.talkTime || s.magicMoments.length > 0)
-            return (
-              <div key={s.id} className="grid grid-cols-[5rem_4rem_1fr_5rem_4rem_5rem] gap-x-3 items-center">
-                <span className="text-xs text-[#e2e8f0]">{s.date.replace(', 2026', '')}</span>
-                <span className="text-[10px] px-1.5 py-0.5 rounded bg-[#0f172a] border border-[#334155] text-[#475569] text-center">
-                  {s.caseShort}
-                </span>
-                <span className="text-xs text-[#94a3b8] truncate">{s.cohort}</span>
-                <Check present={hasSim} />
-                <Check present={hasSurvey} />
-                <Check present={hasTranscript} />
-              </div>
-            )
-          })}
-        </div>
+            <div className="space-y-2.5 border-t border-[#334155]/50 pt-3">
+              {sorted.map(s => {
+                const hasSim = !!(s.simScores?.chapter_scores && Object.keys(s.simScores.chapter_scores).length > 0)
+                const hasSurvey = !!s.survey
+                const hasTranscript = !!(s.talkTime || s.magicMoments.length > 0)
+                return (
+                  <div key={s.id} className="grid grid-cols-[5rem_4rem_1fr_5rem_4rem_5rem] gap-x-3 items-center">
+                    <span className="text-xs text-[#e2e8f0]">{s.date.replace(', 2026', '')}</span>
+                    <span className="text-[10px] px-1.5 py-0.5 rounded bg-[#0f172a] border border-[#334155] text-[#475569] text-center">
+                      {s.caseShort}
+                    </span>
+                    <span className="text-xs text-[#94a3b8] truncate">{s.cohort}</span>
+                    <Check present={hasSim} />
+                    <Check present={hasSurvey} />
+                    <Check present={hasTranscript} />
+                  </div>
+                )
+              })}
+            </div>
+          </div>
+        )}
       </div>
 
       {/* Coaching panel */}
