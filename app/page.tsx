@@ -1,6 +1,8 @@
 import { Suspense } from 'react'
 import { getDashboard } from '@/lib/data'
 import DashboardView from '@/components/DashboardView'
+import staffMappingsRaw from '@/app/data/staff-mappings.json'
+import type { StaffMap } from '@/lib/insights'
 
 function getSnapshotDate(dashboard: Awaited<ReturnType<typeof getDashboard>>): string {
   let latest: Date | null = null
@@ -20,10 +22,11 @@ function getSnapshotDate(dashboard: Awaited<ReturnType<typeof getDashboard>>): s
 export default async function Page() {
   const dashboard = await getDashboard()
   const snapshotDate = getSnapshotDate(dashboard)
+  const staffMap = staffMappingsRaw as unknown as StaffMap
 
   return (
     <Suspense fallback={<div className="p-8 text-[#94a3b8]">Loading…</div>}>
-      <DashboardView dashboard={dashboard} snapshotDate={snapshotDate} />
+      <DashboardView dashboard={dashboard} snapshotDate={snapshotDate} staffMap={staffMap} />
     </Suspense>
   )
 }

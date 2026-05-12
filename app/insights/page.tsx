@@ -1,9 +1,11 @@
 import { ArrowLeft } from 'lucide-react'
 import { getDashboard } from '@/lib/data'
-import { computeSessionPoints, computeChapterVariance } from '@/lib/insights'
+import { computeSessionPoints, computeChapterVariance, computeStaffStats, type StaffMap } from '@/lib/insights'
 import ScatterPlot, { type ScatterPoint } from '@/components/insights/ScatterPlot'
 import ChapterVariance from '@/components/insights/ChapterVariance'
 import IncompleteSessions from '@/components/insights/IncompleteSessions'
+import StaffTable from '@/components/insights/StaffTable'
+import staffMappingsRaw from '@/app/data/staff-mappings.json'
 
 function Section({ title, subtitle, children }: {
   title: string
@@ -40,8 +42,11 @@ function regressionHint(points: Array<{ x: number; y: number }>): string | null 
 
 export default async function InsightsPage() {
   const dashboard = await getDashboard()
-  const pts = computeSessionPoints(dashboard)
+  const staffMap = staffMappingsRaw as unknown as StaffMap
+  const pts = computeSessionPoints(dashboard, staffMap)
   const chapterSlots = computeChapterVariance(dashboard)
+  const facultyStats = computeStaffStats(pts, 'faculty')
+  const producerStats = computeStaffStats(pts, 'producer')
 
   const totalSessions = pts.length
   const overranCount = pts.filter(p => p.overran).length
@@ -182,6 +187,28 @@ export default async function InsightsPage() {
           subtitle="Sessions where the actual number of chapters completed was fewer than the runsheet expected."
         >
           <IncompleteSessions points={pts} />
+        </Section>
+
+        {/* 5. Faculty performance */}
+        <Section
+          title="5 · Faculty pacing — by facilitator"
+          subtitle="Average intro delta and session overrun per faculty member, across all matched sessions. Sorted worst-to-best overrun."
+        >
+          <StaffTable stats={facultyStats} />
+          <p className="mt-3 text-[11px] text-[#475569]">
+            {pts.filter(p => p.faculty).length} of {pts.length} sessions matched to a facilitator.
+          </p>
+        </Section>
+
+        {/* 6. Producer performance */}
+        <Section
+          title="6 · Producer pacing — by producer"
+          subtitle="Average intro delta and session overrun per producer. Producers don't control content pacing, but patterns here may reflect pre-session prep or real-time support quality."
+        >
+          <StaffTable stats={producerStats} />
+          <p className="mt-3 text-[11px] text-[#475569]">
+            {pts.filter(p => p.producer).length} of {pts.length} sessions matched to a producer.
+          </p>
         </Section>
 
       </main>

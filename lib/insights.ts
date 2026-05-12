@@ -1,5 +1,14 @@
 import type { Dashboard, MergedSession, SegmentBlock } from '@/app/data/types'
 
+export interface StaffEntry {
+  faculty: string | null
+  producer: string | null
+  program: string | null
+  score: number
+}
+
+export type StaffMap = Record<string, StaffEntry>
+
 export interface SessionPoint {
   sessionId: string
   cohort: string
@@ -15,6 +24,18 @@ export interface SessionPoint {
   expectedChapters: number
   teams: number
   date: string
+  faculty: string | null
+  producer: string | null
+}
+
+export interface StaffStat {
+  name: string
+  role: 'faculty' | 'producer'
+  sessions: number
+  avgIntroDelta: number | null
+  avgEndDelta: number | null
+  pctOverran: number
+  cases: string[]
 }
 
 export interface ChapterSlot {
@@ -53,7 +74,7 @@ function expectedChapterSlots(expected: SegmentBlock[]): Array<{ label: string; 
   return slots
 }
 
-export function computeSessionPoints(dashboard: Dashboard): SessionPoint[] {
+export function computeSessionPoints(dashboard: Dashboard, staffMap: StaffMap = {}): SessionPoint[] {
   const points: SessionPoint[] = []
 
   for (const [caseTitle, caseData] of Object.entries(dashboard.cases)) {
@@ -84,6 +105,7 @@ export function computeSessionPoints(dashboard: Dashboard): SessionPoint[] {
 
       const actChapters = session.actual.filter(b => b.type === 'chapter').length
 
+      const staff = staffMap[session.id]
       points.push({
         sessionId: session.id,
         cohort: session.cohort || session.name,
@@ -99,6 +121,8 @@ export function computeSessionPoints(dashboard: Dashboard): SessionPoint[] {
         expectedChapters: expChapters,
         teams: session.teams,
         date: session.session_start_display,
+        faculty: staff?.faculty ?? null,
+        producer: staff?.producer ?? null,
       })
     }
   }
@@ -139,4 +163,33 @@ export function computeChapterVariance(dashboard: Dashboard): ChapterSlot[] {
   }
 
   return slots
+}
+
+export function computeStaffStats(points: SessionPoint[], role: 'faculty' | 'producer'): StaffStat[] {
+  const grouped: Record<string, SessionPoint[]> = {}
+  for (const p of points) {
+    const name = role === 'faculty' ? p.faculty : p.producer
+    if (!name) continue
+    const key = name.trim()
+    if (!grouped[key]) grouped[key] = []
+    grouped[key].push(p)
+  }
+
+  return Object.entries(grouped).map(([name, pts]) => {
+    const withIntro = pts.filter(p => p.introDeltaMin !== null)
+    const withEnd = pts.filter(p => p.endDeltaMin !== null)
+    return {
+      name,
+      role,
+      sessions: pts.length,
+      avgIntroDelta: withIntro.length
+        ? Math.round(withIntro.reduce((s, p) => s + p.introDeltaMin!, 0) / withIntro.length)
+        : null,
+      avgEndDelta: withEnd.length
+        ? Math.round(withEnd.reduce((s, p) => s + p.endDeltaMin!, 0) / withEnd.length)
+        : null,
+      pctOverran: pts.length ? Math.round((pts.filter(p => p.overran).length / pts.length) * 100) : 0,
+      cases: [...new Set(pts.map(p => p.caseTitle))],
+    }
+  }).sort((a, b) => (b.avgEndDelta ?? -99) - (a.avgEndDelta ?? -99))
 }

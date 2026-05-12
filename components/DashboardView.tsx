@@ -4,6 +4,7 @@ import { useCallback, useEffect, useRef, useState } from 'react'
 import { useRouter, useSearchParams } from 'next/navigation'
 import { RefreshCw, Users, User } from 'lucide-react'
 import type { Dashboard, MergedSession, SegmentBlock } from '@/app/data/types'
+import type { StaffMap } from '@/lib/insights'
 import { applyFilters, defaultFilterState, parseFilterState, toDateStr, type FilterState } from '@/lib/filter'
 import Timeline from '@/components/Timeline'
 
@@ -271,9 +272,11 @@ function FilterBar({
 export default function DashboardView({
   dashboard,
   snapshotDate,
+  staffMap = {},
 }: {
   dashboard: Dashboard
   snapshotDate: string
+  staffMap?: StaffMap
 }) {
   const router = useRouter()
   const searchParams = useSearchParams()
@@ -397,6 +400,16 @@ export default function DashboardView({
                             </span>
                             {session.inferred && (
                               <span className="text-[10px] text-[#475569] italic">inferred start</span>
+                            )}
+                            {staffMap[session.id]?.faculty && (
+                              <span className="text-[10px] px-1.5 py-0.5 rounded bg-[#1e3a5f]/60 text-[#93c5fd] border border-[#1e40af]/40">
+                                {staffMap[session.id].faculty}
+                              </span>
+                            )}
+                            {staffMap[session.id]?.producer && (
+                              <span className="text-[10px] px-1.5 py-0.5 rounded bg-[#2d1b4e]/60 text-[#c4b5fd] border border-[#5b21b6]/40">
+                                {staffMap[session.id].producer}
+                              </span>
                             )}
                           </div>
                           <div className="flex items-center gap-1.5 shrink-0">
