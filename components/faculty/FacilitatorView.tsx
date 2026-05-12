@@ -361,14 +361,13 @@ export default function FacilitatorView({ activeFacilitator, sessions }: Props) 
         </div>
 
         {/* Column headers */}
-        <div className="grid grid-cols-[5rem_4rem_1fr_5rem_4rem_5rem_4rem] gap-x-3 items-center">
+        <div className="grid grid-cols-[5rem_4rem_1fr_5rem_4rem_5rem] gap-x-3 items-center">
           <span className="text-[10px] text-[#334155] uppercase tracking-wide">Date</span>
           <span className="text-[10px] text-[#334155] uppercase tracking-wide">Case</span>
           <span className="text-[10px] text-[#334155] uppercase tracking-wide">Cohort</span>
           <span className="text-[10px] text-[#334155] uppercase tracking-wide text-center">Sim admin</span>
           <span className="text-[10px] text-[#334155] uppercase tracking-wide text-center">Survey</span>
           <span className="text-[10px] text-[#334155] uppercase tracking-wide text-center">Transcript</span>
-          <span className="text-[10px] text-[#334155] uppercase tracking-wide text-center">Avg sim</span>
         </div>
 
         <div className="space-y-2.5 border-t border-[#334155]/50 pt-3">
@@ -376,9 +375,8 @@ export default function FacilitatorView({ activeFacilitator, sessions }: Props) 
             const hasSim = !!(s.simScores?.chapter_scores && Object.keys(s.simScores.chapter_scores).length > 0)
             const hasSurvey = !!s.survey
             const hasTranscript = !!(s.talkTime || s.magicMoments.length > 0)
-            const avg = avgSimScore(s)
             return (
-              <div key={s.id} className="grid grid-cols-[5rem_4rem_1fr_5rem_4rem_5rem_4rem] gap-x-3 items-center">
+              <div key={s.id} className="grid grid-cols-[5rem_4rem_1fr_5rem_4rem_5rem] gap-x-3 items-center">
                 <span className="text-xs text-[#e2e8f0]">{s.date.replace(', 2026', '')}</span>
                 <span className="text-[10px] px-1.5 py-0.5 rounded bg-[#0f172a] border border-[#334155] text-[#475569] text-center">
                   {s.caseShort}
@@ -387,12 +385,6 @@ export default function FacilitatorView({ activeFacilitator, sessions }: Props) 
                 <Check present={hasSim} />
                 <Check present={hasSurvey} />
                 <Check present={hasTranscript} />
-                <div className="flex justify-center">
-                  {avg !== null
-                    ? <span className="text-xs font-semibold tabular-nums" style={{ color: simColor(avg) }}>{Math.round(avg)}</span>
-                    : <span className="text-[#334155] text-xs">–</span>
-                  }
-                </div>
               </div>
             )
           })}
