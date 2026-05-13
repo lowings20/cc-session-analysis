@@ -2,13 +2,14 @@
 
 import { useCallback, useEffect, useRef, useState } from 'react'
 import { useRouter, useSearchParams } from 'next/navigation'
-import { RefreshCw, Users, User } from 'lucide-react'
+import { ChevronDown, ChevronRight, RefreshCw, Users, User } from 'lucide-react'
 import type { Dashboard, MergedSession, SegmentBlock } from '@/app/data/types'
 import type { StaffMap } from '@/lib/insights'
 import { applyFilters, defaultFilterState, parseFilterState, toDateStr, type FilterState } from '@/lib/filter'
 import Timeline from '@/components/Timeline'
 import DashboardChatbot from '@/components/DashboardChatbot'
 import engagementRaw from '@/app/data/engagement.json'
+import nickAnalysisRaw from '@/app/data/nick-analysis.json'
 
 type ChapterScore = { avg: number; median: number; min: number; max: number; n: number; zeros?: number }
 type EngagementEntry = {
@@ -30,6 +31,207 @@ function scoreColor(avg: number) {
   if (avg >= 80) return '#4ade80'
   if (avg >= 65) return '#facc15'
   return '#f87171'
+}
+
+// ── Magic moments lookup ───────────────────────────────────────────────────────
+
+type MagicMoment = { title: string; quote: string | null; context: string }
+const magicMomentsMap: Record<string, MagicMoment[]> = {}
+for (const s of (nickAnalysisRaw as { sessions: Array<{ id: string; magicMoments: MagicMoment[] }> }).sessions) {
+  if (s.magicMoments?.length) magicMomentsMap[s.id] = s.magicMoments
+}
+
+// ── Insight helpers ────────────────────────────────────────────────────────────
+
+function timingInsight(introDelta: number | null, endDelta: number | null): string {
+  const parts: string[] = []
+  if (introDelta !== null && introDelta !== 0)
+    parts.push(`intro ${introDelta > 0 ? `+${introDelta}m late` : `${Math.abs(introDelta)}m early`}`)
+  if (endDelta !== null) {
+    if (endDelta > 0) parts.push(`ran +${endDelta}m over`)
+    else if (endDelta < 0) parts.push(`ended ${Math.abs(endDelta)}m under`)
+    else parts.push('on time')
+  }
+  return parts.length ? parts.join(' · ') : 'Timing data available'
+}
+
+function scoringInsight(scores: Record<string, ChapterScore>): string {
+  const entries = Object.entries(scores)
+  if (!entries.length) return 'No scores'
+  const summary = entries.map(([k, s]) => `${CHAPTER_LABEL[k] ?? k} ${Math.round(s.avg)}`).join(' · ')
+  const lowest = entries.reduce((a, b) => a[1].avg < b[1].avg ? a : b)
+  if (lowest[1].avg < 75)
+    return `${summary} — gap in ${CHAPTER_LABEL[lowest[0]] ?? lowest[0]}`
+  return summary
+}
+
+function magicInsight(moments: MagicMoment[]): string {
+  if (!moments.length) return 'No moments captured'
+  return `${moments.length} moment${moments.length > 1 ? 's' : ''} — ${moments[0].title.toLowerCase()}`
+}
+
+// ── Sub-panel accordion ────────────────────────────────────────────────────────
+
+function SubPanel({ title, insight, children }: { title: string; insight: string; children: React.ReactNode }) {
+  const [open, setOpen] = useState(false)
+  return (
+    <div className="rounded-lg overflow-hidden border border-[#1e293b]">
+      <button
+        onClick={() => setOpen(o => !o)}
+        className="w-full flex items-center gap-3 px-4 py-2.5 bg-[#0f172a] hover:bg-[#131e2e] transition-colors text-left"
+      >
+        {open
+          ? <ChevronDown size={11} className="text-[#334155] shrink-0" />
+          : <ChevronRight size={11} className="text-[#334155] shrink-0" />
+        }
+        <span className="text-[10px] font-semibold text-[#475569] uppercase tracking-wider w-28 shrink-0">{title}</span>
+        <span className="text-xs text-[#475569] truncate">{insight}</span>
+      </button>
+      {open && (
+        <div className="px-4 py-4 bg-[#080e1a] border-t border-[#1e293b]">
+          {children}
+        </div>
+      )}
+    </div>
+  )
+}
+
+// ── Scoring heatmap ────────────────────────────────────────────────────────────
+
+function ScoringHeatmap({ scores }: { scores: Record<string, ChapterScore> }) {
+  return (
+    <div className="flex flex-wrap gap-3">
+      {Object.entries(scores).map(([key, s]) => {
+        const color = scoreColor(s.avg)
+        return (
+          <div
+            key={key}
+            className="flex-1 min-w-[100px] rounded-lg p-3 bg-[#0f172a] border"
+            style={{ borderColor: color + '33' }}
+          >
+            <div className="text-[10px] text-[#475569] mb-1.5">{CHAPTER_LABEL[key] ?? key}</div>
+            <div className="text-2xl font-bold tabular-nums" style={{ color }}>{Math.round(s.avg)}</div>
+            <div className="mt-1.5 h-1.5 w-full bg-[#1e293b] rounded-full overflow-hidden">
+              <div className="h-full rounded-full" style={{ width: `${s.avg}%`, background: color }} />
+            </div>
+            <div className="flex justify-between mt-1">
+              <span className="text-[9px] text-[#334155]">{s.min}–{s.max}</span>
+              <span className="text-[9px] text-[#334155]">n={s.n}</span>
+            </div>
+          </div>
+        )
+      })}
+    </div>
+  )
+}
+
+// ── Session row ────────────────────────────────────────────────────────────────
+
+function SessionRow({
+  session,
+  caseExpected,
+  maxSeconds,
+  staffMap,
+}: {
+  session: MergedSession
+  caseExpected: SegmentBlock[]
+  maxSeconds: number
+  staffMap: StaffMap
+}) {
+  const [open, setOpen] = useState(false)
+  const introDelta = getIntroDelta(caseExpected, session)
+  const endDelta = getEndDelta(session)
+  const eng = engagement[session.id]
+  const moments = magicMomentsMap[session.id] ?? []
+  const hasScoring = !!(eng?.chapter_scores && Object.keys(eng.chapter_scores).length)
+  const hasMagic = moments.length > 0
+
+  return (
+    <div className="px-5 py-4">
+      <button onClick={() => setOpen(o => !o)} className="w-full text-left">
+        <div className="flex flex-wrap items-start justify-between gap-2 mb-3">
+          <div className="flex flex-wrap items-center gap-2 min-w-0">
+            {open
+              ? <ChevronDown size={12} className="text-[#334155] shrink-0 mt-0.5" />
+              : <ChevronRight size={12} className="text-[#334155] shrink-0 mt-0.5" />
+            }
+            <a
+              href={`/session/${session.id}`}
+              onClick={e => e.stopPropagation()}
+              className="text-sm font-medium text-[#e2e8f0] hover:text-[#a78bfa] transition-colors truncate"
+            >
+              {session.cohort || session.name}
+            </a>
+            <span className="text-xs text-[#475569]">{session.session_start_display}</span>
+            <span className="flex items-center gap-0.5 text-xs text-[#94a3b8]">
+              <Users size={11} />
+              {session.teams}
+            </span>
+            <span className="flex items-center gap-0.5 text-xs text-[#94a3b8]">
+              <User size={11} />
+              {session.players}
+            </span>
+            {session.inferred && (
+              <span className="text-[10px] text-[#475569] italic">inferred start</span>
+            )}
+            {staffMap[session.id]?.faculty && (
+              <span className="text-[10px] px-1.5 py-0.5 rounded bg-[#1e3a5f]/60 text-[#93c5fd] border border-[#1e40af]/40">
+                {staffMap[session.id].faculty}
+              </span>
+            )}
+            {staffMap[session.id]?.producer && (
+              <span className="text-[10px] px-1.5 py-0.5 rounded bg-[#2d1b4e]/60 text-[#c4b5fd] border border-[#5b21b6]/40">
+                {staffMap[session.id].producer}
+              </span>
+            )}
+          </div>
+          <div className="flex items-center gap-1.5 shrink-0">
+            <IntroPill delta={introDelta} />
+            <EndPill delta={endDelta} />
+          </div>
+        </div>
+      </button>
+
+      {open && (
+        <div className="mt-1 space-y-1.5">
+          <SubPanel title="Timing" insight={timingInsight(introDelta, endDelta)}>
+            <Timeline
+              expected={caseExpected}
+              actual={session.actual}
+              maxSeconds={maxSeconds}
+              scheduledDurationMin={session.scheduled_duration_min}
+              sessionId={session.id}
+              sessionLabel={session.cohort || session.name}
+            />
+          </SubPanel>
+
+          {hasScoring && (
+            <SubPanel title="Scoring" insight={scoringInsight(eng!.chapter_scores!)}>
+              <ScoringHeatmap scores={eng!.chapter_scores!} />
+            </SubPanel>
+          )}
+
+          {hasMagic && (
+            <SubPanel title="Magic Moments" insight={magicInsight(moments)}>
+              <div className="space-y-4">
+                {moments.map((m, i) => (
+                  <div key={i}>
+                    <div className="text-xs font-medium text-[#93c5fd] mb-1">{m.title}</div>
+                    {m.quote && (
+                      <p className="text-xs text-[#94a3b8] italic pl-3 border-l-2 border-[#1e40af]/50 mb-1.5">
+                        &ldquo;{m.quote}&rdquo;
+                      </p>
+                    )}
+                    <p className="text-xs text-[#475569]">{m.context}</p>
+                  </div>
+                ))}
+              </div>
+            </SubPanel>
+          )}
+        </div>
+      )}
+    </div>
+  )
 }
 
 const EPP = 'Enabling Peak Performance'
@@ -401,92 +603,15 @@ export default function DashboardView({
 
                 {/* Sessions */}
                 <div className="divide-y divide-[#334155]">
-                  {caseData.sessions.map(session => {
-                    const introDelta = getIntroDelta(caseData.expected, session)
-                    const endDelta = getEndDelta(session)
-
-                    return (
-                      <div key={session.id} className="px-5 py-4">
-                        {/* Session header */}
-                        <div className="flex flex-wrap items-start justify-between gap-2 mb-3">
-                          <div className="flex flex-wrap items-center gap-2 min-w-0">
-                            <a
-                              href={`/session/${session.id}`}
-                              className="text-sm font-medium text-[#e2e8f0] hover:text-[#a78bfa] transition-colors truncate"
-                            >
-                              {session.cohort || session.name}
-                            </a>
-                            <span className="text-xs text-[#475569]">{session.session_start_display}</span>
-                            <span className="flex items-center gap-0.5 text-xs text-[#94a3b8]">
-                              <Users size={11} />
-                              {session.teams}
-                            </span>
-                            <span className="flex items-center gap-0.5 text-xs text-[#94a3b8]">
-                              <User size={11} />
-                              {session.players}
-                            </span>
-                            {session.inferred && (
-                              <span className="text-[10px] text-[#475569] italic">inferred start</span>
-                            )}
-                            {staffMap[session.id]?.faculty && (
-                              <span className="text-[10px] px-1.5 py-0.5 rounded bg-[#1e3a5f]/60 text-[#93c5fd] border border-[#1e40af]/40">
-                                {staffMap[session.id].faculty}
-                              </span>
-                            )}
-                            {staffMap[session.id]?.producer && (
-                              <span className="text-[10px] px-1.5 py-0.5 rounded bg-[#2d1b4e]/60 text-[#c4b5fd] border border-[#5b21b6]/40">
-                                {staffMap[session.id].producer}
-                              </span>
-                            )}
-                          </div>
-                          <div className="flex items-center gap-1.5 shrink-0">
-                            <IntroPill delta={introDelta} />
-                            <EndPill delta={endDelta} />
-                          </div>
-                        </div>
-
-                        {/* Timeline */}
-                        <Timeline
-                          expected={caseData.expected}
-                          actual={session.actual}
-                          maxSeconds={maxSeconds}
-                          scheduledDurationMin={session.scheduled_duration_min}
-                          sessionId={session.id}
-                          sessionLabel={session.cohort || session.name}
-                        />
-
-                        {/* Sim scores + reflection */}
-                        {(() => {
-                          const eng = engagement[session.id]
-                          if (!eng) return null
-                          const scores = eng.chapter_scores
-                          const reflPct = eng.reflection_pct
-                          return (
-                            <div className="mt-2.5 flex flex-wrap items-center gap-x-4 gap-y-1">
-                              {scores && Object.entries(scores).map(([key, s]) => (
-                                <div key={key} className="flex items-center gap-1.5">
-                                  <span className="text-[10px] text-[#475569]">{CHAPTER_LABEL[key] ?? key}</span>
-                                  <span className="text-[11px] font-semibold tabular-nums" style={{ color: scoreColor(s.avg) }}>
-                                    {Math.round(s.avg)}
-                                  </span>
-                                  <span className="text-[10px] text-[#334155]">avg</span>
-                                  <span className="text-[10px] text-[#475569]">({s.min}–{s.max}, n={s.n})</span>
-                                </div>
-                              ))}
-                              {reflPct !== undefined && (
-                                <div className="flex items-center gap-1.5">
-                                  <span className="text-[10px] text-[#475569]">reflections</span>
-                                  <span className="text-[11px] font-semibold tabular-nums" style={{ color: scoreColor(reflPct) }}>
-                                    {Math.round(reflPct)}%
-                                  </span>
-                                </div>
-                              )}
-                            </div>
-                          )
-                        })()}
-                      </div>
-                    )
-                  })}
+                  {caseData.sessions.map(session => (
+                    <SessionRow
+                      key={session.id}
+                      session={session}
+                      caseExpected={caseData.expected}
+                      maxSeconds={maxSeconds}
+                      staffMap={staffMap}
+                    />
+                  ))}
                 </div>
               </section>
             )
