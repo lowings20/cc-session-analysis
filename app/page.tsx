@@ -26,6 +26,9 @@ export default async function Page() {
 
   return (
     <Suspense fallback={<div className="p-8 text-[#94a3b8]">Loading…</div>}>
+      <div className="bg-emerald-500 text-white text-center py-2 font-semibold">
+        this worked
+      </div>
       <DashboardView dashboard={dashboard} snapshotDate={snapshotDate} staffMap={staffMap} />
     </Suspense>
   )
