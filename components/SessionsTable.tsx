@@ -16,7 +16,7 @@ export interface SessionRow {
   players_per_team: number | null
   facilitators: string | null
   producers: string | null
-  has_runsheet?: boolean
+  runsheet_version?: string | null
   has_survey?: boolean
   has_transcript?: boolean
 }
@@ -29,7 +29,7 @@ type SortKey =
   | 'program_name'
   | 'facilitators'
   | 'producers'
-  | 'has_runsheet'
+  | 'runsheet_version'
   | 'has_survey'
   | 'has_transcript'
 
@@ -72,7 +72,7 @@ function compare(a: SessionRow, b: SessionRow, key: SortKey, dir: SortDir): numb
     const bv = b.start_date ? new Date(b.start_date).getTime() : -Infinity
     return (av - bv) * mult
   }
-  if (key === 'has_runsheet' || key === 'has_survey' || key === 'has_transcript') {
+  if (key === 'has_survey' || key === 'has_transcript') {
     const av = a[key] ? 1 : 0
     const bv = b[key] ? 1 : 0
     return (av - bv) * mult
@@ -92,7 +92,7 @@ const COLUMNS: { key: SortKey; label: string; align?: Align }[] = [
   { key: 'program_name', label: 'Program' },
   { key: 'facilitators', label: 'Facilitator' },
   { key: 'producers', label: 'Producer' },
-  { key: 'has_runsheet', label: 'Runsheet', align: 'center' },
+  { key: 'runsheet_version', label: 'Runsheet', align: 'center' },
   { key: 'has_survey', label: 'Survey', align: 'center' },
   { key: 'has_transcript', label: 'Transcript', align: 'center' },
 ]
@@ -263,7 +263,9 @@ export default function SessionsTable({ rows }: { rows: SessionRow[] }) {
                 </td>
                 <td className="px-4 py-3 text-[#cbd5e1]">{r.facilitators ?? '—'}</td>
                 <td className="px-4 py-3 text-[#94a3b8]">{r.producers ?? '—'}</td>
-                <td className="px-4 py-3 text-center"><YesNo value={r.has_runsheet} /></td>
+                <td className="px-4 py-3 text-center text-[#cbd5e1] tabular-nums whitespace-nowrap">
+                  {r.runsheet_version ?? <span className="text-[#475569]">—</span>}
+                </td>
                 <td className="px-4 py-3 text-center"><YesNo value={r.has_survey} /></td>
                 <td className="px-4 py-3 text-center"><YesNo value={r.has_transcript} /></td>
               </tr>

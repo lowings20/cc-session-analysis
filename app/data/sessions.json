@@ -1,6 +1,6 @@
 {
   "generated_at": "2026-05-20T00:00:00.000Z",
-  "source": "Arrow (portal.program_session ⨝ program_session_simulation ⨝ simulation ⨝ roster) where roster.number_of_teams >= 4 and simulation.external_case_name IS NOT NULL. Facilitators/producers limited to contract_accepted = true and not canceled. has_runsheet sourced from local 'Slides and Runsheets 3' folder. has_survey from portal.program_session_survey. has_transcript not yet wired.",
+  "source": "Arrow (portal.program_session ⨝ program_session_simulation ⨝ simulation ⨝ roster) where roster.number_of_teams >= 4 and simulation.external_case_name IS NOT NULL. Facilitators/producers limited to contract_accepted = true and not canceled. runsheet_version sourced from filenames in local 'Slides and Runsheets 3' folder. has_survey from portal.program_session_survey. has_transcript not yet wired.",
   "rows": [
     {
       "session_id": 14548,
@@ -15,9 +15,9 @@
       "players_per_team": 2,
       "facilitators": "Paul Kirkitelos",
       "producers": null,
-      "has_runsheet": true,
       "has_survey": true,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.06"
     },
     {
       "session_id": 21420,
@@ -32,9 +32,9 @@
       "players_per_team": 2,
       "facilitators": "Nelson Gayton",
       "producers": null,
-      "has_runsheet": true,
       "has_survey": false,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.06"
     },
     {
       "session_id": 14344,
@@ -49,9 +49,9 @@
       "players_per_team": 2,
       "facilitators": "Rohit Shyam",
       "producers": "Eddie Wood",
-      "has_runsheet": true,
       "has_survey": true,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.04.10"
     },
     {
       "session_id": 19639,
@@ -66,9 +66,9 @@
       "players_per_team": 2,
       "facilitators": "Tamara Nolte",
       "producers": null,
-      "has_runsheet": true,
       "has_survey": true,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.04"
     },
     {
       "session_id": 19638,
@@ -83,9 +83,9 @@
       "players_per_team": 2,
       "facilitators": "Tamara Nolte",
       "producers": null,
-      "has_runsheet": true,
       "has_survey": true,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.06"
     },
     {
       "session_id": 16347,
@@ -100,9 +100,9 @@
       "players_per_team": 2,
       "facilitators": "Paul Kirkitelos",
       "producers": "Trazana Bush",
-      "has_runsheet": true,
       "has_survey": false,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.04"
     },
     {
       "session_id": 14363,
@@ -117,9 +117,9 @@
       "players_per_team": 2,
       "facilitators": "Kristen Kramer",
       "producers": null,
-      "has_runsheet": true,
       "has_survey": true,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.18"
     },
     {
       "session_id": 14419,
@@ -134,9 +134,9 @@
       "players_per_team": 2,
       "facilitators": "Kristen Kramer",
       "producers": null,
-      "has_runsheet": true,
       "has_survey": true,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.05"
     },
     {
       "session_id": 18921,
@@ -151,9 +151,9 @@
       "players_per_team": 2,
       "facilitators": "Angie Bealko",
       "producers": null,
-      "has_runsheet": true,
       "has_survey": false,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.04"
     },
     {
       "session_id": 16344,
@@ -168,9 +168,9 @@
       "players_per_team": 2,
       "facilitators": "Paul Kirkitelos",
       "producers": "Ali Block",
-      "has_runsheet": true,
       "has_survey": false,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.04"
     },
     {
       "session_id": 16346,
@@ -185,9 +185,9 @@
       "players_per_team": 2,
       "facilitators": "Paul Kirkitelos",
       "producers": "Trazana Bush",
-      "has_runsheet": true,
       "has_survey": false,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.04"
     },
     {
       "session_id": 17064,
@@ -202,9 +202,9 @@
       "players_per_team": 2,
       "facilitators": "Rebecca Kaloo",
       "producers": "Ali Block",
-      "has_runsheet": true,
       "has_survey": true,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.06"
     },
     {
       "session_id": 14774,
@@ -219,9 +219,9 @@
       "players_per_team": 2,
       "facilitators": "Amy Drozd, Monika Sauer",
       "producers": null,
-      "has_runsheet": true,
       "has_survey": false,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.04"
     },
     {
       "session_id": 18979,
@@ -236,9 +236,9 @@
       "players_per_team": 2,
       "facilitators": "Tara Layne",
       "producers": "Ignacio Llapur",
-      "has_runsheet": true,
       "has_survey": false,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.06"
     },
     {
       "session_id": 14773,
@@ -253,9 +253,9 @@
       "players_per_team": 2,
       "facilitators": "Amy Drozd, Monika Sauer",
       "producers": null,
-      "has_runsheet": true,
       "has_survey": false,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.04"
     },
     {
       "session_id": 16343,
@@ -270,9 +270,9 @@
       "players_per_team": 2,
       "facilitators": "Paul Kirkitelos",
       "producers": "Ali Block",
-      "has_runsheet": true,
       "has_survey": false,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.04"
     },
     {
       "session_id": 13508,
@@ -287,9 +287,9 @@
       "players_per_team": 2,
       "facilitators": "Tamara Nolte",
       "producers": "Ali Block",
-      "has_runsheet": true,
       "has_survey": true,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.16"
     },
     {
       "session_id": 19704,
@@ -304,9 +304,9 @@
       "players_per_team": 2,
       "facilitators": "Diana Pavlovská",
       "producers": "Hanin Bengezi",
-      "has_runsheet": true,
       "has_survey": false,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.18"
     },
     {
       "session_id": 20108,
@@ -321,9 +321,9 @@
       "players_per_team": 2,
       "facilitators": "Matt Rubins",
       "producers": "Ali Block",
-      "has_runsheet": true,
       "has_survey": true,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.02.12"
     },
     {
       "session_id": 13498,
@@ -338,9 +338,9 @@
       "players_per_team": 2,
       "facilitators": "Tamara Nolte",
       "producers": "Eddie Wood",
-      "has_runsheet": true,
       "has_survey": true,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.16"
     },
     {
       "session_id": 13518,
@@ -355,9 +355,9 @@
       "players_per_team": 2,
       "facilitators": "Francois-Alexandre Leonard, Melissa Chan",
       "producers": "Trazana Bush",
-      "has_runsheet": true,
       "has_survey": true,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.16"
     },
     {
       "session_id": 18978,
@@ -372,9 +372,9 @@
       "players_per_team": 2,
       "facilitators": "Tara Layne",
       "producers": "Ignacio Llapur",
-      "has_runsheet": true,
       "has_survey": false,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.04.09"
     },
     {
       "session_id": 14782,
@@ -389,9 +389,9 @@
       "players_per_team": 2,
       "facilitators": "Sara  Amighi",
       "producers": null,
-      "has_runsheet": true,
       "has_survey": false,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.04"
     },
     {
       "session_id": 14784,
@@ -406,9 +406,9 @@
       "players_per_team": 2,
       "facilitators": "Sara  Amighi",
       "producers": null,
-      "has_runsheet": true,
       "has_survey": false,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.04"
     },
     {
       "session_id": 19607,
@@ -423,9 +423,9 @@
       "players_per_team": 2,
       "facilitators": "Jonathan Schneider",
       "producers": null,
-      "has_runsheet": true,
       "has_survey": false,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.04"
     },
     {
       "session_id": 14334,
@@ -440,9 +440,9 @@
       "players_per_team": 2,
       "facilitators": "Valérie Scheer",
       "producers": "Ignacio Llapur",
-      "has_runsheet": true,
       "has_survey": false,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.04"
     },
     {
       "session_id": 14375,
@@ -457,9 +457,9 @@
       "players_per_team": 2,
       "facilitators": "Paul Kirkitelos",
       "producers": "Alexis Gozard",
-      "has_runsheet": true,
       "has_survey": false,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.06"
     },
     {
       "session_id": 13327,
@@ -474,9 +474,9 @@
       "players_per_team": 2,
       "facilitators": "Nick White",
       "producers": "Trazana Bush",
-      "has_runsheet": true,
       "has_survey": true,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.16"
     },
     {
       "session_id": 13267,
@@ -491,9 +491,9 @@
       "players_per_team": 3,
       "facilitators": "Nick White",
       "producers": "Bruna Martinez",
-      "has_runsheet": true,
       "has_survey": true,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.16"
     },
     {
       "session_id": 22047,
@@ -508,9 +508,9 @@
       "players_per_team": 2,
       "facilitators": "Luke Owings, Paul Kirkitelos",
       "producers": null,
-      "has_runsheet": true,
       "has_survey": true,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.04"
     },
     {
       "session_id": 14333,
@@ -525,9 +525,9 @@
       "players_per_team": 2,
       "facilitators": "Valérie Scheer",
       "producers": "Ignacio Llapur",
-      "has_runsheet": true,
       "has_survey": false,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.04"
     },
     {
       "session_id": 14331,
@@ -542,9 +542,9 @@
       "players_per_team": 2,
       "facilitators": "Valérie Scheer",
       "producers": "Ignacio Llapur",
-      "has_runsheet": true,
       "has_survey": false,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.04"
     },
     {
       "session_id": 14356,
@@ -559,9 +559,9 @@
       "players_per_team": 2,
       "facilitators": "Paul Kirkitelos",
       "producers": "Alexis Gozard",
-      "has_runsheet": true,
       "has_survey": false,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.04"
     },
     {
       "session_id": 13505,
@@ -576,9 +576,9 @@
       "players_per_team": 2,
       "facilitators": "Tamara Nolte",
       "producers": "Ali Block",
-      "has_runsheet": true,
       "has_survey": true,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.18"
     },
     {
       "session_id": 13515,
@@ -593,9 +593,9 @@
       "players_per_team": 2,
       "facilitators": "Francois-Alexandre Leonard",
       "producers": "Bruna Martinez",
-      "has_runsheet": true,
       "has_survey": true,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.18"
     },
     {
       "session_id": 13495,
@@ -610,9 +610,9 @@
       "players_per_team": 2,
       "facilitators": "Tamara Nolte",
       "producers": "Trazana Bush",
-      "has_runsheet": true,
       "has_survey": true,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.18"
     },
     {
       "session_id": 19606,
@@ -627,9 +627,9 @@
       "players_per_team": 2,
       "facilitators": "Jonathan Schneider",
       "producers": null,
-      "has_runsheet": true,
       "has_survey": false,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.04"
     },
     {
       "session_id": 13324,
@@ -644,9 +644,9 @@
       "players_per_team": 2,
       "facilitators": "Nick White",
       "producers": "Ali Block",
-      "has_runsheet": true,
       "has_survey": true,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.18"
     },
     {
       "session_id": 13494,
@@ -661,9 +661,9 @@
       "players_per_team": 2,
       "facilitators": "Tamara Nolte",
       "producers": "Trazana Bush",
-      "has_runsheet": true,
       "has_survey": false,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.04"
     },
     {
       "session_id": 13264,
@@ -678,9 +678,9 @@
       "players_per_team": 2,
       "facilitators": "Nick White",
       "producers": "Bruna Martinez",
-      "has_runsheet": true,
       "has_survey": true,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.18"
     },
     {
       "session_id": 13514,
@@ -695,9 +695,9 @@
       "players_per_team": 2,
       "facilitators": "Francois-Alexandre Leonard",
       "producers": "Bruna Martinez",
-      "has_runsheet": true,
       "has_survey": false,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.04"
     },
     {
       "session_id": 14503,
@@ -712,9 +712,9 @@
       "players_per_team": 2,
       "facilitators": "Luke Owings",
       "producers": "Hanin Bengezi",
-      "has_runsheet": true,
       "has_survey": false,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.16"
     },
     {
       "session_id": 13925,
@@ -729,9 +729,9 @@
       "players_per_team": 2,
       "facilitators": null,
       "producers": null,
-      "has_runsheet": true,
       "has_survey": false,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.04"
     },
     {
       "session_id": 12173,
@@ -746,9 +746,9 @@
       "players_per_team": 2,
       "facilitators": null,
       "producers": null,
-      "has_runsheet": true,
       "has_survey": false,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.04.09"
     },
     {
       "session_id": 14483,
@@ -763,9 +763,9 @@
       "players_per_team": 2,
       "facilitators": null,
       "producers": null,
-      "has_runsheet": true,
       "has_survey": true,
-      "has_transcript": false
+      "has_transcript": false,
+      "runsheet_version": "v26.03.04"
     }
   ]
 }
