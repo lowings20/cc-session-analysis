@@ -1,0 +1,1052 @@
+{
+  "generated_at": "2026-05-20T00:00:00.000Z",
+  "source": "Aggregated from app/data/sessions.json + app/data/sessions/*.json + app/data/magic-moments.json. Strengths and learn_from need LLM enrichment via scripts/extract_facilitator_profiles.py.",
+  "facilitators": [
+    {
+      "name": "Paul Kirkitelos",
+      "slug": "paul-kirkitelos",
+      "session_count": 8,
+      "case_challenges": [
+        "Enabling Peak Performance",
+        "Kickoff: Shelf Awareness",
+        "Leading in Times of Change",
+        "Navigating Critical Conversations"
+      ],
+      "avg_survey_score": null,
+      "survey_session_count": 0,
+      "avg_team_score": 71.2,
+      "team_score_count": 40,
+      "narrative_outcomes": {
+        "Back on Course": 6,
+        "Full Speed Ahead": 6,
+        "Jordan Steps Up": 14,
+        "Jordan Regains His Confidence": 1,
+        "Alignment in Motion": 2,
+        "Stable, but Stalled": 1,
+        "Built to Thryve": 2,
+        "Choppy Waters": 1,
+        "Adrift": 3,
+        "Modest Growth": 3,
+        "Store Issues Persist": 1
+      },
+      "sessions": [
+        {
+          "session_id": 14548,
+          "program_name": "Target:CC_SLDP_Jun26",
+          "program_uuid": "60e54f14-fef6-4a0b-bf15-2b8a58888185",
+          "session_name": "Case Challenge: Leading in Times of Change",
+          "case_challenge": "Leading in Times of Change",
+          "start_date": "2026-06-17T14:30:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": null,
+          "survey_response_count": null
+        },
+        {
+          "session_id": 16347,
+          "program_name": "Entain Management Programme 2026 - Cohort 2",
+          "program_uuid": "44fadd71-622e-454a-a4cd-73aadb56e379",
+          "session_name": "Case Challenge: Navigating Critical Conversations",
+          "case_challenge": "Navigating Critical Conversations",
+          "start_date": "2026-05-22T08:00:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": null,
+          "survey_response_count": null
+        },
+        {
+          "session_id": 16344,
+          "program_name": "Entain Management Programme 2026 - Cohort 1",
+          "program_uuid": "4f706a44-bc0a-46b9-b609-a8750995956d",
+          "session_name": "Case Challenge: Navigating Critical Conversations",
+          "case_challenge": "Navigating Critical Conversations",
+          "start_date": "2026-05-15T13:00:00.000Z",
+          "number_of_teams": 6,
+          "survey_score": null,
+          "survey_response_count": null
+        },
+        {
+          "session_id": 16346,
+          "program_name": "Entain Management Programme 2026 - Cohort 2",
+          "program_uuid": "44fadd71-622e-454a-a4cd-73aadb56e379",
+          "session_name": "Case Challenge: Enabling Peak Performance",
+          "case_challenge": "Enabling Peak Performance",
+          "start_date": "2026-05-15T08:00:00.000Z",
+          "number_of_teams": 11,
+          "survey_score": null,
+          "survey_response_count": null
+        },
+        {
+          "session_id": 16343,
+          "program_name": "Entain Management Programme 2026 - Cohort 1",
+          "program_uuid": "4f706a44-bc0a-46b9-b609-a8750995956d",
+          "session_name": "Case Challenge: Enabling Peak Performance",
+          "case_challenge": "Enabling Peak Performance",
+          "start_date": "2026-05-11T13:00:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": null,
+          "survey_response_count": null
+        },
+        {
+          "session_id": 14375,
+          "program_name": "RXO:SLP_Rise_26",
+          "program_uuid": "1013a7be-1817-4c73-b968-29123c9e4be9",
+          "session_name": "Case Challenge: Leading in Times of Change",
+          "case_challenge": "Leading in Times of Change",
+          "start_date": "2026-04-30T15:00:00.000Z",
+          "number_of_teams": 5,
+          "survey_score": null,
+          "survey_response_count": null
+        },
+        {
+          "session_id": 22047,
+          "program_name": "UPenn & ATD Case Challenge Demo",
+          "program_uuid": "263f2536-b73f-4a68-80bc-8b28d92f9f56",
+          "session_name": "Case Challenge: Navigating Critical Conversations",
+          "case_challenge": "Navigating Critical Conversations",
+          "start_date": "2026-04-28T17:00:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": null,
+          "survey_response_count": 0
+        },
+        {
+          "session_id": 14356,
+          "program_name": "RXO:SLP_Rise_26",
+          "program_uuid": "1013a7be-1817-4c73-b968-29123c9e4be9",
+          "session_name": "Rise Program Kickoff",
+          "case_challenge": "Kickoff: Shelf Awareness",
+          "start_date": "2026-04-23T15:00:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": null,
+          "survey_response_count": null
+        }
+      ],
+      "magic_moments": [],
+      "strengths": [],
+      "learn_from": [],
+      "strengths_method": null
+    },
+    {
+      "name": "Tamara Nolte",
+      "slug": "tamara-nolte",
+      "session_count": 7,
+      "case_challenges": [
+        "Influencing Without Authority",
+        "Kickoff: Shelf Awareness",
+        "Leading in Times of Change",
+        "Managing Profitability",
+        "Navigating Critical Conversations"
+      ],
+      "avg_survey_score": 4.484500000000001,
+      "survey_session_count": 4,
+      "avg_team_score": 81.675,
+      "team_score_count": 40,
+      "narrative_outcomes": {
+        "Market Maker": 14,
+        "Gaining Traction": 2,
+        "Back to the Drawing Board": 2,
+        "Cold as Ice": 14,
+        "Cool and Collected": 7,
+        "Sweating It Out": 1
+      },
+      "sessions": [
+        {
+          "session_id": 19639,
+          "program_name": "NewYorkTimes:CC_May26",
+          "program_uuid": "0e9a50fb-5513-4a86-a279-c2c35008028b",
+          "session_name": "Case Challenge: Navigating Critical Conversations",
+          "case_challenge": "Navigating Critical Conversations",
+          "start_date": "2026-05-28T14:30:00.000Z",
+          "number_of_teams": 15,
+          "survey_score": null,
+          "survey_response_count": null
+        },
+        {
+          "session_id": 19638,
+          "program_name": "NewYorkTimes:CC_May26",
+          "program_uuid": "0e9a50fb-5513-4a86-a279-c2c35008028b",
+          "session_name": "Case Challenge: Leading in Times of Change",
+          "case_challenge": "Leading in Times of Change",
+          "start_date": "2026-05-27T17:00:00.000Z",
+          "number_of_teams": 15,
+          "survey_score": null,
+          "survey_response_count": null
+        },
+        {
+          "session_id": 13508,
+          "program_name": "BectonDickinson: AMS_LEAPICohort2",
+          "program_uuid": "e6e735d2-81f8-46f3-a34d-8b4530a759c4",
+          "session_name": "Case Challenge: Managing Profitability",
+          "case_challenge": "Managing Profitability",
+          "start_date": "2026-05-07T15:00:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": 5.0,
+          "survey_response_count": 1
+        },
+        {
+          "session_id": 13498,
+          "program_name": "BectonDickinson: AMS_LEAPICohort1",
+          "program_uuid": "cdb8ebfa-3f20-45fc-8902-63a693568034",
+          "session_name": "Case Challenge: Managing Profitability",
+          "case_challenge": "Managing Profitability",
+          "start_date": "2026-05-06T15:00:00.000Z",
+          "number_of_teams": 14,
+          "survey_score": 4.25,
+          "survey_response_count": 4
+        },
+        {
+          "session_id": 13505,
+          "program_name": "BectonDickinson: AMS_LEAPICohort2",
+          "program_uuid": "e6e735d2-81f8-46f3-a34d-8b4530a759c4",
+          "session_name": "Case Challenge: Influencing Without Authority",
+          "case_challenge": "Influencing Without Authority",
+          "start_date": "2026-04-15T15:00:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": 4.521,
+          "survey_response_count": 16
+        },
+        {
+          "session_id": 13495,
+          "program_name": "BectonDickinson: AMS_LEAPICohort1",
+          "program_uuid": "cdb8ebfa-3f20-45fc-8902-63a693568034",
+          "session_name": "Case Challenge: Influencing Without Authority",
+          "case_challenge": "Influencing Without Authority",
+          "start_date": "2026-04-14T15:00:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": 4.167,
+          "survey_response_count": 2
+        },
+        {
+          "session_id": 13494,
+          "program_name": "BectonDickinson: AMS_LEAPICohort1",
+          "program_uuid": "cdb8ebfa-3f20-45fc-8902-63a693568034",
+          "session_name": "Kickoff",
+          "case_challenge": "Kickoff: Shelf Awareness",
+          "start_date": "2026-04-08T15:00:00.000Z",
+          "number_of_teams": 11,
+          "survey_score": null,
+          "survey_response_count": null
+        }
+      ],
+      "magic_moments": [
+        {
+          "id": "tam-may6-ai-reframe",
+          "facilitator": "Tamara Nolte",
+          "session_label": "BD AMS LEAPI Cohort 1 · May 6, 2026",
+          "timestamp": "00:00:23",
+          "transcript_path": "MP/MP-05.06.26-Tam/GMT20260506-150524_Recording.transcript.vtt",
+          "context": "Opening framing of the case",
+          "quote": "We are living in this world of AI. We can calculate break-even costs in a second on our computers. We could probably even build a really complex financial model in moments. So why even think about finance? Because it still needs human judgment — to understand the numbers, to understand why the decisions are being made, and to pressure test my assumptions.",
+          "why_magic": "Tam names the elephant in the room before participants can. If AI can do the math, why are we here? She reframes the value proposition of the entire session in one breath, landing it on judgment and pressure-testing assumptions — which is exactly what the case will demand of them.",
+          "case_challenge": "Managing Profitability"
+        },
+        {
+          "id": "tam-may6-failure-is-the-goal",
+          "facilitator": "Tamara Nolte",
+          "session_label": "BD AMS LEAPI Cohort 1 · May 6, 2026",
+          "timestamp": "00:09:48",
+          "transcript_path": "MP/MP-05.06.26-Tam/GMT20260506-150524_Recording.transcript.vtt",
+          "context": "Just before launching the first breakout",
+          "quote": "Your job is to try things and make mistakes and see how you can figure it out. Failure actually is the goal here in order to learn and grow from it.",
+          "why_magic": "She gives explicit permission to fail right before the first decision the teams have to make. Participants who feel safe taking risks engage more deeply — and the data later in the chapter (teams who tried bold paths got the best feedback) bears this out.",
+          "case_challenge": "Managing Profitability"
+        },
+        {
+          "id": "tam-may6-seeds-to-extrapolate",
+          "facilitator": "Tamara Nolte",
+          "session_label": "BD AMS LEAPI Cohort 1 · May 6, 2026",
+          "timestamp": "00:43:39",
+          "transcript_path": "MP/MP-05.06.26-Tam/GMT20260506-150524_Recording.transcript.vtt",
+          "context": "Mid-debrief, bridging the simulation back to participants' real work",
+          "quote": "Our time here is not well spent if we're not … like I've said in every session, our job is to provide seeds for you to extrapolate and pull back into your world.",
+          "why_magic": "She makes the meta-purpose of the session explicit, mid-flow. The simulation isn't the point — the point is what participants can take back to BD. Naming that out loud reshapes how participants engage with the rest of the debrief.",
+          "case_challenge": "Managing Profitability"
+        }
+      ],
+      "strengths": [],
+      "learn_from": [],
+      "strengths_method": null
+    },
+    {
+      "name": "Nick White",
+      "slug": "nick-white",
+      "session_count": 4,
+      "case_challenges": [
+        "Influencing Without Authority",
+        "Managing Profitability"
+      ],
+      "avg_survey_score": 4.66425,
+      "survey_session_count": 4,
+      "avg_team_score": 77.14285714285714,
+      "team_score_count": 28,
+      "narrative_outcomes": {
+        "Market Maker": 11,
+        "Gaining Traction": 8,
+        "Back to the Drawing Board": 1,
+        "Sweating It Out": 2,
+        "Cool and Collected": 5,
+        "Cold as Ice": 1
+      },
+      "sessions": [
+        {
+          "session_id": 13327,
+          "program_name": "BectonDickinson:EMEA_LEAPICohort2",
+          "program_uuid": "9e1626c2-2a65-4cfa-b23a-cf7d554e3dc6",
+          "session_name": "Case Challenge: Managing Profitability",
+          "case_challenge": "Managing Profitability",
+          "start_date": "2026-04-30T08:00:00.000Z",
+          "number_of_teams": 13,
+          "survey_score": 4.786,
+          "survey_response_count": 7
+        },
+        {
+          "session_id": 13267,
+          "program_name": "BectonDickinson:EMEA_LEAPICohort1",
+          "program_uuid": "d2455dea-135f-49d1-830b-6d430acbad7d",
+          "session_name": "Case Challenge: Managing Profitability",
+          "case_challenge": "Managing Profitability",
+          "start_date": "2026-04-29T08:00:00.000Z",
+          "number_of_teams": 13,
+          "survey_score": 4.667,
+          "survey_response_count": 5
+        },
+        {
+          "session_id": 13324,
+          "program_name": "BectonDickinson:EMEA_LEAPICohort2",
+          "program_uuid": "9e1626c2-2a65-4cfa-b23a-cf7d554e3dc6",
+          "session_name": "Case Challenge: Influencing Without Authority",
+          "case_challenge": "Influencing Without Authority",
+          "start_date": "2026-04-09T08:00:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": 4.704,
+          "survey_response_count": 9
+        },
+        {
+          "session_id": 13264,
+          "program_name": "BectonDickinson:EMEA_LEAPICohort1",
+          "program_uuid": "d2455dea-135f-49d1-830b-6d430acbad7d",
+          "session_name": "Case Challenge: Influencing Without Authority",
+          "case_challenge": "Influencing Without Authority",
+          "start_date": "2026-04-08T08:00:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": 4.5,
+          "survey_response_count": 8
+        }
+      ],
+      "magic_moments": [
+        {
+          "id": "nick-apr29-risk-reward",
+          "facilitator": "Nick White",
+          "session_label": "BD EMEA LEAPI Cohort 1 · April 29, 2026",
+          "timestamp": "00:47:07",
+          "transcript_path": "MP/MP-04.29.26-Nick/GMT20260429-065916_Recording.transcript (1).vtt",
+          "context": "Debriefing a team that took a bold position with senior leaders",
+          "quote": "Without risk, we don't get rewards. There's nothing wrong with talking about risk, there's nothing wrong with presenting risk, even having high risk — if we can articulate the upside.",
+          "why_magic": "Nick reframes risk from a thing to hide from leadership into a thing to *present* to leadership. For managers heading into real budget conversations, that's the unlock — it's not the risk that kills the proposal, it's the failure to articulate the upside.",
+          "case_challenge": "Managing Profitability"
+        },
+        {
+          "id": "nick-apr30-already-know",
+          "facilitator": "Nick White",
+          "session_label": "BD EMEA LEAPI Cohort 2 · April 30, 2026",
+          "timestamp": "00:01:11",
+          "transcript_path": "MP/MP-04.30.26-Nick/GMT20260430-080027_Recording.transcript (1).vtt",
+          "context": "Opening minute with a finance-fluent cohort",
+          "quote": "When you go on a training and it's stuff you already know, you think, you know, what on earth am I doing here? But actually, by turning it around, that can be really quite powerful for you.",
+          "why_magic": "He pre-empts the disengagement risk in a room full of finance people who could teach this content themselves. The frame: your job is to teach — which is harder than learning — and that's how mastery shows up.",
+          "case_challenge": "Managing Profitability"
+        },
+        {
+          "id": "nick-apr1-bring-real-world",
+          "facilitator": "Nick White",
+          "session_label": "BD EMEA LEAPI · April 1, 2026",
+          "timestamp": "00:11:55",
+          "transcript_path": "Kickoff/Kickoff_Louis-04.01.26-Nick/GMT20260401-080436_Recording.transcript (2).vtt",
+          "context": "Opening of the kickoff program",
+          "quote": "We believe in bringing the real world in. So, we're gonna try and bring in as much of the real world as possible. Relate what we're learning back to BD. This is actually quite a challenging way of learning. It's actually a really powerful way of learning, because…",
+          "why_magic": "Right at the start of the program, Nick sets the contract: the cases will feel uncomfortable because they're trying to mirror BD's real complexity, and that discomfort is the point. Participants who buy into that contract in minute 11 engage differently for the rest of the journey.",
+          "case_challenge": "Kickoff: Shelf Awareness"
+        }
+      ],
+      "strengths": [],
+      "learn_from": [],
+      "strengths_method": null
+    },
+    {
+      "name": "Francois-Alexandre Leonard",
+      "slug": "francois-alexandre-leonard",
+      "session_count": 3,
+      "case_challenges": [
+        "Influencing Without Authority",
+        "Kickoff: Shelf Awareness",
+        "Managing Profitability"
+      ],
+      "avg_survey_score": 4.4325,
+      "survey_session_count": 2,
+      "avg_team_score": 69.36842105263158,
+      "team_score_count": 19,
+      "narrative_outcomes": {
+        "Back to the Drawing Board": 1,
+        "Finding Our Footing": 1,
+        "Market Maker": 4,
+        "Gaining Traction": 2,
+        "Cold as Ice": 3,
+        "Sweating It Out": 2,
+        "Cool and Collected": 4,
+        "Overheated": 2
+      },
+      "sessions": [
+        {
+          "session_id": 13518,
+          "program_name": "BectonDickinson: GA_LEAPICohort1",
+          "program_uuid": "261cbb90-71de-40b4-a2d9-ebddf16ef811",
+          "session_name": "Case Challenge: Managing Profitability",
+          "case_challenge": "Managing Profitability",
+          "start_date": "2026-05-06T04:00:00.000Z",
+          "number_of_teams": 8,
+          "survey_score": 4.5,
+          "survey_response_count": 10
+        },
+        {
+          "session_id": 13515,
+          "program_name": "BectonDickinson: GA_LEAPICohort1",
+          "program_uuid": "261cbb90-71de-40b4-a2d9-ebddf16ef811",
+          "session_name": "Case Challenge: Influencing Without Authority",
+          "case_challenge": "Influencing Without Authority",
+          "start_date": "2026-04-15T03:00:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": 4.365,
+          "survey_response_count": 21
+        },
+        {
+          "session_id": 13514,
+          "program_name": "BectonDickinson: GA_LEAPICohort1",
+          "program_uuid": "261cbb90-71de-40b4-a2d9-ebddf16ef811",
+          "session_name": "Kickoff",
+          "case_challenge": "Kickoff: Shelf Awareness",
+          "start_date": "2026-04-08T05:00:00.000Z",
+          "number_of_teams": 8,
+          "survey_score": null,
+          "survey_response_count": null
+        }
+      ],
+      "magic_moments": [],
+      "strengths": [],
+      "learn_from": [],
+      "strengths_method": null
+    },
+    {
+      "name": "Valérie Scheer",
+      "slug": "valrie-scheer",
+      "session_count": 3,
+      "case_challenges": [
+        "Enabling Peak Performance",
+        "Kickoff: Shelf Awareness",
+        "Navigating Critical Conversations"
+      ],
+      "avg_survey_score": null,
+      "survey_session_count": 0,
+      "avg_team_score": 75.47058823529412,
+      "team_score_count": 17,
+      "narrative_outcomes": {
+        "Full Speed Ahead": 3,
+        "Back on Course": 3,
+        "Jordan Steps Up": 4,
+        "Jordan Regains Confidence": 2,
+        "Store Issues Persist": 1,
+        "Modest Growth": 4
+      },
+      "sessions": [
+        {
+          "session_id": 14334,
+          "program_name": "RXO:RLP_Accelerate_26",
+          "program_uuid": "807ca0e8-24b5-42a9-9367-18b1c78b2061",
+          "session_name": "Case Challenge: Navigating Critical Conversations",
+          "case_challenge": "Navigating Critical Conversations",
+          "start_date": "2026-04-30T15:00:00.000Z",
+          "number_of_teams": 7,
+          "survey_score": null,
+          "survey_response_count": null
+        },
+        {
+          "session_id": 14333,
+          "program_name": "RXO:RLP_Accelerate_26",
+          "program_uuid": "807ca0e8-24b5-42a9-9367-18b1c78b2061",
+          "session_name": "Case Challenge: Enabling Peak Performance",
+          "case_challenge": "Enabling Peak Performance",
+          "start_date": "2026-04-28T15:00:00.000Z",
+          "number_of_teams": 7,
+          "survey_score": null,
+          "survey_response_count": null
+        },
+        {
+          "session_id": 14331,
+          "program_name": "RXO:RLP_Accelerate_26",
+          "program_uuid": "807ca0e8-24b5-42a9-9367-18b1c78b2061",
+          "session_name": "Accelerate Program Kickoff",
+          "case_challenge": "Kickoff: Shelf Awareness",
+          "start_date": "2026-04-23T17:00:00.000Z",
+          "number_of_teams": 6,
+          "survey_score": null,
+          "survey_response_count": null
+        }
+      ],
+      "magic_moments": [],
+      "strengths": [],
+      "learn_from": [],
+      "strengths_method": null
+    },
+    {
+      "name": "Kristen Kramer",
+      "slug": "kristen-kramer",
+      "session_count": 2,
+      "case_challenges": [
+        "Influencing Without Authority",
+        "Shifting Mindsets and Behaviors"
+      ],
+      "avg_survey_score": null,
+      "survey_session_count": 0,
+      "avg_team_score": null,
+      "team_score_count": 0,
+      "narrative_outcomes": {},
+      "sessions": [
+        {
+          "session_id": 14363,
+          "program_name": "RXO:SLP_Rise_26",
+          "program_uuid": "1013a7be-1817-4c73-b968-29123c9e4be9",
+          "session_name": "Case Challenge: Influencing Without Authority",
+          "case_challenge": "Influencing Without Authority",
+          "start_date": "2026-05-20T20:00:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": null,
+          "survey_response_count": null
+        },
+        {
+          "session_id": 14419,
+          "program_name": "RXO:SLP_Rise_26",
+          "program_uuid": "1013a7be-1817-4c73-b968-29123c9e4be9",
+          "session_name": "Case Challenge: Shifting Mindsets and Behaviors",
+          "case_challenge": "Shifting Mindsets and Behaviors",
+          "start_date": "2026-05-20T18:00:00.000Z",
+          "number_of_teams": 11,
+          "survey_score": null,
+          "survey_response_count": null
+        }
+      ],
+      "magic_moments": [],
+      "strengths": [],
+      "learn_from": [],
+      "strengths_method": null
+    },
+    {
+      "name": "Amy Drozd",
+      "slug": "amy-drozd",
+      "session_count": 2,
+      "case_challenges": [
+        "Enabling Peak Performance",
+        "Navigating Critical Conversations"
+      ],
+      "avg_survey_score": null,
+      "survey_session_count": 0,
+      "avg_team_score": 66.44444444444444,
+      "team_score_count": 9,
+      "narrative_outcomes": {
+        "Choppy Waters": 2,
+        "Full Speed Ahead": 1,
+        "Jordan's Progress Levels Off": 1,
+        "Jordan Steps Up": 3,
+        "Jordan Regains Confidence": 1,
+        "Jordan Doubts His Fit": 1
+      },
+      "sessions": [
+        {
+          "session_id": 14774,
+          "program_name": "FortuneBrands:Manager Essentials-May 2026",
+          "program_uuid": "6ffdc9fc-2bc5-47d1-bf48-f010f769b49d",
+          "session_name": "Case Challenge: Navigating Critical Conversations",
+          "case_challenge": "Navigating Critical Conversations",
+          "start_date": "2026-05-12T16:30:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": null,
+          "survey_response_count": null
+        },
+        {
+          "session_id": 14773,
+          "program_name": "FortuneBrands:Manager Essentials-May 2026",
+          "program_uuid": "6ffdc9fc-2bc5-47d1-bf48-f010f769b49d",
+          "session_name": "Case Challenge: Enabling Peak Performance",
+          "case_challenge": "Enabling Peak Performance",
+          "start_date": "2026-05-12T14:00:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": null,
+          "survey_response_count": null
+        }
+      ],
+      "magic_moments": [],
+      "strengths": [],
+      "learn_from": [],
+      "strengths_method": null
+    },
+    {
+      "name": "Monika Sauer",
+      "slug": "monika-sauer",
+      "session_count": 2,
+      "case_challenges": [
+        "Enabling Peak Performance",
+        "Navigating Critical Conversations"
+      ],
+      "avg_survey_score": null,
+      "survey_session_count": 0,
+      "avg_team_score": 66.44444444444444,
+      "team_score_count": 9,
+      "narrative_outcomes": {
+        "Choppy Waters": 2,
+        "Full Speed Ahead": 1,
+        "Jordan's Progress Levels Off": 1,
+        "Jordan Steps Up": 3,
+        "Jordan Regains Confidence": 1,
+        "Jordan Doubts His Fit": 1
+      },
+      "sessions": [
+        {
+          "session_id": 14774,
+          "program_name": "FortuneBrands:Manager Essentials-May 2026",
+          "program_uuid": "6ffdc9fc-2bc5-47d1-bf48-f010f769b49d",
+          "session_name": "Case Challenge: Navigating Critical Conversations",
+          "case_challenge": "Navigating Critical Conversations",
+          "start_date": "2026-05-12T16:30:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": null,
+          "survey_response_count": null
+        },
+        {
+          "session_id": 14773,
+          "program_name": "FortuneBrands:Manager Essentials-May 2026",
+          "program_uuid": "6ffdc9fc-2bc5-47d1-bf48-f010f769b49d",
+          "session_name": "Case Challenge: Enabling Peak Performance",
+          "case_challenge": "Enabling Peak Performance",
+          "start_date": "2026-05-12T14:00:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": null,
+          "survey_response_count": null
+        }
+      ],
+      "magic_moments": [],
+      "strengths": [],
+      "learn_from": [],
+      "strengths_method": null
+    },
+    {
+      "name": "Tara Layne",
+      "slug": "tara-layne",
+      "session_count": 2,
+      "case_challenges": [
+        "Leading in Times of Change",
+        "Management Kickoff: Get the Message?"
+      ],
+      "avg_survey_score": null,
+      "survey_session_count": 0,
+      "avg_team_score": 83.8,
+      "team_score_count": 15,
+      "narrative_outcomes": {
+        "Alignment in Motion": 3,
+        "Built to Thryve": 4,
+        "Jamie's Team Thrives": 3,
+        "Jamie Builds Trust": 5
+      },
+      "sessions": [
+        {
+          "session_id": 18979,
+          "program_name": "Abbott DC+ 2026",
+          "program_uuid": "062e6ab1-3189-40e3-b6ce-e95770ab9855",
+          "session_name": "Case Challenge: Leading in Times of Change",
+          "case_challenge": "Leading in Times of Change",
+          "start_date": "2026-05-12T15:00:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": null,
+          "survey_response_count": null
+        },
+        {
+          "session_id": 18978,
+          "program_name": "Abbott DC+ 2026",
+          "program_uuid": "062e6ab1-3189-40e3-b6ce-e95770ab9855",
+          "session_name": "Program Kickoff",
+          "case_challenge": "Management Kickoff: Get the Message?",
+          "start_date": "2026-05-05T15:00:00.000Z",
+          "number_of_teams": 8,
+          "survey_score": null,
+          "survey_response_count": null
+        }
+      ],
+      "magic_moments": [],
+      "strengths": [],
+      "learn_from": [],
+      "strengths_method": null
+    },
+    {
+      "name": "Sara Amighi",
+      "slug": "sara-amighi",
+      "session_count": 2,
+      "case_challenges": [
+        "Kickoff: Shelf Awareness",
+        "Navigating Critical Conversations"
+      ],
+      "avg_survey_score": null,
+      "survey_session_count": 0,
+      "avg_team_score": 58.416666666666664,
+      "team_score_count": 24,
+      "narrative_outcomes": {
+        "Store Issues Persist": 7,
+        "Modest Growth": 5,
+        "Choppy Waters": 4,
+        "Full Speed Ahead": 4,
+        "Back on Course": 4
+      },
+      "sessions": [
+        {
+          "session_id": 14782,
+          "program_name": "DubaiChambers: 12WeekMBA_May2026",
+          "program_uuid": "6efbf119-2aa3-422e-b195-8579ff42bd12",
+          "session_name": "Program Kickoff",
+          "case_challenge": "Kickoff: Shelf Awareness",
+          "start_date": "2026-05-05T05:00:00.000Z",
+          "number_of_teams": 12,
+          "survey_score": null,
+          "survey_response_count": null
+        },
+        {
+          "session_id": 14784,
+          "program_name": "DubaiChambers: 12WeekMBA_May2026",
+          "program_uuid": "6efbf119-2aa3-422e-b195-8579ff42bd12",
+          "session_name": "Case Challenge: Navigating Critical Conversations",
+          "case_challenge": "Navigating Critical Conversations",
+          "start_date": "2026-05-05T05:00:00.000Z",
+          "number_of_teams": 12,
+          "survey_score": null,
+          "survey_response_count": null
+        }
+      ],
+      "magic_moments": [],
+      "strengths": [],
+      "learn_from": [],
+      "strengths_method": null
+    },
+    {
+      "name": "Jonathan Schneider",
+      "slug": "jonathan-schneider",
+      "session_count": 2,
+      "case_challenges": [
+        "Enabling Peak Performance"
+      ],
+      "avg_survey_score": null,
+      "survey_session_count": 0,
+      "avg_team_score": 67.0,
+      "team_score_count": 1,
+      "narrative_outcomes": {
+        "Jordan Doubts His Fit": 1
+      },
+      "sessions": [
+        {
+          "session_id": 19607,
+          "program_name": "FortuneBrands: MC Program Certification",
+          "program_uuid": "caa8eb44-0c38-475a-88c5-0bdad9718d49",
+          "session_name": "Case Challenge: Session 2 - Teachback",
+          "case_challenge": "Enabling Peak Performance",
+          "start_date": "2026-05-01T16:00:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": null,
+          "survey_response_count": null
+        },
+        {
+          "session_id": 19606,
+          "program_name": "FortuneBrands: MC Program Certification",
+          "program_uuid": "caa8eb44-0c38-475a-88c5-0bdad9718d49",
+          "session_name": "Case Challenge: Session 1 ",
+          "case_challenge": "Enabling Peak Performance",
+          "start_date": "2026-04-13T19:00:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": null,
+          "survey_response_count": null
+        }
+      ],
+      "magic_moments": [],
+      "strengths": [],
+      "learn_from": [],
+      "strengths_method": null
+    },
+    {
+      "name": "Luke Owings",
+      "slug": "luke-owings",
+      "session_count": 2,
+      "case_challenges": [
+        "Managing Profitability",
+        "Navigating Critical Conversations"
+      ],
+      "avg_survey_score": null,
+      "survey_session_count": 0,
+      "avg_team_score": 54.69230769230769,
+      "team_score_count": 13,
+      "narrative_outcomes": {
+        "Full Speed Ahead": 4,
+        "Back on Course": 2,
+        "Choppy Waters": 1,
+        "Adrift": 3,
+        "Back to the Drawing Board": 1,
+        "Finding Our Footing": 1,
+        "Gaining Traction": 1
+      },
+      "sessions": [
+        {
+          "session_id": 22047,
+          "program_name": "UPenn & ATD Case Challenge Demo",
+          "program_uuid": "263f2536-b73f-4a68-80bc-8b28d92f9f56",
+          "session_name": "Case Challenge: Navigating Critical Conversations",
+          "case_challenge": "Navigating Critical Conversations",
+          "start_date": "2026-04-28T17:00:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": null,
+          "survey_response_count": 0
+        },
+        {
+          "session_id": 14503,
+          "program_name": "Play Session: Case Challenges April 2026",
+          "program_uuid": "4ca66807-0715-4a01-aba5-c4c37e94e7e9",
+          "session_name": "Case Challenges: Managing Profitability",
+          "case_challenge": "Managing Profitability",
+          "start_date": "2026-04-07T14:00:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": null,
+          "survey_response_count": null
+        }
+      ],
+      "magic_moments": [],
+      "strengths": [],
+      "learn_from": [],
+      "strengths_method": null
+    },
+    {
+      "name": "Nelson Gayton",
+      "slug": "nelson-gayton",
+      "session_count": 1,
+      "case_challenges": [
+        "Leading in Times of Change"
+      ],
+      "avg_survey_score": null,
+      "survey_session_count": 0,
+      "avg_team_score": null,
+      "team_score_count": 0,
+      "narrative_outcomes": {},
+      "sessions": [
+        {
+          "session_id": 21420,
+          "program_name": "Emeritus:Allianz_CCs_2026 Cohort 1",
+          "program_uuid": "607fcd2d-a807-457a-9d30-28380fbbe446",
+          "session_name": "Case Challenge: Leading in Times of Change",
+          "case_challenge": "Leading in Times of Change",
+          "start_date": "2026-06-16T07:00:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": null,
+          "survey_response_count": null
+        }
+      ],
+      "magic_moments": [],
+      "strengths": [],
+      "learn_from": [],
+      "strengths_method": null
+    },
+    {
+      "name": "Rohit Shyam",
+      "slug": "rohit-shyam",
+      "session_count": 1,
+      "case_challenges": [
+        "Balancing Growth and Risk"
+      ],
+      "avg_survey_score": null,
+      "survey_session_count": 0,
+      "avg_team_score": null,
+      "team_score_count": 0,
+      "narrative_outcomes": {},
+      "sessions": [
+        {
+          "session_id": 14344,
+          "program_name": "RXO:RLP_Accelerate_26",
+          "program_uuid": "807ca0e8-24b5-42a9-9367-18b1c78b2061",
+          "session_name": "Case Challenge: Balancing Growth and Risk",
+          "case_challenge": "Balancing Growth and Risk",
+          "start_date": "2026-06-04T15:00:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": null,
+          "survey_response_count": null
+        }
+      ],
+      "magic_moments": [],
+      "strengths": [],
+      "learn_from": [],
+      "strengths_method": null
+    },
+    {
+      "name": "Angie Bealko",
+      "slug": "angie-bealko",
+      "session_count": 1,
+      "case_challenges": [
+        "Enabling Peak Performance"
+      ],
+      "avg_survey_score": null,
+      "survey_session_count": 0,
+      "avg_team_score": null,
+      "team_score_count": 0,
+      "narrative_outcomes": {},
+      "sessions": [
+        {
+          "session_id": 18921,
+          "program_name": "DG:CC_Retail_ELP_May26",
+          "program_uuid": "026e24a2-229e-4867-ab0e-42be394df454",
+          "session_name": "Case Challenge: Enabling Peak Performance",
+          "case_challenge": "Enabling Peak Performance",
+          "start_date": "2026-05-20T17:00:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": null,
+          "survey_response_count": null
+        }
+      ],
+      "magic_moments": [],
+      "strengths": [],
+      "learn_from": [],
+      "strengths_method": null
+    },
+    {
+      "name": "Rebecca Kaloo",
+      "slug": "rebecca-kaloo",
+      "session_count": 1,
+      "case_challenges": [
+        "Leading in Times of Change"
+      ],
+      "avg_survey_score": null,
+      "survey_session_count": 0,
+      "avg_team_score": 89.88888888888889,
+      "team_score_count": 9,
+      "narrative_outcomes": {
+        "Built to Thryve": 7,
+        "Alignment in Motion": 2
+      },
+      "sessions": [
+        {
+          "session_id": 17064,
+          "program_name": "RBI DC 2026 C1",
+          "program_uuid": "7b2b0c3f-1bc5-474d-a702-1bdbe63a8dab",
+          "session_name": "Case Challenge: Leading in Times of Change",
+          "case_challenge": "Leading in Times of Change",
+          "start_date": "2026-05-14T14:00:00.000Z",
+          "number_of_teams": 9,
+          "survey_score": null,
+          "survey_response_count": 0
+        }
+      ],
+      "magic_moments": [],
+      "strengths": [],
+      "learn_from": [],
+      "strengths_method": null
+    },
+    {
+      "name": "Diana Pavlovská",
+      "slug": "diana-pavlovsk",
+      "session_count": 1,
+      "case_challenges": [
+        "Influencing Without Authority"
+      ],
+      "avg_survey_score": null,
+      "survey_session_count": 0,
+      "avg_team_score": 72.07142857142857,
+      "team_score_count": 14,
+      "narrative_outcomes": {
+        "Sweating It Out": 1,
+        "Cool and Collected": 3,
+        "Cold as Ice": 8,
+        "Overheated": 2
+      },
+      "sessions": [
+        {
+          "session_id": 19704,
+          "program_name": "KraftHeinz:CC_WENetwork_May26",
+          "program_uuid": "66c97c15-0b21-44e4-8680-4ac7bb543ef3",
+          "session_name": "Case Challenge: Influencing Without Authority",
+          "case_challenge": "Influencing Without Authority",
+          "start_date": "2026-05-07T13:30:00.000Z",
+          "number_of_teams": 14,
+          "survey_score": null,
+          "survey_response_count": null
+        }
+      ],
+      "magic_moments": [],
+      "strengths": [],
+      "learn_from": [],
+      "strengths_method": null
+    },
+    {
+      "name": "Matt Rubins",
+      "slug": "matt-rubins",
+      "session_count": 1,
+      "case_challenges": [
+        "Creating Strategic Alignment"
+      ],
+      "avg_survey_score": 4.5,
+      "survey_session_count": 1,
+      "avg_team_score": 81.5,
+      "team_score_count": 8,
+      "narrative_outcomes": {
+        "A Promising Direction": 5,
+        "A Bumpy Start": 3
+      },
+      "sessions": [
+        {
+          "session_id": 20108,
+          "program_name": "Law RLP: Spring 2026",
+          "program_uuid": "c55b291d-344d-45ba-b52f-b57d9a0207db",
+          "session_name": "Case Challenge: Creating Strategic Alignment",
+          "case_challenge": "Creating Strategic Alignment",
+          "start_date": "2026-05-06T16:00:00.000Z",
+          "number_of_teams": 8,
+          "survey_score": 4.5,
+          "survey_response_count": 8
+        }
+      ],
+      "magic_moments": [],
+      "strengths": [],
+      "learn_from": [],
+      "strengths_method": null
+    },
+    {
+      "name": "Melissa Chan",
+      "slug": "melissa-chan",
+      "session_count": 1,
+      "case_challenges": [
+        "Managing Profitability"
+      ],
+      "avg_survey_score": 4.5,
+      "survey_session_count": 1,
+      "avg_team_score": 68.375,
+      "team_score_count": 8,
+      "narrative_outcomes": {
+        "Back to the Drawing Board": 1,
+        "Finding Our Footing": 1,
+        "Market Maker": 4,
+        "Gaining Traction": 2
+      },
+      "sessions": [
+        {
+          "session_id": 13518,
+          "program_name": "BectonDickinson: GA_LEAPICohort1",
+          "program_uuid": "261cbb90-71de-40b4-a2d9-ebddf16ef811",
+          "session_name": "Case Challenge: Managing Profitability",
+          "case_challenge": "Managing Profitability",
+          "start_date": "2026-05-06T04:00:00.000Z",
+          "number_of_teams": 8,
+          "survey_score": 4.5,
+          "survey_response_count": 10
+        }
+      ],
+      "magic_moments": [],
+      "strengths": [],
+      "learn_from": [],
+      "strengths_method": null
+    }
+  ]
+}
