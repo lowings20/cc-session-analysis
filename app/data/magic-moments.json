@@ -1,0 +1,70 @@
+{
+  "generated_at": "2026-05-20T00:00:00.000Z",
+  "source": "Hand-curated from Zoom transcripts in /Users/lukeowings/Desktop/0_Sessions. Each moment was selected from a facilitator's spoken cues by reading candidate excerpts surfaced by scripts/find_magic_candidates.py.",
+  "by_case_challenge": {
+    "Managing Profitability": [
+      {
+        "id": "tam-may6-ai-reframe",
+        "facilitator": "Tamara Nolte",
+        "session_label": "BD AMS LEAPI Cohort 1 · May 6, 2026",
+        "timestamp": "00:00:23",
+        "transcript_path": "MP/MP-05.06.26-Tam/GMT20260506-150524_Recording.transcript.vtt",
+        "context": "Opening framing of the case",
+        "quote": "We are living in this world of AI. We can calculate break-even costs in a second on our computers. We could probably even build a really complex financial model in moments. So why even think about finance? Because it still needs human judgment — to understand the numbers, to understand why the decisions are being made, and to pressure test my assumptions.",
+        "why_magic": "Tam names the elephant in the room before participants can. If AI can do the math, why are we here? She reframes the value proposition of the entire session in one breath, landing it on judgment and pressure-testing assumptions — which is exactly what the case will demand of them."
+      },
+      {
+        "id": "tam-may6-failure-is-the-goal",
+        "facilitator": "Tamara Nolte",
+        "session_label": "BD AMS LEAPI Cohort 1 · May 6, 2026",
+        "timestamp": "00:09:48",
+        "transcript_path": "MP/MP-05.06.26-Tam/GMT20260506-150524_Recording.transcript.vtt",
+        "context": "Just before launching the first breakout",
+        "quote": "Your job is to try things and make mistakes and see how you can figure it out. Failure actually is the goal here in order to learn and grow from it.",
+        "why_magic": "She gives explicit permission to fail right before the first decision the teams have to make. Participants who feel safe taking risks engage more deeply — and the data later in the chapter (teams who tried bold paths got the best feedback) bears this out."
+      },
+      {
+        "id": "tam-may6-seeds-to-extrapolate",
+        "facilitator": "Tamara Nolte",
+        "session_label": "BD AMS LEAPI Cohort 1 · May 6, 2026",
+        "timestamp": "00:43:39",
+        "transcript_path": "MP/MP-05.06.26-Tam/GMT20260506-150524_Recording.transcript.vtt",
+        "context": "Mid-debrief, bridging the simulation back to participants' real work",
+        "quote": "Our time here is not well spent if we're not … like I've said in every session, our job is to provide seeds for you to extrapolate and pull back into your world.",
+        "why_magic": "She makes the meta-purpose of the session explicit, mid-flow. The simulation isn't the point — the point is what participants can take back to BD. Naming that out loud reshapes how participants engage with the rest of the debrief."
+      },
+      {
+        "id": "nick-apr29-risk-reward",
+        "facilitator": "Nick White",
+        "session_label": "BD EMEA LEAPI Cohort 1 · April 29, 2026",
+        "timestamp": "00:47:07",
+        "transcript_path": "MP/MP-04.29.26-Nick/GMT20260429-065916_Recording.transcript (1).vtt",
+        "context": "Debriefing a team that took a bold position with senior leaders",
+        "quote": "Without risk, we don't get rewards. There's nothing wrong with talking about risk, there's nothing wrong with presenting risk, even having high risk — if we can articulate the upside.",
+        "why_magic": "Nick reframes risk from a thing to hide from leadership into a thing to *present* to leadership. For managers heading into real budget conversations, that's the unlock — it's not the risk that kills the proposal, it's the failure to articulate the upside."
+      },
+      {
+        "id": "nick-apr30-already-know",
+        "facilitator": "Nick White",
+        "session_label": "BD EMEA LEAPI Cohort 2 · April 30, 2026",
+        "timestamp": "00:01:11",
+        "transcript_path": "MP/MP-04.30.26-Nick/GMT20260430-080027_Recording.transcript (1).vtt",
+        "context": "Opening minute with a finance-fluent cohort",
+        "quote": "When you go on a training and it's stuff you already know, you think, you know, what on earth am I doing here? But actually, by turning it around, that can be really quite powerful for you.",
+        "why_magic": "He pre-empts the disengagement risk in a room full of finance people who could teach this content themselves. The frame: your job is to teach — which is harder than learning — and that's how mastery shows up."
+      }
+    ],
+    "Kickoff: Get the Message?": [
+      {
+        "id": "nick-apr1-bring-real-world",
+        "facilitator": "Nick White",
+        "session_label": "BD EMEA LEAPI · April 1, 2026",
+        "timestamp": "00:11:55",
+        "transcript_path": "Kickoff/Kickoff_Louis-04.01.26-Nick/GMT20260401-080436_Recording.transcript (2).vtt",
+        "context": "Opening of the kickoff program",
+        "quote": "We believe in bringing the real world in. So, we're gonna try and bring in as much of the real world as possible. Relate what we're learning back to BD. This is actually quite a challenging way of learning. It's actually a really powerful way of learning, because…",
+        "why_magic": "Right at the start of the program, Nick sets the contract: the cases will feel uncomfortable because they're trying to mirror BD's real complexity, and that discomfort is the point. Participants who buy into that contract in minute 11 engage differently for the rest of the journey."
+      }
+    ]
+  }
+}

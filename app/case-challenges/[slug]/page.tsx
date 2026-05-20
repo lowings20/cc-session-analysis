@@ -5,6 +5,8 @@ import { getSessions } from '@/lib/sessions'
 import { getCcSession } from '@/lib/cc-sessions'
 import RunsheetTimeline from '@/components/RunsheetTimeline'
 import SessionAccordion from '@/components/SessionAccordion'
+import MagicMoments from '@/components/MagicMoments'
+import { getMagicMomentsFor } from '@/lib/magic-moments'
 import type { SessionRow } from '@/components/SessionsTable'
 import type { CcSessionData } from '@/lib/cc-sessions'
 
@@ -78,6 +80,16 @@ export default async function CaseChallengeDetailPage({ params }: PageProps) {
           </div>
         </div>
       </header>
+
+      <section className="rounded-lg border border-[#1e293b] bg-[#0f172a] overflow-hidden mb-6">
+        <header className="px-6 py-4 border-b border-[#1e293b]">
+          <h2 className="text-lg font-semibold text-[#e2e8f0]">Magic Moments</h2>
+          <p className="text-xs text-[#94a3b8] mt-0.5">Facilitator moments curated from session transcripts</p>
+        </header>
+        <div className="px-6 py-5">
+          <MagicMoments moments={getMagicMomentsFor(cc.case_challenge)} />
+        </div>
+      </section>
 
       <section className="rounded-lg border border-[#1e293b] bg-[#0f172a] overflow-hidden mb-6">
         <header className="px-6 py-4 border-b border-[#1e293b]">

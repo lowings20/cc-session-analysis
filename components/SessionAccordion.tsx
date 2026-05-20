@@ -141,8 +141,6 @@ function SessionItem({ session, ccData, runsheetSegments }: ItemProps) {
           <SectionDivider label="Rubric heatmap" />
           <RubricHeatmapBlock ccData={ccData} />
 
-          <SectionDivider label="Magic moments" />
-          <MagicMomentsBlock />
         </div>
       )}
     </div>
@@ -545,14 +543,6 @@ function RubricHeatmapBlock({ ccData }: { ccData: CcSessionData | null }) {
           </div>
         </div>
       ))}
-    </div>
-  )
-}
-
-function MagicMomentsBlock() {
-  return (
-    <div className="text-sm text-[#94a3b8]">
-      Coming from transcripts once extracted. Placeholder for now.
     </div>
   )
 }
