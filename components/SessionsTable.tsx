@@ -1,6 +1,7 @@
 'use client'
 
 import { useMemo, useState } from 'react'
+import MultiSelect from './MultiSelect'
 
 export interface SessionRow {
   session_id: number
@@ -82,9 +83,9 @@ const COLUMNS: { key: SortKey; label: string; align?: 'right' }[] = [
 
 export default function SessionsTable({ rows }: { rows: SessionRow[] }) {
   const [search, setSearch] = useState('')
-  const [caseFilter, setCaseFilter] = useState('')
-  const [facilitatorFilter, setFacilitatorFilter] = useState('')
-  const [producerFilter, setProducerFilter] = useState('')
+  const [caseFilter, setCaseFilter] = useState<string[]>([])
+  const [facilitatorFilter, setFacilitatorFilter] = useState<string[]>([])
+  const [producerFilter, setProducerFilter] = useState<string[]>([])
   const [minTeams, setMinTeams] = useState<number>(4)
   const [sortKey, setSortKey] = useState<SortKey>('start_date')
   const [sortDir, setSortDir] = useState<SortDir>('desc')
@@ -93,12 +94,26 @@ export default function SessionsTable({ rows }: { rows: SessionRow[] }) {
   const facilitators = useMemo(() => uniqueValues(rows, 'facilitators'), [rows])
   const producers = useMemo(() => uniqueValues(rows, 'producers'), [rows])
 
+  function splitNames(value: string | null): string[] {
+    if (!value) return []
+    return value.split(',').map((n) => n.trim().replace(/\s+/g, ' ')).filter(Boolean)
+  }
+
   const filtered = useMemo(() => {
     const q = search.trim().toLowerCase()
+    const caseSet = new Set(caseFilter)
+    const facSet = new Set(facilitatorFilter)
+    const prdSet = new Set(producerFilter)
     return rows.filter((r) => {
-      if (caseFilter && r.case_challenge !== caseFilter) return false
-      if (facilitatorFilter && !(r.facilitators ?? '').toLowerCase().includes(facilitatorFilter.toLowerCase())) return false
-      if (producerFilter && !(r.producers ?? '').toLowerCase().includes(producerFilter.toLowerCase())) return false
+      if (caseSet.size > 0 && !caseSet.has(r.case_challenge)) return false
+      if (facSet.size > 0) {
+        const names = splitNames(r.facilitators)
+        if (!names.some((n) => facSet.has(n))) return false
+      }
+      if (prdSet.size > 0) {
+        const names = splitNames(r.producers)
+        if (!names.some((n) => prdSet.has(n))) return false
+      }
       if (r.number_of_teams < minTeams) return false
       if (q) {
         const hay = [
@@ -148,41 +163,9 @@ export default function SessionsTable({ rows }: { rows: SessionRow[] }) {
           />
         </div>
 
-        <div className="flex flex-col gap-1">
-          <label className="text-[10px] uppercase tracking-wider text-[#475569]">Case challenge</label>
-          <select value={caseFilter} onChange={(e) => setCaseFilter(e.target.value)} className={inputClass}>
-            <option value="">All ({cases.length})</option>
-            {cases.map((c) => (
-              <option key={c} value={c}>
-                {c}
-              </option>
-            ))}
-          </select>
-        </div>
-
-        <div className="flex flex-col gap-1">
-          <label className="text-[10px] uppercase tracking-wider text-[#475569]">Facilitator</label>
-          <select value={facilitatorFilter} onChange={(e) => setFacilitatorFilter(e.target.value)} className={inputClass}>
-            <option value="">All ({facilitators.length})</option>
-            {facilitators.map((f) => (
-              <option key={f} value={f}>
-                {f}
-              </option>
-            ))}
-          </select>
-        </div>
-
-        <div className="flex flex-col gap-1">
-          <label className="text-[10px] uppercase tracking-wider text-[#475569]">Producer</label>
-          <select value={producerFilter} onChange={(e) => setProducerFilter(e.target.value)} className={inputClass}>
-            <option value="">All ({producers.length})</option>
-            {producers.map((p) => (
-              <option key={p} value={p}>
-                {p}
-              </option>
-            ))}
-          </select>
-        </div>
+        <MultiSelect label="Case challenge" options={cases} selected={caseFilter} onChange={setCaseFilter} />
+        <MultiSelect label="Facilitator" options={facilitators} selected={facilitatorFilter} onChange={setFacilitatorFilter} />
+        <MultiSelect label="Producer" options={producers} selected={producerFilter} onChange={setProducerFilter} />
 
         <div className="flex flex-col gap-1">
           <label className="text-[10px] uppercase tracking-wider text-[#475569]">Min teams</label>
@@ -195,14 +178,14 @@ export default function SessionsTable({ rows }: { rows: SessionRow[] }) {
           />
         </div>
 
-        {(search || caseFilter || facilitatorFilter || producerFilter || minTeams !== 4) && (
+        {(search || caseFilter.length > 0 || facilitatorFilter.length > 0 || producerFilter.length > 0 || minTeams !== 4) && (
           <button
             type="button"
             onClick={() => {
               setSearch('')
-              setCaseFilter('')
-              setFacilitatorFilter('')
-              setProducerFilter('')
+              setCaseFilter([])
+              setFacilitatorFilter([])
+              setProducerFilter([])
               setMinTeams(4)
             }}
             className="text-xs text-[#94a3b8] hover:text-[#e2e8f0] underline underline-offset-2"
