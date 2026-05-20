@@ -19,6 +19,9 @@ export interface SessionRow {
   runsheet_version?: string | null
   has_survey?: boolean
   has_transcript?: boolean
+  survey_score?: number | null
+  survey_analyze_url?: string | null
+  survey_response_count?: number | null
 }
 
 type SortKey =

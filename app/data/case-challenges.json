@@ -1,0 +1,1342 @@
+{
+  "generated_at": "2026-05-20T00:00:00.000Z",
+  "source": "Combined from pe_list_products (cc.abilitie.com MCP) + runsheet xlsx in 'Slides and Runsheets 3'",
+  "cases": [
+    {
+      "case_challenge": "Enabling Peak Performance",
+      "slug": "enabling-peak-performance",
+      "url_key": "enabling-peak-performance",
+      "name": "Enabling Peak Performance",
+      "description": "Set clear expectations, deliver effective feedback, coach for growth.",
+      "pillar": "team-management",
+      "level": "rising",
+      "duration": "2 hours",
+      "imageUrl": "https://product-explorer-production-assets-095634157675.s3.us-east-1.amazonaws.com/assets/735d95ae-d75a-4ee6-abde-588e0d86d6bc-Enabling-Peak-Performance.webp",
+      "runsheet_folder": "Enabling Peak Performance",
+      "runsheet_version": "v26.03.04",
+      "runsheet_segments": [
+        {
+          "section": "INTRO",
+          "length_min": 10.0,
+          "start_min": 0.0,
+          "end_min": 10.0,
+          "focus": "* Welcome everyone to the sessions\n* Introduce the narrative, role, and learning objectives",
+          "notes": "Be ready to launch breakouts; if the session is pre-rostered, set up Zoom rooms to match the expected teams. We recommend using pairs for this session, though teams of 3 are okay."
+        },
+        {
+          "section": "INTRO",
+          "length_min": 3.0,
+          "start_min": 10.0,
+          "end_min": 13.0,
+          "focus": "3-MINUTE BREAKOUT: \nHave people join the appropriate team",
+          "notes": "Assist with any Zoom or platform issues."
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 4.0,
+          "start_min": 13.0,
+          "end_min": 17.0,
+          "focus": "* Introduce the chapter",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 5.0,
+          "start_min": 17.0,
+          "end_min": 22.0,
+          "focus": "5-MINUTE BREAKOUT: \n* 5 minute timer to play the chapter\n(this chapter does not have written feedback)",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 1.0,
+          "start_min": 22.0,
+          "end_min": 23.0,
+          "focus": "* Debrief the chapter together",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 2",
+          "length_min": 3.0,
+          "start_min": 23.0,
+          "end_min": 26.0,
+          "focus": "* Introduce the chapter\n* Briefly introduce key framework",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 2",
+          "length_min": 18.0,
+          "start_min": 26.0,
+          "end_min": 44.0,
+          "focus": "18-MINUTE BREAKOUT: \n* 15 minute timer to play the chapter\n* 3 minutes to review feedback",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 2",
+          "length_min": 5.0,
+          "start_min": 44.0,
+          "end_min": 49.0,
+          "focus": "* Debrief the chapter together",
+          "notes": ""
+        },
+        {
+          "section": "BREAK",
+          "length_min": 5.0,
+          "start_min": 49.0,
+          "end_min": 54.0,
+          "focus": "Short break\n(Alternatively, you can choose to do this after Chapter 3)",
+          "notes": "Put timer on the screen for break"
+        },
+        {
+          "section": "CHAPTER 3",
+          "length_min": 3.0,
+          "start_min": 54.0,
+          "end_min": 57.0,
+          "focus": "* Introduce the chapter\n* Briefly introduce key framework",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 3",
+          "length_min": 18.0,
+          "start_min": 57.0,
+          "end_min": 75.0,
+          "focus": "18-MINUTE BREAKOUT: \n* 15 minute timer to play the chapter\n* 3 minutes to review feedback",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 3",
+          "length_min": 5.0,
+          "start_min": 75.0,
+          "end_min": 80.0,
+          "focus": "* Debrief the chapter together",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 4",
+          "length_min": 3.0,
+          "start_min": 80.0,
+          "end_min": 83.0,
+          "focus": "* Introduce the chapter\n* Briefly introduce key framework",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 4",
+          "length_min": 18.0,
+          "start_min": 83.0,
+          "end_min": 101.0,
+          "focus": "18-MINUTE BREAKOUT: \n* 15 minute timer to play the chapter\n* 3 minutes to review feedback",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 4",
+          "length_min": 4.0,
+          "start_min": 101.0,
+          "end_min": 105.0,
+          "focus": "* Debrief the chapter together",
+          "notes": ""
+        },
+        {
+          "section": "FINAL REFLECTION",
+          "length_min": 6.0,
+          "start_min": 105.0,
+          "end_min": 111.0,
+          "focus": "* Debrief the overall experience",
+          "notes": ""
+        },
+        {
+          "section": "CLOSING",
+          "length_min": 4.0,
+          "start_min": 111.0,
+          "end_min": 115.0,
+          "focus": "* Thank everyone for joining\n* Distribute survey link",
+          "notes": ""
+        },
+        {
+          "section": "BUFFER",
+          "length_min": 5.0,
+          "start_min": 115.0,
+          "end_min": 120.0,
+          "focus": "Buffer",
+          "notes": ""
+        }
+      ],
+      "session_count": 8
+    },
+    {
+      "case_challenge": "Navigating Critical Conversations",
+      "slug": "navigating-critical-conversations",
+      "url_key": "navigating-critical-conversations",
+      "name": "Navigating Critical Conversations",
+      "description": "Guide development conversations, communicate clearly under pressure, rebuild alignment and trust.",
+      "pillar": "team-management",
+      "level": "rising",
+      "duration": "2 hours",
+      "imageUrl": "https://product-explorer-production-assets-095634157675.s3.us-east-1.amazonaws.com/assets/9b09720b-2ffb-4600-85bd-3c28334ccb56-Navigating-Critical-Conversations.webp",
+      "runsheet_folder": "Navigating Critical Conversations",
+      "runsheet_version": "v26.03.04",
+      "runsheet_segments": [
+        {
+          "section": "INTRO",
+          "length_min": 8.0,
+          "start_min": 0.0,
+          "end_min": 8.0,
+          "focus": "* Welcome everyone to the sessions\n* Introduce the narrative, role, and learning objectives",
+          "notes": "Be ready to launch breakouts; if the session is pre-rostered, set up Zoom rooms to match the expected teams. We recommend using pairs for this session, though teams of 3 are okay."
+        },
+        {
+          "section": "INTRO",
+          "length_min": 3.0,
+          "start_min": 8.0,
+          "end_min": 11.0,
+          "focus": "3-MINUTE BREAKOUT: \nHave people join the appropriate team",
+          "notes": "Assist with any Zoom or platform issues."
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 2.0,
+          "start_min": 11.0,
+          "end_min": 13.0,
+          "focus": "* Introduce the chapter",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 7.0,
+          "start_min": 13.0,
+          "end_min": 20.0,
+          "focus": "7-MINUTE BREAKOUT: \n* 5 minute timer to play the chapter\n(this chapter does not have written feedback)",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 2.0,
+          "start_min": 20.0,
+          "end_min": 22.0,
+          "focus": "* Debrief the chapter together",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 2",
+          "length_min": 3.0,
+          "start_min": 22.0,
+          "end_min": 25.0,
+          "focus": "* Introduce the chapter\n* Briefly introduce key framework",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 2",
+          "length_min": 18.0,
+          "start_min": 25.0,
+          "end_min": 43.0,
+          "focus": "18-MINUTE BREAKOUT: \n* 15 minute timer to play the chapter\n* 3 minutes to review feedback",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 2",
+          "length_min": 6.0,
+          "start_min": 43.0,
+          "end_min": 49.0,
+          "focus": "* Debrief the chapter together\n[If you are running behind, you can cut a couple of minutes here.]",
+          "notes": ""
+        },
+        {
+          "section": "BREAK",
+          "length_min": 5.0,
+          "start_min": 49.0,
+          "end_min": 54.0,
+          "focus": "Short break\n(Alternatively, you can choose to do this after Chapter 3)",
+          "notes": "Put timer on the screen for break"
+        },
+        {
+          "section": "CHAPTER 3",
+          "length_min": 3.0,
+          "start_min": 54.0,
+          "end_min": 57.0,
+          "focus": "* Introduce the chapter\n* Briefly introduce key framework",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 3",
+          "length_min": 18.0,
+          "start_min": 57.0,
+          "end_min": 75.0,
+          "focus": "18-MINUTE BREAKOUT: \n* 15 minute timer to play the chapter\n* 3 minutes to review feedback",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 3",
+          "length_min": 6.0,
+          "start_min": 75.0,
+          "end_min": 81.0,
+          "focus": "* Debrief the chapter together\n[If you are running behind, you can cut a couple of minutes here.]",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 4",
+          "length_min": 3.0,
+          "start_min": 81.0,
+          "end_min": 84.0,
+          "focus": "* Introduce the chapter\n* Briefly introduce key framework",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 4",
+          "length_min": 18.0,
+          "start_min": 84.0,
+          "end_min": 102.0,
+          "focus": "18-MINUTE BREAKOUT: \n* 15 minute timer to play the chapter\n* 3 minutes to review feedback",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 4",
+          "length_min": 6.0,
+          "start_min": 102.0,
+          "end_min": 108.0,
+          "focus": "* Debrief the chapter together",
+          "notes": ""
+        },
+        {
+          "section": "FINAL REFLECTION",
+          "length_min": 5.0,
+          "start_min": 108.0,
+          "end_min": 113.0,
+          "focus": "* Debrief the overall experience",
+          "notes": ""
+        },
+        {
+          "section": "CLOSING",
+          "length_min": 2.0,
+          "start_min": 113.0,
+          "end_min": 115.0,
+          "focus": "* Thank everyone for joining\n* Distribute survey link",
+          "notes": ""
+        },
+        {
+          "section": "BUFFER",
+          "length_min": 5.0,
+          "start_min": 115.0,
+          "end_min": 120.0,
+          "focus": "Buffer",
+          "notes": ""
+        }
+      ],
+      "session_count": 7
+    },
+    {
+      "case_challenge": "Influencing Without Authority",
+      "slug": "influencing-without-authority",
+      "url_key": "influencing-without-authority",
+      "name": "Influencing Without Authority",
+      "description": "Diagnose power dynamics, map stakeholders strategically, design an influence strategy.",
+      "pillar": "cross-functional",
+      "level": "rising",
+      "duration": "2 hours",
+      "imageUrl": "https://product-explorer-production-assets-095634157675.s3.us-east-1.amazonaws.com/assets/84a073f5-a43e-4b13-94cb-9abefabfa658-INfluencing-Without-Authority.webp",
+      "runsheet_folder": "Influence Without Authority",
+      "runsheet_version": "v26.03.18",
+      "runsheet_segments": [
+        {
+          "section": "INTRO",
+          "length_min": 10.0,
+          "start_min": 0.0,
+          "end_min": 10.0,
+          "focus": "* Welcome everyone to the sessions\n* Why Here and Opening question\n* Introduce the narrative, role, and learning objectives",
+          "notes": "Be ready to launch breakouts; if the session is pre-rostered, set up Zoom rooms to match the expected teams"
+        },
+        {
+          "section": "INTRO",
+          "length_min": 3.0,
+          "start_min": 10.0,
+          "end_min": 13.0,
+          "focus": "3-MINUTE BREAKOUT: \nHave people join the appropriate team",
+          "notes": "Assist with any Zoom or platform issues."
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 5.0,
+          "start_min": 13.0,
+          "end_min": 18.0,
+          "focus": "* Introduce the chapter\n* Briefly introduce key framework",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 3.0,
+          "start_min": 18.0,
+          "end_min": 21.0,
+          "focus": "3-MINUTE BREAKOUT: \n* 3 minute timer to play the chapter\n(No feedback or debrief for this chapter)",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 2",
+          "length_min": 5.0,
+          "start_min": 21.0,
+          "end_min": 26.0,
+          "focus": "* Introduce the chapter\n* Briefly introduce key framework",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 2",
+          "length_min": 24.0,
+          "start_min": 26.0,
+          "end_min": 50.0,
+          "focus": "24-MINUTE BREAKOUT: \n* 24 minute timer to play the chapter\n(No feedback for this chapter)",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 2",
+          "length_min": 2.0,
+          "start_min": 50.0,
+          "end_min": 52.0,
+          "focus": "* Debrief the chapter quickly",
+          "notes": ""
+        },
+        {
+          "section": "BREAK",
+          "length_min": 5.0,
+          "start_min": 52.0,
+          "end_min": 57.0,
+          "focus": "Short break",
+          "notes": "Put timer on the screen for break"
+        },
+        {
+          "section": "CHAPTER 3",
+          "length_min": 8.0,
+          "start_min": 57.0,
+          "end_min": 65.0,
+          "focus": "* Introduce the chapter",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 3",
+          "length_min": 15.0,
+          "start_min": 65.0,
+          "end_min": 80.0,
+          "focus": "15-MINUTE BREAKOUT: \n* 15 minute timer to play the chapter\n(No feedback for this chapter)",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 3",
+          "length_min": 4.0,
+          "start_min": 80.0,
+          "end_min": 84.0,
+          "focus": "* Debrief the chapter together",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 4",
+          "length_min": 5.0,
+          "start_min": 84.0,
+          "end_min": 89.0,
+          "focus": "* Introduce the chapter",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 4",
+          "length_min": 15.0,
+          "start_min": 89.0,
+          "end_min": 104.0,
+          "focus": "15-MINUTE BREAKOUT: \n* 12 minute timer to play the chapter\n* 3 minutes to review feedback",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 4",
+          "length_min": 9.0,
+          "start_min": 104.0,
+          "end_min": 113.0,
+          "focus": "* Debrief the chapter together\n* Session reflections",
+          "notes": ""
+        },
+        {
+          "section": "CLOSING",
+          "length_min": 2.0,
+          "start_min": 113.0,
+          "end_min": 115.0,
+          "focus": "* Thank everyone for joining\n* Distribute survey link",
+          "notes": ""
+        },
+        {
+          "section": "BUFFER",
+          "length_min": 5.0,
+          "start_min": 115.0,
+          "end_min": 120.0,
+          "focus": "Buffer",
+          "notes": ""
+        }
+      ],
+      "session_count": 7
+    },
+    {
+      "case_challenge": "Leading in Times of Change",
+      "slug": "leading-in-times-of-change",
+      "url_key": "leading-in-times-of-change",
+      "name": "Leading in Times of Change",
+      "description": "Make tough organizational calls, assess organizational fit holistically, lead change with intent.",
+      "pillar": "team-management",
+      "level": "experienced",
+      "duration": "2 hours",
+      "imageUrl": "https://product-explorer-production-assets-095634157675.s3.us-east-1.amazonaws.com/assets/b3e53610-e4dd-487b-9bc9-134fd65f36bf-Leading-in-Times-of-Change.webp",
+      "runsheet_folder": "Leading in Times of Change",
+      "runsheet_version": "v26.03.06",
+      "runsheet_segments": [
+        {
+          "section": "INTRO",
+          "length_min": 12.0,
+          "start_min": 0.0,
+          "end_min": 12.0,
+          "focus": "* Welcome everyone to the sessions\n* Why Here and Opening question\n* Introduce the narrative, role, and learning objectives",
+          "notes": "Be ready to launch breakouts; if the session is pre-rostered, set up Zoom rooms to match the expected teams"
+        },
+        {
+          "section": "INTRO",
+          "length_min": 3.0,
+          "start_min": 12.0,
+          "end_min": 15.0,
+          "focus": "2-MINUTE BREAKOUT: \nHave people join the appropriate team",
+          "notes": "Assist with any Zoom or platform issues."
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 5.0,
+          "start_min": 15.0,
+          "end_min": 20.0,
+          "focus": "* Introduce the chapter\n* Briefly introduce key framework",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 20.0,
+          "start_min": 20.0,
+          "end_min": 40.0,
+          "focus": "20-MINUTE BREAKOUT: \n* 15 minute timer to play the chapter\n* 3  minutes to make decision\n* 2 minutes to review feedback",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 10.0,
+          "start_min": 40.0,
+          "end_min": 50.0,
+          "focus": "* Debrief the chapter together\n   [If falling behind, cut time here to get back on pace.]",
+          "notes": ""
+        },
+        {
+          "section": "BREAK",
+          "length_min": 5.0,
+          "start_min": 50.0,
+          "end_min": 55.0,
+          "focus": "Short break",
+          "notes": "Put timer on the screen for break"
+        },
+        {
+          "section": "CHAPTER 2",
+          "length_min": 3.0,
+          "start_min": 55.0,
+          "end_min": 58.0,
+          "focus": "* Introduce the chapter",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 2",
+          "length_min": 12.0,
+          "start_min": 58.0,
+          "end_min": 70.0,
+          "focus": "12-MINUTE BREAKOUT: \n* 12 minute timer to play the chapter\n(No feedback for this chapter)",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 2",
+          "length_min": 5.0,
+          "start_min": 70.0,
+          "end_min": 75.0,
+          "focus": "* Debrief the chapter together\n   [If falling behind, cut time here to get back on pace.]",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 3",
+          "length_min": 3.0,
+          "start_min": 75.0,
+          "end_min": 78.0,
+          "focus": "* Introduce the chapter",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 3",
+          "length_min": 20.0,
+          "start_min": 78.0,
+          "end_min": 98.0,
+          "focus": "20-MINUTE BREAKOUT: \n* 15 minute timer to play the chapter\n* 3 minutes to answer reflection question \n* 2 minutes to review feedback",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 3",
+          "length_min": 12.0,
+          "start_min": 98.0,
+          "end_min": 110.0,
+          "focus": "* Debrief the chapter together\n* Session reflections",
+          "notes": ""
+        },
+        {
+          "section": "CLOSING",
+          "length_min": 5.0,
+          "start_min": 110.0,
+          "end_min": 115.0,
+          "focus": "* Thank everyone for joining\n* Distribute survey link",
+          "notes": ""
+        },
+        {
+          "section": "BUFFER",
+          "length_min": 5.0,
+          "start_min": 115.0,
+          "end_min": 120.0,
+          "focus": "Buffer",
+          "notes": ""
+        }
+      ],
+      "session_count": 6
+    },
+    {
+      "case_challenge": "Managing Profitability",
+      "slug": "managing-profitability",
+      "url_key": "managing-profitability",
+      "name": "Managing Profitability",
+      "description": "Evaluate opportunities holistically, analyze market demand and cost structures, defend strategic recommendations.",
+      "pillar": "business-acumen",
+      "level": "rising",
+      "duration": "2 hours",
+      "imageUrl": "https://product-explorer-production-assets-095634157675.s3.us-east-1.amazonaws.com/assets/7062b1c5-1e27-4278-84e4-181975e3a0b9-Managing-Profitability.webp",
+      "runsheet_folder": "Managing Profitability",
+      "runsheet_version": "v26.03.16",
+      "runsheet_segments": [
+        {
+          "section": "INTRO",
+          "length_min": 10.0,
+          "start_min": 0.0,
+          "end_min": 10.0,
+          "focus": "* Welcome everyone to the sessions\n* Opening question and hint at today's topics/tools\n* Introduce the narrative, role, and learning objectives",
+          "notes": "Be ready to launch breakouts; if the session is pre-rostered, set up Zoom rooms to match the expected teams"
+        },
+        {
+          "section": "INTRO",
+          "length_min": 3.0,
+          "start_min": 10.0,
+          "end_min": 13.0,
+          "focus": "3-MINUTE BREAKOUT: \nHave people join the appropriate team",
+          "notes": "Assist with any Zoom or platform issues."
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 5.0,
+          "start_min": 13.0,
+          "end_min": 18.0,
+          "focus": "* Introduce the chapter\n* Briefly introduce the tools they'll use in the chapter",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 19.0,
+          "start_min": 18.0,
+          "end_min": 37.0,
+          "focus": "19-MINUTE BREAKOUT: \n* 12 minute timer to play the chapter\n* 4 minute timer to make the decision\n* 3 minutes to review feedback",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 6.0,
+          "start_min": 37.0,
+          "end_min": 43.0,
+          "focus": "* Debrief the chapter together\n   [If falling behind, cut time here to get back on pace.]",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 2",
+          "length_min": 3.0,
+          "start_min": 43.0,
+          "end_min": 46.0,
+          "focus": "* Introduce the chapter\n* Briefly introduce the tools they'll use in the chapter",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 2",
+          "length_min": 23.0,
+          "start_min": 46.0,
+          "end_min": 69.0,
+          "focus": "23-MINUTE BREAKOUT: \n* 16 minute timer to play the chapter\n* 4 minutes to answer chapter question\n* 3 minutes to review feedback",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 2",
+          "length_min": 6.0,
+          "start_min": 69.0,
+          "end_min": 75.0,
+          "focus": "* Debrief the chapter together\n   [If falling behind, cut time here to get back on pace.]",
+          "notes": ""
+        },
+        {
+          "section": "BREAK",
+          "length_min": 5.0,
+          "start_min": 75.0,
+          "end_min": 80.0,
+          "focus": "Short break",
+          "notes": "Put timer on the screen for break"
+        },
+        {
+          "section": "CHAPTER 3",
+          "length_min": 3.0,
+          "start_min": 80.0,
+          "end_min": 83.0,
+          "focus": "* Introduce the chapter",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 3",
+          "length_min": 19.0,
+          "start_min": 83.0,
+          "end_min": 102.0,
+          "focus": "19-MINUTE BREAKOUT: \n* 16 minute timer to play the chapter\n* 3 minutes to review feedback",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 3",
+          "length_min": 8.0,
+          "start_min": 102.0,
+          "end_min": 110.0,
+          "focus": "* Debrief the chapter together\n* Session reflections",
+          "notes": ""
+        },
+        {
+          "section": "CLOSING",
+          "length_min": 5.0,
+          "start_min": 110.0,
+          "end_min": 115.0,
+          "focus": "* Thank everyone for joining\n* Distribute survey link",
+          "notes": ""
+        },
+        {
+          "section": "BUFFER",
+          "length_min": 5.0,
+          "start_min": 115.0,
+          "end_min": 120.0,
+          "focus": "Buffer",
+          "notes": ""
+        }
+      ],
+      "session_count": 6
+    },
+    {
+      "case_challenge": "Kickoff: Shelf Awareness",
+      "slug": null,
+      "url_key": "kickoff-shelf-awareness",
+      "name": "Kickoff: Shelf Awareness",
+      "description": null,
+      "pillar": null,
+      "level": null,
+      "duration": null,
+      "imageUrl": null,
+      "runsheet_folder": "Kickoff_ Shelf Awareness",
+      "runsheet_version": "v26.03.04",
+      "runsheet_segments": [
+        {
+          "section": "INTRO",
+          "length_min": 3.0,
+          "start_min": 0.0,
+          "end_min": 3.0,
+          "focus": "* Welcome everyone to the session\n* Introduce yourself and the agenda",
+          "notes": "Be ready to launch breakouts; if the session is pre-rostered, set up Zoom rooms to match the expected teams. We recommend using pairs for this session, though teams of 3 are okay."
+        },
+        {
+          "section": "INTRO",
+          "length_min": 2.0,
+          "start_min": 3.0,
+          "end_min": 5.0,
+          "focus": "* Introduce the program sponsor (if available)",
+          "notes": ""
+        },
+        {
+          "section": "INTRO",
+          "length_min": 2.0,
+          "start_min": 5.0,
+          "end_min": 7.0,
+          "focus": "* Introductions (in the chat)",
+          "notes": ""
+        },
+        {
+          "section": "INTRO",
+          "length_min": 3.0,
+          "start_min": 7.0,
+          "end_min": 10.0,
+          "focus": "* Program Overview",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 4.0,
+          "start_min": 10.0,
+          "end_min": 14.0,
+          "focus": "* Introduce the chapter",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 3.0,
+          "start_min": 14.0,
+          "end_min": 17.0,
+          "focus": "3-MINUTE BREAKOUT: \nHave people join the appropriate team",
+          "notes": "Assist with any Zoom or platform issues."
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 2.0,
+          "start_min": 17.0,
+          "end_min": 19.0,
+          "focus": "Provide timing for upcoming breakout",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 26.0,
+          "start_min": 19.0,
+          "end_min": 45.0,
+          "focus": "26-MINUTE BREAKOUT: \n* 20 minute timer to play the chapter\n* 4 minute timer for the decision\n* 2 minutes to review feedback",
+          "notes": "Assist with any Zoom or platform issues."
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 6.0,
+          "start_min": 45.0,
+          "end_min": 51.0,
+          "focus": "* Debrief the chapter together",
+          "notes": ""
+        },
+        {
+          "section": "CLOSING",
+          "length_min": 4.0,
+          "start_min": 51.0,
+          "end_min": 55.0,
+          "focus": "* Thank everyone for joining\n* Distribute survey link",
+          "notes": ""
+        },
+        {
+          "section": "BUFFER",
+          "length_min": 5.0,
+          "start_min": 55.0,
+          "end_min": 60.0,
+          "focus": "Buffer",
+          "notes": ""
+        }
+      ],
+      "session_count": 6
+    },
+    {
+      "case_challenge": "Management Kickoff: Get the Message?",
+      "slug": null,
+      "url_key": "management-kickoff-get-the-message",
+      "name": "Management Kickoff: Get the Message?",
+      "description": null,
+      "pillar": null,
+      "level": null,
+      "duration": null,
+      "imageUrl": null,
+      "runsheet_folder": "Kickoff_ Get the Message",
+      "runsheet_version": "v26.04.09",
+      "runsheet_segments": [
+        {
+          "section": "INTRO",
+          "length_min": 3.0,
+          "start_min": 0.0,
+          "end_min": 3.0,
+          "focus": "* Welcome everyone to the session\n* Introduce yourself and the agenda",
+          "notes": "Be ready to launch breakouts; if the session is pre-rostered, set up Zoom rooms to match the expected teams. We recommend using pairs for this session, though teams of 3 are okay."
+        },
+        {
+          "section": "INTRO",
+          "length_min": 2.0,
+          "start_min": 3.0,
+          "end_min": 5.0,
+          "focus": "* Introduce the program sponsor (if available)",
+          "notes": ""
+        },
+        {
+          "section": "INTRO",
+          "length_min": 2.0,
+          "start_min": 5.0,
+          "end_min": 7.0,
+          "focus": "* Introductions (in the chat)",
+          "notes": ""
+        },
+        {
+          "section": "INTRO",
+          "length_min": 3.0,
+          "start_min": 7.0,
+          "end_min": 10.0,
+          "focus": "* Program Overview",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 4.0,
+          "start_min": 10.0,
+          "end_min": 14.0,
+          "focus": "* Introduce the chapter",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 3.0,
+          "start_min": 14.0,
+          "end_min": 17.0,
+          "focus": "3-MINUTE BREAKOUT: \nHave people join the appropriate team",
+          "notes": "Assist with any Zoom or platform issues."
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 2.0,
+          "start_min": 17.0,
+          "end_min": 19.0,
+          "focus": "Provide timing for upcoming breakout",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 26.0,
+          "start_min": 19.0,
+          "end_min": 45.0,
+          "focus": "26-MINUTE BREAKOUT: \n* 20 minute timer to play the chapter\n* 4 minute timer for the decision\n* 2 minutes to review feedback",
+          "notes": "Assist with any Zoom or platform issues."
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 6.0,
+          "start_min": 45.0,
+          "end_min": 51.0,
+          "focus": "* Debrief the chapter together",
+          "notes": ""
+        },
+        {
+          "section": "CLOSING",
+          "length_min": 4.0,
+          "start_min": 51.0,
+          "end_min": 55.0,
+          "focus": "* Thank everyone for joining\n* Distribute survey link",
+          "notes": ""
+        },
+        {
+          "section": "BUFFER",
+          "length_min": 5.0,
+          "start_min": 55.0,
+          "end_min": 60.0,
+          "focus": "Buffer",
+          "notes": ""
+        }
+      ],
+      "session_count": 2
+    },
+    {
+      "case_challenge": "Balancing Growth and Risk",
+      "slug": "balancing-growth-risk",
+      "url_key": "balancing-growth-risk",
+      "name": "Balancing Growth and Risk",
+      "description": "Model cash flows over time, apply time value of money, connect finance to strategy.",
+      "pillar": "business-acumen",
+      "level": "experienced",
+      "duration": "2 hours",
+      "imageUrl": "https://product-explorer-production-assets-095634157675.s3.us-east-1.amazonaws.com/assets/77f151d7-dc11-4a09-aa38-338576777779-Asset-Frames.png",
+      "runsheet_folder": "Balancing Growth and Risk",
+      "runsheet_version": "v26.04.10",
+      "runsheet_segments": [
+        {
+          "section": "INTRO",
+          "length_min": 9.0,
+          "start_min": 0.0,
+          "end_min": 9.0,
+          "focus": "* Welcome everyone to the session\n* Introduce the narrative: you are a producer at Fictitious, a streaming platform evaluating three content projects\n* Introduce the role, learning objectives, and the three projects on the table",
+          "notes": "Be ready to launch breakouts; if the session is pre-rostered, set up Zoom rooms to match the expected teams. We recommend using pairs for this session, though teams of 3 are okay."
+        },
+        {
+          "section": "INTRO",
+          "length_min": 3.0,
+          "start_min": 9.0,
+          "end_min": 12.0,
+          "focus": "3-MINUTE BREAKOUT: \nHave people join the appropriate team",
+          "notes": "Assist with any Zoom or platform issues."
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 4.0,
+          "start_min": 12.0,
+          "end_min": 16.0,
+          "focus": "* Introduce the chapter: \"The Numbers Game\"\n* Brief the teams: review three content projects — their creative briefs and financials\n* Highlight the Cash Flow Explorer tool and the goal of forming an initial hypothesis",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 18.0,
+          "start_min": 16.0,
+          "end_min": 34.0,
+          "focus": "18-MINUTE BREAKOUT: \n* 15 minute timer to play the chapter\n* Learners review project briefs (Nomadic Nation, The Shadow Protocol, Silk & Mahogany), explore cash flows, and select which project excites them most\n* 3 minutes to review feedback",
+          "notes": "This chapter focuses on raw financials — learners are not yet applying risk-adjusted analysis. Let them form gut reactions."
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 5.0,
+          "start_min": 34.0,
+          "end_min": 39.0,
+          "focus": "* Debrief the chapter together\n* Ask: Which project caught your eye and why?\n* Surface the tension between raw returns (Shadow Protocol) vs. lower risk (Nomadic Nation) vs. balanced (Silk & Mahogany)\n   [If falling behind, cut time here to get back on pace.]",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 2",
+          "length_min": 4.0,
+          "start_min": 39.0,
+          "end_min": 43.0,
+          "focus": "* Introduce the chapter: \"Building the Case\"\n* Briefly introduce the concept of risk-adjusted returns and discount rates\n* Frame the working session with Haisam (VP of Finance) — he won't hand you answers but will push your thinking",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 2",
+          "length_min": 23.0,
+          "start_min": 43.0,
+          "end_min": 66.0,
+          "focus": "23-MINUTE BREAKOUT: \n* 20 minute timer to play the chapter\n* Learners use the NPV & IRR Explorer, then have a Socratic conversation with Haisam about discount rates and risk-adjusted analysis\n* Learners confirm their final project choice\n* 3 minutes to review feedback",
+          "notes": "Key insight: Shadow Protocol's raw numbers look dominant, but its high discount rate (23%) dramatically reduces its risk-adjusted value. Silk & Mahogany has the best NPV per dollar invested."
+        },
+        {
+          "section": "CHAPTER 2",
+          "length_min": 5.0,
+          "start_min": 66.0,
+          "end_min": 71.0,
+          "focus": "* Debrief the chapter together\n* Ask: How did the risk-adjusted analysis change your view?\n* Discuss: Did anyone switch their project choice after applying discount rates?\n* Highlight the NPV surprise — Silk & Mahogany's 36.4 cents per dollar vs. Shadow Protocol's 8.6 cents\n   [If falling behind, cut time here to get back on pace.]",
+          "notes": ""
+        },
+        {
+          "section": "BREAK",
+          "length_min": 5.0,
+          "start_min": 71.0,
+          "end_min": 76.0,
+          "focus": "Short break",
+          "notes": "Put timer on the screen for break"
+        },
+        {
+          "section": "CHAPTER 3",
+          "length_min": 4.0,
+          "start_min": 76.0,
+          "end_min": 80.0,
+          "focus": "* Introduce the chapter: \"The Pitch\"\n* Remind learners of what Melissa (SVP of Content) evaluates: Financials, Risks, Strategic Value, and Story\n* Emphasize: she's evaluating both the project AND the producer",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 3",
+          "length_min": 23.0,
+          "start_min": 80.0,
+          "end_min": 103.0,
+          "focus": "23-MINUTE BREAKOUT: \n* 20 minute timer to play the chapter\n* Learners use the Pitch Prep Template and Executive Summary tool, then pitch their chosen project to Melissa\n* Melissa will push back on assumptions and test conviction\n* 3 minutes to review feedback",
+          "notes": "Melissa's feedback includes a narrative outcome (Greenlit / Conditionally Approved / Back to Drawing Board) and a follow-up email. Encourage learners to read both carefully."
+        },
+        {
+          "section": "CHAPTER 3",
+          "length_min": 5.0,
+          "start_min": 103.0,
+          "end_min": 108.0,
+          "focus": "* Debrief the chapter together\n* Ask: What was hardest about the pitch — the numbers, the risk framing, or the storytelling?\n* Discuss: How did Melissa's pushback change your approach?\n* Connect to the broader theme: balancing ambition with analytical rigor",
+          "notes": ""
+        },
+        {
+          "section": "FINAL REFLECTION",
+          "length_min": 6.0,
+          "start_min": 108.0,
+          "end_min": 114.0,
+          "focus": "* Debrief the overall experience\n* Key takeaway: raw financial returns can be misleading without risk adjustment\n* Discuss: How does this apply to resource allocation decisions in your own organization?",
+          "notes": ""
+        },
+        {
+          "section": "CLOSING",
+          "length_min": 4.0,
+          "start_min": 114.0,
+          "end_min": 118.0,
+          "focus": "* Thank everyone for joining\n* Distribute survey link",
+          "notes": ""
+        },
+        {
+          "section": "BUFFER",
+          "length_min": 5.0,
+          "start_min": 118.0,
+          "end_min": 123.0,
+          "focus": "Buffer",
+          "notes": ""
+        }
+      ],
+      "session_count": 1
+    },
+    {
+      "case_challenge": "Shifting Mindsets and Behaviors",
+      "slug": "shifting-mindsets",
+      "url_key": "shifting-mindsets",
+      "name": "Shifting Mindsets and Behaviors",
+      "description": "Identify stakeholder interests, build alignment through influence, translate concerns into shared messaging.",
+      "pillar": "cross-functional",
+      "level": "rising",
+      "duration": "2 hours",
+      "imageUrl": "https://product-explorer-production-assets-095634157675.s3.us-east-1.amazonaws.com/assets/0dce6179-587d-4a3d-9d60-bc8f71b94608-Shifting-Mindsets-and-Behaviors.webp",
+      "runsheet_folder": "Shifting Mindsets and Behaviors",
+      "runsheet_version": "v26.03.05",
+      "runsheet_segments": [
+        {
+          "section": "INTRO",
+          "length_min": 10.0,
+          "start_min": 0.0,
+          "end_min": 10.0,
+          "focus": "* Welcome everyone to the sessions\n* Introduce the narrative, role, and learning objectives",
+          "notes": "Be ready to launch breakouts; if the session is pre-rostered, set up Zoom rooms to match the expected teams. We recommend using pairs for this session, though teams of 3 are okay."
+        },
+        {
+          "section": "INTRO",
+          "length_min": 3.0,
+          "start_min": 10.0,
+          "end_min": 13.0,
+          "focus": "2-MINUTE BREAKOUT: \nHave people join the appropriate team",
+          "notes": "Assist with any Zoom or platform issues."
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 4.0,
+          "start_min": 13.0,
+          "end_min": 17.0,
+          "focus": "* Introduce the chapter",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 10.0,
+          "start_min": 17.0,
+          "end_min": 27.0,
+          "focus": "10-MINUTE BREAKOUT: \n* 6-minute timer to play the chapter\n* 4-minute timer to make the final decision\n(this chapter does not have written feedback)",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 5.0,
+          "start_min": 27.0,
+          "end_min": 32.0,
+          "focus": "* Debrief the chapter together",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 2",
+          "length_min": 2.0,
+          "start_min": 32.0,
+          "end_min": 34.0,
+          "focus": "* Introduce the chapter\n* Briefly introduce key framework",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 2",
+          "length_min": 23.0,
+          "start_min": 34.0,
+          "end_min": 57.0,
+          "focus": "23-MINUTE BREAKOUT: \n* 20 minute timer to play the chapter\n* 3 minutes to review feedback",
+          "notes": ""
+        },
+        {
+          "section": "BREAK",
+          "length_min": 5.0,
+          "start_min": 57.0,
+          "end_min": 62.0,
+          "focus": "Short break",
+          "notes": "Put timer on the screen for break"
+        },
+        {
+          "section": "CHAPTER 2 Debrief",
+          "length_min": 10.0,
+          "start_min": 62.0,
+          "end_min": 72.0,
+          "focus": "* Debrief the chapter together",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 3",
+          "length_min": 2.0,
+          "start_min": 72.0,
+          "end_min": 74.0,
+          "focus": "* Introduce the chapter\n* Briefly introduce key framework",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 3",
+          "length_min": 23.0,
+          "start_min": 74.0,
+          "end_min": 97.0,
+          "focus": "23-MINUTE BREAKOUT: \n* 20 minute timer to play the chapter\n* 3 minutes to review feedback",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 3",
+          "length_min": 12.0,
+          "start_min": 97.0,
+          "end_min": 109.0,
+          "focus": "* Debrief the chapter together",
+          "notes": ""
+        },
+        {
+          "section": "FINAL REFLECTION",
+          "length_min": 4.0,
+          "start_min": 109.0,
+          "end_min": 113.0,
+          "focus": "* Debrief the overall experience",
+          "notes": ""
+        },
+        {
+          "section": "CLOSING",
+          "length_min": 2.0,
+          "start_min": 113.0,
+          "end_min": 115.0,
+          "focus": "* Thank everyone for joining\n* Distribute survey link",
+          "notes": ""
+        },
+        {
+          "section": "BUFFER",
+          "length_min": 5.0,
+          "start_min": 115.0,
+          "end_min": 120.0,
+          "focus": "Buffer",
+          "notes": ""
+        }
+      ],
+      "session_count": 1
+    },
+    {
+      "case_challenge": "Creating Strategic Alignment",
+      "slug": "creating-strategic-alignment",
+      "url_key": "creating-strategic-alignment",
+      "name": "Creating Strategic Alignment",
+      "description": "Assess strategic fit, navigate senior stakeholders, recommend a path forward.",
+      "pillar": "cross-functional",
+      "level": "experienced",
+      "duration": "2 hours",
+      "imageUrl": "https://product-explorer-production-assets-095634157675.s3.us-east-1.amazonaws.com/assets/8f44d6d5-41cf-46b4-a8bb-283b07739316-Creating-Strategic-Alignment.webp",
+      "runsheet_folder": "Creating Strategic Alignment",
+      "runsheet_version": "v26.02.12",
+      "runsheet_segments": [
+        {
+          "section": "INTRO",
+          "length_min": 9.0,
+          "start_min": 0.0,
+          "end_min": 9.0,
+          "focus": "* Welcome everyone to the sessions\n* Introduce the narrative, role, and learning objectives",
+          "notes": "Be ready to launch breakouts; if the session is pre-rostered, set up Zoom rooms to match the expected teams. We recommend using pairs for this session, though teams of 3 are okay."
+        },
+        {
+          "section": "INTRO",
+          "length_min": 3.0,
+          "start_min": 9.0,
+          "end_min": 12.0,
+          "focus": "2-MINUTE BREAKOUT: \nHave people join the appropriate team",
+          "notes": "Assist with any Zoom or platform issues."
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 4.0,
+          "start_min": 12.0,
+          "end_min": 16.0,
+          "focus": "* Introduce the chapter\n* Briefly introduce key framework",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 20.0,
+          "start_min": 16.0,
+          "end_min": 36.0,
+          "focus": "20-MINUTE BREAKOUT: \n* 17 minute timer to play the chapter - including listing core competencies\n* 3 minutes to review feedback",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 1",
+          "length_min": 5.0,
+          "start_min": 36.0,
+          "end_min": 41.0,
+          "focus": "* Debrief the chapter together\n   [If falling behind, cut time here to get back on pace.]",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 2",
+          "length_min": 4.0,
+          "start_min": 41.0,
+          "end_min": 45.0,
+          "focus": "* Introduce the chapter\n* Briefly introduce key framework",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 2",
+          "length_min": 20.0,
+          "start_min": 45.0,
+          "end_min": 65.0,
+          "focus": "20-MINUTE BREAKOUT: \n* 17 minute timer to play the chapter - including creating a brand positioning statement\n* 3 minutes to review feedback",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 2",
+          "length_min": 5.0,
+          "start_min": 65.0,
+          "end_min": 70.0,
+          "focus": "* Debrief the chapter together\n   [If falling behind, cut time here to get back on pace.]",
+          "notes": ""
+        },
+        {
+          "section": "BREAK",
+          "length_min": 5.0,
+          "start_min": 70.0,
+          "end_min": 75.0,
+          "focus": "Short break",
+          "notes": "Put timer on the screen for break"
+        },
+        {
+          "section": "CHAPTER 3",
+          "length_min": 4.0,
+          "start_min": 75.0,
+          "end_min": 79.0,
+          "focus": "* Introduce the chapter\n* Briefly introduce key framework",
+          "notes": "Be ready to launch breakouts"
+        },
+        {
+          "section": "CHAPTER 3",
+          "length_min": 20.0,
+          "start_min": 79.0,
+          "end_min": 99.0,
+          "focus": "20-MINUTE BREAKOUT: \n* 17 minute timer to play the chapter\n* 3 minutes to review feedback",
+          "notes": ""
+        },
+        {
+          "section": "CHAPTER 3",
+          "length_min": 5.0,
+          "start_min": 99.0,
+          "end_min": 104.0,
+          "focus": "* Debrief the chapter together",
+          "notes": ""
+        },
+        {
+          "section": "FINAL REFLECTION",
+          "length_min": 7.0,
+          "start_min": 104.0,
+          "end_min": 111.0,
+          "focus": "* Debrief the overall experience",
+          "notes": ""
+        },
+        {
+          "section": "CLOSING",
+          "length_min": 4.0,
+          "start_min": 111.0,
+          "end_min": 115.0,
+          "focus": "* Thank everyone for joining\n* Distribute survey link",
+          "notes": ""
+        },
+        {
+          "section": "BUFFER",
+          "length_min": 5.0,
+          "start_min": 115.0,
+          "end_min": 120.0,
+          "focus": "Buffer",
+          "notes": ""
+        }
+      ],
+      "session_count": 1
+    }
+  ]
+}

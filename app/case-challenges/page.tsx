@@ -1,16 +1,18 @@
 import Link from 'next/link'
 import { getSessions, formatSnapshotDate } from '@/lib/sessions'
+import { getCaseChallenges } from '@/lib/case-challenges'
 
 export default function CaseChallengesPage() {
   const data = getSessions()
+  const cases = getCaseChallenges().cases
 
-  const counts = new Map<string, number>()
-  for (const r of data.rows) {
-    counts.set(r.case_challenge, (counts.get(r.case_challenge) ?? 0) + 1)
-  }
-  const tiles = Array.from(counts.entries())
-    .map(([name, count]) => ({ name, count }))
-    .sort((a, b) => b.count - a.count || a.name.localeCompare(b.name))
+  const tiles = cases.map((c) => ({
+    name: c.case_challenge,
+    displayName: c.name,
+    urlKey: c.url_key,
+    imageUrl: c.imageUrl,
+    count: c.session_count,
+  }))
 
   return (
     <div className="min-h-screen px-6 py-10 max-w-5xl mx-auto">
@@ -28,15 +30,16 @@ export default function CaseChallengesPage() {
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
         {tiles.map((t) => (
-          <div
+          <Link
             key={t.name}
-            className="relative rounded-lg border border-[#1e293b] bg-[#0f172a] hover:border-[#334155] transition-colors px-5 py-6 min-h-[120px]"
+            href={`/case-challenges/${t.urlKey}`}
+            className="relative rounded-lg border border-[#1e293b] bg-[#0f172a] hover:border-[#334155] hover:bg-[#131e2e] transition-colors px-5 py-6 min-h-[120px] block"
           >
-            <div className="text-base font-medium text-[#e2e8f0] pr-12">{t.name}</div>
+            <div className="text-base font-medium text-[#e2e8f0] pr-12">{t.displayName}</div>
             <div className="absolute bottom-3 right-4 text-3xl font-semibold text-[#a78bfa] tabular-nums leading-none">
               {t.count}
             </div>
-          </div>
+          </Link>
         ))}
       </div>
     </div>

@@ -17,7 +17,10 @@
       "producers": null,
       "has_survey": true,
       "has_transcript": false,
-      "runsheet_version": "v26.03.06"
+      "runsheet_version": "v26.03.06",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 21420,
@@ -34,7 +37,10 @@
       "producers": null,
       "has_survey": false,
       "has_transcript": false,
-      "runsheet_version": "v26.03.06"
+      "runsheet_version": "v26.03.06",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 14344,
@@ -51,7 +57,10 @@
       "producers": "Eddie Wood",
       "has_survey": true,
       "has_transcript": false,
-      "runsheet_version": "v26.04.10"
+      "runsheet_version": "v26.04.10",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 19639,
@@ -68,7 +77,10 @@
       "producers": null,
       "has_survey": true,
       "has_transcript": false,
-      "runsheet_version": "v26.03.04"
+      "runsheet_version": "v26.03.04",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 19638,
@@ -85,7 +97,10 @@
       "producers": null,
       "has_survey": true,
       "has_transcript": false,
-      "runsheet_version": "v26.03.06"
+      "runsheet_version": "v26.03.06",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 16347,
@@ -102,7 +117,10 @@
       "producers": "Trazana Bush",
       "has_survey": false,
       "has_transcript": false,
-      "runsheet_version": "v26.03.04"
+      "runsheet_version": "v26.03.04",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 14363,
@@ -119,7 +137,10 @@
       "producers": null,
       "has_survey": true,
       "has_transcript": false,
-      "runsheet_version": "v26.03.18"
+      "runsheet_version": "v26.03.18",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 14419,
@@ -136,7 +157,10 @@
       "producers": null,
       "has_survey": true,
       "has_transcript": false,
-      "runsheet_version": "v26.03.05"
+      "runsheet_version": "v26.03.05",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 18921,
@@ -153,7 +177,10 @@
       "producers": null,
       "has_survey": false,
       "has_transcript": false,
-      "runsheet_version": "v26.03.04"
+      "runsheet_version": "v26.03.04",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 16344,
@@ -170,7 +197,10 @@
       "producers": "Ali Block",
       "has_survey": false,
       "has_transcript": false,
-      "runsheet_version": "v26.03.04"
+      "runsheet_version": "v26.03.04",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 16346,
@@ -187,7 +217,10 @@
       "producers": "Trazana Bush",
       "has_survey": false,
       "has_transcript": false,
-      "runsheet_version": "v26.03.04"
+      "runsheet_version": "v26.03.04",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 17064,
@@ -204,7 +237,10 @@
       "producers": "Ali Block",
       "has_survey": true,
       "has_transcript": false,
-      "runsheet_version": "v26.03.06"
+      "runsheet_version": "v26.03.06",
+      "survey_score": null,
+      "survey_analyze_url": "https://www.surveymonkey.com/analyze/UDMmQoVAZEIa1OqgQUZNKnriTyC_2F9ch_2BeH6nuIDU4oc_3D",
+      "survey_response_count": 0
     },
     {
       "session_id": 14774,
@@ -221,7 +257,10 @@
       "producers": null,
       "has_survey": false,
       "has_transcript": false,
-      "runsheet_version": "v26.03.04"
+      "runsheet_version": "v26.03.04",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 18979,
@@ -238,7 +277,10 @@
       "producers": "Ignacio Llapur",
       "has_survey": false,
       "has_transcript": false,
-      "runsheet_version": "v26.03.06"
+      "runsheet_version": "v26.03.06",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 14773,
@@ -255,7 +297,10 @@
       "producers": null,
       "has_survey": false,
       "has_transcript": false,
-      "runsheet_version": "v26.03.04"
+      "runsheet_version": "v26.03.04",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 16343,
@@ -272,7 +317,10 @@
       "producers": "Ali Block",
       "has_survey": false,
       "has_transcript": false,
-      "runsheet_version": "v26.03.04"
+      "runsheet_version": "v26.03.04",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 13508,
@@ -289,7 +337,10 @@
       "producers": "Ali Block",
       "has_survey": true,
       "has_transcript": false,
-      "runsheet_version": "v26.03.16"
+      "runsheet_version": "v26.03.16",
+      "survey_score": 5.0,
+      "survey_analyze_url": "https://www.surveymonkey.com/analyze/QFc5DFCeMWZI1FBDM_2BcvjlqCD42MDPRkkzylrZdCVqo_3D",
+      "survey_response_count": 1
     },
     {
       "session_id": 19704,
@@ -306,7 +357,10 @@
       "producers": "Hanin Bengezi",
       "has_survey": false,
       "has_transcript": false,
-      "runsheet_version": "v26.03.18"
+      "runsheet_version": "v26.03.18",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 20108,
@@ -323,7 +377,10 @@
       "producers": "Ali Block",
       "has_survey": true,
       "has_transcript": false,
-      "runsheet_version": "v26.02.12"
+      "runsheet_version": "v26.02.12",
+      "survey_score": 4.5,
+      "survey_analyze_url": "https://www.surveymonkey.com/analyze/HHFot7KmNI6h6GHd7Lakkh9aaCHEyRI4CIHo6lkPUU0_3D",
+      "survey_response_count": 8
     },
     {
       "session_id": 13498,
@@ -340,7 +397,10 @@
       "producers": "Eddie Wood",
       "has_survey": true,
       "has_transcript": false,
-      "runsheet_version": "v26.03.16"
+      "runsheet_version": "v26.03.16",
+      "survey_score": 4.25,
+      "survey_analyze_url": "https://www.surveymonkey.com/analyze/K_2FNWbbxy3G1nSDjwszlfxIgB3zwLDEFYO65kwyGdS5c_3D",
+      "survey_response_count": 4
     },
     {
       "session_id": 13518,
@@ -357,7 +417,10 @@
       "producers": "Trazana Bush",
       "has_survey": true,
       "has_transcript": false,
-      "runsheet_version": "v26.03.16"
+      "runsheet_version": "v26.03.16",
+      "survey_score": 4.5,
+      "survey_analyze_url": "https://www.surveymonkey.com/analyze/4sUEAGtSM9ukkvLhDPVBmvXifGkc8vZsgNZCWV9m2dg_3D",
+      "survey_response_count": 10
     },
     {
       "session_id": 18978,
@@ -374,7 +437,10 @@
       "producers": "Ignacio Llapur",
       "has_survey": false,
       "has_transcript": false,
-      "runsheet_version": "v26.04.09"
+      "runsheet_version": "v26.04.09",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 14782,
@@ -391,7 +457,10 @@
       "producers": null,
       "has_survey": false,
       "has_transcript": false,
-      "runsheet_version": "v26.03.04"
+      "runsheet_version": "v26.03.04",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 14784,
@@ -408,7 +477,10 @@
       "producers": null,
       "has_survey": false,
       "has_transcript": false,
-      "runsheet_version": "v26.03.04"
+      "runsheet_version": "v26.03.04",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 19607,
@@ -425,7 +497,10 @@
       "producers": null,
       "has_survey": false,
       "has_transcript": false,
-      "runsheet_version": "v26.03.04"
+      "runsheet_version": "v26.03.04",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 14334,
@@ -442,7 +517,10 @@
       "producers": "Ignacio Llapur",
       "has_survey": false,
       "has_transcript": false,
-      "runsheet_version": "v26.03.04"
+      "runsheet_version": "v26.03.04",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 14375,
@@ -459,7 +537,10 @@
       "producers": "Alexis Gozard",
       "has_survey": false,
       "has_transcript": false,
-      "runsheet_version": "v26.03.06"
+      "runsheet_version": "v26.03.06",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 13327,
@@ -476,7 +557,10 @@
       "producers": "Trazana Bush",
       "has_survey": true,
       "has_transcript": false,
-      "runsheet_version": "v26.03.16"
+      "runsheet_version": "v26.03.16",
+      "survey_score": 4.786,
+      "survey_analyze_url": "https://www.surveymonkey.com/analyze/8oJ1QDD_2F9AVnLwgkZi6f_2FH5M0XzF1oBBd9VF5t54BpE_3D",
+      "survey_response_count": 7
     },
     {
       "session_id": 13267,
@@ -493,7 +577,10 @@
       "producers": "Bruna Martinez",
       "has_survey": true,
       "has_transcript": false,
-      "runsheet_version": "v26.03.16"
+      "runsheet_version": "v26.03.16",
+      "survey_score": 4.667,
+      "survey_analyze_url": "https://www.surveymonkey.com/analyze/Grf1kJy_2FWLF53miSO6MuV_2BZLflsvtW6Mrbv44cvOQB8_3D",
+      "survey_response_count": 5
     },
     {
       "session_id": 22047,
@@ -510,7 +597,10 @@
       "producers": null,
       "has_survey": true,
       "has_transcript": false,
-      "runsheet_version": "v26.03.04"
+      "runsheet_version": "v26.03.04",
+      "survey_score": null,
+      "survey_analyze_url": "https://www.surveymonkey.com/analyze/QNQrAdDFqrD8fY70WbBJXlu1yxOHgk94824z44hjSwQ_3D",
+      "survey_response_count": 0
     },
     {
       "session_id": 14333,
@@ -527,7 +617,10 @@
       "producers": "Ignacio Llapur",
       "has_survey": false,
       "has_transcript": false,
-      "runsheet_version": "v26.03.04"
+      "runsheet_version": "v26.03.04",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 14331,
@@ -544,7 +637,10 @@
       "producers": "Ignacio Llapur",
       "has_survey": false,
       "has_transcript": false,
-      "runsheet_version": "v26.03.04"
+      "runsheet_version": "v26.03.04",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 14356,
@@ -561,7 +657,10 @@
       "producers": "Alexis Gozard",
       "has_survey": false,
       "has_transcript": false,
-      "runsheet_version": "v26.03.04"
+      "runsheet_version": "v26.03.04",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 13505,
@@ -578,7 +677,10 @@
       "producers": "Ali Block",
       "has_survey": true,
       "has_transcript": false,
-      "runsheet_version": "v26.03.18"
+      "runsheet_version": "v26.03.18",
+      "survey_score": 4.521,
+      "survey_analyze_url": "https://www.surveymonkey.com/analyze/zzrzsSp1NDcHMhZ7Y5Dqx6omJl1TapYMBYiqumHruWo_3D",
+      "survey_response_count": 16
     },
     {
       "session_id": 13515,
@@ -595,7 +697,10 @@
       "producers": "Bruna Martinez",
       "has_survey": true,
       "has_transcript": false,
-      "runsheet_version": "v26.03.18"
+      "runsheet_version": "v26.03.18",
+      "survey_score": 4.365,
+      "survey_analyze_url": "https://www.surveymonkey.com/analyze/ozPUH_2FklEQX_2FDy9EhvqqrJ8eRZKKwLHoCQXkpNj_2FJ8U_3D",
+      "survey_response_count": 21
     },
     {
       "session_id": 13495,
@@ -612,7 +717,10 @@
       "producers": "Trazana Bush",
       "has_survey": true,
       "has_transcript": false,
-      "runsheet_version": "v26.03.18"
+      "runsheet_version": "v26.03.18",
+      "survey_score": 4.167,
+      "survey_analyze_url": "https://www.surveymonkey.com/analyze/hYCglQyxPcysyVQuYTxyhGS1Gvwuw2qkRjUeoi6NnEk_3D",
+      "survey_response_count": 2
     },
     {
       "session_id": 19606,
@@ -629,7 +737,10 @@
       "producers": null,
       "has_survey": false,
       "has_transcript": false,
-      "runsheet_version": "v26.03.04"
+      "runsheet_version": "v26.03.04",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 13324,
@@ -646,7 +757,10 @@
       "producers": "Ali Block",
       "has_survey": true,
       "has_transcript": false,
-      "runsheet_version": "v26.03.18"
+      "runsheet_version": "v26.03.18",
+      "survey_score": 4.704,
+      "survey_analyze_url": "https://www.surveymonkey.com/analyze/VhvEbIahLpgnkpgPjD6ibfR4Oi_2FSe3tBoXng_2F9EV74w_3D",
+      "survey_response_count": 9
     },
     {
       "session_id": 13494,
@@ -663,7 +777,10 @@
       "producers": "Trazana Bush",
       "has_survey": false,
       "has_transcript": false,
-      "runsheet_version": "v26.03.04"
+      "runsheet_version": "v26.03.04",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 13264,
@@ -680,7 +797,10 @@
       "producers": "Bruna Martinez",
       "has_survey": true,
       "has_transcript": false,
-      "runsheet_version": "v26.03.18"
+      "runsheet_version": "v26.03.18",
+      "survey_score": 4.5,
+      "survey_analyze_url": "https://www.surveymonkey.com/analyze/rQqNqfNp6Qa63FdWhXX21LbTpTCtYbgiPs4RZKnwl0I_3D",
+      "survey_response_count": 8
     },
     {
       "session_id": 13514,
@@ -697,7 +817,10 @@
       "producers": "Bruna Martinez",
       "has_survey": false,
       "has_transcript": false,
-      "runsheet_version": "v26.03.04"
+      "runsheet_version": "v26.03.04",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 14503,
@@ -714,7 +837,10 @@
       "producers": "Hanin Bengezi",
       "has_survey": false,
       "has_transcript": false,
-      "runsheet_version": "v26.03.16"
+      "runsheet_version": "v26.03.16",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 13925,
@@ -731,7 +857,10 @@
       "producers": null,
       "has_survey": false,
       "has_transcript": false,
-      "runsheet_version": "v26.03.04"
+      "runsheet_version": "v26.03.04",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 12173,
@@ -748,7 +877,10 @@
       "producers": null,
       "has_survey": false,
       "has_transcript": false,
-      "runsheet_version": "v26.04.09"
+      "runsheet_version": "v26.04.09",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     },
     {
       "session_id": 14483,
@@ -765,7 +897,10 @@
       "producers": null,
       "has_survey": true,
       "has_transcript": false,
-      "runsheet_version": "v26.03.04"
+      "runsheet_version": "v26.03.04",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
     }
   ]
 }
