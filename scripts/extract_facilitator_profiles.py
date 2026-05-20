@@ -68,21 +68,26 @@ def _extract_json(text: str, expect_kind):
         k += 1
     return json.loads(text[i:k+1])
 
-STRENGTHS_PROMPT = """You are profiling Abilitie facilitator {name} based on their session data.
+STRENGTHS_PROMPT = """You are profiling Abilitie facilitator {name} based on their full delivery history.
 
-Data:
-- {session_count} sessions delivered across these case challenges: {cases}
-- Survey scores (0-5 scale, post-session): {survey_scores}
-- Team scores across their sessions ({team_score_count} team-chapters): {team_scores_summary}
-- Narrative outcome distribution across their teams: {narrative_outcomes}
-- Magic moments (curated facilitator quotes): {magic_moments}
+Arrow data (their entire career at Abilitie, all simulation types):
+- {all_sessions} total sessions delivered
+- Simulation breadth: {sim_breakdown}
+- Post-session surveys: {survey_summary}
+
+Case Challenge slice (subset, deeper data):
+- {cc_session_count} case-challenge sessions across these case challenges: {cases}
+- Team chapter outcomes across their CC sessions: {narrative_outcomes}
+- Team scores: {team_scores_summary}
+
+Magic moments (curated facilitator quotes from transcripts): {magic_moments}
 
 Identify {n_strengths} distinct strengths this facilitator demonstrates. Be specific and grounded in the data.
-Each strength must include concrete evidence from the data shown above. Do NOT invent details.
+Each strength must include concrete evidence from the data shown above. Cite specific numbers when possible.
 
-If the data is too thin to derive strengths confidently (e.g. only 1-2 sessions, no surveys, no transcripts), return an empty array [].
+If the data is genuinely too thin (e.g. fewer than 5 total sessions, no surveys, no magic moments), return an empty array [].
 
-Return ONLY a JSON array: [{{"title": "Short strength label", "evidence": "1-2 sentence evidence anchored to the data"}}]
+Return ONLY a JSON array: [{{"title": "Short strength label (under 70 chars)", "evidence": "1-2 sentence evidence anchored to the data"}}]
 """
 
 LEARN_FROM_PROMPT = """You are matching Abilitie facilitator {name} with 1-2 peer facilitators they could learn from.
@@ -109,15 +114,28 @@ def summarize_team_scores(scores):
     return f"avg {avg:.1f}, range {lo}-{hi}"
 
 def derive_strengths(f):
-    n_strengths = 4 if f["session_count"] >= 4 else (3 if f["session_count"] >= 2 else 2)
+    arrow = f.get("arrow") or {}
+    total = arrow.get("all_session_count") or f["session_count"]
+    n_strengths = 5 if total >= 100 else (4 if total >= 10 else (3 if total >= 4 else 2))
     magic = [m["quote"] for m in f.get("magic_moments", [])][:4]
+    sim_breakdown = ", ".join(f"{label}={n}" for label, n in arrow.get("simulation_breakdown", {}).items()) or "no simulation data"
+    if arrow.get("all_survey_avg_normalized_0_5") is not None:
+        survey_summary = (
+            f"{arrow['all_survey_session_count']} sessions surveyed, "
+            f"{arrow['all_survey_responses']} responses total, "
+            f"normalized avg {arrow['all_survey_avg_normalized_0_5']:.2f} on 0-5 scale "
+            f"(range {arrow.get('all_survey_min_normalized_0_5')}–{arrow.get('all_survey_max_normalized_0_5')})"
+        )
+    else:
+        survey_summary = "no post-session surveys captured"
     prompt = STRENGTHS_PROMPT.format(
         name=f["name"],
-        session_count=f["session_count"],
-        cases=", ".join(f["case_challenges"]),
-        survey_scores=f"avg {f['avg_survey_score']:.2f} across {f['survey_session_count']} sessions" if f["avg_survey_score"] else "no surveys captured",
-        team_score_count=f["team_score_count"],
-        team_scores_summary=summarize_team_scores([s for s in [] if False]) if not f["team_score_count"] else f"avg {f['avg_team_score']:.0f}",
+        all_sessions=total,
+        sim_breakdown=sim_breakdown,
+        survey_summary=survey_summary,
+        cc_session_count=f["session_count"],
+        cases=", ".join(f["case_challenges"]) or "none",
+        team_scores_summary=f"avg {f['avg_team_score']:.0f} across {f['team_score_count']} team-chapters" if f["team_score_count"] else "none captured",
         narrative_outcomes=", ".join(f"{k}: {v}" for k,v in (f["narrative_outcomes"] or {}).items()) or "none captured",
         magic_moments="\n  - " + "\n  - ".join(magic) if magic else "none curated",
         n_strengths=n_strengths,

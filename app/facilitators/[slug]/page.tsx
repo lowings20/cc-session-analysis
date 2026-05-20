@@ -57,26 +57,35 @@ export default async function FacilitatorDetailPage({ params }: PageProps) {
       <header className="mb-8">
         <h1 className="text-3xl font-semibold text-[#e2e8f0]">{f.name}</h1>
         <div className="flex flex-wrap gap-x-8 gap-y-3 mt-5">
-          <Stat label="Sessions" value={String(f.session_count)} />
-          <Stat label="Case Challenges" value={String(f.case_challenges.length)} sublabel={f.case_challenges.join(' · ')} />
-          {f.avg_survey_score !== null && (
+          <Stat
+            label="Total sessions"
+            value={String(f.arrow?.all_session_count ?? f.session_count)}
+            sublabel={f.arrow ? `${f.session_count} case challenges in this dataset` : undefined}
+          />
+          {f.arrow?.all_survey_avg_normalized_0_5 !== null && f.arrow?.all_survey_avg_normalized_0_5 !== undefined && (
             <Stat
               label="Avg survey"
-              value={f.avg_survey_score.toFixed(2)}
-              sublabel={`${f.survey_session_count} session${f.survey_session_count === 1 ? '' : 's'} · scale 0–5`}
-            />
-          )}
-          {f.avg_team_score !== null && (
-            <Stat
-              label="Avg team score"
-              value={f.avg_team_score.toFixed(0)}
-              sublabel={`across ${f.team_score_count} team-chapters`}
+              value={f.arrow.all_survey_avg_normalized_0_5.toFixed(2)}
+              sublabel={`${f.arrow.all_survey_session_count} sessions · ${f.arrow.all_survey_responses} responses · normalized 0–5`}
             />
           )}
           {f.magic_moments.length > 0 && (
             <Stat label="Magic moments" value={String(f.magic_moments.length)} />
           )}
         </div>
+
+        {f.arrow && Object.keys(f.arrow.simulation_breakdown).length > 0 && (
+          <div className="mt-5">
+            <div className="text-[10px] uppercase tracking-wider text-[#475569] mb-2">Simulation experience</div>
+            <div className="flex flex-wrap gap-2">
+              {Object.entries(f.arrow.simulation_breakdown).map(([label, n]) => (
+                <span key={label} className="px-2 py-1 rounded bg-[#1e293b] border border-[#334155] text-[11px] text-[#cbd5e1]">
+                  {label} <span className="text-[#94a3b8] tabular-nums">× {n}</span>
+                </span>
+              ))}
+            </div>
+          </div>
+        )}
       </header>
 
       <div className="flex flex-col gap-6">

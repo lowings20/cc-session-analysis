@@ -25,6 +25,18 @@ export interface FacilitatorLearnFrom {
   why: string
 }
 
+export interface FacilitatorArrowData {
+  facilitator_ids: number[]
+  all_session_count: number
+  all_survey_session_count: number
+  all_survey_responses: number
+  all_survey_raw_avg: number | null
+  all_survey_avg_normalized_0_5: number | null
+  all_survey_min_normalized_0_5: number | null
+  all_survey_max_normalized_0_5: number | null
+  simulation_breakdown: Record<string, number>
+}
+
 export interface FacilitatorProfile {
   name: string
   slug: string
@@ -40,6 +52,7 @@ export interface FacilitatorProfile {
   strengths: FacilitatorStrength[]
   learn_from: FacilitatorLearnFrom[]
   strengths_method: string | null
+  arrow?: FacilitatorArrowData
 }
 
 interface FacilitatorsFile {

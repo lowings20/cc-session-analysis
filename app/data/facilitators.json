@@ -122,37 +122,64 @@
       "magic_moments": [],
       "strengths": [
         {
-          "title": "Consistent Delivery Across Diverse Content",
-          "evidence": "Paul successfully delivered 8 sessions spanning 4 distinct case challenges (Enabling Peak Performance, Kickoff: Shelf Awareness, Leading in Times of Change, Navigating Critical Conversations), demonstrating versatility in facilitating varied organizational topics."
+          "title": "Exceptional Volume & Consistency Across Simulation Types",
+          "evidence": "Delivered 419 total sessions with breadth across 9 simulation types, demonstrating sustained facilitator capability. Enterprise Challenge alone accounts for 120 sessions, showing deep expertise in Abilitie's flagship offering."
         },
         {
-          "title": "Strong Positive Momentum Building",
-          "evidence": "Across 40 team-chapters, Paul's sessions generated 12 positive narrative outcomes (6 Back on Course + 6 Full Speed Ahead), representing the strongest combined category and indicating ability to shift teams toward constructive momentum."
+          "title": "Strong Participant Satisfaction Ratings",
+          "evidence": "Post-session survey average of 4.63/5.0 across 1,422 responses (95 surveyed sessions) indicates consistently positive participant experiences. The tight range (3.786–3.869 normalized) suggests reliable delivery quality session-to-session."
         },
         {
-          "title": "High Individual Empowerment Impact",
-          "evidence": "The 'Jordan Steps Up' outcome (14 instances) is the single most prevalent narrative result across Paul's sessions, suggesting particular strength in catalyzing individual confidence and leadership growth within team contexts."
+          "title": "Balanced Case Challenge Outcomes with Positive Skew",
+          "evidence": "Across 8 Case Challenge sessions, 12 of 40 team chapters (30%) reached positive endpoints (Back on Course, Full Speed Ahead, Jordan Steps Up). Average team score of 71 demonstrates participants made meaningful progress in case simulations."
         },
         {
-          "title": "Above-Average Team Performance",
-          "evidence": "Paul's facilitated teams achieved an average score of 71 across 40 team-chapters, indicating consistent delivery of sessions that move teams toward measurable performance benchmarks."
+          "title": "Effective Facilitation of Complex Leadership Scenarios",
+          "evidence": "Successfully guided participants through challenging case topics (Navigating Critical Conversations, Leading in Times of Change, Enabling Peak Performance), with 14 instances of 'Jordan Steps Up' outcomes indicating strong capability in developing leadership capability."
+        },
+        {
+          "title": "High-Volume Case Challenge Facilitation",
+          "evidence": "Delivered 8 Case Challenge sessions managing 40 distinct team chapters—a more complex facilitation format requiring deeper scenario expertise than standard simulations, completed alongside 411 other session deliveries."
         }
       ],
       "learn_from": [
         {
-          "peer_name": "Tamara Nolte",
-          "area": "Psychological Safety & Concept Translation",
-          "why": "While Paul excels at momentum and empowerment, Tamara's strength in creating psychologically safe environments and translating abstract concepts to practice would deepen Paul's facilitation toolkit. Her versatility across complex leadership topics also complements Paul's consistent but potentially narrower content depth.",
-          "peer_slug": "tamara-nolte"
+          "peer_name": "Nick White",
+          "area": "Pedagogical Depth & Reframing",
+          "why": "Nick excels at reframing content as valuable learning and grounding facilitation in real-world relevance with challenging pedagogy—areas where Paul's profile lacks detail. This could deepen Paul's already strong case challenge facilitation with more intentional learning design.",
+          "peer_slug": "nick-white"
         },
         {
-          "peer_name": "Nick White",
-          "area": "Participant Engagement & Real-World Application",
-          "why": "Paul has strong individual impact but thin survey data on engagement quality. Nick's exceptional participant engagement and real-world business application skills would help Paul strengthen the experiential and practical dimensions of his facilitation.",
-          "peer_slug": "nick-white"
+          "peer_name": "Tamara Nolte",
+          "area": "Psychological Safety & Intentionality",
+          "why": "Tamara's documented strength in creating psychologically safe environments and demonstrating facilitator intentionality complements Paul's volume and satisfaction metrics by adding explicit design thinking. This would enhance Paul's complex leadership scenario facilitation.",
+          "peer_slug": "tamara-nolte"
         }
       ],
-      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments.",
+      "arrow": {
+        "facilitator_ids": [
+          25
+        ],
+        "all_session_count": 419,
+        "all_survey_session_count": 95,
+        "all_survey_responses": 1422,
+        "all_survey_raw_avg": 4.633,
+        "all_survey_avg_normalized_0_5": 4.633,
+        "all_survey_min_normalized_0_5": 3.786,
+        "all_survey_max_normalized_0_5": 3.869,
+        "simulation_breakdown": {
+          "Enterprise Challenge": 120,
+          "Management Challenge": 47,
+          "Finance Challenge": 30,
+          "Executive Challenge": 23,
+          "Business Challenge": 20,
+          "Case Challenge": 6,
+          "Director Challenge": 6,
+          "Business Challenge - Consumer Packaged Goods": 4,
+          "Influence Challenge": 4
+        }
+      }
     },
     {
       "name": "Tamara Nolte",
@@ -293,37 +320,57 @@
       ],
       "strengths": [
         {
-          "title": "Translates Abstract Concepts to Practical Application",
-          "evidence": "Magic moment on AI and financial modeling demonstrates ability to connect theoretical concepts (AI capabilities) to human judgment and decision-making. This aligns with their stated job of providing 'seeds for you to extrapolate and pull back into your world,' showing intentional design for real-world transfer."
+          "title": "Consistently High Participant Satisfaction",
+          "evidence": "Across 17 surveyed sessions (262 total responses), Tamara achieved a normalized average of 4.48/5.0 with a tight range (3.833–5.0), demonstrating reliable delivery quality and participant engagement across diverse simulation types."
+        },
+        {
+          "title": "Bridges Theory and Practical Application",
+          "evidence": "Her magic moment on AI and finance exemplifies her strength in contextualizing business concepts—explaining that while computers can calculate break-even costs instantly, human judgment remains essential to understand numbers and pressure-test assumptions, making abstract concepts tangible."
         },
         {
           "title": "Creates Psychologically Safe Learning Environments",
-          "evidence": "Magic moment emphasizing 'failure actually is the goal here in order to learn and grow' signals deliberate cultivation of safe-to-fail spaces. Supported by 4.48/5.0 average survey score across 4 sessions, indicating participants feel trusted and supported."
+          "evidence": "Tamara explicitly frames 'failure as the goal' to enable learning and growth, which aligns with her Case Challenge outcomes showing 14 teams reached 'Market Maker' status (the highest outcome) across 7 sessions, indicating participants feel safe to take risks and perform at high levels."
         },
         {
-          "title": "Generates Balanced Outcome Distribution Across Diverse Teams",
-          "evidence": "Across 40 team-chapters, outcomes span all five narrative categories with notable representation in both high-impact (Market Maker: 14, Cool and Collected: 7) and developmental (Back to the Drawing Board: 2, Gaining Traction: 2) outcomes, suggesting facilitation that stretches teams while maintaining psychological safety."
-        },
-        {
-          "title": "Versatility Across Multiple Complex Leadership Topics",
-          "evidence": "Delivered 7 sessions spanning 5 distinct case challenges (Influencing Without Authority, Kickoff: Shelf Awareness, Leading in Times of Change, Managing Profitability, Navigating Critical Conversations) while maintaining consistent 82-point team performance average, demonstrating adaptability across varied content domains."
+          "title": "Strong Facilitator Intentionality Across Diverse Formats",
+          "evidence": "Delivering 50 total sessions across 6 simulation types (9 Business Challenges, 7 Management Challenges, 6 Case Challenges, etc.) with consistent survey performance (4.48/5.0) while her magic moment shows deliberate framing—'our job is to provide seeds for you to extrapolate'—demonstrates strategic design thinking across format variations."
         }
       ],
       "learn_from": [
         {
-          "peer_name": "Nick White",
-          "area": "Participant Engagement",
-          "why": "Nick excels at Exceptional Participant Engagement and Reframing Risk as Strategic Opportunity, areas where Tamara has limited data. This would strengthen Tamara's already strong psychological safety work with deeper engagement tactics.",
-          "peer_slug": "nick-white"
+          "peer_name": "Paul Kirkitelos",
+          "area": "High-Volume Consistency",
+          "why": "Paul demonstrates exceptional volume and consistency across simulation types with balanced positive outcomes, directly addressing Tamara's thin data from only 7 sessions. Learning his scaling approaches could help Tamara expand her delivery while maintaining her already strong satisfaction ratings.",
+          "peer_slug": "paul-kirkitelos"
         },
         {
-          "peer_name": "Francois-Alexandre Leonard",
-          "area": "Survey Performance Consistency",
-          "why": "Francois-Alexandre demonstrates Consistent High Survey Performance across distinct case challenges, complementing Tamara's solid 4.48 average with proven strategies for sustaining excellence across varied content.",
-          "peer_slug": "francois-alexandre-leonard"
+          "peer_name": "Nick White",
+          "area": "Content Reframing & Pedagogy",
+          "why": "Nick excels at reframing known content as valuable learning and challenging pedagogy with real-world grounding—complementing Tamara's theory-to-practice bridge. His risk-intelligent coaching approach could deepen Tamara's already strong intentionality across diverse formats.",
+          "peer_slug": "nick-white"
         }
       ],
-      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments.",
+      "arrow": {
+        "facilitator_ids": [
+          293
+        ],
+        "all_session_count": 50,
+        "all_survey_session_count": 17,
+        "all_survey_responses": 262,
+        "all_survey_raw_avg": 4.48,
+        "all_survey_avg_normalized_0_5": 4.48,
+        "all_survey_min_normalized_0_5": 3.833,
+        "all_survey_max_normalized_0_5": 5.0,
+        "simulation_breakdown": {
+          "Business Challenge": 9,
+          "Management Challenge": 7,
+          "Case Challenge": 6,
+          "Influence Challenge": 6,
+          "Director Challenge": 3,
+          "Finance Challenge": 2
+        }
+      }
     },
     {
       "name": "Nick White",
@@ -428,37 +475,63 @@
       ],
       "strengths": [
         {
-          "title": "Exceptional Participant Engagement",
-          "evidence": "Achieved an average survey score of 4.66/5.0 across 4 sessions, indicating consistently high satisfaction and engagement from participants in both Influencing Without Authority and Managing Profitability challenges."
+          "title": "Consistently High-Quality Facilitation Across Simulation Types",
+          "evidence": "Delivered 435 total sessions with normalized survey average of 4.62/5.0 across 75 surveyed sessions (995 responses). This breadth and consistency spans 8 simulation types, indicating reliable excellence regardless of format."
         },
         {
-          "title": "Strong Facilitation of Positive Outcomes",
-          "evidence": "Guided 11 teams to 'Market Maker' status (the most positive narrative outcome) and 19 total teams to positive outcomes (Market Maker + Gaining Traction + Cool and Collected), demonstrating capability to help teams achieve strong results across 28 team-chapters."
+          "title": "Strong Case Challenge Execution & Team Performance",
+          "evidence": "Across 4 Case Challenge sessions, facilitated 28 team-chapters with average score of 77. Team outcomes skewed positive: 11 Market Maker outcomes and 5 Cool and Collected outcomes (57% of teams) versus only 1 Back to the Drawing Board and 1 Cold as Ice (7% of teams)."
         },
         {
-          "title": "Reframing Risk as Strategic Opportunity",
-          "evidence": "Explicitly articulates the connection between risk tolerance and business rewards in his magic moment quote, positioning risk discussion as integral to strategy rather than obstacle—a sophisticated facilitator perspective for commercial training contexts."
+          "title": "Exceptional Ability to Reframe Known Content as Valuable Learning",
+          "evidence": "Magic moment demonstrates meta-awareness: 'When you go on a training and it's stuff you already know...by turning it around, that can be really quite powerful for you.' This reflects sophisticated facilitation skill in engaging experienced participants who might otherwise disengage."
         },
         {
-          "title": "Real-World Business Application",
-          "evidence": "Demonstrates intentional methodology to anchor learning to actual business contexts (specifically Business Development), recognizing this 'challenging way of learning' as 'really quite powerful'—evidence of pedagogical sophistication in translating case-based learning to participant practice."
+          "title": "Risk-Intelligent Business Coaching & Upside Articulation",
+          "evidence": "Quote 'Without risk, we don't get rewards...if we can articulate the upside' demonstrates capability to coach teams through high-stakes decisions. This aligns with Case Challenge focus on complex, ambiguous business scenarios requiring nuanced risk assessment."
+        },
+        {
+          "title": "Grounded, Real-World Relevance & Challenging Pedagogy",
+          "evidence": "Articulates philosophy of 'bringing in as much of the real world as possible. Relate what we're learning back to BD. This is actually quite a challenging way of learning...a really powerful way of learning.' This intentional design drives engagement evident in high survey scores (4.62/5.0)."
         }
       ],
       "learn_from": [
         {
-          "peer_name": "Tamara Nolte",
-          "area": "Psychological Safety & Versatility",
-          "why": "While Nick excels at engagement and reframing risk, Tamara's strength in creating psychologically safe learning environments and versatility across complex topics would deepen Nick's ability to support diverse learner needs. Her proven track record translating abstract concepts complements Nick's real-world application focus.",
-          "peer_slug": "tamara-nolte"
+          "peer_name": "Francois-Alexandre Leonard",
+          "area": "Volume & Experience",
+          "why": "With 263 total sessions delivered, Francois-Alexandre brings substantial facilitation breadth and consistency that could help Nick scale his already high-quality approach. His normalized 4.74 survey average and balanced team performance outcomes demonstrate how to maintain excellence across high volume.",
+          "peer_slug": "francois-alexandre-leonard"
         },
         {
-          "peer_name": "Francois-Alexandre Leonard",
-          "area": "Consistent Survey Performance",
-          "why": "Francois demonstrates sustained high survey performance and versatility across distinct case challenges, providing Nick with insights on consistency and scaling excellence. This addresses the limited data set (only 4 sessions) by learning from someone with proven ability to maintain quality across varied contexts.",
-          "peer_slug": "francois-alexandre-leonard"
+          "peer_name": "Tamara Nolte",
+          "area": "Psychological Safety & Intentionality",
+          "why": "Tamara's explicit strength in creating psychologically safe learning environments and strong facilitator intentionality complements Nick's content reframing ability, potentially deepening the emotional and relational dimensions of his already effective pedagogy.",
+          "peer_slug": "tamara-nolte"
         }
       ],
-      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments.",
+      "arrow": {
+        "facilitator_ids": [
+          14
+        ],
+        "all_session_count": 435,
+        "all_survey_session_count": 75,
+        "all_survey_responses": 995,
+        "all_survey_raw_avg": 4.618,
+        "all_survey_avg_normalized_0_5": 4.618,
+        "all_survey_min_normalized_0_5": 3.941,
+        "all_survey_max_normalized_0_5": 4.066,
+        "simulation_breakdown": {
+          "Business Challenge": 124,
+          "Business Challenge - Consumer Packaged Goods": 39,
+          "Finance Challenge": 34,
+          "Enterprise Challenge": 28,
+          "Influence Challenge": 12,
+          "Executive Challenge": 11,
+          "Case Challenge": 4,
+          "Director Challenge": 1
+        }
+      }
     },
     {
       "name": "Francois-Alexandre Leonard",
@@ -521,33 +594,63 @@
       "magic_moments": [],
       "strengths": [
         {
-          "title": "Balanced Outcome Distribution",
-          "evidence": "Across 19 team-chapters, Francois-Alexandre distributed outcomes across the full spectrum without clustering in extreme categories, with notably strong representation in positive states (Market Maker: 4, Cool and Collected: 4) while maintaining realistic developmental outcomes (Finding Our Footing: 1, Back to the Drawing Board: 1). This suggests skillful calibration of challenge difficulty and team support."
+          "title": "Consistent high-quality delivery across diverse simulation types",
+          "evidence": "Delivered 263 sessions spanning 8 simulation types with strongest focus on Finance Challenge (41 sessions) and Enterprise Challenge (26 sessions), demonstrating versatility and sustained performance across formats."
         },
         {
-          "title": "Consistent High Survey Performance",
-          "evidence": "Achieved an average survey score of 4.43 out of 5 across 2 sessions, demonstrating strong participant satisfaction and perceived value delivery despite working across diverse case challenges including complex topics like Influencing Without Authority and Managing Profitability."
+          "title": "Strong participant satisfaction with normalized survey average of 4.74/5.0",
+          "evidence": "Across 14 surveyed sessions (279 responses), achieved normalized average of 4.74 on 0-5 scale, indicating consistently high participant perception of facilitation quality."
         },
         {
-          "title": "Versatility Across Distinct Case Challenges",
-          "evidence": "Successfully delivered sessions across three substantively different case challenges (Influencing Without Authority, Kickoff: Shelf Awareness, Managing Profitability), indicating ability to adapt facilitation approach and content expertise across varied business scenarios and learning objectives."
+          "title": "Balanced team performance outcomes in Case Challenge delivery",
+          "evidence": "In 3 Case Challenge sessions, facilitated 19 team-chapters with 4 teams reaching 'Cool and Collected' (best outcome) and 4 reaching 'Market Maker', showing ability to guide teams toward positive endpoints."
+        },
+        {
+          "title": "Solid foundational team performance in complex case scenarios",
+          "evidence": "Achieved average team score of 69 across Case Challenge team-chapters, indicating competent delivery of higher-complexity simulations that require nuanced facilitation."
+        },
+        {
+          "title": "Extensive facilitation experience with 263 total sessions delivered",
+          "evidence": "263 career sessions delivered demonstrates significant depth of experience and sustained commitment to facilitator role, providing evidence of reliability and established practice patterns."
         }
       ],
       "learn_from": [
         {
           "peer_name": "Nick White",
-          "area": "Participant Engagement & Risk Reframing",
-          "why": "Nick excels in exceptional participant engagement and reframing risk strategically—areas with thin data for Francois-Alexandre. This would deepen Francois-Alexandre's facilitation toolkit beyond his current balanced outcome focus.",
+          "area": "Pedagogical Innovation",
+          "why": "Nick excels at reframing content and grounded real-world relevance with challenging pedagogy—areas where Francois-Alexandre's limited session data (3 sessions) doesn't reveal depth. This can help Francois-Alexandre develop distinctive facilitation voice beyond consistent delivery.",
           "peer_slug": "nick-white"
         },
         {
           "peer_name": "Tamara Nolte",
-          "area": "Psychological Safety & Concept Translation",
-          "why": "Tamara's strength in creating psychologically safe environments and translating abstract concepts to practical application complements Francois-Alexandre's versatility, helping him develop deeper facilitation dimensions beyond balanced outcomes.",
+          "area": "Learning Environment Design",
+          "why": "Tamara's strength in bridging theory-practice and creating psychologically safe spaces complements Francois-Alexandre's strong satisfaction scores by offering deeper facilitation intentionality frameworks that can enhance participant experience quality across diverse formats.",
           "peer_slug": "tamara-nolte"
         }
       ],
-      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments.",
+      "arrow": {
+        "facilitator_ids": [
+          65
+        ],
+        "all_session_count": 263,
+        "all_survey_session_count": 14,
+        "all_survey_responses": 279,
+        "all_survey_raw_avg": 4.743,
+        "all_survey_avg_normalized_0_5": 4.743,
+        "all_survey_min_normalized_0_5": 4.262,
+        "all_survey_max_normalized_0_5": 3.875,
+        "simulation_breakdown": {
+          "Finance Challenge": 41,
+          "Enterprise Challenge": 26,
+          "Business Challenge": 11,
+          "Influence Challenge": 9,
+          "Management Challenge": 8,
+          "Case Challenge": 3,
+          "Executive Challenge": 2,
+          "Director Challenge": 1
+        }
+      }
     },
     {
       "name": "Valérie Scheer",
@@ -608,33 +711,64 @@
       "magic_moments": [],
       "strengths": [
         {
-          "title": "Effective Individual Development Facilitation",
-          "evidence": "Across 17 team-chapters, Valérie generated 6 outcomes focused on individual growth (Jordan Steps Up: 4, Jordan Regains Confidence: 2), demonstrating consistent ability to create conditions where team members experience personal breakthroughs and restored confidence."
+          "title": "Consistently High Participant Satisfaction",
+          "evidence": "Across 57 surveyed sessions with 860 total responses, Valérie achieved a normalized average of 4.79/5.0, demonstrating sustained excellence in participant experience across her diverse simulation portfolio."
         },
         {
-          "title": "Balanced Outcomes Across Diverse Challenges",
-          "evidence": "Delivered 3 sessions across distinctly different case challenges (Enabling Peak Performance, Kickoff: Shelf Awareness, Navigating Critical Conversations) with a narrative outcome distribution showing no single dominant pattern, indicating adaptability across varied facilitation contexts."
+          "title": "Exceptional Simulation Breadth and Volume",
+          "evidence": "Delivered 514 total sessions across 9 distinct simulation types, with Enterprise Challenge (76 sessions) and Finance Challenge (54 sessions) as core competencies, showing versatility and deep experience across multiple business domains."
         },
         {
-          "title": "Sustained Positive Momentum Generation",
-          "evidence": "Produced 6 forward-momentum outcomes (Full Speed Ahead: 3, Back on Course: 3) out of 17 team-chapters, representing 35% of teams experiencing directional progress or recovery, with only 1 team showing persistent challenges."
+          "title": "Strong Case Challenge Facilitation",
+          "evidence": "In 3 Case Challenge sessions, Valérie's teams achieved positive momentum outcomes in 6 of 9 instances (Full Speed Ahead: 3, Modest Growth: 4), with team average scores of 75, indicating effective scenario navigation and participant development."
+        },
+        {
+          "title": "Consistent Team Performance Outcomes",
+          "evidence": "Across Case Challenge sessions, Valérie generated balanced positive outcomes: 3 'Full Speed Ahead' and 4 'Modest Growth' results, plus 4 'Jordan Steps Up' moments, demonstrating ability to create development opportunities for individual participants."
+        },
+        {
+          "title": "Reliable High-Volume Delivery Quality",
+          "evidence": "With 514 sessions delivered and post-survey satisfaction maintained at 4.79/5.0 with minimal variance (range 3.8–4.075 across cohorts), Valérie demonstrates the capacity to maintain consistent facilitation excellence at scale."
         }
       ],
       "learn_from": [
         {
-          "peer_name": "Tamara Nolte",
-          "area": "Learning Environment Design",
-          "why": "Tamara excels at creating psychologically safe environments and translating abstract concepts to practical application—complementary skills that could enhance Valérie's individual development facilitation approach. Her demonstrated versatility across complex topics could also help Valérie strengthen her facilitation consistency.",
-          "peer_slug": "tamara-nolte"
+          "peer_name": "Nick White",
+          "area": "Pedagogical Depth & Reframing",
+          "why": "Nick excels at reframing known content as valuable learning and grounding simulations in real-world relevance with challenging pedagogy—areas where Valérie's thin data (3 sessions, no survey average) leaves room to deepen facilitation intentionality beyond volume.",
+          "peer_slug": "nick-white"
         },
         {
-          "peer_name": "Nick White",
-          "area": "Participant Engagement",
-          "why": "Nick's exceptional participant engagement and strength in reframing challenges as opportunities could deepen Valérie's momentum-building effectiveness. With no survey data for Valérie, learning from Nick's documented engagement mastery would provide valuable insight into participant satisfaction.",
-          "peer_slug": "nick-white"
+          "peer_name": "Tamara Nolte",
+          "area": "Learning Environment Design",
+          "why": "Tamara's documented strength in creating psychologically safe environments and bridging theory-to-practice complements Valérie's high satisfaction scores by adding intentional design principles that her limited session history hasn't yet demonstrated.",
+          "peer_slug": "tamara-nolte"
         }
       ],
-      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments.",
+      "arrow": {
+        "facilitator_ids": [
+          35
+        ],
+        "all_session_count": 514,
+        "all_survey_session_count": 57,
+        "all_survey_responses": 860,
+        "all_survey_raw_avg": 4.79,
+        "all_survey_avg_normalized_0_5": 4.79,
+        "all_survey_min_normalized_0_5": 3.8,
+        "all_survey_max_normalized_0_5": 4.075,
+        "simulation_breakdown": {
+          "Enterprise Challenge": 76,
+          "Finance Challenge": 54,
+          "Management Challenge": 52,
+          "Business Challenge": 24,
+          "Executive Challenge": 12,
+          "Business Challenge - Consumer Packaged Goods": 8,
+          "Influence Challenge": 6,
+          "Case Challenge": 3,
+          "Director Challenge": 3
+        }
+      }
     },
     {
       "name": "Kristen Kramer",
@@ -674,22 +808,59 @@
         }
       ],
       "magic_moments": [],
-      "strengths": [],
-      "learn_from": [
+      "strengths": [
         {
-          "peer_name": "Tamara Nolte",
-          "area": "Learning Environment & Concept Translation",
-          "why": "With only 2 sessions, Kristen lacks data on creating psychologically safe environments and translating abstract concepts—both core facilitation strengths. Tamara's proven versatility across complex topics would help Kristen develop foundational facilitation competencies.",
-          "peer_slug": "tamara-nolte"
+          "title": "Consistent High-Quality Facilitation Across Simulation Types",
+          "evidence": "Delivered 76 total sessions across 6 simulation types with a normalized survey average of 4.70/5.0 across 277 responses, demonstrating reliable excellence regardless of program format."
         },
         {
-          "peer_name": "Nick White",
-          "area": "Participant Engagement & Real-World Application",
-          "why": "Kristen's thin data (2 sessions, no survey scores) means gaps in engagement tactics and business relevance are unknown. Nick's exceptional engagement skills and real-world application focus would help Kristen build concrete facilitation techniques.",
-          "peer_slug": "nick-white"
+          "title": "Broad Simulation Portfolio Mastery",
+          "evidence": "Led sessions across Enterprise Challenge (21), Executive Challenge (18), and Management Challenge (14) as primary delivery areas, showing deep capability across multiple program levels and complexities."
+        },
+        {
+          "title": "Strong Participant Satisfaction and Engagement",
+          "evidence": "Achieved a 4.70 normalized average rating across 17 surveyed sessions with 277 total responses, indicating consistently positive participant experience with minimal variance in satisfaction."
+        },
+        {
+          "title": "Versatility in Specialized Challenge Formats",
+          "evidence": "Expanded delivery beyond core simulations to include Case Challenges (2 sessions covering complex topics like Influencing Without Authority), demonstrating adaptability to specialized facilitation needs."
         }
       ],
-      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
+      "learn_from": [
+        {
+          "peer_name": "Nick White",
+          "area": "Content Reframing & Pedagogy",
+          "why": "Nick excels at reframing known content as valuable learning and grounding facilitation in real-world relevance with challenging pedagogy—areas not yet demonstrated in Kristen's limited dataset. His ability to articulate upside and manage risk-intelligent coaching would expand Kristen's toolkit.",
+          "peer_slug": "nick-white"
+        },
+        {
+          "peer_name": "Paul Kirkitelos",
+          "area": "Volume & Consistency Patterns",
+          "why": "Paul brings exceptional facilitation volume and consistency across simulation types with strong participant satisfaction, providing data-rich evidence of sustained quality at scale. Learning from his high-volume case challenge execution would help Kristen build confidence and identify patterns from larger sample sizes.",
+          "peer_slug": "paul-kirkitelos"
+        }
+      ],
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments.",
+      "arrow": {
+        "facilitator_ids": [
+          15
+        ],
+        "all_session_count": 76,
+        "all_survey_session_count": 17,
+        "all_survey_responses": 277,
+        "all_survey_raw_avg": 4.697,
+        "all_survey_avg_normalized_0_5": 4.697,
+        "all_survey_min_normalized_0_5": 4.111,
+        "all_survey_max_normalized_0_5": 2.845,
+        "simulation_breakdown": {
+          "Enterprise Challenge": 21,
+          "Executive Challenge": 18,
+          "Management Challenge": 14,
+          "Case Challenge": 2,
+          "Influence Challenge": 2,
+          "Finance Challenge": 1
+        }
+      }
     },
     {
       "name": "Amy Drozd",
@@ -740,18 +911,34 @@
       "learn_from": [
         {
           "peer_name": "Tamara Nolte",
-          "area": "Practical Application & Psychological Safety",
-          "why": "With only 2 sessions across case challenges, Amy lacks demonstrated strengths in translating concepts or creating safe learning environments. Tamara excels at both, offering mentorship on engagement depth and versatility across complex topics.",
+          "area": "Facilitation Intentionality & Safety",
+          "why": "With only 2 sessions, Amy lacks data on her ability to create psychologically safe learning environments and demonstrate intentional facilitation. Tamara's expertise in these foundational areas would help Amy develop sustainable facilitation practices early in her Abilitie journey.",
           "peer_slug": "tamara-nolte"
         },
         {
-          "peer_name": "Francois-Alexandre Leonard",
-          "area": "Consistent Performance & Versatility",
-          "why": "Amy has no survey data and limited session history. Francois-Alexandre demonstrates consistent high performance and versatility across distinct case challenges, providing a model for building reliable facilitation practices.",
-          "peer_slug": "francois-alexandre-leonard"
+          "peer_name": "Matt Rubins",
+          "area": "Case Challenge Volume & Consistency",
+          "why": "Amy has minimal case challenge exposure (2 sessions across 2 challenges). Matt's extensive facilitation experience with strong, consistent case challenge outcomes and reliable survey performance would provide Amy with proven strategies for scaling her delivery and maintaining quality.",
+          "peer_slug": "matt-rubins"
         }
       ],
-      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments.",
+      "arrow": {
+        "facilitator_ids": [
+          392
+        ],
+        "all_session_count": 7,
+        "all_survey_session_count": 0,
+        "all_survey_responses": 0,
+        "all_survey_raw_avg": null,
+        "all_survey_avg_normalized_0_5": null,
+        "all_survey_min_normalized_0_5": null,
+        "all_survey_max_normalized_0_5": null,
+        "simulation_breakdown": {
+          "Case Challenge": 2,
+          "Management Challenge": 2
+        }
+      }
     },
     {
       "name": "Monika Sauer",
@@ -801,19 +988,35 @@
       "strengths": [],
       "learn_from": [
         {
-          "peer_name": "Tamara Nolte",
-          "area": "Learning Environment & Concept Translation",
-          "why": "With only 2 sessions, Monika lacks demonstrated strength data across diverse content and psychological safety creation. Tamara excels at translating abstract concepts and building safe learning environments—foundational skills for developing facilitator versatility.",
-          "peer_slug": "tamara-nolte"
+          "peer_name": "Nick White",
+          "area": "Case Challenge Mastery",
+          "why": "Nick demonstrates exceptional case challenge execution and team performance with grounded, real-world pedagogy—directly relevant since Monika's limited sessions (2 across case challenges) suggest she needs mentorship in this core format. His ability to reframe content as valuable learning could help Monika develop facilitation intentionality.",
+          "peer_slug": "nick-white"
         },
         {
-          "peer_name": "Francois-Alexandre Leonard",
-          "area": "Consistent Performance & Survey Credibility",
-          "why": "Monika has no survey data yet; Francois-Alexandre demonstrates consistent high survey performance and versatility across distinct case challenges, providing a model for building credibility and reliability across varied facilitation contexts.",
-          "peer_slug": "francois-alexandre-leonard"
+          "peer_name": "Tamara Nolte",
+          "area": "Learning Environment Design",
+          "why": "Tamara's strength in creating psychologically safe environments and bridging theory to practice complements Monika's thin data profile. Her demonstrated facilitator intentionality across diverse formats would provide foundational mentorship as Monika builds volume and consistency.",
+          "peer_slug": "tamara-nolte"
         }
       ],
-      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments.",
+      "arrow": {
+        "facilitator_ids": [
+          776
+        ],
+        "all_session_count": 4,
+        "all_survey_session_count": 0,
+        "all_survey_responses": 0,
+        "all_survey_raw_avg": null,
+        "all_survey_avg_normalized_0_5": null,
+        "all_survey_min_normalized_0_5": null,
+        "all_survey_max_normalized_0_5": null,
+        "simulation_breakdown": {
+          "Case Challenge": 2,
+          "Management Challenge": 2
+        }
+      }
     },
     {
       "name": "Tara Layne",
@@ -858,22 +1061,62 @@
         }
       ],
       "magic_moments": [],
-      "strengths": [],
+      "strengths": [
+        {
+          "title": "Consistently High Participant Satisfaction",
+          "evidence": "Across 51 surveyed sessions, Tara achieved a normalized average rating of 4.57/5.0 with a tight range (4.056–4.963), demonstrating reliable delivery quality that participants rate favorably across diverse simulation types."
+        },
+        {
+          "title": "Broad Simulation Delivery Expertise",
+          "evidence": "Tara has delivered 114 total sessions spanning 5 simulation types, with Management Challenge (59 sessions) as her primary strength, indicating deep experience and adaptability across different facilitation contexts."
+        },
+        {
+          "title": "Strong Team Development Outcomes in Case Challenges",
+          "evidence": "In Case Challenge sessions, her teams achieved an average score of 84 across 15 team-chapters, with particularly strong performance on trust-building (Jamie Builds Trust: 5 score) and capability-focused outcomes (Built to Thryve: 4)."
+        },
+        {
+          "title": "Balanced Facilitation Across Organizational Themes",
+          "evidence": "Case Challenge delivery demonstrates balanced impact across multiple team development areas—Alignment in Motion (3), Built to Thryve (4), Jamie's Team Thrives (3), and Jamie Builds Trust (5)—suggesting versatile facilitation that addresses multiple leadership dimensions."
+        },
+        {
+          "title": "High-Volume Delivery with Quality Maintenance",
+          "evidence": "With 114 total sessions delivered and 51 surveyed (45% survey rate), Tara maintains consistent quality (4.57 avg rating) at scale, indicating sustainable facilitation practices that don't degrade with volume."
+        }
+      ],
       "learn_from": [
         {
-          "peer_name": "Tamara Nolte",
-          "area": "Learning Environment & Versatility",
-          "why": "With only 2 sessions across case challenges, Tara Layne needs exposure to facilitators who excel at creating psychologically safe environments and demonstrating versatility across complex topics. Tamara's strength in translating abstract concepts and working across diverse leadership topics provides a strong mentoring model.",
-          "peer_slug": "tamara-nolte"
+          "peer_name": "Francois-Alexandre Leonard",
+          "area": "Survey Data & Volume Benchmarking",
+          "why": "With 263 sessions and a normalized 4.74/5.0 survey average, François-Alexandre provides a clear benchmark for maintaining quality at scale—directly addressing Tara's missing survey data and helping validate her high satisfaction claims across much larger volume.",
+          "peer_slug": "francois-alexandre-leonard"
         },
         {
           "peer_name": "Nick White",
-          "area": "Participant Engagement & Application",
-          "why": "Tara Layne's thin data on engagement impact and real-world application makes Nick White an ideal peer to learn from, given his exceptional participant engagement and strength in reframing challenges as strategic opportunities.",
+          "area": "Content Reframing & Pedagogical Depth",
+          "why": "Nick's exceptional ability to reframe content and apply risk-intelligent coaching with real-world relevance complements Tara's broad delivery expertise by modeling how to deepen the learning design and intentionality behind case challenge facilitation.",
           "peer_slug": "nick-white"
         }
       ],
-      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments.",
+      "arrow": {
+        "facilitator_ids": [
+          71
+        ],
+        "all_session_count": 114,
+        "all_survey_session_count": 51,
+        "all_survey_responses": 581,
+        "all_survey_raw_avg": 4.571,
+        "all_survey_avg_normalized_0_5": 4.571,
+        "all_survey_min_normalized_0_5": 4.056,
+        "all_survey_max_normalized_0_5": 4.963,
+        "simulation_breakdown": {
+          "Management Challenge": 59,
+          "Director Challenge": 6,
+          "Enterprise Challenge": 4,
+          "Case Challenge": 2,
+          "Influence Challenge": 2
+        }
+      }
     },
     {
       "name": "Sara Amighi",
@@ -919,22 +1162,59 @@
         }
       ],
       "magic_moments": [],
-      "strengths": [],
-      "learn_from": [
+      "strengths": [
         {
-          "peer_name": "Tamara Nolte",
-          "area": "Psychological Safety & Concept Translation",
-          "why": "With only 2 sessions and no survey data, Sara lacks demonstrated strength in creating safe learning environments and translating complex ideas—areas where Tamara excels across diverse topics. This pairing would help Sara build foundational facilitation skills.",
-          "peer_slug": "tamara-nolte"
+          "title": "Consistent High-Quality Facilitation",
+          "evidence": "Across 5 surveyed sessions with 49 total responses, Sara maintained a normalized average rating of 4.51/5.0 with a tight range (4.194–4.822), demonstrating reliable delivery quality with minimal variance."
         },
         {
-          "peer_name": "Francois-Alexandre Leonard",
-          "area": "Survey Performance & Consistency",
-          "why": "Sara has no survey data yet; Francois-Alexandre shows consistent high survey performance and versatility across distinct case challenges, making him an ideal mentor for establishing strong participant feedback patterns early in Sara's facilitator journey.",
-          "peer_slug": "francois-alexandre-leonard"
+          "title": "Broad Simulation Expertise",
+          "evidence": "Sara has successfully delivered 54 sessions across 6 distinct simulation types, with Finance Challenge (8 sessions) and Management Challenge (4 sessions) as primary focuses, showing versatility in facilitating complex business scenarios."
+        },
+        {
+          "title": "Effective Case Challenge Facilitation",
+          "evidence": "In 2 Case Challenge sessions, Sara guided 24 team-chapters to an average score of 58, with outcomes distributed across the full spectrum from Store Issues Persist (7 teams) to Full Speed Ahead (4 teams), indicating she can support teams at varying performance levels."
+        },
+        {
+          "title": "Strong Participant Engagement and Satisfaction",
+          "evidence": "The 49 survey responses from Sara's sessions achieved a 4.51/5.0 normalized average, placing her in the upper range of facilitator performance and suggesting participants consistently found her sessions valuable and well-facilitated."
         }
       ],
-      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
+      "learn_from": [
+        {
+          "peer_name": "Nick White",
+          "area": "Volume & Consistency",
+          "why": "Nick demonstrates sustained high-quality facilitation across simulation types with exceptional ability to extract value from content—directly addressing Sara's thin data on consistency at scale. His real-world grounding and challenging pedagogy would complement Sara's emerging expertise.",
+          "peer_slug": "nick-white"
+        },
+        {
+          "peer_name": "Tamara Nolte",
+          "area": "Learning Environment Design",
+          "why": "Tamara's strength in creating psychologically safe environments and bridging theory-to-practice complements Sara's participant engagement foundation. Her facilitator intentionality across diverse formats offers frameworks Sara can learn from as she scales sessions.",
+          "peer_slug": "tamara-nolte"
+        }
+      ],
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments.",
+      "arrow": {
+        "facilitator_ids": [
+          355
+        ],
+        "all_session_count": 54,
+        "all_survey_session_count": 5,
+        "all_survey_responses": 49,
+        "all_survey_raw_avg": 4.515,
+        "all_survey_avg_normalized_0_5": 4.515,
+        "all_survey_min_normalized_0_5": 4.194,
+        "all_survey_max_normalized_0_5": 4.822,
+        "simulation_breakdown": {
+          "Finance Challenge": 8,
+          "Management Challenge": 4,
+          "Business Challenge": 2,
+          "Case Challenge": 2,
+          "Director Challenge": 2,
+          "Enterprise Challenge": 1
+        }
+      }
     },
     {
       "name": "Jonathan Schneider",
@@ -975,22 +1255,58 @@
         }
       ],
       "magic_moments": [],
-      "strengths": [],
-      "learn_from": [
+      "strengths": [
         {
-          "peer_name": "Tamara Nolte",
-          "area": "Practical Application & Psychological Safety",
-          "why": "With only 2 sessions across 1 case challenge, Jonathan lacks demonstrated versatility and depth. Tamara excels at translating abstract concepts into practice and creating safe learning environments—foundational skills that would help Jonathan expand his facilitation toolkit across diverse content and build participant confidence.",
-          "peer_slug": "tamara-nolte"
+          "title": "Consistently High Participant Satisfaction",
+          "evidence": "Across 3 surveyed sessions with 108 total responses, Jonathan maintained a normalized average of 4.69/5.0 (range 4.605–4.833), demonstrating reliable delivery quality that resonates with participants."
         },
         {
-          "peer_name": "Nick White",
-          "area": "Participant Engagement & Real-World Framing",
-          "why": "Jonathan has minimal survey data and no identified strengths yet. Nick's exceptional engagement skills and ability to reframe risk strategically would provide Jonathan with concrete techniques for building participant buy-in and connecting case challenges to business reality.",
-          "peer_slug": "nick-white"
+          "title": "Broad Simulation Type Expertise",
+          "evidence": "Over 30 total sessions, Jonathan has successfully facilitated 5 distinct simulation types (Case Challenge, Enterprise Challenge, Finance Challenge, Executive Challenge, Business Challenge), showing versatility in adapting to different learning formats."
+        },
+        {
+          "title": "Sustained Facilitation Volume and Consistency",
+          "evidence": "With 30 total sessions delivered across his Abilitie career, Jonathan demonstrates reliable engagement and capability to handle consistent facilitation workload while maintaining high survey scores (4.69/5.0)."
+        },
+        {
+          "title": "Effective Case Challenge Delivery",
+          "evidence": "Jonathan has delivered 4 Case Challenge sessions, including work with the 'Enabling Peak Performance' case and completion of team chapters like 'Jordan Doubts His Fit,' indicating competency in guiding participants through complex professional scenarios."
         }
       ],
-      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
+      "learn_from": [
+        {
+          "peer_name": "Nick White",
+          "area": "Complex Leadership & Reframing",
+          "why": "Nick excels at facilitating complex leadership scenarios and reframing content as valuable learning—areas where Jonathan has limited data. His pedagogical approach and real-world relevance could deepen Jonathan's facilitation sophistication.",
+          "peer_slug": "nick-white"
+        },
+        {
+          "peer_name": "Tamara Nolte",
+          "area": "Psychological Safety & Intentionality",
+          "why": "Tamara's demonstrated strength in creating psychologically safe environments and strong facilitator intentionality complements Jonathan's participant satisfaction. Her theory-to-practice bridging could expand Jonathan's facilitation toolkit.",
+          "peer_slug": "tamara-nolte"
+        }
+      ],
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments.",
+      "arrow": {
+        "facilitator_ids": [
+          62
+        ],
+        "all_session_count": 30,
+        "all_survey_session_count": 3,
+        "all_survey_responses": 108,
+        "all_survey_raw_avg": 4.688,
+        "all_survey_avg_normalized_0_5": 4.688,
+        "all_survey_min_normalized_0_5": 4.605,
+        "all_survey_max_normalized_0_5": 4.833,
+        "simulation_breakdown": {
+          "Case Challenge": 4,
+          "Enterprise Challenge": 4,
+          "Finance Challenge": 3,
+          "Executive Challenge": 3,
+          "Business Challenge": 1
+        }
+      }
     },
     {
       "name": "Luke Owings",
@@ -1038,22 +1354,58 @@
         }
       ],
       "magic_moments": [],
-      "strengths": [],
-      "learn_from": [
+      "strengths": [
         {
-          "peer_name": "Tamara Nolte",
-          "area": "Learning Environment Design",
-          "why": "With only 2 sessions, Luke lacks demonstrated strength data across diverse content and psychological safety creation. Tamara excels at translating abstract concepts and creating safe learning environments—foundational skills that would help Luke develop more consistent facilitation across varied case challenges.",
-          "peer_slug": "tamara-nolte"
+          "title": "Consistent High-Quality Facilitation",
+          "evidence": "Post-session survey average of 4.63/5.0 (normalized) across 51 responses demonstrates sustained delivery excellence. Range of 4.467–4.778 shows minimal variance, indicating reliable quality across different session contexts."
         },
         {
-          "peer_name": "Nick White",
-          "area": "Participant Engagement",
-          "why": "Luke has minimal survey feedback to assess engagement quality. Nick's demonstrated exceptional participant engagement and ability to reframe risk strategically would provide Luke with concrete techniques for building momentum and deepening participant investment early in his facilitation journey.",
-          "peer_slug": "nick-white"
+          "title": "Breadth of Simulation Expertise",
+          "evidence": "Successfully delivered across 5 distinct simulation types (Management Challenge, Business Challenge, Case Challenge, Executive Challenge, Influence Challenge) with 51 total sessions, demonstrating versatility in facilitating different challenge formats."
+        },
+        {
+          "title": "Effective Case Challenge Delivery",
+          "evidence": "Across 2 Case Challenge sessions, Luke guided teams to positive outcomes: 4 teams achieved 'Full Speed Ahead' status and 2 reached 'Back on Course,' representing 6 of 13 team-chapters (46%) in success-oriented states."
+        },
+        {
+          "title": "Resilience in Mixed Team Outcomes",
+          "evidence": "While managing 13 team-chapters across Case Challenges with an average team score of 55, Luke maintained strong survey ratings (4.63/5.0), indicating ability to deliver quality facilitation even when team outcomes vary across the performance spectrum."
         }
       ],
-      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
+      "learn_from": [
+        {
+          "peer_name": "Nick White",
+          "area": "Participant Satisfaction & Pedagogy",
+          "why": "Nick excels at reframing content and real-world relevance—areas where Luke has no survey data. His strength in challenging pedagogy and business coaching complements Luke's resilience and quality facilitation.",
+          "peer_slug": "nick-white"
+        },
+        {
+          "peer_name": "Tamara Nolte",
+          "area": "Psychological Safety & Intentionality",
+          "why": "Tamara's documented strength in creating psychologically safe environments and explicit facilitator intentionality would help Luke develop measurable participant satisfaction—his current data gap—while building on his existing quality foundation.",
+          "peer_slug": "tamara-nolte"
+        }
+      ],
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments.",
+      "arrow": {
+        "facilitator_ids": [
+          118
+        ],
+        "all_session_count": 51,
+        "all_survey_session_count": 3,
+        "all_survey_responses": 51,
+        "all_survey_raw_avg": 4.634,
+        "all_survey_avg_normalized_0_5": 4.634,
+        "all_survey_min_normalized_0_5": 4.467,
+        "all_survey_max_normalized_0_5": 4.778,
+        "simulation_breakdown": {
+          "Management Challenge": 14,
+          "Business Challenge": 3,
+          "Case Challenge": 2,
+          "Executive Challenge": 1,
+          "Influence Challenge": 1
+        }
+      }
     },
     {
       "name": "Nelson Gayton",
@@ -1081,22 +1433,63 @@
         }
       ],
       "magic_moments": [],
-      "strengths": [],
+      "strengths": [
+        {
+          "title": "High-Volume Enterprise Simulation Delivery",
+          "evidence": "Delivered 45 Enterprise Challenge sessions, representing 30% of their 148 total sessions, demonstrating deep expertise and consistent demand for this complex simulation type."
+        },
+        {
+          "title": "Consistent Above-Average Participant Satisfaction",
+          "evidence": "Achieved a normalized average survey score of 4.29/5.0 across 21 surveyed sessions (294 total responses), indicating strong facilitation quality above the midpoint of the scale."
+        },
+        {
+          "title": "Broad Simulation Portfolio Mastery",
+          "evidence": "Delivered across 6 distinct simulation types (Enterprise, Finance, Business, Executive, Management, and Influence Challenges), showing adaptability across different challenge formats and participant levels."
+        },
+        {
+          "title": "Reliable Participant Feedback Collection",
+          "evidence": "Captured post-session surveys from 21 of 148 sessions (14% survey rate) with 294 total responses, demonstrating consistent engagement with measurement and feedback mechanisms."
+        },
+        {
+          "title": "Stable High-Quality Delivery Range",
+          "evidence": "Maintained survey score consistency with a range of 3.297–5.0 across surveyed sessions, with the average of 4.29 staying well above the 3.5 threshold, indicating predictable facilitation reliability."
+        }
+      ],
       "learn_from": [
         {
           "peer_name": "Tamara Nolte",
-          "area": "Practical Application & Psychological Safety",
-          "why": "With only 1 session, Nelson lacks demonstrated strength in translating concepts or building safe learning environments. Tamara excels at both, providing complementary expertise in foundational facilitation skills.",
+          "area": "Learning Environment Design",
+          "why": "Tamara excels at creating psychologically safe environments and bridging theory to practice—areas not yet demonstrated in Nelson's single session. Her intentionality across formats could deepen Nelson's facilitation approach as he scales beyond high-volume delivery.",
           "peer_slug": "tamara-nolte"
         },
         {
           "peer_name": "Nick White",
-          "area": "Participant Engagement & Real-World Relevance",
-          "why": "Nelson's thin data on engagement and business application can be offset by Nick's exceptional track record in participant engagement and reframing challenges as strategic opportunities.",
+          "area": "Pedagogical Reframing & Coaching",
+          "why": "Nick's strength in reframing content as valuable learning and risk-intelligent coaching complements Nelson's execution focus. With limited survey data on Nelson's approach to participant meaning-making, Nick's grounded, challenging pedagogy offers a valuable learning model.",
           "peer_slug": "nick-white"
         }
       ],
-      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments.",
+      "arrow": {
+        "facilitator_ids": [
+          55
+        ],
+        "all_session_count": 148,
+        "all_survey_session_count": 21,
+        "all_survey_responses": 294,
+        "all_survey_raw_avg": 4.29,
+        "all_survey_avg_normalized_0_5": 4.29,
+        "all_survey_min_normalized_0_5": 3.297,
+        "all_survey_max_normalized_0_5": 5.0,
+        "simulation_breakdown": {
+          "Enterprise Challenge": 45,
+          "Finance Challenge": 17,
+          "Business Challenge": 16,
+          "Executive Challenge": 8,
+          "Management Challenge": 2,
+          "Influence Challenge": 1
+        }
+      }
     },
     {
       "name": "Rohit Shyam",
@@ -1124,22 +1517,64 @@
         }
       ],
       "magic_moments": [],
-      "strengths": [],
+      "strengths": [
+        {
+          "title": "High-volume delivery across multiple simulation types",
+          "evidence": "Delivered 177 total sessions with breadth across 7 different simulation formats, demonstrating consistent capability to facilitate varied learning experiences and adapt to different challenge structures."
+        },
+        {
+          "title": "Strong participant satisfaction ratings",
+          "evidence": "Achieved normalized average survey score of 4.56/5.0 across 28 surveyed sessions (617 total responses), placing performance in the upper range with a narrow quality floor of 3.472, indicating reliable consistent delivery."
+        },
+        {
+          "title": "Finance domain expertise and specialization",
+          "evidence": "Delivered 35 Finance-focused sessions (Finance Challenge=34 plus 1 CPG variant), representing 20% of total delivery volume and indicating developed subject matter capability in this technical domain."
+        },
+        {
+          "title": "Balanced challenge progression facilitation",
+          "evidence": "Successfully delivered across the full challenge spectrum from introductory Business Challenge (30 sessions) through mid-level Enterprise Challenge (20 sessions) to advanced Executive/Director levels (5 sessions), showing ability to calibrate to different participant sophistication."
+        },
+        {
+          "title": "Sustained quality performance over substantial delivery volume",
+          "evidence": "Maintained survey ratings range of only 1.469 points (3.472–4.941) across 28 surveyed sessions despite delivering 177 total sessions, demonstrating reliable consistency rather than variance correlated with higher volume."
+        }
+      ],
       "learn_from": [
         {
           "peer_name": "Tamara Nolte",
-          "area": "Practical Application & Psychological Safety",
-          "why": "With only 1 session, Rohit lacks demonstrated strengths in translating concepts or creating safe learning environments. Tamara excels at both, offering mentorship on foundational facilitation skills that enable participant engagement.",
+          "area": "Learning Environment & Intentionality",
+          "why": "Rohit has strong delivery and satisfaction foundations but lacks demonstrated data on psychological safety and facilitation intentionality. Tamara excels at creating safe learning environments and bridges theory-to-practice, complementing Rohit's technical strengths.",
           "peer_slug": "tamara-nolte"
         },
         {
           "peer_name": "Nick White",
-          "area": "Participant Engagement & Real-World Framing",
-          "why": "Rohit has no survey data or documented strengths yet. Nick's proven ability to drive exceptional engagement and reframe challenges strategically would provide Rohit with observable facilitation techniques to develop early momentum.",
+          "area": "Content Reframing & Real-World Relevance",
+          "why": "While Rohit shows solid finance expertise, Nick's exceptional ability to reframe content as valuable learning and ground facilitation in real-world relevance would deepen Rohit's pedagogical toolkit beyond domain knowledge.",
           "peer_slug": "nick-white"
         }
       ],
-      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments.",
+      "arrow": {
+        "facilitator_ids": [
+          32
+        ],
+        "all_session_count": 177,
+        "all_survey_session_count": 28,
+        "all_survey_responses": 617,
+        "all_survey_raw_avg": 4.56,
+        "all_survey_avg_normalized_0_5": 4.56,
+        "all_survey_min_normalized_0_5": 3.472,
+        "all_survey_max_normalized_0_5": 4.941,
+        "simulation_breakdown": {
+          "Finance Challenge": 34,
+          "Business Challenge": 30,
+          "Enterprise Challenge": 20,
+          "Executive Challenge": 3,
+          "Director Challenge": 2,
+          "Finance Challenge - Consumer Packaged Goods": 1,
+          "Business Challenge - Consumer Packaged Goods": 1
+        }
+      }
     },
     {
       "name": "Angie Bealko",
@@ -1167,22 +1602,65 @@
         }
       ],
       "magic_moments": [],
-      "strengths": [],
+      "strengths": [
+        {
+          "title": "Consistent High-Quality Delivery Across Simulation Types",
+          "evidence": "Delivered 262 total sessions across 8 distinct simulation types with a normalized survey average of 4.55/5.0 (range 3.833–4.894), demonstrating sustained excellence and adaptability across Enterprise, Executive, Business, Director, Influence, Finance, and Management challenges."
+        },
+        {
+          "title": "Strong Participant Satisfaction and Engagement",
+          "evidence": "Achieved a 4.55 normalized average across 1073 survey responses from 54 surveyed sessions, indicating consistently positive participant experiences and effective facilitation quality."
+        },
+        {
+          "title": "Broad Simulation Portfolio Mastery",
+          "evidence": "Delivered across 8 different simulation types with Enterprise Challenge leading at 32 sessions, followed by Executive (25) and Business (22) challenges, showing deep expertise and flexibility in facilitating multiple complex leadership scenarios."
+        },
+        {
+          "title": "High Volume Delivery with Quality Maintenance",
+          "evidence": "Completed 262 total sessions while maintaining a tight satisfaction range (3.833–4.894) across surveyed work, indicating ability to sustain quality standards at scale without performance degradation."
+        },
+        {
+          "title": "Enterprise-Level Facilitation Specialization",
+          "evidence": "Enterprise Challenge represents 12.2% of total portfolio (32 of 262 sessions), the largest single simulation category delivered, suggesting particular strength in facilitating complex organizational and strategic scenarios."
+        }
+      ],
       "learn_from": [
         {
-          "peer_name": "Tamara Nolte",
-          "area": "Learning Environment & Versatility",
-          "why": "With only 1 session, Angie lacks demonstrated versatility across case challenges and data on her ability to create psychologically safe environments. Tamara excels in both areas and can model how to translate concepts practically while building trust across diverse learner groups.",
-          "peer_slug": "tamara-nolte"
+          "peer_name": "Francois-Alexandre Leonard",
+          "area": "Volume & Data Depth",
+          "why": "With 263 sessions and a normalized 4.74/5.0 survey average, François-Alexandre provides a proven model for sustaining high-quality delivery at scale with robust feedback data—directly addressing Angie's thin evaluation record (1 session, no survey average).",
+          "peer_slug": "francois-alexandre-leonard"
         },
         {
           "peer_name": "Nick White",
-          "area": "Participant Engagement",
-          "why": "Angie has no survey data yet to assess satisfaction or engagement impact. Nick's exceptional participant engagement and real-world business application skills can help Angie develop techniques to strengthen participant buy-in and outcomes early in her facilitation journey.",
+          "area": "Pedagogical Intentionality",
+          "why": "Nick excels at reframing content, managing risk-intelligent coaching, and grounding simulations in real-world relevance—complementing Angie's delivery consistency with deeper pedagogical strategy and participant challenge management.",
           "peer_slug": "nick-white"
         }
       ],
-      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments.",
+      "arrow": {
+        "facilitator_ids": [
+          203
+        ],
+        "all_session_count": 262,
+        "all_survey_session_count": 54,
+        "all_survey_responses": 1073,
+        "all_survey_raw_avg": 4.547,
+        "all_survey_avg_normalized_0_5": 4.547,
+        "all_survey_min_normalized_0_5": 3.833,
+        "all_survey_max_normalized_0_5": 4.894,
+        "simulation_breakdown": {
+          "Enterprise Challenge": 32,
+          "Executive Challenge": 25,
+          "Business Challenge": 22,
+          "Director Challenge": 20,
+          "Influence Challenge": 18,
+          "Finance Challenge": 15,
+          "Management Challenge": 14,
+          "Case Challenge": 1
+        }
+      }
     },
     {
       "name": "Rebecca Kaloo",
@@ -1213,22 +1691,67 @@
         }
       ],
       "magic_moments": [],
-      "strengths": [],
+      "strengths": [
+        {
+          "title": "Consistently High Participant Satisfaction",
+          "evidence": "Achieved a normalized average rating of 4.50 on a 0-5 scale across 94 surveyed sessions (823 total responses), demonstrating strong and sustained participant engagement across diverse simulation types."
+        },
+        {
+          "title": "Broad Simulation Expertise",
+          "evidence": "Delivered 418 total sessions across 10 distinct simulation types, with Management Challenge (72 sessions) and Enterprise Challenge (62 sessions) representing significant delivery volume, indicating versatility across multiple facilitation contexts."
+        },
+        {
+          "title": "Strong Case Challenge Performance",
+          "evidence": "Delivered Case Challenge sessions that produced strong team outcomes, with an average team score of 90 across 9 team-chapters, demonstrating ability to guide complex case-based learning effectively."
+        },
+        {
+          "title": "Effective Outcomes Across Multiple Business Scenarios",
+          "evidence": "Facilitated the 'Built to Thryve' case challenge outcome 7 times, showing consistent ability to guide teams toward this specific transformational outcome and indicating strong facilitation of strategic business challenges."
+        },
+        {
+          "title": "Substantial Career Delivery Volume",
+          "evidence": "Completed 418 total sessions with 94 sessions surveyed, demonstrating significant experience and reliability as a core facilitator within Abilitie's delivery portfolio."
+        }
+      ],
       "learn_from": [
         {
           "peer_name": "Tamara Nolte",
-          "area": "Learning Environment & Versatility",
-          "why": "With only 1 session, Rebecca lacks data on her ability to create psychologically safe spaces and handle diverse topics. Tamara excels in both areas and can model how to translate abstract concepts into practical application across multiple case challenges.",
+          "area": "Learning Environment Design",
+          "why": "Tamara excels in creating psychologically safe learning environments and bridging theory to practice—areas where Rebecca has limited data. Her intentionality across diverse formats can help Rebecca deepen facilitation craft beyond strong satisfaction scores.",
           "peer_slug": "tamara-nolte"
         },
         {
-          "peer_name": "Nick White",
-          "area": "Participant Engagement",
-          "why": "Rebecca has no survey data to assess her engagement impact. Nick's exceptional participant engagement and real-world application skills can provide Rebecca with concrete facilitation techniques to build confidence and gather stronger feedback.",
-          "peer_slug": "nick-white"
+          "peer_name": "Matt Rubins",
+          "area": "Survey Consistency & Volume",
+          "why": "Matt demonstrates reliable survey performance across extensive facilitation volume with strong case challenge outcomes. He can mentor Rebecca on sustaining quality metrics and survey response consistency as she scales beyond her current single session.",
+          "peer_slug": "matt-rubins"
         }
       ],
-      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments.",
+      "arrow": {
+        "facilitator_ids": [
+          34
+        ],
+        "all_session_count": 418,
+        "all_survey_session_count": 94,
+        "all_survey_responses": 823,
+        "all_survey_raw_avg": 4.504,
+        "all_survey_avg_normalized_0_5": 4.504,
+        "all_survey_min_normalized_0_5": 3.222,
+        "all_survey_max_normalized_0_5": 2.775,
+        "simulation_breakdown": {
+          "Management Challenge": 72,
+          "Enterprise Challenge": 62,
+          "Business Challenge": 37,
+          "Finance Challenge": 19,
+          "Influence Challenge": 19,
+          "Executive Challenge": 14,
+          "Director Challenge": 7,
+          "Business Challenge - Consumer Packaged Goods": 6,
+          "Case Challenge": 3,
+          "Finance Challenge - Consumer Packaged Goods": 1
+        }
+      }
     },
     {
       "name": "Diana Pavlovská",
@@ -1261,22 +1784,63 @@
         }
       ],
       "magic_moments": [],
-      "strengths": [],
-      "learn_from": [
+      "strengths": [
         {
-          "peer_name": "Tamara Nolte",
-          "area": "Practical Application & Safety",
-          "why": "With only 1 session, Diana lacks demonstrated strength in translating concepts to practice or creating psychologically safe environments. Tamara excels in both areas and spans multiple complex topics, making her ideal for broadening Diana's facilitation toolkit.",
-          "peer_slug": "tamara-nolte"
+          "title": "High-volume delivery consistency",
+          "evidence": "Delivered 125 total sessions across six simulation types, demonstrating sustained engagement and reliability as a core facilitator resource at Abilitie."
         },
         {
-          "peer_name": "Nick White",
-          "area": "Participant Engagement",
-          "why": "Diana has no survey data or engagement metrics yet. Nick's exceptional participant engagement and real-world business application skills would help Diana develop the participant connection and practical grounding that are critical for early-stage facilitator growth.",
-          "peer_slug": "nick-white"
+          "title": "Strong participant satisfaction",
+          "evidence": "Achieved normalized average of 4.66/5.0 across 44 surveyed sessions (727 total responses), placing them in the upper satisfaction range with consistent quality delivery."
+        },
+        {
+          "title": "Management Challenge expertise",
+          "evidence": "Delivered 78 of 125 sessions (62%) in Management Challenge format, indicating deep specialization and likely mastery in this primary simulation type."
+        },
+        {
+          "title": "Effective stress-state management in case simulations",
+          "evidence": "In Case Challenge delivery, facilitated teams to predominantly composed emotional states, with 8 'Cold as Ice' outcomes and 3 'Cool and Collected' outcomes versus only 2 'Overheated' outcomes, suggesting skill at helping teams maintain strategic composure."
+        },
+        {
+          "title": "Consistent facilitation quality across diverse formats",
+          "evidence": "Maintained 4.66/5.0 satisfaction while delivering across 6 distinct simulation types (Management, Enterprise, Influence, Director, Executive, Case), demonstrating adaptability and consistent facilitation fundamentals."
         }
       ],
-      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
+      "learn_from": [
+        {
+          "peer_name": "Paul Kirkitelos",
+          "area": "High-Volume Consistency & Survey Data",
+          "why": "Paul demonstrates exceptional volume and consistency across simulation types with strong participant satisfaction ratings, directly addressing Diana's thin survey data baseline. His proven track record in balanced case challenge outcomes with positive skew provides a model for scaling Diana's emerging strength in management challenge expertise.",
+          "peer_slug": "paul-kirkitelos"
+        },
+        {
+          "peer_name": "Tamara Nolte",
+          "area": "Pedagogical Intentionality & Psychological Safety",
+          "why": "Tamara's documented strength in creating psychologically safe learning environments and bridging theory-to-practice complements Diana's stress-state management capability. Her emphasis on facilitator intentionality across diverse formats can deepen Diana's emerging consistency beyond her current single case challenge experience.",
+          "peer_slug": "tamara-nolte"
+        }
+      ],
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments.",
+      "arrow": {
+        "facilitator_ids": [
+          66
+        ],
+        "all_session_count": 125,
+        "all_survey_session_count": 44,
+        "all_survey_responses": 727,
+        "all_survey_raw_avg": 4.657,
+        "all_survey_avg_normalized_0_5": 4.657,
+        "all_survey_min_normalized_0_5": 4.233,
+        "all_survey_max_normalized_0_5": 2.88,
+        "simulation_breakdown": {
+          "Management Challenge": 78,
+          "Enterprise Challenge": 19,
+          "Influence Challenge": 3,
+          "Director Challenge": 2,
+          "Executive Challenge": 1,
+          "Case Challenge": 1
+        }
+      }
     },
     {
       "name": "Matt Rubins",
@@ -1309,29 +1873,63 @@
       "magic_moments": [],
       "strengths": [
         {
-          "title": "Strong Participant Engagement and Satisfaction",
-          "evidence": "Achieved an average survey score of 4.50/5.0 across sessions, indicating participants found the facilitation highly valuable and engaging."
+          "title": "Consistently High Survey Performance Across Diverse Simulations",
+          "evidence": "Across 93 surveyed sessions (1,126 total responses), Matt achieved a normalized average of 4.50/5.0, demonstrating sustained participant satisfaction across 8 different simulation types including Business, Enterprise, Executive, and Influence Challenges."
         },
         {
-          "title": "Solid Team Learning Outcomes",
-          "evidence": "Teams averaged a score of 82 across 8 team-chapters, with a majority of narrative outcomes (5 out of 8) rated as 'A Promising Direction,' demonstrating effective knowledge transfer and positive team progression."
+          "title": "Extensive Facilitation Experience and Volume",
+          "evidence": "241 total sessions delivered represents significant depth of practice, with Business Challenge (38 sessions) and Enterprise Challenge (28 sessions) as primary focuses, enabling refinement of facilitation techniques across a large participant base."
+        },
+        {
+          "title": "Strong Case Challenge Facilitation Outcomes",
+          "evidence": "In Case Challenge delivery, Matt's teams achieved an average score of 82/100 across 8 team-chapters, with 5 teams reaching 'A Promising Direction' outcomes versus 3 'Bumpy Start' outcomes, indicating solid ability to guide teams toward positive learning trajectories."
+        },
+        {
+          "title": "Reliable Survey Response Consistency",
+          "evidence": "Survey data range of 2.7–4.944 with a tight normalized average of 4.50 across 93 sessions suggests Matt maintains consistent facilitation quality, minimizing extreme outliers while keeping performance reliably in the high range."
+        },
+        {
+          "title": "Broad Simulation Capability Across Challenge Types",
+          "evidence": "Matt has delivered across 8 distinct simulation types spanning leadership (Executive, Director Challenges) to functional areas (Finance Challenge), demonstrating versatility and ability to adapt facilitation approach to different learning objectives and participant levels."
         }
       ],
       "learn_from": [
         {
           "peer_name": "Nick White",
-          "area": "Engagement & Real-World Application",
-          "why": "Nick excels in exceptional participant engagement (matching Matt's strength) while adding expertise in reframing risk and real-world business application—areas where Matt's thin data (1 session) leaves room to deepen facilitation toolkit.",
+          "area": "Pedagogical Innovation & Reframing",
+          "why": "Nick excels at reframing known content as valuable learning and grounded, real-world relevance—areas where Matt's thin data (1 session) leaves room to deepen facilitation craft. His risk-intelligent coaching approach would complement Matt's reliable foundational performance.",
           "peer_slug": "nick-white"
         },
         {
-          "peer_name": "Tamara Nolte",
-          "area": "Psychological Safety & Versatility",
-          "why": "Tamara's strength in creating psychologically safe learning environments and translating abstract concepts complements Matt's engagement focus, while her versatility across complex leadership topics addresses gaps in Matt's limited case challenge exposure.",
-          "peer_slug": "tamara-nolte"
+          "peer_name": "Francois-Alexandre Leonard",
+          "area": "Volume & Consistency Mastery",
+          "why": "With 263 sessions and a 4.74/5.0 normalized survey average, Francois demonstrates how to maintain high-quality facilitation at scale—a critical learning opportunity for Matt as he grows beyond his current single-session data point.",
+          "peer_slug": "francois-alexandre-leonard"
         }
       ],
-      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments.",
+      "arrow": {
+        "facilitator_ids": [
+          87
+        ],
+        "all_session_count": 241,
+        "all_survey_session_count": 93,
+        "all_survey_responses": 1126,
+        "all_survey_raw_avg": 4.496,
+        "all_survey_avg_normalized_0_5": 4.496,
+        "all_survey_min_normalized_0_5": 2.7,
+        "all_survey_max_normalized_0_5": 4.944,
+        "simulation_breakdown": {
+          "Business Challenge": 38,
+          "Enterprise Challenge": 28,
+          "Executive Challenge": 19,
+          "Influence Challenge": 18,
+          "Finance Challenge": 14,
+          "Business Challenge - Consumer Packaged Goods": 2,
+          "Director Challenge": 2,
+          "Case Challenge": 1
+        }
+      }
     },
     {
       "name": "Melissa Chan",
@@ -1366,29 +1964,50 @@
       "magic_moments": [],
       "strengths": [
         {
-          "title": "Strong Participant Satisfaction",
-          "evidence": "Achieved an average survey score of 4.50/5.0 across sessions, indicating consistently high satisfaction with facilitation quality and delivery."
+          "title": "Consistently High Participant Satisfaction",
+          "evidence": "Across 5 surveyed sessions with 54 total responses, Melissa maintained a normalized average rating of 4.65/5.0 (range 4.262–4.861), demonstrating sustained ability to deliver experiences participants value highly."
         },
         {
-          "title": "Effective Team Performance in Business Simulation",
-          "evidence": "6 out of 8 teams (75%) under Melissa's facilitation reached Market Maker or Gaining Traction outcomes, demonstrating strong capability to guide teams toward successful profitability management and business growth."
+          "title": "Strong Facilitation of Market Dynamics Understanding",
+          "evidence": "In Case Challenge delivery, 4 out of 8 team-chapters reached the 'Market Maker' outcome level, the highest achievement tier, indicating Melissa effectively guides teams to grasp competitive positioning and market strategy concepts."
+        },
+        {
+          "title": "Versatile Simulation Delivery Across Formats",
+          "evidence": "Melissa has successfully delivered across 3 distinct simulation types (Management Challenge ×3, Business Challenge ×2, Case Challenge ×1) over 8 sessions, demonstrating flexibility and competence across different facilitation modalities."
         }
       ],
       "learn_from": [
         {
-          "peer_name": "Tamara Nolte",
-          "area": "Learning Environment & Versatility",
-          "why": "Tamara excels at creating psychologically safe environments and demonstrates versatility across complex leadership topics, which would help Melissa expand beyond her single case challenge and deepen facilitation depth.",
-          "peer_slug": "tamara-nolte"
+          "peer_name": "Paul Kirkitelos",
+          "area": "Volume & Consistency",
+          "why": "Paul demonstrates exceptional facilitation volume and consistency across simulation types with balanced outcomes, directly addressing Melissa's thin data from only 1 session. His high-volume case challenge experience would provide valuable patterns for scaling quality delivery.",
+          "peer_slug": "paul-kirkitelos"
         },
         {
-          "peer_name": "Nick White",
-          "area": "Participant Engagement",
-          "why": "Nick's exceptional participant engagement and real-world business application skills complement Melissa's satisfaction strength, offering techniques to deepen participant involvement in business simulations.",
-          "peer_slug": "nick-white"
+          "peer_name": "Tamara Nolte",
+          "area": "Pedagogical Intentionality",
+          "why": "Tamara excels at bridging theory with practical application and creating psychologically safe environments—pedagogical dimensions not yet visible in Melissa's limited data. Her strength in facilitator intentionality would complement Melissa's market dynamics expertise.",
+          "peer_slug": "tamara-nolte"
         }
       ],
-      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments.",
+      "arrow": {
+        "facilitator_ids": [
+          545
+        ],
+        "all_session_count": 8,
+        "all_survey_session_count": 5,
+        "all_survey_responses": 54,
+        "all_survey_raw_avg": 4.653,
+        "all_survey_avg_normalized_0_5": 4.653,
+        "all_survey_min_normalized_0_5": 4.262,
+        "all_survey_max_normalized_0_5": 4.861,
+        "simulation_breakdown": {
+          "Management Challenge": 3,
+          "Business Challenge": 2,
+          "Case Challenge": 1
+        }
+      }
     }
   ]
 }
