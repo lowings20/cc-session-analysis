@@ -1,0 +1,705 @@
+{
+  "session_arrow_id": 13505,
+  "session_cc_uuid": "aa585374-b327-4387-a4ca-4cbff5df52e9",
+  "case_challenge": "Influencing Without Authority",
+  "case_challenge_id": "38f208dd-a242-4566-b6d1-1d995f02966c",
+  "viewed_chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+  "extracted_at": "2026-05-20T00:00:00.000Z",
+  "source_url": "https://bectondickinson13.abilitie.com/facilitator/aa585374-b327-4387-a4ca-4cbff5df52e9/a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+  "chapters": [
+    {
+      "id": "45dd8681-023a-458a-9480-5c699ed76314",
+      "title": "Chapter 1",
+      "order": 1,
+      "duration_min": 3,
+      "blocks": 0
+    },
+    {
+      "id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "title": "Chapter 2",
+      "order": 2,
+      "duration_min": 24,
+      "blocks": 0
+    },
+    {
+      "id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "title": "Chapter 3",
+      "order": 3,
+      "duration_min": 15,
+      "blocks": 0
+    },
+    {
+      "id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "title": "Chapter 4",
+      "order": 4,
+      "duration_min": 12,
+      "blocks": 0
+    }
+  ],
+  "teams": [
+    {
+      "id": "b58c8833-367e-4229-a0ef-1ae324fda9bf",
+      "name": "Team Pink",
+      "icon": "🦩",
+      "group_letter": "2"
+    },
+    {
+      "id": "4701260c-46dc-4af5-aa9c-76c2a2ee16d4",
+      "name": "Team \"Get It Done\"",
+      "icon": "⚡",
+      "group_letter": "6"
+    },
+    {
+      "id": "eb6eba36-8ebd-42ef-aa83-3b82298b301d",
+      "name": "CP Politics",
+      "icon": "🤝",
+      "group_letter": "8"
+    },
+    {
+      "id": "40347058-176e-445a-ba37-5d1ebda9aee9",
+      "name": "NE warm weather lovers",
+      "icon": "☀️",
+      "group_letter": "5"
+    },
+    {
+      "id": "fe526ec7-8944-4c66-aaf5-fddd2fbd4409",
+      "name": "BDX Execs",
+      "icon": "👑",
+      "group_letter": "11"
+    },
+    {
+      "id": "faee6b09-4d89-4fdb-9569-911a9f1b3486",
+      "name": "Catalyst Crew",
+      "icon": "🔥",
+      "group_letter": "10"
+    },
+    {
+      "id": "edb18006-e1dd-446f-bafa-6cbdbc139dd4",
+      "name": "Group 4 - Lions",
+      "icon": "🔥",
+      "group_letter": "4"
+    },
+    {
+      "id": "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6",
+      "name": "Forging Ahead",
+      "icon": "📈",
+      "group_letter": "12"
+    },
+    {
+      "id": "1d24980f-6b79-4101-a244-85a31e38a06c",
+      "name": "Coyotes",
+      "icon": "🦊",
+      "group_letter": "3"
+    },
+    {
+      "id": "2f901bf5-b048-45da-b103-7ee51993f754",
+      "name": "NextGen Cooling",
+      "icon": "❄️",
+      "group_letter": "7"
+    },
+    {
+      "id": "2dfe0726-9b7b-41fb-8303-a6734911675b",
+      "name": "MKT X R&D",
+      "icon": "🎯",
+      "group_letter": "9"
+    },
+    {
+      "id": "d17395f5-6578-447f-a52c-3effdd3ca599",
+      "name": "THE NUMBER 1",
+      "icon": "🥇",
+      "group_letter": "1"
+    }
+  ],
+  "team_results_for_viewed_chapter": {
+    "b58c8833-367e-4229-a0ef-1ae324fda9bf": {
+      "completed_block_count": 3,
+      "opened_block_count": 20,
+      "score": 95,
+      "narrative_outcome": "Cold as Ice"
+    },
+    "4701260c-46dc-4af5-aa9c-76c2a2ee16d4": {
+      "completed_block_count": 3,
+      "opened_block_count": 18,
+      "score": 85,
+      "narrative_outcome": "Cold as Ice"
+    },
+    "eb6eba36-8ebd-42ef-aa83-3b82298b301d": {
+      "completed_block_count": 3,
+      "opened_block_count": 21,
+      "score": 90,
+      "narrative_outcome": "Cold as Ice"
+    },
+    "40347058-176e-445a-ba37-5d1ebda9aee9": {
+      "completed_block_count": 3,
+      "opened_block_count": 18,
+      "score": 92,
+      "narrative_outcome": "Cold as Ice"
+    },
+    "fe526ec7-8944-4c66-aaf5-fddd2fbd4409": {
+      "completed_block_count": 3,
+      "opened_block_count": 21,
+      "score": 81,
+      "narrative_outcome": "Cool and Collected"
+    },
+    "faee6b09-4d89-4fdb-9569-911a9f1b3486": {
+      "completed_block_count": 4,
+      "opened_block_count": 21,
+      "score": 87,
+      "narrative_outcome": "Cold as Ice"
+    },
+    "edb18006-e1dd-446f-bafa-6cbdbc139dd4": {
+      "completed_block_count": 2,
+      "opened_block_count": 16,
+      "score": 86,
+      "narrative_outcome": "Cold as Ice"
+    },
+    "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6": {
+      "completed_block_count": 2,
+      "opened_block_count": 16,
+      "score": 79,
+      "narrative_outcome": "Cool and Collected"
+    },
+    "1d24980f-6b79-4101-a244-85a31e38a06c": {
+      "completed_block_count": 2,
+      "opened_block_count": 21,
+      "score": 91,
+      "narrative_outcome": "Cold as Ice"
+    },
+    "2f901bf5-b048-45da-b103-7ee51993f754": {
+      "completed_block_count": 3,
+      "opened_block_count": 19,
+      "score": 52,
+      "narrative_outcome": "Sweating It Out"
+    },
+    "2dfe0726-9b7b-41fb-8303-a6734911675b": {
+      "completed_block_count": 2,
+      "opened_block_count": 17,
+      "score": 96,
+      "narrative_outcome": "Cold as Ice"
+    },
+    "d17395f5-6578-447f-a52c-3effdd3ca599": {
+      "completed_block_count": 3,
+      "opened_block_count": 16,
+      "score": 74,
+      "narrative_outcome": "Cool and Collected"
+    }
+  },
+  "events": [
+    {
+      "id": "f6e60ce6-5a91-4e7b-9157-ff5f151c86c0",
+      "chapter_id": "45dd8681-023a-458a-9480-5c699ed76314",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 1: Chapter 1 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-04-15T15:21:52.782Z",
+      "updated_at": "2026-04-15T15:21:52.782Z"
+    },
+    {
+      "id": "6d9a3e74-c8bc-4ce9-846a-9979817b140d",
+      "chapter_id": "45dd8681-023a-458a-9480-5c699ed76314",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br\nTeams have a few minutes to review general information about the case. This is a quick orientation chapter before moving right into Chapter 2.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams explore all of the available resources?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-15T15:22:00.248Z",
+      "updated_at": "2026-04-15T15:22:00.264Z"
+    },
+    {
+      "id": "e47e60cd-a644-4d55-be8f-2759965ad7a0",
+      "chapter_id": "45dd8681-023a-458a-9480-5c699ed76314",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-15T15:22:12.028Z",
+      "updated_at": "2026-04-15T15:22:12.030Z"
+    },
+    {
+      "id": "730df936-950b-49dd-9578-d439418b94fc",
+      "chapter_id": "45dd8681-023a-458a-9480-5c699ed76314",
+      "type": "FACILITATION_TIP",
+      "content": "This chapter does not require a debrief. Use the slides to introduce Chapter 2.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-15T15:25:00.071Z",
+      "updated_at": "2026-04-15T15:25:00.098Z"
+    },
+    {
+      "id": "e3987a08-2335-4039-9c38-8db8cc64af8d",
+      "chapter_id": "45dd8681-023a-458a-9480-5c699ed76314",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-04-15T15:25:13.880Z",
+      "updated_at": "2026-04-15T15:25:13.880Z"
+    },
+    {
+      "id": "f5ba30d0-1f1f-4c29-a3a8-11d73095243f",
+      "chapter_id": "45dd8681-023a-458a-9480-5c699ed76314",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 1 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-04-15T15:25:13.910Z",
+      "updated_at": "2026-04-15T15:25:13.910Z"
+    },
+    {
+      "id": "3f7f6589-646f-48c8-8cf9-c2728acb55e1",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 2: Chapter 2 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-04-15T15:28:44.042Z",
+      "updated_at": "2026-04-15T15:28:44.042Z"
+    },
+    {
+      "id": "68616b9e-49d3-4409-9653-5ec9b1bd60db",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams meet with both Blaine and Grace to get a better understanding of the various stakeholders at ForgePro. Teams take notes that they can reference later on.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams talk with both Blaine and Grace?\n<li>Do they unlock additional information by asking specifically about each of the other stakeholders?\n<li>Do they take notes that will be useful to them in the next chapter?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-15T15:29:00.209Z",
+      "updated_at": "2026-04-15T15:29:00.212Z"
+    },
+    {
+      "id": "83713692-caf8-4247-baff-414858b4c172",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-15T15:31:12.039Z",
+      "updated_at": "2026-04-15T15:31:12.042Z"
+    },
+    {
+      "id": "26fd631a-dfe4-4cc1-8cb7-858b0b8817fd",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to give participants a helpful reminder: <br><br>\n<i>Remember to spend time talking with both Blaine and Grace. It may help to ask specific questions about each stakeholder.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-15T15:40:48.046Z",
+      "updated_at": "2026-04-15T15:40:48.049Z"
+    },
+    {
+      "id": "be054c24-d902-4ce9-8076-0f98a7ef879e",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Debrief Reminder:</b> This is a very quick debrief. <ul>\n<li> Use the slides to note that Blaine and Grace might have shared additional information, or even conflicting information.\n<li> Then move directly to the next chapter.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-15T15:52:48.043Z",
+      "updated_at": "2026-04-15T15:52:48.045Z"
+    },
+    {
+      "id": "d8fa6542-3922-4598-800d-c25f63893c34",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-04-15T15:52:51.300Z",
+      "updated_at": "2026-04-15T15:52:51.300Z"
+    },
+    {
+      "id": "ae2e02c1-0e66-410c-b88d-28f341236b5c",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 2 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-04-15T15:52:51.385Z",
+      "updated_at": "2026-04-15T15:52:51.385Z"
+    },
+    {
+      "id": "4d8d84eb-dd42-47a1-a095-555cf1a0307b",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "CASE_PROGRESS",
+      "content": "Timer resumed — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_resumed"
+      },
+      "created_at": "2026-04-15T16:07:12.283Z",
+      "updated_at": "2026-04-15T16:07:12.283Z"
+    },
+    {
+      "id": "c11bc34d-794e-4856-8c57-5c58fca58f95",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-04-15T16:07:18.934Z",
+      "updated_at": "2026-04-15T16:07:18.934Z"
+    },
+    {
+      "id": "a3ba73e2-8ade-41a7-a938-7cd7fac747aa",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "CASE_PROGRESS",
+      "content": "Timer resumed — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_resumed"
+      },
+      "created_at": "2026-04-15T16:07:23.484Z",
+      "updated_at": "2026-04-15T16:07:23.484Z"
+    },
+    {
+      "id": "95d8aaea-a96c-4e62-863e-7f412958cce5",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-04-15T16:07:28.926Z",
+      "updated_at": "2026-04-15T16:07:28.926Z"
+    },
+    {
+      "id": "484ceed6-f44e-4f44-a8f1-7cede73b39a5",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "CASE_PROGRESS",
+      "content": "Timer resumed — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_resumed"
+      },
+      "created_at": "2026-04-15T16:07:30.110Z",
+      "updated_at": "2026-04-15T16:07:30.110Z"
+    },
+    {
+      "id": "574c344c-dc78-41b6-8642-8eab154b0412",
+      "chapter_id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 3: Chapter 3 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-04-15T16:07:32.987Z",
+      "updated_at": "2026-04-15T16:07:32.987Z"
+    },
+    {
+      "id": "f6135457-51d9-48d4-b829-6b19229783a7",
+      "chapter_id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 14 min 58 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-04-15T16:07:35.348Z",
+      "updated_at": "2026-04-15T16:07:35.348Z"
+    },
+    {
+      "id": "2bef0166-8a2c-45e6-aad4-394f74fecd49",
+      "chapter_id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "type": "CASE_PROGRESS",
+      "content": "Timer resumed — 14 min 58 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_resumed"
+      },
+      "created_at": "2026-04-15T16:07:38.002Z",
+      "updated_at": "2026-04-15T16:07:38.002Z"
+    },
+    {
+      "id": "a452d064-3a42-46f7-9e5a-8981baefc43b",
+      "chapter_id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams use the included tool to map who has what sort of influencing power at ForgePro.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams complete the Stakeholder Mapping Tool?\n<li>Are teams thoughtfully considering the various types of influencing power?\n<br><br>\n<b>Note: </b> There will be only a few updates in the Activity Feed during this chapter.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-15T16:07:48.027Z",
+      "updated_at": "2026-04-15T16:07:48.035Z"
+    },
+    {
+      "id": "4048d430-987a-4f5f-a782-a4389a3d5d20",
+      "chapter_id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-15T16:09:12.027Z",
+      "updated_at": "2026-04-15T16:09:12.030Z"
+    },
+    {
+      "id": "de45ed32-ad34-4d2e-aa5c-839109fde30c",
+      "chapter_id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to give participants a helpful reminder: <br><br>\n<i>People often have more than one type of influencing power. Just try to identify their <b>primary</b> source of power.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-15T16:15:12.026Z",
+      "updated_at": "2026-04-15T16:15:12.029Z"
+    },
+    {
+      "id": "8c31df0a-96a2-4b6d-8d13-484dcfa9ad33",
+      "chapter_id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Debrief Reminder:</b> This is a very quick debrief. <ul>\n<li> Use the <b><i>Reflections</b></i> tab in the Debrief tool to ask who participants view as the key stakeholder in their strategy. \n<li> If time, lead a brief discussion around their reasoning.\n<li> Then move to the next chapter.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-15T16:22:36.029Z",
+      "updated_at": "2026-04-15T16:22:36.033Z"
+    },
+    {
+      "id": "38605d99-ca47-4b24-a3a9-6a4d3d3f3298",
+      "chapter_id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-04-15T16:22:37.398Z",
+      "updated_at": "2026-04-15T16:22:37.398Z"
+    },
+    {
+      "id": "a7e387e6-9658-49fa-b085-4a77a54f9c26",
+      "chapter_id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 3 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-04-15T16:22:37.498Z",
+      "updated_at": "2026-04-15T16:22:37.498Z"
+    },
+    {
+      "id": "040f9f6a-2387-45b1-b715-96d28789a3b0",
+      "chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 4: Chapter 4 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-04-15T16:28:55.870Z",
+      "updated_at": "2026-04-15T16:28:55.870Z"
+    },
+    {
+      "id": "1e4110d4-b5eb-4957-a461-c2cfef990e52",
+      "chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by +1 min — 12 min 58 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": 60
+      },
+      "created_at": "2026-04-15T16:28:58.226Z",
+      "updated_at": "2026-04-15T16:28:58.226Z"
+    },
+    {
+      "id": "e295b6c9-62c7-4dc2-91c2-7aead0de1229",
+      "chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by +1 min — 13 min 57 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": 60
+      },
+      "created_at": "2026-04-15T16:28:59.581Z",
+      "updated_at": "2026-04-15T16:28:59.581Z"
+    },
+    {
+      "id": "c01a90fd-f97d-4b61-85af-701556a8ca64",
+      "chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by +1 min — 14 min 55 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": 60
+      },
+      "created_at": "2026-04-15T16:29:01.181Z",
+      "updated_at": "2026-04-15T16:29:01.181Z"
+    },
+    {
+      "id": "ca81e740-ccde-4ade-b03b-b62c60878d2c",
+      "chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams email Mei to propose their strategy for influencing key stakeholders to embrace the SmartSense technology.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams explain which stakeholders are the most important for this initiative?\n<li>Do they clearly express who should be approached first, and why?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-15T16:29:12.045Z",
+      "updated_at": "2026-04-15T16:29:12.049Z"
+    },
+    {
+      "id": "02a9abf2-9eb5-4298-89f8-a58c6b56c842",
+      "chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-15T16:30:36.040Z",
+      "updated_at": "2026-04-15T16:30:36.044Z"
+    },
+    {
+      "id": "b0875b09-fe2f-46fc-8cc3-856c323479a2",
+      "chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by -1 min — 10 min 2 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": -60
+      },
+      "created_at": "2026-04-15T16:32:54.221Z",
+      "updated_at": "2026-04-15T16:32:54.221Z"
+    },
+    {
+      "id": "ab6413c9-1ea9-4637-b8d9-3efaf0a91a86",
+      "chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by -1 min — 9 min 1 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": -60
+      },
+      "created_at": "2026-04-15T16:32:55.281Z",
+      "updated_at": "2026-04-15T16:32:55.281Z"
+    },
+    {
+      "id": "a654b050-49ef-443c-a44b-c99423e9bc52",
+      "chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by -1 min — 8 min remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": -60
+      },
+      "created_at": "2026-04-15T16:32:56.088Z",
+      "updated_at": "2026-04-15T16:32:56.088Z"
+    },
+    {
+      "id": "7c17ba02-49dd-44fb-9974-68233fe9d135",
+      "chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Debrief Reminder:</b> Debrief the overall experience. <ul>\n<li> Use the <b><i>Snapshot</b></i> tab in the Debrief tool to show what happened next. If any teams earned \"Cold as Ice\" (the best outcome) or \"Cool and Collected,\" ask how they achieved that.\n<li> Use the slides to explore the steps of building an influence strategy in more detail.\n<li> Reconnect with the initial framing of this session: the importance of the strategic aspect of influence (not just the tactical).\n<li> Finally, use <b><i>Reflections</b></i> to ask any reflection questions that strike you as valuable for your cohort.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-15T16:41:00.106Z",
+      "updated_at": "2026-04-15T16:41:00.114Z"
+    },
+    {
+      "id": "18d03c6b-7822-4531-814e-9e87074cd483",
+      "chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-04-15T16:41:14.417Z",
+      "updated_at": "2026-04-15T16:41:14.417Z"
+    },
+    {
+      "id": "4f933464-eff0-4165-af37-b0549d36566c",
+      "chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 4 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-04-15T16:41:14.439Z",
+      "updated_at": "2026-04-15T16:41:14.439Z"
+    },
+    {
+      "id": "41533f55-5665-4ebb-b5d3-dbc25ccc4ed8",
+      "chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "type": "ENDING_MESSAGE",
+      "content": "Case completed — all chapters finished.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "case_completed"
+      },
+      "created_at": "2026-04-15T16:41:15.034Z",
+      "updated_at": "2026-04-15T16:41:15.034Z"
+    }
+  ],
+  "chapter_timings": {
+    "45dd8681-023a-458a-9480-5c699ed76314": {
+      "started_at": "2026-04-15T15:21:52.782Z",
+      "ended_at": "2026-04-15T15:25:13.910Z"
+    },
+    "56540d39-9c35-4083-ab28-6dd78ef4f258": {
+      "started_at": "2026-04-15T15:28:44.042Z",
+      "ended_at": "2026-04-15T15:52:51.385Z"
+    },
+    "8790fc80-aa22-4d3c-8d7e-00689f05be6f": {
+      "started_at": "2026-04-15T16:07:32.987Z",
+      "ended_at": "2026-04-15T16:22:37.498Z"
+    },
+    "a563e32f-b2f6-461a-8f8b-57e097c75cbd": {
+      "started_at": "2026-04-15T16:28:55.870Z",
+      "ended_at": "2026-04-15T16:41:14.439Z"
+    }
+  }
+}

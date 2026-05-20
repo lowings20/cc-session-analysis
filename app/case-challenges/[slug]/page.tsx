@@ -3,9 +3,11 @@ import { notFound } from 'next/navigation'
 import { findCase, getCaseChallenges } from '@/lib/case-challenges'
 import { getSessions } from '@/lib/sessions'
 import { getCaseTimelineData } from '@/lib/dashboard'
+import { getCcSession } from '@/lib/cc-sessions'
 import RunsheetTimeline from '@/components/RunsheetTimeline'
 import SurveyResultsChart from '@/components/SurveyResultsChart'
 import ActualVsExpected from '@/components/ActualVsExpected'
+import CcSessionDeepDive from '@/components/CcSessionDeepDive'
 import type { SessionRow } from '@/components/SessionsTable'
 
 export function generateStaticParams() {
@@ -63,6 +65,9 @@ export default async function CaseChallengeDetailPage({ params }: PageProps) {
   const hasSurveyData = sessions.some((s) => typeof s.survey_score === 'number')
   const timelineData = getCaseTimelineData(cc.case_challenge)
   const hasTimelineData = !!timelineData && timelineData.sessions.length > 0
+
+  const deepDives = await Promise.all(sessions.map((s) => getCcSession(s.session_id).then((d) => ({ session: s, data: d }))))
+  const sessionsWithDeepDive = deepDives.filter((d) => d.data !== null) as { session: SessionRow; data: NonNullable<Awaited<ReturnType<typeof getCcSession>>> }[]
 
   return (
     <div className="min-h-screen px-6 py-8 max-w-5xl mx-auto">
@@ -154,21 +159,28 @@ export default async function CaseChallengeDetailPage({ params }: PageProps) {
           </div>
         </Section>
 
-        <Section
-          title="Scoring Heatmap"
-          subtitle="Rubric × sessions, colored by % credit — to be wired"
-          status="placeholder"
-        >
-          <p className="text-sm text-[#94a3b8]">
-            Will populate once the cc.abilitie.com MCP exposes per-team rubric results.
-          </p>
-          <p className="text-xs text-[#475569] mt-3">
-            Need: a tool like{' '}
-            <code className="text-[#cbd5e1] bg-[#1e293b] px-1 py-0.5 rounded">pe_get_session_scoring</code> that returns, for each session,
-            the rubric categories and the % of teams that earned credit on each. Then we render rows = rubric items, columns = sessions,
-            cells red / yellow / green by threshold.
-          </p>
-        </Section>
+        {sessionsWithDeepDive.length > 0 ? (
+          sessionsWithDeepDive.map(({ session, data }) => (
+            <Section
+              key={session.session_id}
+              title={`Activity feed deep dive — ${session.program_name}`}
+              subtitle={`Session ${session.session_id} · pulled from facilitator console for chapter ${data.viewed_chapter_id.slice(0, 8)}`}
+              status="data"
+            >
+              <CcSessionDeepDive data={data} />
+            </Section>
+          ))
+        ) : (
+          <Section
+            title="Scoring Heatmap"
+            subtitle="Rubric × sessions, colored by % credit — needs facilitator URLs"
+            status="placeholder"
+          >
+            <p className="text-sm text-[#94a3b8]">
+              Will populate once we extract data from each session&apos;s facilitator console URL.
+            </p>
+          </Section>
+        )}
       </div>
     </div>
   )
