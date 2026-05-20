@@ -1610,5 +1610,360 @@
       "created_at": "2026-04-14T16:43:46.672Z",
       "updated_at": "2026-04-14T16:43:46.672Z"
     }
-  ]
+  ],
+  "rubric_by_chapter": {
+    "45dd8681-023a-458a-9480-5c699ed76314": {
+      "criteria": [],
+      "team_cells": [],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 10 letters, per-team classification of credit."
+    },
+    "56540d39-9c35-4083-ab28-6dd78ef4f258": {
+      "criteria": [
+        {
+          "id": "explores_stakeholder_perspectives",
+          "label": "Explores perspectives of key stakeholders"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "explores_stakeholder_perspectives",
+          "label": "Explores perspectives of key stakeholders",
+          "cells": {
+            "a9e792b1-4335-4fe4-ac12-c065d7b6b921": "full",
+            "0ac86fb8-632b-45bf-b2ff-a8ba7a664ed3": "full",
+            "e9921b59-7c2e-4246-93ec-5c3df3d006ca": "full",
+            "c202222b-8f32-4ec2-a7fc-507e61fa62aa": "full",
+            "a8a43b6a-37cc-4c2a-9fdc-8b181ccdefee": "full",
+            "9091d0f2-89d6-45db-be40-44a2e1421998": "full",
+            "516806fd-368b-4a4c-be03-900bb13289f1": "full",
+            "849d5eca-04a7-4a0e-9da0-60d52b581522": "full",
+            "a1c85c86-45f8-4d64-a274-b1fe8f9bfeb6": "full",
+            "a3471f9d-5824-469f-9c48-9b514118213b": "full"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 10 letters, per-team classification of credit."
+    },
+    "8790fc80-aa22-4d3c-8d7e-00689f05be6f": {
+      "criteria": [
+        {
+          "id": "maps_influence_dynamics",
+          "label": "Maps influence dynamics among stakeholders"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "maps_influence_dynamics",
+          "label": "Maps influence dynamics among stakeholders",
+          "cells": {
+            "a9e792b1-4335-4fe4-ac12-c065d7b6b921": "full",
+            "0ac86fb8-632b-45bf-b2ff-a8ba7a664ed3": "full",
+            "e9921b59-7c2e-4246-93ec-5c3df3d006ca": "full",
+            "c202222b-8f32-4ec2-a7fc-507e61fa62aa": "full",
+            "a8a43b6a-37cc-4c2a-9fdc-8b181ccdefee": "full",
+            "9091d0f2-89d6-45db-be40-44a2e1421998": "full",
+            "516806fd-368b-4a4c-be03-900bb13289f1": "full",
+            "849d5eca-04a7-4a0e-9da0-60d52b581522": "full",
+            "a1c85c86-45f8-4d64-a274-b1fe8f9bfeb6": "full",
+            "a3471f9d-5824-469f-9c48-9b514118213b": "full"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 10 letters, per-team classification of credit."
+    },
+    "a563e32f-b2f6-461a-8f8b-57e097c75cbd": {
+      "criteria": [
+        {
+          "id": "identifies_grace_as_critical_gatekeeper",
+          "label": "Identifies Grace as critical gatekeeper with veto authority"
+        },
+        {
+          "id": "recognizes_marvin_hidden_influence",
+          "label": "Recognizes Marvin as hidden influencer on Grace's position"
+        },
+        {
+          "id": "sequences_grace_marvin_early",
+          "label": "Sequences engagement with Grace and Marvin early, not late"
+        },
+        {
+          "id": "grounds_approach_in_stakeholder_motivations",
+          "label": "Grounds resistance management in actual stakeholder concerns, not surface objections"
+        },
+        {
+          "id": "distinguishes_expert_from_decision_power",
+          "label": "Distinguishes between expert/influencer power and formal decision authority"
+        },
+        {
+          "id": "identifies_all_key_stakeholders",
+          "label": "Identifies all key stakeholders (Grace, Marvin, Dana, Blaine, Raj, Finance)"
+        },
+        {
+          "id": "builds_quantified_risk_mitigation",
+          "label": "Develops quantified scenarios and risk mitigation evidence"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "identifies_grace_as_critical_gatekeeper",
+          "label": "Identifies Grace as critical gatekeeper with veto authority",
+          "cells": {
+            "a9e792b1-4335-4fe4-ac12-c065d7b6b921": "full",
+            "0ac86fb8-632b-45bf-b2ff-a8ba7a664ed3": "partial",
+            "e9921b59-7c2e-4246-93ec-5c3df3d006ca": "full",
+            "c202222b-8f32-4ec2-a7fc-507e61fa62aa": "full",
+            "a8a43b6a-37cc-4c2a-9fdc-8b181ccdefee": "partial",
+            "9091d0f2-89d6-45db-be40-44a2e1421998": "full",
+            "516806fd-368b-4a4c-be03-900bb13289f1": "full",
+            "849d5eca-04a7-4a0e-9da0-60d52b581522": "full",
+            "a1c85c86-45f8-4d64-a274-b1fe8f9bfeb6": "full",
+            "a3471f9d-5824-469f-9c48-9b514118213b": "full"
+          }
+        },
+        {
+          "id": "recognizes_marvin_hidden_influence",
+          "label": "Recognizes Marvin as hidden influencer on Grace's position",
+          "cells": {
+            "a9e792b1-4335-4fe4-ac12-c065d7b6b921": "full",
+            "0ac86fb8-632b-45bf-b2ff-a8ba7a664ed3": "full",
+            "e9921b59-7c2e-4246-93ec-5c3df3d006ca": "full",
+            "c202222b-8f32-4ec2-a7fc-507e61fa62aa": "full",
+            "a8a43b6a-37cc-4c2a-9fdc-8b181ccdefee": "missing",
+            "9091d0f2-89d6-45db-be40-44a2e1421998": "full",
+            "516806fd-368b-4a4c-be03-900bb13289f1": "full",
+            "849d5eca-04a7-4a0e-9da0-60d52b581522": "partial",
+            "a1c85c86-45f8-4d64-a274-b1fe8f9bfeb6": "missing",
+            "a3471f9d-5824-469f-9c48-9b514118213b": "full"
+          }
+        },
+        {
+          "id": "sequences_grace_marvin_early",
+          "label": "Sequences engagement with Grace and Marvin early, not late",
+          "cells": {
+            "a9e792b1-4335-4fe4-ac12-c065d7b6b921": "full",
+            "0ac86fb8-632b-45bf-b2ff-a8ba7a664ed3": "partial",
+            "e9921b59-7c2e-4246-93ec-5c3df3d006ca": "full",
+            "c202222b-8f32-4ec2-a7fc-507e61fa62aa": "full",
+            "a8a43b6a-37cc-4c2a-9fdc-8b181ccdefee": "partial",
+            "9091d0f2-89d6-45db-be40-44a2e1421998": "partial",
+            "516806fd-368b-4a4c-be03-900bb13289f1": "full",
+            "849d5eca-04a7-4a0e-9da0-60d52b581522": "partial",
+            "a1c85c86-45f8-4d64-a274-b1fe8f9bfeb6": "partial",
+            "a3471f9d-5824-469f-9c48-9b514118213b": "full"
+          }
+        },
+        {
+          "id": "grounds_approach_in_stakeholder_motivations",
+          "label": "Grounds resistance management in actual stakeholder concerns, not surface objections",
+          "cells": {
+            "a9e792b1-4335-4fe4-ac12-c065d7b6b921": "full",
+            "0ac86fb8-632b-45bf-b2ff-a8ba7a664ed3": "missing",
+            "e9921b59-7c2e-4246-93ec-5c3df3d006ca": "partial",
+            "c202222b-8f32-4ec2-a7fc-507e61fa62aa": "full",
+            "a8a43b6a-37cc-4c2a-9fdc-8b181ccdefee": "missing",
+            "9091d0f2-89d6-45db-be40-44a2e1421998": "partial",
+            "516806fd-368b-4a4c-be03-900bb13289f1": "full",
+            "849d5eca-04a7-4a0e-9da0-60d52b581522": "partial",
+            "a1c85c86-45f8-4d64-a274-b1fe8f9bfeb6": "missing",
+            "a3471f9d-5824-469f-9c48-9b514118213b": "full"
+          }
+        },
+        {
+          "id": "distinguishes_expert_from_decision_power",
+          "label": "Distinguishes between expert/influencer power and formal decision authority",
+          "cells": {
+            "a9e792b1-4335-4fe4-ac12-c065d7b6b921": "full",
+            "0ac86fb8-632b-45bf-b2ff-a8ba7a664ed3": "full",
+            "e9921b59-7c2e-4246-93ec-5c3df3d006ca": "full",
+            "c202222b-8f32-4ec2-a7fc-507e61fa62aa": "full",
+            "a8a43b6a-37cc-4c2a-9fdc-8b181ccdefee": "partial",
+            "9091d0f2-89d6-45db-be40-44a2e1421998": "full",
+            "516806fd-368b-4a4c-be03-900bb13289f1": "full",
+            "849d5eca-04a7-4a0e-9da0-60d52b581522": "partial",
+            "a1c85c86-45f8-4d64-a274-b1fe8f9bfeb6": "full",
+            "a3471f9d-5824-469f-9c48-9b514118213b": "missing"
+          }
+        },
+        {
+          "id": "identifies_all_key_stakeholders",
+          "label": "Identifies all key stakeholders (Grace, Marvin, Dana, Blaine, Raj, Finance)",
+          "cells": {
+            "a9e792b1-4335-4fe4-ac12-c065d7b6b921": "partial",
+            "0ac86fb8-632b-45bf-b2ff-a8ba7a664ed3": "missing",
+            "e9921b59-7c2e-4246-93ec-5c3df3d006ca": "partial",
+            "c202222b-8f32-4ec2-a7fc-507e61fa62aa": "partial",
+            "a8a43b6a-37cc-4c2a-9fdc-8b181ccdefee": "partial",
+            "9091d0f2-89d6-45db-be40-44a2e1421998": "partial",
+            "516806fd-368b-4a4c-be03-900bb13289f1": "partial",
+            "849d5eca-04a7-4a0e-9da0-60d52b581522": "partial",
+            "a1c85c86-45f8-4d64-a274-b1fe8f9bfeb6": "partial",
+            "a3471f9d-5824-469f-9c48-9b514118213b": "partial"
+          }
+        },
+        {
+          "id": "builds_quantified_risk_mitigation",
+          "label": "Develops quantified scenarios and risk mitigation evidence",
+          "cells": {
+            "a9e792b1-4335-4fe4-ac12-c065d7b6b921": "full",
+            "0ac86fb8-632b-45bf-b2ff-a8ba7a664ed3": "partial",
+            "e9921b59-7c2e-4246-93ec-5c3df3d006ca": "partial",
+            "c202222b-8f32-4ec2-a7fc-507e61fa62aa": "missing",
+            "a8a43b6a-37cc-4c2a-9fdc-8b181ccdefee": "missing",
+            "9091d0f2-89d6-45db-be40-44a2e1421998": "missing",
+            "516806fd-368b-4a4c-be03-900bb13289f1": "partial",
+            "849d5eca-04a7-4a0e-9da0-60d52b581522": "missing",
+            "a1c85c86-45f8-4d64-a274-b1fe8f9bfeb6": "missing",
+            "a3471f9d-5824-469f-9c48-9b514118213b": "missing"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 10 letters, per-team classification of credit."
+    }
+  },
+  "rubric": {
+    "criteria": [
+      {
+        "id": "identifies_grace_as_critical_gatekeeper",
+        "label": "Identifies Grace as critical gatekeeper with veto authority"
+      },
+      {
+        "id": "recognizes_marvin_hidden_influence",
+        "label": "Recognizes Marvin as hidden influencer on Grace's position"
+      },
+      {
+        "id": "sequences_grace_marvin_early",
+        "label": "Sequences engagement with Grace and Marvin early, not late"
+      },
+      {
+        "id": "grounds_approach_in_stakeholder_motivations",
+        "label": "Grounds resistance management in actual stakeholder concerns, not surface objections"
+      },
+      {
+        "id": "distinguishes_expert_from_decision_power",
+        "label": "Distinguishes between expert/influencer power and formal decision authority"
+      },
+      {
+        "id": "identifies_all_key_stakeholders",
+        "label": "Identifies all key stakeholders (Grace, Marvin, Dana, Blaine, Raj, Finance)"
+      },
+      {
+        "id": "builds_quantified_risk_mitigation",
+        "label": "Develops quantified scenarios and risk mitigation evidence"
+      }
+    ],
+    "team_cells": [
+      {
+        "id": "identifies_grace_as_critical_gatekeeper",
+        "label": "Identifies Grace as critical gatekeeper with veto authority",
+        "cells": {
+          "a9e792b1-4335-4fe4-ac12-c065d7b6b921": "full",
+          "0ac86fb8-632b-45bf-b2ff-a8ba7a664ed3": "partial",
+          "e9921b59-7c2e-4246-93ec-5c3df3d006ca": "full",
+          "c202222b-8f32-4ec2-a7fc-507e61fa62aa": "full",
+          "a8a43b6a-37cc-4c2a-9fdc-8b181ccdefee": "partial",
+          "9091d0f2-89d6-45db-be40-44a2e1421998": "full",
+          "516806fd-368b-4a4c-be03-900bb13289f1": "full",
+          "849d5eca-04a7-4a0e-9da0-60d52b581522": "full",
+          "a1c85c86-45f8-4d64-a274-b1fe8f9bfeb6": "full",
+          "a3471f9d-5824-469f-9c48-9b514118213b": "full"
+        }
+      },
+      {
+        "id": "recognizes_marvin_hidden_influence",
+        "label": "Recognizes Marvin as hidden influencer on Grace's position",
+        "cells": {
+          "a9e792b1-4335-4fe4-ac12-c065d7b6b921": "full",
+          "0ac86fb8-632b-45bf-b2ff-a8ba7a664ed3": "full",
+          "e9921b59-7c2e-4246-93ec-5c3df3d006ca": "full",
+          "c202222b-8f32-4ec2-a7fc-507e61fa62aa": "full",
+          "a8a43b6a-37cc-4c2a-9fdc-8b181ccdefee": "missing",
+          "9091d0f2-89d6-45db-be40-44a2e1421998": "full",
+          "516806fd-368b-4a4c-be03-900bb13289f1": "full",
+          "849d5eca-04a7-4a0e-9da0-60d52b581522": "partial",
+          "a1c85c86-45f8-4d64-a274-b1fe8f9bfeb6": "missing",
+          "a3471f9d-5824-469f-9c48-9b514118213b": "full"
+        }
+      },
+      {
+        "id": "sequences_grace_marvin_early",
+        "label": "Sequences engagement with Grace and Marvin early, not late",
+        "cells": {
+          "a9e792b1-4335-4fe4-ac12-c065d7b6b921": "full",
+          "0ac86fb8-632b-45bf-b2ff-a8ba7a664ed3": "partial",
+          "e9921b59-7c2e-4246-93ec-5c3df3d006ca": "full",
+          "c202222b-8f32-4ec2-a7fc-507e61fa62aa": "full",
+          "a8a43b6a-37cc-4c2a-9fdc-8b181ccdefee": "partial",
+          "9091d0f2-89d6-45db-be40-44a2e1421998": "partial",
+          "516806fd-368b-4a4c-be03-900bb13289f1": "full",
+          "849d5eca-04a7-4a0e-9da0-60d52b581522": "partial",
+          "a1c85c86-45f8-4d64-a274-b1fe8f9bfeb6": "partial",
+          "a3471f9d-5824-469f-9c48-9b514118213b": "full"
+        }
+      },
+      {
+        "id": "grounds_approach_in_stakeholder_motivations",
+        "label": "Grounds resistance management in actual stakeholder concerns, not surface objections",
+        "cells": {
+          "a9e792b1-4335-4fe4-ac12-c065d7b6b921": "full",
+          "0ac86fb8-632b-45bf-b2ff-a8ba7a664ed3": "missing",
+          "e9921b59-7c2e-4246-93ec-5c3df3d006ca": "partial",
+          "c202222b-8f32-4ec2-a7fc-507e61fa62aa": "full",
+          "a8a43b6a-37cc-4c2a-9fdc-8b181ccdefee": "missing",
+          "9091d0f2-89d6-45db-be40-44a2e1421998": "partial",
+          "516806fd-368b-4a4c-be03-900bb13289f1": "full",
+          "849d5eca-04a7-4a0e-9da0-60d52b581522": "partial",
+          "a1c85c86-45f8-4d64-a274-b1fe8f9bfeb6": "missing",
+          "a3471f9d-5824-469f-9c48-9b514118213b": "full"
+        }
+      },
+      {
+        "id": "distinguishes_expert_from_decision_power",
+        "label": "Distinguishes between expert/influencer power and formal decision authority",
+        "cells": {
+          "a9e792b1-4335-4fe4-ac12-c065d7b6b921": "full",
+          "0ac86fb8-632b-45bf-b2ff-a8ba7a664ed3": "full",
+          "e9921b59-7c2e-4246-93ec-5c3df3d006ca": "full",
+          "c202222b-8f32-4ec2-a7fc-507e61fa62aa": "full",
+          "a8a43b6a-37cc-4c2a-9fdc-8b181ccdefee": "partial",
+          "9091d0f2-89d6-45db-be40-44a2e1421998": "full",
+          "516806fd-368b-4a4c-be03-900bb13289f1": "full",
+          "849d5eca-04a7-4a0e-9da0-60d52b581522": "partial",
+          "a1c85c86-45f8-4d64-a274-b1fe8f9bfeb6": "full",
+          "a3471f9d-5824-469f-9c48-9b514118213b": "missing"
+        }
+      },
+      {
+        "id": "identifies_all_key_stakeholders",
+        "label": "Identifies all key stakeholders (Grace, Marvin, Dana, Blaine, Raj, Finance)",
+        "cells": {
+          "a9e792b1-4335-4fe4-ac12-c065d7b6b921": "partial",
+          "0ac86fb8-632b-45bf-b2ff-a8ba7a664ed3": "missing",
+          "e9921b59-7c2e-4246-93ec-5c3df3d006ca": "partial",
+          "c202222b-8f32-4ec2-a7fc-507e61fa62aa": "partial",
+          "a8a43b6a-37cc-4c2a-9fdc-8b181ccdefee": "partial",
+          "9091d0f2-89d6-45db-be40-44a2e1421998": "partial",
+          "516806fd-368b-4a4c-be03-900bb13289f1": "partial",
+          "849d5eca-04a7-4a0e-9da0-60d52b581522": "partial",
+          "a1c85c86-45f8-4d64-a274-b1fe8f9bfeb6": "partial",
+          "a3471f9d-5824-469f-9c48-9b514118213b": "partial"
+        }
+      },
+      {
+        "id": "builds_quantified_risk_mitigation",
+        "label": "Develops quantified scenarios and risk mitigation evidence",
+        "cells": {
+          "a9e792b1-4335-4fe4-ac12-c065d7b6b921": "full",
+          "0ac86fb8-632b-45bf-b2ff-a8ba7a664ed3": "partial",
+          "e9921b59-7c2e-4246-93ec-5c3df3d006ca": "partial",
+          "c202222b-8f32-4ec2-a7fc-507e61fa62aa": "missing",
+          "a8a43b6a-37cc-4c2a-9fdc-8b181ccdefee": "missing",
+          "9091d0f2-89d6-45db-be40-44a2e1421998": "missing",
+          "516806fd-368b-4a4c-be03-900bb13289f1": "partial",
+          "849d5eca-04a7-4a0e-9da0-60d52b581522": "missing",
+          "a1c85c86-45f8-4d64-a274-b1fe8f9bfeb6": "missing",
+          "a3471f9d-5824-469f-9c48-9b514118213b": "missing"
+        }
+      }
+    ],
+    "method": "LLM-derived via claude-haiku-4-5: criteria identified from 10 letters, per-team classification of credit."
+  }
 }

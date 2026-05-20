@@ -2278,5 +2278,467 @@
       "created_at": "2026-05-07T15:44:23.391Z",
       "updated_at": "2026-05-07T15:44:23.391Z"
     }
-  ]
+  ],
+  "rubric_by_chapter": {
+    "56540d39-9c35-4083-ab28-6dd78ef4f258": {
+      "criteria": [
+        {
+          "id": "explores_stakeholder_perspectives",
+          "label": "Explores perspectives of key stakeholders"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "explores_stakeholder_perspectives",
+          "label": "Explores perspectives of key stakeholders",
+          "cells": {
+            "555d0751-6eb1-4483-b4ea-521181ea0c87": "full",
+            "75e0300e-ea1c-4a8e-bfc2-371e377a7309": "full",
+            "5eeb0cf2-9c57-42a0-a20b-4f0851800bd4": "full",
+            "a2e750c8-d13a-4d84-b385-b0d483cac44b": "full",
+            "6dc66afd-82ce-48a5-9821-949b68565532": "full",
+            "2d78ddbd-f24f-4dd6-b851-10f489b22648": "full",
+            "0a2d2676-c222-4a46-a2d6-b7a7d1165864": "full",
+            "1a73c5e8-20ba-422e-9105-0b57f3d4ce7a": "full",
+            "7fa3422b-6ee3-41c4-904f-ec4f1e89a396": "full",
+            "6c4fe6c5-2784-43f0-bf50-1e0ff9996e71": "full",
+            "0f13bb80-cf35-4cec-968d-c6009ea79ffc": "full",
+            "290b4842-f54d-4fa4-9719-bdddfe2e04c2": "full",
+            "701a57e8-beb0-42af-a45e-c434f477a29b": "full",
+            "88163836-a314-4d9d-8cb5-de84236b2eb9": "full"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 14 letters, per-team classification of credit."
+    },
+    "8790fc80-aa22-4d3c-8d7e-00689f05be6f": {
+      "criteria": [
+        {
+          "id": "maps_influence_dynamics",
+          "label": "Maps influence dynamics among stakeholders"
+        },
+        {
+          "id": "identifies_target_stakeholder",
+          "label": "Identifies Mei as the key stakeholder to influence"
+        },
+        {
+          "id": "drafts_influence_strategy",
+          "label": "Develops strategy for influencing target stakeholder"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "maps_influence_dynamics",
+          "label": "Maps influence dynamics among stakeholders",
+          "cells": {
+            "555d0751-6eb1-4483-b4ea-521181ea0c87": "full",
+            "75e0300e-ea1c-4a8e-bfc2-371e377a7309": "full",
+            "5eeb0cf2-9c57-42a0-a20b-4f0851800bd4": "full",
+            "a2e750c8-d13a-4d84-b385-b0d483cac44b": "full",
+            "6dc66afd-82ce-48a5-9821-949b68565532": "full",
+            "2d78ddbd-f24f-4dd6-b851-10f489b22648": "full",
+            "0a2d2676-c222-4a46-a2d6-b7a7d1165864": "full",
+            "1a73c5e8-20ba-422e-9105-0b57f3d4ce7a": "full",
+            "7fa3422b-6ee3-41c4-904f-ec4f1e89a396": "full",
+            "6c4fe6c5-2784-43f0-bf50-1e0ff9996e71": "full",
+            "0f13bb80-cf35-4cec-968d-c6009ea79ffc": "full",
+            "290b4842-f54d-4fa4-9719-bdddfe2e04c2": "full",
+            "701a57e8-beb0-42af-a45e-c434f477a29b": "full",
+            "88163836-a314-4d9d-8cb5-de84236b2eb9": "full"
+          }
+        },
+        {
+          "id": "identifies_target_stakeholder",
+          "label": "Identifies Mei as the key stakeholder to influence",
+          "cells": {
+            "555d0751-6eb1-4483-b4ea-521181ea0c87": "full",
+            "75e0300e-ea1c-4a8e-bfc2-371e377a7309": "full",
+            "5eeb0cf2-9c57-42a0-a20b-4f0851800bd4": "full",
+            "a2e750c8-d13a-4d84-b385-b0d483cac44b": "full",
+            "6dc66afd-82ce-48a5-9821-949b68565532": "full",
+            "2d78ddbd-f24f-4dd6-b851-10f489b22648": "full",
+            "0a2d2676-c222-4a46-a2d6-b7a7d1165864": "full",
+            "1a73c5e8-20ba-422e-9105-0b57f3d4ce7a": "full",
+            "7fa3422b-6ee3-41c4-904f-ec4f1e89a396": "full",
+            "6c4fe6c5-2784-43f0-bf50-1e0ff9996e71": "full",
+            "0f13bb80-cf35-4cec-968d-c6009ea79ffc": "full",
+            "290b4842-f54d-4fa4-9719-bdddfe2e04c2": "full",
+            "701a57e8-beb0-42af-a45e-c434f477a29b": "full",
+            "88163836-a314-4d9d-8cb5-de84236b2eb9": "full"
+          }
+        },
+        {
+          "id": "drafts_influence_strategy",
+          "label": "Develops strategy for influencing target stakeholder",
+          "cells": {
+            "555d0751-6eb1-4483-b4ea-521181ea0c87": "partial",
+            "75e0300e-ea1c-4a8e-bfc2-371e377a7309": "partial",
+            "5eeb0cf2-9c57-42a0-a20b-4f0851800bd4": "partial",
+            "a2e750c8-d13a-4d84-b385-b0d483cac44b": "partial",
+            "6dc66afd-82ce-48a5-9821-949b68565532": "partial",
+            "2d78ddbd-f24f-4dd6-b851-10f489b22648": "partial",
+            "0a2d2676-c222-4a46-a2d6-b7a7d1165864": "partial",
+            "1a73c5e8-20ba-422e-9105-0b57f3d4ce7a": "partial",
+            "7fa3422b-6ee3-41c4-904f-ec4f1e89a396": "partial",
+            "6c4fe6c5-2784-43f0-bf50-1e0ff9996e71": "partial",
+            "0f13bb80-cf35-4cec-968d-c6009ea79ffc": "partial",
+            "290b4842-f54d-4fa4-9719-bdddfe2e04c2": "partial",
+            "701a57e8-beb0-42af-a45e-c434f477a29b": "partial",
+            "88163836-a314-4d9d-8cb5-de84236b2eb9": "partial"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 14 letters, per-team classification of credit."
+    },
+    "a563e32f-b2f6-461a-8f8b-57e097c75cbd": {
+      "criteria": [
+        {
+          "id": "identifies_critical_gatekeepers",
+          "label": "Identifies Grace and Dana as critical decision-makers/gatekeepers"
+        },
+        {
+          "id": "maps_influence_relationships",
+          "label": "Maps hidden influence dynamics (e.g., Marvin's influence on Grace)"
+        },
+        {
+          "id": "sequences_stakeholder_engagement",
+          "label": "Sequences stakeholder engagement in logical order with clear rationale"
+        },
+        {
+          "id": "distinguishes_blocker_vs_informer",
+          "label": "Distinguishes blockers/gatekeepers from informers/neutral parties"
+        },
+        {
+          "id": "addresses_specific_concerns",
+          "label": "Identifies and addresses specific stakeholder concerns and resistance points"
+        },
+        {
+          "id": "includes_complete_coalition",
+          "label": "Includes all critical stakeholders (e.g., doesn't overlook Finance/Dana)"
+        },
+        {
+          "id": "delivers_on_time",
+          "label": "Submits analysis on time before deadline"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "identifies_critical_gatekeepers",
+          "label": "Identifies Grace and Dana as critical decision-makers/gatekeepers",
+          "cells": {
+            "555d0751-6eb1-4483-b4ea-521181ea0c87": "full",
+            "75e0300e-ea1c-4a8e-bfc2-371e377a7309": "partial",
+            "5eeb0cf2-9c57-42a0-a20b-4f0851800bd4": "full",
+            "a2e750c8-d13a-4d84-b385-b0d483cac44b": "missing",
+            "6dc66afd-82ce-48a5-9821-949b68565532": "missing",
+            "2d78ddbd-f24f-4dd6-b851-10f489b22648": "full",
+            "0a2d2676-c222-4a46-a2d6-b7a7d1165864": "full",
+            "1a73c5e8-20ba-422e-9105-0b57f3d4ce7a": "partial",
+            "7fa3422b-6ee3-41c4-904f-ec4f1e89a396": "partial",
+            "6c4fe6c5-2784-43f0-bf50-1e0ff9996e71": "full",
+            "0f13bb80-cf35-4cec-968d-c6009ea79ffc": "full",
+            "290b4842-f54d-4fa4-9719-bdddfe2e04c2": "full",
+            "701a57e8-beb0-42af-a45e-c434f477a29b": "full",
+            "88163836-a314-4d9d-8cb5-de84236b2eb9": "full"
+          }
+        },
+        {
+          "id": "maps_influence_relationships",
+          "label": "Maps hidden influence dynamics (e.g., Marvin's influence on Grace)",
+          "cells": {
+            "555d0751-6eb1-4483-b4ea-521181ea0c87": "partial",
+            "75e0300e-ea1c-4a8e-bfc2-371e377a7309": "full",
+            "5eeb0cf2-9c57-42a0-a20b-4f0851800bd4": "full",
+            "a2e750c8-d13a-4d84-b385-b0d483cac44b": "missing",
+            "6dc66afd-82ce-48a5-9821-949b68565532": "missing",
+            "2d78ddbd-f24f-4dd6-b851-10f489b22648": "full",
+            "0a2d2676-c222-4a46-a2d6-b7a7d1165864": "full",
+            "1a73c5e8-20ba-422e-9105-0b57f3d4ce7a": "partial",
+            "7fa3422b-6ee3-41c4-904f-ec4f1e89a396": "full",
+            "6c4fe6c5-2784-43f0-bf50-1e0ff9996e71": "full",
+            "0f13bb80-cf35-4cec-968d-c6009ea79ffc": "full",
+            "290b4842-f54d-4fa4-9719-bdddfe2e04c2": "full",
+            "701a57e8-beb0-42af-a45e-c434f477a29b": "full",
+            "88163836-a314-4d9d-8cb5-de84236b2eb9": "full"
+          }
+        },
+        {
+          "id": "sequences_stakeholder_engagement",
+          "label": "Sequences stakeholder engagement in logical order with clear rationale",
+          "cells": {
+            "555d0751-6eb1-4483-b4ea-521181ea0c87": "partial",
+            "75e0300e-ea1c-4a8e-bfc2-371e377a7309": "partial",
+            "5eeb0cf2-9c57-42a0-a20b-4f0851800bd4": "full",
+            "a2e750c8-d13a-4d84-b385-b0d483cac44b": "missing",
+            "6dc66afd-82ce-48a5-9821-949b68565532": "missing",
+            "2d78ddbd-f24f-4dd6-b851-10f489b22648": "full",
+            "0a2d2676-c222-4a46-a2d6-b7a7d1165864": "full",
+            "1a73c5e8-20ba-422e-9105-0b57f3d4ce7a": "partial",
+            "7fa3422b-6ee3-41c4-904f-ec4f1e89a396": "full",
+            "6c4fe6c5-2784-43f0-bf50-1e0ff9996e71": "partial",
+            "0f13bb80-cf35-4cec-968d-c6009ea79ffc": "full",
+            "290b4842-f54d-4fa4-9719-bdddfe2e04c2": "full",
+            "701a57e8-beb0-42af-a45e-c434f477a29b": "full",
+            "88163836-a314-4d9d-8cb5-de84236b2eb9": "full"
+          }
+        },
+        {
+          "id": "distinguishes_blocker_vs_informer",
+          "label": "Distinguishes blockers/gatekeepers from informers/neutral parties",
+          "cells": {
+            "555d0751-6eb1-4483-b4ea-521181ea0c87": "partial",
+            "75e0300e-ea1c-4a8e-bfc2-371e377a7309": "partial",
+            "5eeb0cf2-9c57-42a0-a20b-4f0851800bd4": "missing",
+            "a2e750c8-d13a-4d84-b385-b0d483cac44b": "missing",
+            "6dc66afd-82ce-48a5-9821-949b68565532": "missing",
+            "2d78ddbd-f24f-4dd6-b851-10f489b22648": "partial",
+            "0a2d2676-c222-4a46-a2d6-b7a7d1165864": "full",
+            "1a73c5e8-20ba-422e-9105-0b57f3d4ce7a": "partial",
+            "7fa3422b-6ee3-41c4-904f-ec4f1e89a396": "partial",
+            "6c4fe6c5-2784-43f0-bf50-1e0ff9996e71": "partial",
+            "0f13bb80-cf35-4cec-968d-c6009ea79ffc": "full",
+            "290b4842-f54d-4fa4-9719-bdddfe2e04c2": "partial",
+            "701a57e8-beb0-42af-a45e-c434f477a29b": "full",
+            "88163836-a314-4d9d-8cb5-de84236b2eb9": "partial"
+          }
+        },
+        {
+          "id": "addresses_specific_concerns",
+          "label": "Identifies and addresses specific stakeholder concerns and resistance points",
+          "cells": {
+            "555d0751-6eb1-4483-b4ea-521181ea0c87": "missing",
+            "75e0300e-ea1c-4a8e-bfc2-371e377a7309": "partial",
+            "5eeb0cf2-9c57-42a0-a20b-4f0851800bd4": "full",
+            "a2e750c8-d13a-4d84-b385-b0d483cac44b": "missing",
+            "6dc66afd-82ce-48a5-9821-949b68565532": "missing",
+            "2d78ddbd-f24f-4dd6-b851-10f489b22648": "partial",
+            "0a2d2676-c222-4a46-a2d6-b7a7d1165864": "full",
+            "1a73c5e8-20ba-422e-9105-0b57f3d4ce7a": "full",
+            "7fa3422b-6ee3-41c4-904f-ec4f1e89a396": "partial",
+            "6c4fe6c5-2784-43f0-bf50-1e0ff9996e71": "partial",
+            "0f13bb80-cf35-4cec-968d-c6009ea79ffc": "missing",
+            "290b4842-f54d-4fa4-9719-bdddfe2e04c2": "full",
+            "701a57e8-beb0-42af-a45e-c434f477a29b": "full",
+            "88163836-a314-4d9d-8cb5-de84236b2eb9": "missing"
+          }
+        },
+        {
+          "id": "includes_complete_coalition",
+          "label": "Includes all critical stakeholders (e.g., doesn't overlook Finance/Dana)",
+          "cells": {
+            "555d0751-6eb1-4483-b4ea-521181ea0c87": "partial",
+            "75e0300e-ea1c-4a8e-bfc2-371e377a7309": "full",
+            "5eeb0cf2-9c57-42a0-a20b-4f0851800bd4": "full",
+            "a2e750c8-d13a-4d84-b385-b0d483cac44b": "missing",
+            "6dc66afd-82ce-48a5-9821-949b68565532": "missing",
+            "2d78ddbd-f24f-4dd6-b851-10f489b22648": "full",
+            "0a2d2676-c222-4a46-a2d6-b7a7d1165864": "full",
+            "1a73c5e8-20ba-422e-9105-0b57f3d4ce7a": "full",
+            "7fa3422b-6ee3-41c4-904f-ec4f1e89a396": "missing",
+            "6c4fe6c5-2784-43f0-bf50-1e0ff9996e71": "full",
+            "0f13bb80-cf35-4cec-968d-c6009ea79ffc": "full",
+            "290b4842-f54d-4fa4-9719-bdddfe2e04c2": "full",
+            "701a57e8-beb0-42af-a45e-c434f477a29b": "full",
+            "88163836-a314-4d9d-8cb5-de84236b2eb9": "partial"
+          }
+        },
+        {
+          "id": "delivers_on_time",
+          "label": "Submits analysis on time before deadline",
+          "cells": {
+            "555d0751-6eb1-4483-b4ea-521181ea0c87": "full",
+            "75e0300e-ea1c-4a8e-bfc2-371e377a7309": "missing",
+            "5eeb0cf2-9c57-42a0-a20b-4f0851800bd4": "full",
+            "a2e750c8-d13a-4d84-b385-b0d483cac44b": "partial",
+            "6dc66afd-82ce-48a5-9821-949b68565532": "partial",
+            "2d78ddbd-f24f-4dd6-b851-10f489b22648": "missing",
+            "0a2d2676-c222-4a46-a2d6-b7a7d1165864": "missing",
+            "1a73c5e8-20ba-422e-9105-0b57f3d4ce7a": "missing",
+            "7fa3422b-6ee3-41c4-904f-ec4f1e89a396": "full",
+            "6c4fe6c5-2784-43f0-bf50-1e0ff9996e71": "missing",
+            "0f13bb80-cf35-4cec-968d-c6009ea79ffc": "missing",
+            "290b4842-f54d-4fa4-9719-bdddfe2e04c2": "missing",
+            "701a57e8-beb0-42af-a45e-c434f477a29b": "missing",
+            "88163836-a314-4d9d-8cb5-de84236b2eb9": "missing"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 14 letters, per-team classification of credit."
+    }
+  },
+  "rubric": {
+    "criteria": [
+      {
+        "id": "identifies_critical_gatekeepers",
+        "label": "Identifies Grace and Dana as critical decision-makers/gatekeepers"
+      },
+      {
+        "id": "maps_influence_relationships",
+        "label": "Maps hidden influence dynamics (e.g., Marvin's influence on Grace)"
+      },
+      {
+        "id": "sequences_stakeholder_engagement",
+        "label": "Sequences stakeholder engagement in logical order with clear rationale"
+      },
+      {
+        "id": "distinguishes_blocker_vs_informer",
+        "label": "Distinguishes blockers/gatekeepers from informers/neutral parties"
+      },
+      {
+        "id": "addresses_specific_concerns",
+        "label": "Identifies and addresses specific stakeholder concerns and resistance points"
+      },
+      {
+        "id": "includes_complete_coalition",
+        "label": "Includes all critical stakeholders (e.g., doesn't overlook Finance/Dana)"
+      },
+      {
+        "id": "delivers_on_time",
+        "label": "Submits analysis on time before deadline"
+      }
+    ],
+    "team_cells": [
+      {
+        "id": "identifies_critical_gatekeepers",
+        "label": "Identifies Grace and Dana as critical decision-makers/gatekeepers",
+        "cells": {
+          "555d0751-6eb1-4483-b4ea-521181ea0c87": "full",
+          "75e0300e-ea1c-4a8e-bfc2-371e377a7309": "partial",
+          "5eeb0cf2-9c57-42a0-a20b-4f0851800bd4": "full",
+          "a2e750c8-d13a-4d84-b385-b0d483cac44b": "missing",
+          "6dc66afd-82ce-48a5-9821-949b68565532": "missing",
+          "2d78ddbd-f24f-4dd6-b851-10f489b22648": "full",
+          "0a2d2676-c222-4a46-a2d6-b7a7d1165864": "full",
+          "1a73c5e8-20ba-422e-9105-0b57f3d4ce7a": "partial",
+          "7fa3422b-6ee3-41c4-904f-ec4f1e89a396": "partial",
+          "6c4fe6c5-2784-43f0-bf50-1e0ff9996e71": "full",
+          "0f13bb80-cf35-4cec-968d-c6009ea79ffc": "full",
+          "290b4842-f54d-4fa4-9719-bdddfe2e04c2": "full",
+          "701a57e8-beb0-42af-a45e-c434f477a29b": "full",
+          "88163836-a314-4d9d-8cb5-de84236b2eb9": "full"
+        }
+      },
+      {
+        "id": "maps_influence_relationships",
+        "label": "Maps hidden influence dynamics (e.g., Marvin's influence on Grace)",
+        "cells": {
+          "555d0751-6eb1-4483-b4ea-521181ea0c87": "partial",
+          "75e0300e-ea1c-4a8e-bfc2-371e377a7309": "full",
+          "5eeb0cf2-9c57-42a0-a20b-4f0851800bd4": "full",
+          "a2e750c8-d13a-4d84-b385-b0d483cac44b": "missing",
+          "6dc66afd-82ce-48a5-9821-949b68565532": "missing",
+          "2d78ddbd-f24f-4dd6-b851-10f489b22648": "full",
+          "0a2d2676-c222-4a46-a2d6-b7a7d1165864": "full",
+          "1a73c5e8-20ba-422e-9105-0b57f3d4ce7a": "partial",
+          "7fa3422b-6ee3-41c4-904f-ec4f1e89a396": "full",
+          "6c4fe6c5-2784-43f0-bf50-1e0ff9996e71": "full",
+          "0f13bb80-cf35-4cec-968d-c6009ea79ffc": "full",
+          "290b4842-f54d-4fa4-9719-bdddfe2e04c2": "full",
+          "701a57e8-beb0-42af-a45e-c434f477a29b": "full",
+          "88163836-a314-4d9d-8cb5-de84236b2eb9": "full"
+        }
+      },
+      {
+        "id": "sequences_stakeholder_engagement",
+        "label": "Sequences stakeholder engagement in logical order with clear rationale",
+        "cells": {
+          "555d0751-6eb1-4483-b4ea-521181ea0c87": "partial",
+          "75e0300e-ea1c-4a8e-bfc2-371e377a7309": "partial",
+          "5eeb0cf2-9c57-42a0-a20b-4f0851800bd4": "full",
+          "a2e750c8-d13a-4d84-b385-b0d483cac44b": "missing",
+          "6dc66afd-82ce-48a5-9821-949b68565532": "missing",
+          "2d78ddbd-f24f-4dd6-b851-10f489b22648": "full",
+          "0a2d2676-c222-4a46-a2d6-b7a7d1165864": "full",
+          "1a73c5e8-20ba-422e-9105-0b57f3d4ce7a": "partial",
+          "7fa3422b-6ee3-41c4-904f-ec4f1e89a396": "full",
+          "6c4fe6c5-2784-43f0-bf50-1e0ff9996e71": "partial",
+          "0f13bb80-cf35-4cec-968d-c6009ea79ffc": "full",
+          "290b4842-f54d-4fa4-9719-bdddfe2e04c2": "full",
+          "701a57e8-beb0-42af-a45e-c434f477a29b": "full",
+          "88163836-a314-4d9d-8cb5-de84236b2eb9": "full"
+        }
+      },
+      {
+        "id": "distinguishes_blocker_vs_informer",
+        "label": "Distinguishes blockers/gatekeepers from informers/neutral parties",
+        "cells": {
+          "555d0751-6eb1-4483-b4ea-521181ea0c87": "partial",
+          "75e0300e-ea1c-4a8e-bfc2-371e377a7309": "partial",
+          "5eeb0cf2-9c57-42a0-a20b-4f0851800bd4": "missing",
+          "a2e750c8-d13a-4d84-b385-b0d483cac44b": "missing",
+          "6dc66afd-82ce-48a5-9821-949b68565532": "missing",
+          "2d78ddbd-f24f-4dd6-b851-10f489b22648": "partial",
+          "0a2d2676-c222-4a46-a2d6-b7a7d1165864": "full",
+          "1a73c5e8-20ba-422e-9105-0b57f3d4ce7a": "partial",
+          "7fa3422b-6ee3-41c4-904f-ec4f1e89a396": "partial",
+          "6c4fe6c5-2784-43f0-bf50-1e0ff9996e71": "partial",
+          "0f13bb80-cf35-4cec-968d-c6009ea79ffc": "full",
+          "290b4842-f54d-4fa4-9719-bdddfe2e04c2": "partial",
+          "701a57e8-beb0-42af-a45e-c434f477a29b": "full",
+          "88163836-a314-4d9d-8cb5-de84236b2eb9": "partial"
+        }
+      },
+      {
+        "id": "addresses_specific_concerns",
+        "label": "Identifies and addresses specific stakeholder concerns and resistance points",
+        "cells": {
+          "555d0751-6eb1-4483-b4ea-521181ea0c87": "missing",
+          "75e0300e-ea1c-4a8e-bfc2-371e377a7309": "partial",
+          "5eeb0cf2-9c57-42a0-a20b-4f0851800bd4": "full",
+          "a2e750c8-d13a-4d84-b385-b0d483cac44b": "missing",
+          "6dc66afd-82ce-48a5-9821-949b68565532": "missing",
+          "2d78ddbd-f24f-4dd6-b851-10f489b22648": "partial",
+          "0a2d2676-c222-4a46-a2d6-b7a7d1165864": "full",
+          "1a73c5e8-20ba-422e-9105-0b57f3d4ce7a": "full",
+          "7fa3422b-6ee3-41c4-904f-ec4f1e89a396": "partial",
+          "6c4fe6c5-2784-43f0-bf50-1e0ff9996e71": "partial",
+          "0f13bb80-cf35-4cec-968d-c6009ea79ffc": "missing",
+          "290b4842-f54d-4fa4-9719-bdddfe2e04c2": "full",
+          "701a57e8-beb0-42af-a45e-c434f477a29b": "full",
+          "88163836-a314-4d9d-8cb5-de84236b2eb9": "missing"
+        }
+      },
+      {
+        "id": "includes_complete_coalition",
+        "label": "Includes all critical stakeholders (e.g., doesn't overlook Finance/Dana)",
+        "cells": {
+          "555d0751-6eb1-4483-b4ea-521181ea0c87": "partial",
+          "75e0300e-ea1c-4a8e-bfc2-371e377a7309": "full",
+          "5eeb0cf2-9c57-42a0-a20b-4f0851800bd4": "full",
+          "a2e750c8-d13a-4d84-b385-b0d483cac44b": "missing",
+          "6dc66afd-82ce-48a5-9821-949b68565532": "missing",
+          "2d78ddbd-f24f-4dd6-b851-10f489b22648": "full",
+          "0a2d2676-c222-4a46-a2d6-b7a7d1165864": "full",
+          "1a73c5e8-20ba-422e-9105-0b57f3d4ce7a": "full",
+          "7fa3422b-6ee3-41c4-904f-ec4f1e89a396": "missing",
+          "6c4fe6c5-2784-43f0-bf50-1e0ff9996e71": "full",
+          "0f13bb80-cf35-4cec-968d-c6009ea79ffc": "full",
+          "290b4842-f54d-4fa4-9719-bdddfe2e04c2": "full",
+          "701a57e8-beb0-42af-a45e-c434f477a29b": "full",
+          "88163836-a314-4d9d-8cb5-de84236b2eb9": "partial"
+        }
+      },
+      {
+        "id": "delivers_on_time",
+        "label": "Submits analysis on time before deadline",
+        "cells": {
+          "555d0751-6eb1-4483-b4ea-521181ea0c87": "full",
+          "75e0300e-ea1c-4a8e-bfc2-371e377a7309": "missing",
+          "5eeb0cf2-9c57-42a0-a20b-4f0851800bd4": "full",
+          "a2e750c8-d13a-4d84-b385-b0d483cac44b": "partial",
+          "6dc66afd-82ce-48a5-9821-949b68565532": "partial",
+          "2d78ddbd-f24f-4dd6-b851-10f489b22648": "missing",
+          "0a2d2676-c222-4a46-a2d6-b7a7d1165864": "missing",
+          "1a73c5e8-20ba-422e-9105-0b57f3d4ce7a": "missing",
+          "7fa3422b-6ee3-41c4-904f-ec4f1e89a396": "full",
+          "6c4fe6c5-2784-43f0-bf50-1e0ff9996e71": "missing",
+          "0f13bb80-cf35-4cec-968d-c6009ea79ffc": "missing",
+          "290b4842-f54d-4fa4-9719-bdddfe2e04c2": "missing",
+          "701a57e8-beb0-42af-a45e-c434f477a29b": "missing",
+          "88163836-a314-4d9d-8cb5-de84236b2eb9": "missing"
+        }
+      }
+    ],
+    "method": "LLM-derived via claude-haiku-4-5: criteria identified from 14 letters, per-team classification of credit."
+  }
 }

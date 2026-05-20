@@ -1426,5 +1426,323 @@
       "created_at": "2026-04-08T09:56:15.571Z",
       "updated_at": "2026-04-08T09:56:15.571Z"
     }
-  ]
+  ],
+  "rubric_by_chapter": {
+    "56540d39-9c35-4083-ab28-6dd78ef4f258": {
+      "criteria": [
+        {
+          "id": "explores_stakeholder_perspectives",
+          "label": "Explores perspectives of key stakeholders"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "explores_stakeholder_perspectives",
+          "label": "Explores perspectives of key stakeholders",
+          "cells": {
+            "5f0f5530-ec04-4c43-9360-fbf758bceb26": "full",
+            "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b": "full",
+            "c544140c-aeb9-490a-a5db-60592583d94b": "full",
+            "1453d605-56c3-46ac-a751-bb9378e5642e": "full",
+            "05ffb382-c5bd-43d5-81cb-137a2b84e06f": "full",
+            "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751": "full",
+            "cfb4aec3-9410-448e-8f17-3fbe68de179d": "full",
+            "7fe6fef7-7162-4cf0-b7f2-c19070e731df": "full"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 8 letters, per-team classification of credit."
+    },
+    "8790fc80-aa22-4d3c-8d7e-00689f05be6f": {
+      "criteria": [
+        {
+          "id": "influence_dynamics_mapping",
+          "label": "Maps influence dynamics between stakeholders"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "influence_dynamics_mapping",
+          "label": "Maps influence dynamics between stakeholders",
+          "cells": {
+            "5f0f5530-ec04-4c43-9360-fbf758bceb26": "full",
+            "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b": "full",
+            "c544140c-aeb9-490a-a5db-60592583d94b": "full",
+            "1453d605-56c3-46ac-a751-bb9378e5642e": "full",
+            "05ffb382-c5bd-43d5-81cb-137a2b84e06f": "full",
+            "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751": "full",
+            "cfb4aec3-9410-448e-8f17-3fbe68de179d": "full",
+            "7fe6fef7-7162-4cf0-b7f2-c19070e731df": "full"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 8 letters, per-team classification of credit."
+    },
+    "a563e32f-b2f6-461a-8f8b-57e097c75cbd": {
+      "criteria": [
+        {
+          "id": "identifies_blockers_vs_supporters",
+          "label": "Distinguishes blockers (Grace, Dana) from supporters (Blaine)"
+        },
+        {
+          "id": "recognizes_marvin_as_hidden_influencer",
+          "label": "Recognizes Marvin as Grace's trusted advisor shaping her position"
+        },
+        {
+          "id": "sequences_outreach_strategically",
+          "label": "Sequences outreach to address blockers early, build momentum with supporters"
+        },
+        {
+          "id": "avoids_overweighting_technical_input",
+          "label": "Avoids overestimating decision-making power of technical experts (Raj)"
+        },
+        {
+          "id": "maps_decision_power_vs_information",
+          "label": "Maps who holds decision/veto power versus who holds information only"
+        },
+        {
+          "id": "addresses_blocker_concerns_directly",
+          "label": "Plans direct mitigation of blocker concerns (Grace's ops, Dana's budget) upfront"
+        },
+        {
+          "id": "leverages_supporter_momentum",
+          "label": "Leverages natural supporters early to build coalition before tackling resistance"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "identifies_blockers_vs_supporters",
+          "label": "Distinguishes blockers (Grace, Dana) from supporters (Blaine)",
+          "cells": {
+            "5f0f5530-ec04-4c43-9360-fbf758bceb26": "partial",
+            "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b": "partial",
+            "c544140c-aeb9-490a-a5db-60592583d94b": "partial",
+            "1453d605-56c3-46ac-a751-bb9378e5642e": "partial",
+            "05ffb382-c5bd-43d5-81cb-137a2b84e06f": "full",
+            "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751": "partial",
+            "cfb4aec3-9410-448e-8f17-3fbe68de179d": "full",
+            "7fe6fef7-7162-4cf0-b7f2-c19070e731df": "partial"
+          }
+        },
+        {
+          "id": "recognizes_marvin_as_hidden_influencer",
+          "label": "Recognizes Marvin as Grace's trusted advisor shaping her position",
+          "cells": {
+            "5f0f5530-ec04-4c43-9360-fbf758bceb26": "full",
+            "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b": "missing",
+            "c544140c-aeb9-490a-a5db-60592583d94b": "full",
+            "1453d605-56c3-46ac-a751-bb9378e5642e": "full",
+            "05ffb382-c5bd-43d5-81cb-137a2b84e06f": "full",
+            "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751": "missing",
+            "cfb4aec3-9410-448e-8f17-3fbe68de179d": "full",
+            "7fe6fef7-7162-4cf0-b7f2-c19070e731df": "full"
+          }
+        },
+        {
+          "id": "sequences_outreach_strategically",
+          "label": "Sequences outreach to address blockers early, build momentum with supporters",
+          "cells": {
+            "5f0f5530-ec04-4c43-9360-fbf758bceb26": "partial",
+            "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b": "partial",
+            "c544140c-aeb9-490a-a5db-60592583d94b": "partial",
+            "1453d605-56c3-46ac-a751-bb9378e5642e": "partial",
+            "05ffb382-c5bd-43d5-81cb-137a2b84e06f": "full",
+            "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751": "partial",
+            "cfb4aec3-9410-448e-8f17-3fbe68de179d": "full",
+            "7fe6fef7-7162-4cf0-b7f2-c19070e731df": "partial"
+          }
+        },
+        {
+          "id": "avoids_overweighting_technical_input",
+          "label": "Avoids overestimating decision-making power of technical experts (Raj)",
+          "cells": {
+            "5f0f5530-ec04-4c43-9360-fbf758bceb26": "partial",
+            "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b": "partial",
+            "c544140c-aeb9-490a-a5db-60592583d94b": "full",
+            "1453d605-56c3-46ac-a751-bb9378e5642e": "missing",
+            "05ffb382-c5bd-43d5-81cb-137a2b84e06f": "partial",
+            "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751": "full",
+            "cfb4aec3-9410-448e-8f17-3fbe68de179d": "missing",
+            "7fe6fef7-7162-4cf0-b7f2-c19070e731df": "partial"
+          }
+        },
+        {
+          "id": "maps_decision_power_vs_information",
+          "label": "Maps who holds decision/veto power versus who holds information only",
+          "cells": {
+            "5f0f5530-ec04-4c43-9360-fbf758bceb26": "partial",
+            "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b": "partial",
+            "c544140c-aeb9-490a-a5db-60592583d94b": "full",
+            "1453d605-56c3-46ac-a751-bb9378e5642e": "missing",
+            "05ffb382-c5bd-43d5-81cb-137a2b84e06f": "missing",
+            "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751": "full",
+            "cfb4aec3-9410-448e-8f17-3fbe68de179d": "full",
+            "7fe6fef7-7162-4cf0-b7f2-c19070e731df": "full"
+          }
+        },
+        {
+          "id": "addresses_blocker_concerns_directly",
+          "label": "Plans direct mitigation of blocker concerns (Grace's ops, Dana's budget) upfront",
+          "cells": {
+            "5f0f5530-ec04-4c43-9360-fbf758bceb26": "partial",
+            "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b": "missing",
+            "c544140c-aeb9-490a-a5db-60592583d94b": "partial",
+            "1453d605-56c3-46ac-a751-bb9378e5642e": "missing",
+            "05ffb382-c5bd-43d5-81cb-137a2b84e06f": "full",
+            "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751": "partial",
+            "cfb4aec3-9410-448e-8f17-3fbe68de179d": "partial",
+            "7fe6fef7-7162-4cf0-b7f2-c19070e731df": "partial"
+          }
+        },
+        {
+          "id": "leverages_supporter_momentum",
+          "label": "Leverages natural supporters early to build coalition before tackling resistance",
+          "cells": {
+            "5f0f5530-ec04-4c43-9360-fbf758bceb26": "partial",
+            "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b": "full",
+            "c544140c-aeb9-490a-a5db-60592583d94b": "missing",
+            "1453d605-56c3-46ac-a751-bb9378e5642e": "partial",
+            "05ffb382-c5bd-43d5-81cb-137a2b84e06f": "full",
+            "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751": "missing",
+            "cfb4aec3-9410-448e-8f17-3fbe68de179d": "full",
+            "7fe6fef7-7162-4cf0-b7f2-c19070e731df": "partial"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 8 letters, per-team classification of credit."
+    }
+  },
+  "rubric": {
+    "criteria": [
+      {
+        "id": "identifies_blockers_vs_supporters",
+        "label": "Distinguishes blockers (Grace, Dana) from supporters (Blaine)"
+      },
+      {
+        "id": "recognizes_marvin_as_hidden_influencer",
+        "label": "Recognizes Marvin as Grace's trusted advisor shaping her position"
+      },
+      {
+        "id": "sequences_outreach_strategically",
+        "label": "Sequences outreach to address blockers early, build momentum with supporters"
+      },
+      {
+        "id": "avoids_overweighting_technical_input",
+        "label": "Avoids overestimating decision-making power of technical experts (Raj)"
+      },
+      {
+        "id": "maps_decision_power_vs_information",
+        "label": "Maps who holds decision/veto power versus who holds information only"
+      },
+      {
+        "id": "addresses_blocker_concerns_directly",
+        "label": "Plans direct mitigation of blocker concerns (Grace's ops, Dana's budget) upfront"
+      },
+      {
+        "id": "leverages_supporter_momentum",
+        "label": "Leverages natural supporters early to build coalition before tackling resistance"
+      }
+    ],
+    "team_cells": [
+      {
+        "id": "identifies_blockers_vs_supporters",
+        "label": "Distinguishes blockers (Grace, Dana) from supporters (Blaine)",
+        "cells": {
+          "5f0f5530-ec04-4c43-9360-fbf758bceb26": "partial",
+          "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b": "partial",
+          "c544140c-aeb9-490a-a5db-60592583d94b": "partial",
+          "1453d605-56c3-46ac-a751-bb9378e5642e": "partial",
+          "05ffb382-c5bd-43d5-81cb-137a2b84e06f": "full",
+          "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751": "partial",
+          "cfb4aec3-9410-448e-8f17-3fbe68de179d": "full",
+          "7fe6fef7-7162-4cf0-b7f2-c19070e731df": "partial"
+        }
+      },
+      {
+        "id": "recognizes_marvin_as_hidden_influencer",
+        "label": "Recognizes Marvin as Grace's trusted advisor shaping her position",
+        "cells": {
+          "5f0f5530-ec04-4c43-9360-fbf758bceb26": "full",
+          "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b": "missing",
+          "c544140c-aeb9-490a-a5db-60592583d94b": "full",
+          "1453d605-56c3-46ac-a751-bb9378e5642e": "full",
+          "05ffb382-c5bd-43d5-81cb-137a2b84e06f": "full",
+          "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751": "missing",
+          "cfb4aec3-9410-448e-8f17-3fbe68de179d": "full",
+          "7fe6fef7-7162-4cf0-b7f2-c19070e731df": "full"
+        }
+      },
+      {
+        "id": "sequences_outreach_strategically",
+        "label": "Sequences outreach to address blockers early, build momentum with supporters",
+        "cells": {
+          "5f0f5530-ec04-4c43-9360-fbf758bceb26": "partial",
+          "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b": "partial",
+          "c544140c-aeb9-490a-a5db-60592583d94b": "partial",
+          "1453d605-56c3-46ac-a751-bb9378e5642e": "partial",
+          "05ffb382-c5bd-43d5-81cb-137a2b84e06f": "full",
+          "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751": "partial",
+          "cfb4aec3-9410-448e-8f17-3fbe68de179d": "full",
+          "7fe6fef7-7162-4cf0-b7f2-c19070e731df": "partial"
+        }
+      },
+      {
+        "id": "avoids_overweighting_technical_input",
+        "label": "Avoids overestimating decision-making power of technical experts (Raj)",
+        "cells": {
+          "5f0f5530-ec04-4c43-9360-fbf758bceb26": "partial",
+          "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b": "partial",
+          "c544140c-aeb9-490a-a5db-60592583d94b": "full",
+          "1453d605-56c3-46ac-a751-bb9378e5642e": "missing",
+          "05ffb382-c5bd-43d5-81cb-137a2b84e06f": "partial",
+          "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751": "full",
+          "cfb4aec3-9410-448e-8f17-3fbe68de179d": "missing",
+          "7fe6fef7-7162-4cf0-b7f2-c19070e731df": "partial"
+        }
+      },
+      {
+        "id": "maps_decision_power_vs_information",
+        "label": "Maps who holds decision/veto power versus who holds information only",
+        "cells": {
+          "5f0f5530-ec04-4c43-9360-fbf758bceb26": "partial",
+          "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b": "partial",
+          "c544140c-aeb9-490a-a5db-60592583d94b": "full",
+          "1453d605-56c3-46ac-a751-bb9378e5642e": "missing",
+          "05ffb382-c5bd-43d5-81cb-137a2b84e06f": "missing",
+          "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751": "full",
+          "cfb4aec3-9410-448e-8f17-3fbe68de179d": "full",
+          "7fe6fef7-7162-4cf0-b7f2-c19070e731df": "full"
+        }
+      },
+      {
+        "id": "addresses_blocker_concerns_directly",
+        "label": "Plans direct mitigation of blocker concerns (Grace's ops, Dana's budget) upfront",
+        "cells": {
+          "5f0f5530-ec04-4c43-9360-fbf758bceb26": "partial",
+          "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b": "missing",
+          "c544140c-aeb9-490a-a5db-60592583d94b": "partial",
+          "1453d605-56c3-46ac-a751-bb9378e5642e": "missing",
+          "05ffb382-c5bd-43d5-81cb-137a2b84e06f": "full",
+          "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751": "partial",
+          "cfb4aec3-9410-448e-8f17-3fbe68de179d": "partial",
+          "7fe6fef7-7162-4cf0-b7f2-c19070e731df": "partial"
+        }
+      },
+      {
+        "id": "leverages_supporter_momentum",
+        "label": "Leverages natural supporters early to build coalition before tackling resistance",
+        "cells": {
+          "5f0f5530-ec04-4c43-9360-fbf758bceb26": "partial",
+          "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b": "full",
+          "c544140c-aeb9-490a-a5db-60592583d94b": "missing",
+          "1453d605-56c3-46ac-a751-bb9378e5642e": "partial",
+          "05ffb382-c5bd-43d5-81cb-137a2b84e06f": "full",
+          "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751": "missing",
+          "cfb4aec3-9410-448e-8f17-3fbe68de179d": "full",
+          "7fe6fef7-7162-4cf0-b7f2-c19070e731df": "partial"
+        }
+      }
+    ],
+    "method": "LLM-derived via claude-haiku-4-5: criteria identified from 8 letters, per-team classification of credit."
+  }
 }

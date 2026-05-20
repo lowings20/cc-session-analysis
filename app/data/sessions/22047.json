@@ -1743,5 +1743,17 @@
       "created_at": "2026-04-28T18:50:47.656Z",
       "updated_at": "2026-04-28T18:50:47.656Z"
     }
-  ]
+  ],
+  "rubric_by_chapter": {
+    "e724e890-1956-4bb7-ae42-8eb9896eebeb": {
+      "criteria": [],
+      "team_cells": [],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 10 letters, per-team classification of credit."
+    }
+  },
+  "rubric": {
+    "criteria": [],
+    "team_cells": [],
+    "method": "LLM-derived via claude-haiku-4-5: criteria identified from 10 letters, per-team classification of credit."
+  }
 }

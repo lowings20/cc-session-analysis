@@ -1880,5 +1880,376 @@
       "created_at": "2026-04-17T11:47:37.190Z",
       "updated_at": "2026-04-17T11:47:37.190Z"
     }
-  ]
+  ],
+  "rubric_by_chapter": {
+    "45dd8681-023a-458a-9480-5c699ed76314": {
+      "criteria": [],
+      "team_cells": [],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 11 letters, per-team classification of credit."
+    },
+    "56540d39-9c35-4083-ab28-6dd78ef4f258": {
+      "criteria": [
+        {
+          "id": "explores_stakeholder_perspectives",
+          "label": "Explores perspectives of key stakeholders"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "explores_stakeholder_perspectives",
+          "label": "Explores perspectives of key stakeholders",
+          "cells": {
+            "682efd80-295b-4747-a267-6629fc591e99": "full",
+            "dd6c82d6-3040-49bd-a409-fcf99d9ff4e6": "full",
+            "b220dca7-2574-42fd-aea2-95b3dc75213b": "full",
+            "85704f2f-ab4c-4e09-a7a7-f1957fea45a7": "full",
+            "17de688a-dab0-4433-8edf-895d0da466b9": "full",
+            "92017351-6e8b-4609-9c70-7fa3841ede3a": "full",
+            "daf31db3-c3dd-49a4-bf76-8ab438e28a0e": "full",
+            "9745a9f8-5e7a-44f5-8e45-c54909527a21": "full",
+            "3aff0fc4-b70c-40c4-ab8b-01922f51a4d1": "full",
+            "ccf60fdb-0900-4cbb-96c5-00353e19d078": "full",
+            "df04452f-72fb-4693-a3ad-142f928c8002": "full"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 11 letters, per-team classification of credit."
+    },
+    "8790fc80-aa22-4d3c-8d7e-00689f05be6f": {
+      "criteria": [
+        {
+          "id": "maps_influence_dynamics",
+          "label": "Maps influence dynamics between stakeholders"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "maps_influence_dynamics",
+          "label": "Maps influence dynamics between stakeholders",
+          "cells": {
+            "682efd80-295b-4747-a267-6629fc591e99": "full",
+            "dd6c82d6-3040-49bd-a409-fcf99d9ff4e6": "full",
+            "b220dca7-2574-42fd-aea2-95b3dc75213b": "full",
+            "85704f2f-ab4c-4e09-a7a7-f1957fea45a7": "full",
+            "17de688a-dab0-4433-8edf-895d0da466b9": "full",
+            "92017351-6e8b-4609-9c70-7fa3841ede3a": "full",
+            "daf31db3-c3dd-49a4-bf76-8ab438e28a0e": "full",
+            "9745a9f8-5e7a-44f5-8e45-c54909527a21": "full",
+            "3aff0fc4-b70c-40c4-ab8b-01922f51a4d1": "full",
+            "ccf60fdb-0900-4cbb-96c5-00353e19d078": "full",
+            "df04452f-72fb-4693-a3ad-142f928c8002": "full"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 11 letters, per-team classification of credit."
+    },
+    "a563e32f-b2f6-461a-8f8b-57e097c75cbd": {
+      "criteria": [
+        {
+          "id": "power_source_diagnosis",
+          "label": "Correctly diagnoses stakeholders' power sources (expert, coercive, legitimate, referent)"
+        },
+        {
+          "id": "blocker_identification",
+          "label": "Identifies Grace and Dana as critical blockers with stopping power"
+        },
+        {
+          "id": "marvin_grace_dynamic",
+          "label": "Recognizes Marvin as key influencer of Grace's position"
+        },
+        {
+          "id": "sequencing_strategy",
+          "label": "Develops logical stakeholder engagement sequence with clear rationale"
+        },
+        {
+          "id": "resistance_management",
+          "label": "Identifies specific resistance sources and develops concrete strategies to address them"
+        },
+        {
+          "id": "coalition_building",
+          "label": "Identifies early supporters (Blaine, Marvin) to build momentum before approaching blockers"
+        },
+        {
+          "id": "work_submission",
+          "label": "Submits complete influence strategy on time as assigned"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "power_source_diagnosis",
+          "label": "Correctly diagnoses stakeholders' power sources (expert, coercive, legitimate, referent)",
+          "cells": {
+            "682efd80-295b-4747-a267-6629fc591e99": "missing",
+            "dd6c82d6-3040-49bd-a409-fcf99d9ff4e6": "partial",
+            "b220dca7-2574-42fd-aea2-95b3dc75213b": "partial",
+            "85704f2f-ab4c-4e09-a7a7-f1957fea45a7": "partial",
+            "17de688a-dab0-4433-8edf-895d0da466b9": "missing",
+            "92017351-6e8b-4609-9c70-7fa3841ede3a": "missing",
+            "daf31db3-c3dd-49a4-bf76-8ab438e28a0e": "partial",
+            "9745a9f8-5e7a-44f5-8e45-c54909527a21": "missing",
+            "3aff0fc4-b70c-40c4-ab8b-01922f51a4d1": "full",
+            "ccf60fdb-0900-4cbb-96c5-00353e19d078": "partial",
+            "df04452f-72fb-4693-a3ad-142f928c8002": "missing"
+          }
+        },
+        {
+          "id": "blocker_identification",
+          "label": "Identifies Grace and Dana as critical blockers with stopping power",
+          "cells": {
+            "682efd80-295b-4747-a267-6629fc591e99": "partial",
+            "dd6c82d6-3040-49bd-a409-fcf99d9ff4e6": "partial",
+            "b220dca7-2574-42fd-aea2-95b3dc75213b": "full",
+            "85704f2f-ab4c-4e09-a7a7-f1957fea45a7": "partial",
+            "17de688a-dab0-4433-8edf-895d0da466b9": "full",
+            "92017351-6e8b-4609-9c70-7fa3841ede3a": "full",
+            "daf31db3-c3dd-49a4-bf76-8ab438e28a0e": "full",
+            "9745a9f8-5e7a-44f5-8e45-c54909527a21": "missing",
+            "3aff0fc4-b70c-40c4-ab8b-01922f51a4d1": "full",
+            "ccf60fdb-0900-4cbb-96c5-00353e19d078": "partial",
+            "df04452f-72fb-4693-a3ad-142f928c8002": "partial"
+          }
+        },
+        {
+          "id": "marvin_grace_dynamic",
+          "label": "Recognizes Marvin as key influencer of Grace's position",
+          "cells": {
+            "682efd80-295b-4747-a267-6629fc591e99": "full",
+            "dd6c82d6-3040-49bd-a409-fcf99d9ff4e6": "partial",
+            "b220dca7-2574-42fd-aea2-95b3dc75213b": "full",
+            "85704f2f-ab4c-4e09-a7a7-f1957fea45a7": "partial",
+            "17de688a-dab0-4433-8edf-895d0da466b9": "full",
+            "92017351-6e8b-4609-9c70-7fa3841ede3a": "full",
+            "daf31db3-c3dd-49a4-bf76-8ab438e28a0e": "full",
+            "9745a9f8-5e7a-44f5-8e45-c54909527a21": "missing",
+            "3aff0fc4-b70c-40c4-ab8b-01922f51a4d1": "full",
+            "ccf60fdb-0900-4cbb-96c5-00353e19d078": "missing",
+            "df04452f-72fb-4693-a3ad-142f928c8002": "partial"
+          }
+        },
+        {
+          "id": "sequencing_strategy",
+          "label": "Develops logical stakeholder engagement sequence with clear rationale",
+          "cells": {
+            "682efd80-295b-4747-a267-6629fc591e99": "full",
+            "dd6c82d6-3040-49bd-a409-fcf99d9ff4e6": "partial",
+            "b220dca7-2574-42fd-aea2-95b3dc75213b": "partial",
+            "85704f2f-ab4c-4e09-a7a7-f1957fea45a7": "partial",
+            "17de688a-dab0-4433-8edf-895d0da466b9": "full",
+            "92017351-6e8b-4609-9c70-7fa3841ede3a": "partial",
+            "daf31db3-c3dd-49a4-bf76-8ab438e28a0e": "full",
+            "9745a9f8-5e7a-44f5-8e45-c54909527a21": "missing",
+            "3aff0fc4-b70c-40c4-ab8b-01922f51a4d1": "full",
+            "ccf60fdb-0900-4cbb-96c5-00353e19d078": "partial",
+            "df04452f-72fb-4693-a3ad-142f928c8002": "partial"
+          }
+        },
+        {
+          "id": "resistance_management",
+          "label": "Identifies specific resistance sources and develops concrete strategies to address them",
+          "cells": {
+            "682efd80-295b-4747-a267-6629fc591e99": "full",
+            "dd6c82d6-3040-49bd-a409-fcf99d9ff4e6": "partial",
+            "b220dca7-2574-42fd-aea2-95b3dc75213b": "partial",
+            "85704f2f-ab4c-4e09-a7a7-f1957fea45a7": "missing",
+            "17de688a-dab0-4433-8edf-895d0da466b9": "partial",
+            "92017351-6e8b-4609-9c70-7fa3841ede3a": "partial",
+            "daf31db3-c3dd-49a4-bf76-8ab438e28a0e": "partial",
+            "9745a9f8-5e7a-44f5-8e45-c54909527a21": "missing",
+            "3aff0fc4-b70c-40c4-ab8b-01922f51a4d1": "full",
+            "ccf60fdb-0900-4cbb-96c5-00353e19d078": "partial",
+            "df04452f-72fb-4693-a3ad-142f928c8002": "partial"
+          }
+        },
+        {
+          "id": "coalition_building",
+          "label": "Identifies early supporters (Blaine, Marvin) to build momentum before approaching blockers",
+          "cells": {
+            "682efd80-295b-4747-a267-6629fc591e99": "full",
+            "dd6c82d6-3040-49bd-a409-fcf99d9ff4e6": "missing",
+            "b220dca7-2574-42fd-aea2-95b3dc75213b": "partial",
+            "85704f2f-ab4c-4e09-a7a7-f1957fea45a7": "partial",
+            "17de688a-dab0-4433-8edf-895d0da466b9": "full",
+            "92017351-6e8b-4609-9c70-7fa3841ede3a": "partial",
+            "daf31db3-c3dd-49a4-bf76-8ab438e28a0e": "full",
+            "9745a9f8-5e7a-44f5-8e45-c54909527a21": "missing",
+            "3aff0fc4-b70c-40c4-ab8b-01922f51a4d1": "full",
+            "ccf60fdb-0900-4cbb-96c5-00353e19d078": "partial",
+            "df04452f-72fb-4693-a3ad-142f928c8002": "partial"
+          }
+        },
+        {
+          "id": "work_submission",
+          "label": "Submits complete influence strategy on time as assigned",
+          "cells": {
+            "682efd80-295b-4747-a267-6629fc591e99": "full",
+            "dd6c82d6-3040-49bd-a409-fcf99d9ff4e6": "full",
+            "b220dca7-2574-42fd-aea2-95b3dc75213b": "full",
+            "85704f2f-ab4c-4e09-a7a7-f1957fea45a7": "full",
+            "17de688a-dab0-4433-8edf-895d0da466b9": "full",
+            "92017351-6e8b-4609-9c70-7fa3841ede3a": "full",
+            "daf31db3-c3dd-49a4-bf76-8ab438e28a0e": "full",
+            "9745a9f8-5e7a-44f5-8e45-c54909527a21": "partial",
+            "3aff0fc4-b70c-40c4-ab8b-01922f51a4d1": "full",
+            "ccf60fdb-0900-4cbb-96c5-00353e19d078": "full",
+            "df04452f-72fb-4693-a3ad-142f928c8002": "full"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 11 letters, per-team classification of credit."
+    }
+  },
+  "rubric": {
+    "criteria": [
+      {
+        "id": "power_source_diagnosis",
+        "label": "Correctly diagnoses stakeholders' power sources (expert, coercive, legitimate, referent)"
+      },
+      {
+        "id": "blocker_identification",
+        "label": "Identifies Grace and Dana as critical blockers with stopping power"
+      },
+      {
+        "id": "marvin_grace_dynamic",
+        "label": "Recognizes Marvin as key influencer of Grace's position"
+      },
+      {
+        "id": "sequencing_strategy",
+        "label": "Develops logical stakeholder engagement sequence with clear rationale"
+      },
+      {
+        "id": "resistance_management",
+        "label": "Identifies specific resistance sources and develops concrete strategies to address them"
+      },
+      {
+        "id": "coalition_building",
+        "label": "Identifies early supporters (Blaine, Marvin) to build momentum before approaching blockers"
+      },
+      {
+        "id": "work_submission",
+        "label": "Submits complete influence strategy on time as assigned"
+      }
+    ],
+    "team_cells": [
+      {
+        "id": "power_source_diagnosis",
+        "label": "Correctly diagnoses stakeholders' power sources (expert, coercive, legitimate, referent)",
+        "cells": {
+          "682efd80-295b-4747-a267-6629fc591e99": "missing",
+          "dd6c82d6-3040-49bd-a409-fcf99d9ff4e6": "partial",
+          "b220dca7-2574-42fd-aea2-95b3dc75213b": "partial",
+          "85704f2f-ab4c-4e09-a7a7-f1957fea45a7": "partial",
+          "17de688a-dab0-4433-8edf-895d0da466b9": "missing",
+          "92017351-6e8b-4609-9c70-7fa3841ede3a": "missing",
+          "daf31db3-c3dd-49a4-bf76-8ab438e28a0e": "partial",
+          "9745a9f8-5e7a-44f5-8e45-c54909527a21": "missing",
+          "3aff0fc4-b70c-40c4-ab8b-01922f51a4d1": "full",
+          "ccf60fdb-0900-4cbb-96c5-00353e19d078": "partial",
+          "df04452f-72fb-4693-a3ad-142f928c8002": "missing"
+        }
+      },
+      {
+        "id": "blocker_identification",
+        "label": "Identifies Grace and Dana as critical blockers with stopping power",
+        "cells": {
+          "682efd80-295b-4747-a267-6629fc591e99": "partial",
+          "dd6c82d6-3040-49bd-a409-fcf99d9ff4e6": "partial",
+          "b220dca7-2574-42fd-aea2-95b3dc75213b": "full",
+          "85704f2f-ab4c-4e09-a7a7-f1957fea45a7": "partial",
+          "17de688a-dab0-4433-8edf-895d0da466b9": "full",
+          "92017351-6e8b-4609-9c70-7fa3841ede3a": "full",
+          "daf31db3-c3dd-49a4-bf76-8ab438e28a0e": "full",
+          "9745a9f8-5e7a-44f5-8e45-c54909527a21": "missing",
+          "3aff0fc4-b70c-40c4-ab8b-01922f51a4d1": "full",
+          "ccf60fdb-0900-4cbb-96c5-00353e19d078": "partial",
+          "df04452f-72fb-4693-a3ad-142f928c8002": "partial"
+        }
+      },
+      {
+        "id": "marvin_grace_dynamic",
+        "label": "Recognizes Marvin as key influencer of Grace's position",
+        "cells": {
+          "682efd80-295b-4747-a267-6629fc591e99": "full",
+          "dd6c82d6-3040-49bd-a409-fcf99d9ff4e6": "partial",
+          "b220dca7-2574-42fd-aea2-95b3dc75213b": "full",
+          "85704f2f-ab4c-4e09-a7a7-f1957fea45a7": "partial",
+          "17de688a-dab0-4433-8edf-895d0da466b9": "full",
+          "92017351-6e8b-4609-9c70-7fa3841ede3a": "full",
+          "daf31db3-c3dd-49a4-bf76-8ab438e28a0e": "full",
+          "9745a9f8-5e7a-44f5-8e45-c54909527a21": "missing",
+          "3aff0fc4-b70c-40c4-ab8b-01922f51a4d1": "full",
+          "ccf60fdb-0900-4cbb-96c5-00353e19d078": "missing",
+          "df04452f-72fb-4693-a3ad-142f928c8002": "partial"
+        }
+      },
+      {
+        "id": "sequencing_strategy",
+        "label": "Develops logical stakeholder engagement sequence with clear rationale",
+        "cells": {
+          "682efd80-295b-4747-a267-6629fc591e99": "full",
+          "dd6c82d6-3040-49bd-a409-fcf99d9ff4e6": "partial",
+          "b220dca7-2574-42fd-aea2-95b3dc75213b": "partial",
+          "85704f2f-ab4c-4e09-a7a7-f1957fea45a7": "partial",
+          "17de688a-dab0-4433-8edf-895d0da466b9": "full",
+          "92017351-6e8b-4609-9c70-7fa3841ede3a": "partial",
+          "daf31db3-c3dd-49a4-bf76-8ab438e28a0e": "full",
+          "9745a9f8-5e7a-44f5-8e45-c54909527a21": "missing",
+          "3aff0fc4-b70c-40c4-ab8b-01922f51a4d1": "full",
+          "ccf60fdb-0900-4cbb-96c5-00353e19d078": "partial",
+          "df04452f-72fb-4693-a3ad-142f928c8002": "partial"
+        }
+      },
+      {
+        "id": "resistance_management",
+        "label": "Identifies specific resistance sources and develops concrete strategies to address them",
+        "cells": {
+          "682efd80-295b-4747-a267-6629fc591e99": "full",
+          "dd6c82d6-3040-49bd-a409-fcf99d9ff4e6": "partial",
+          "b220dca7-2574-42fd-aea2-95b3dc75213b": "partial",
+          "85704f2f-ab4c-4e09-a7a7-f1957fea45a7": "missing",
+          "17de688a-dab0-4433-8edf-895d0da466b9": "partial",
+          "92017351-6e8b-4609-9c70-7fa3841ede3a": "partial",
+          "daf31db3-c3dd-49a4-bf76-8ab438e28a0e": "partial",
+          "9745a9f8-5e7a-44f5-8e45-c54909527a21": "missing",
+          "3aff0fc4-b70c-40c4-ab8b-01922f51a4d1": "full",
+          "ccf60fdb-0900-4cbb-96c5-00353e19d078": "partial",
+          "df04452f-72fb-4693-a3ad-142f928c8002": "partial"
+        }
+      },
+      {
+        "id": "coalition_building",
+        "label": "Identifies early supporters (Blaine, Marvin) to build momentum before approaching blockers",
+        "cells": {
+          "682efd80-295b-4747-a267-6629fc591e99": "full",
+          "dd6c82d6-3040-49bd-a409-fcf99d9ff4e6": "missing",
+          "b220dca7-2574-42fd-aea2-95b3dc75213b": "partial",
+          "85704f2f-ab4c-4e09-a7a7-f1957fea45a7": "partial",
+          "17de688a-dab0-4433-8edf-895d0da466b9": "full",
+          "92017351-6e8b-4609-9c70-7fa3841ede3a": "partial",
+          "daf31db3-c3dd-49a4-bf76-8ab438e28a0e": "full",
+          "9745a9f8-5e7a-44f5-8e45-c54909527a21": "missing",
+          "3aff0fc4-b70c-40c4-ab8b-01922f51a4d1": "full",
+          "ccf60fdb-0900-4cbb-96c5-00353e19d078": "partial",
+          "df04452f-72fb-4693-a3ad-142f928c8002": "partial"
+        }
+      },
+      {
+        "id": "work_submission",
+        "label": "Submits complete influence strategy on time as assigned",
+        "cells": {
+          "682efd80-295b-4747-a267-6629fc591e99": "full",
+          "dd6c82d6-3040-49bd-a409-fcf99d9ff4e6": "full",
+          "b220dca7-2574-42fd-aea2-95b3dc75213b": "full",
+          "85704f2f-ab4c-4e09-a7a7-f1957fea45a7": "full",
+          "17de688a-dab0-4433-8edf-895d0da466b9": "full",
+          "92017351-6e8b-4609-9c70-7fa3841ede3a": "full",
+          "daf31db3-c3dd-49a4-bf76-8ab438e28a0e": "full",
+          "9745a9f8-5e7a-44f5-8e45-c54909527a21": "partial",
+          "3aff0fc4-b70c-40c4-ab8b-01922f51a4d1": "full",
+          "ccf60fdb-0900-4cbb-96c5-00353e19d078": "full",
+          "df04452f-72fb-4693-a3ad-142f928c8002": "full"
+        }
+      }
+    ],
+    "method": "LLM-derived via claude-haiku-4-5: criteria identified from 11 letters, per-team classification of credit."
+  }
 }

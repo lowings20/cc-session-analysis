@@ -1405,5 +1405,539 @@
       "created_at": "2026-05-06T17:23:19.369Z",
       "updated_at": "2026-05-06T17:23:19.369Z"
     }
-  ]
+  ],
+  "rubric_by_chapter": {
+    "1d91f2b3-2520-4c63-8150-76430f7a2303": {
+      "criteria": [
+        {
+          "id": "captures_underlying_capabilities",
+          "label": "Identifies underlying technical/operational capabilities, not just outcomes"
+        },
+        {
+          "id": "tests_competitive_defensibility",
+          "label": "Probes what makes competencies hard for competitors to replicate"
+        },
+        {
+          "id": "explores_financial_impact",
+          "label": "Validates whether competencies drive revenue or financial results"
+        },
+        {
+          "id": "assesses_market_transferability",
+          "label": "Tests whether competencies could unlock adjacent markets or new categories"
+        },
+        {
+          "id": "stays_in_discovery_mode",
+          "label": "Maintains discovery focus and resists jumping to solutions prematurely"
+        },
+        {
+          "id": "extracts_partnership_insights",
+          "label": "Explores key relationships and partnerships that create competitive advantage"
+        },
+        {
+          "id": "builds_rapport_with_source",
+          "label": "Demonstrates professional communication that keeps interview subject engaged"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "captures_underlying_capabilities",
+          "label": "Identifies underlying technical/operational capabilities, not just outcomes",
+          "cells": {
+            "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "partial",
+            "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "partial",
+            "694da0ea-afdd-490e-9111-25129a69d2e2": "partial",
+            "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "partial",
+            "60c83467-0223-4098-a28c-dd89978af39b": "partial",
+            "e74d2042-7ff9-4649-9fce-391450262489": "partial",
+            "3d96295a-eee4-479b-9afe-e28a54f8d26d": "full",
+            "20fad543-22c4-452b-9fc5-437e34763d99": "full"
+          }
+        },
+        {
+          "id": "tests_competitive_defensibility",
+          "label": "Probes what makes competencies hard for competitors to replicate",
+          "cells": {
+            "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "full",
+            "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "partial",
+            "694da0ea-afdd-490e-9111-25129a69d2e2": "partial",
+            "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "full",
+            "60c83467-0223-4098-a28c-dd89978af39b": "partial",
+            "e74d2042-7ff9-4649-9fce-391450262489": "partial",
+            "3d96295a-eee4-479b-9afe-e28a54f8d26d": "full",
+            "20fad543-22c4-452b-9fc5-437e34763d99": "partial"
+          }
+        },
+        {
+          "id": "explores_financial_impact",
+          "label": "Validates whether competencies drive revenue or financial results",
+          "cells": {
+            "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "full",
+            "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "missing",
+            "694da0ea-afdd-490e-9111-25129a69d2e2": "missing",
+            "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "partial",
+            "60c83467-0223-4098-a28c-dd89978af39b": "partial",
+            "e74d2042-7ff9-4649-9fce-391450262489": "missing",
+            "3d96295a-eee4-479b-9afe-e28a54f8d26d": "full",
+            "20fad543-22c4-452b-9fc5-437e34763d99": "full"
+          }
+        },
+        {
+          "id": "assesses_market_transferability",
+          "label": "Tests whether competencies could unlock adjacent markets or new categories",
+          "cells": {
+            "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "partial",
+            "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "partial",
+            "694da0ea-afdd-490e-9111-25129a69d2e2": "missing",
+            "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "partial",
+            "60c83467-0223-4098-a28c-dd89978af39b": "partial",
+            "e74d2042-7ff9-4649-9fce-391450262489": "partial",
+            "3d96295a-eee4-479b-9afe-e28a54f8d26d": "full",
+            "20fad543-22c4-452b-9fc5-437e34763d99": "full"
+          }
+        },
+        {
+          "id": "stays_in_discovery_mode",
+          "label": "Maintains discovery focus and resists jumping to solutions prematurely",
+          "cells": {
+            "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "full",
+            "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "full",
+            "694da0ea-afdd-490e-9111-25129a69d2e2": "full",
+            "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "full",
+            "60c83467-0223-4098-a28c-dd89978af39b": "full",
+            "e74d2042-7ff9-4649-9fce-391450262489": "partial",
+            "3d96295a-eee4-479b-9afe-e28a54f8d26d": "full",
+            "20fad543-22c4-452b-9fc5-437e34763d99": "full"
+          }
+        },
+        {
+          "id": "extracts_partnership_insights",
+          "label": "Explores key relationships and partnerships that create competitive advantage",
+          "cells": {
+            "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "partial",
+            "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "missing",
+            "694da0ea-afdd-490e-9111-25129a69d2e2": "missing",
+            "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "partial",
+            "60c83467-0223-4098-a28c-dd89978af39b": "missing",
+            "e74d2042-7ff9-4649-9fce-391450262489": "missing",
+            "3d96295a-eee4-479b-9afe-e28a54f8d26d": "full",
+            "20fad543-22c4-452b-9fc5-437e34763d99": "missing"
+          }
+        },
+        {
+          "id": "builds_rapport_with_source",
+          "label": "Demonstrates professional communication that keeps interview subject engaged",
+          "cells": {
+            "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "missing",
+            "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "full",
+            "694da0ea-afdd-490e-9111-25129a69d2e2": "full",
+            "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "full",
+            "60c83467-0223-4098-a28c-dd89978af39b": "full",
+            "e74d2042-7ff9-4649-9fce-391450262489": "missing",
+            "3d96295a-eee4-479b-9afe-e28a54f8d26d": "full",
+            "20fad543-22c4-452b-9fc5-437e34763d99": "full"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 8 letters, per-team classification of credit."
+    },
+    "cac0a96c-6187-4e9c-82d9-7c5cb3d99374": {
+      "criteria": [
+        {
+          "id": "asks_follow_up_questions",
+          "label": "Asks follow-up questions to probe deeper into Andrea's responses"
+        },
+        {
+          "id": "identifies_target_customer",
+          "label": "Clearly identifies and defines the specific target customer (demographics, psychographics, mindset)"
+        },
+        {
+          "id": "covers_positioning_elements",
+          "label": "Covers all essential positioning elements (audience, competition, value prop, proof points)"
+        },
+        {
+          "id": "crafts_tight_positioning_statement",
+          "label": "Develops a crisp, actionable positioning statement that guides product decisions"
+        },
+        {
+          "id": "identifies_emotional_core",
+          "label": "Surfaces and articulates the emotional value proposition and brand essence"
+        },
+        {
+          "id": "iterates_on_positioning",
+          "label": "Refines positioning through listening and iteration rather than settling on first draft"
+        },
+        {
+          "id": "avoids_generic_or_unvalidated_claims",
+          "label": "Avoids generic language and unvalidated claims in positioning statements"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "asks_follow_up_questions",
+          "label": "Asks follow-up questions to probe deeper into Andrea's responses",
+          "cells": {
+            "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "partial",
+            "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "full",
+            "694da0ea-afdd-490e-9111-25129a69d2e2": "full",
+            "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "full",
+            "60c83467-0223-4098-a28c-dd89978af39b": "partial",
+            "e74d2042-7ff9-4649-9fce-391450262489": "partial",
+            "3d96295a-eee4-479b-9afe-e28a54f8d26d": "full",
+            "20fad543-22c4-452b-9fc5-437e34763d99": "full"
+          }
+        },
+        {
+          "id": "identifies_target_customer",
+          "label": "Clearly identifies and defines the specific target customer (demographics, psychographics, mindset)",
+          "cells": {
+            "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "full",
+            "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "partial",
+            "694da0ea-afdd-490e-9111-25129a69d2e2": "missing",
+            "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "missing",
+            "60c83467-0223-4098-a28c-dd89978af39b": "partial",
+            "e74d2042-7ff9-4649-9fce-391450262489": "missing",
+            "3d96295a-eee4-479b-9afe-e28a54f8d26d": "full",
+            "20fad543-22c4-452b-9fc5-437e34763d99": "missing"
+          }
+        },
+        {
+          "id": "covers_positioning_elements",
+          "label": "Covers all essential positioning elements (audience, competition, value prop, proof points)",
+          "cells": {
+            "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "full",
+            "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "full",
+            "694da0ea-afdd-490e-9111-25129a69d2e2": "full",
+            "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "full",
+            "60c83467-0223-4098-a28c-dd89978af39b": "full",
+            "e74d2042-7ff9-4649-9fce-391450262489": "partial",
+            "3d96295a-eee4-479b-9afe-e28a54f8d26d": "full",
+            "20fad543-22c4-452b-9fc5-437e34763d99": "full"
+          }
+        },
+        {
+          "id": "crafts_tight_positioning_statement",
+          "label": "Develops a crisp, actionable positioning statement that guides product decisions",
+          "cells": {
+            "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "full",
+            "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "full",
+            "694da0ea-afdd-490e-9111-25129a69d2e2": "partial",
+            "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "full",
+            "60c83467-0223-4098-a28c-dd89978af39b": "partial",
+            "e74d2042-7ff9-4649-9fce-391450262489": "partial",
+            "3d96295a-eee4-479b-9afe-e28a54f8d26d": "full",
+            "20fad543-22c4-452b-9fc5-437e34763d99": "full"
+          }
+        },
+        {
+          "id": "identifies_emotional_core",
+          "label": "Surfaces and articulates the emotional value proposition and brand essence",
+          "cells": {
+            "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "full",
+            "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "full",
+            "694da0ea-afdd-490e-9111-25129a69d2e2": "full",
+            "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "full",
+            "60c83467-0223-4098-a28c-dd89978af39b": "partial",
+            "e74d2042-7ff9-4649-9fce-391450262489": "missing",
+            "3d96295a-eee4-479b-9afe-e28a54f8d26d": "full",
+            "20fad543-22c4-452b-9fc5-437e34763d99": "full"
+          }
+        },
+        {
+          "id": "iterates_on_positioning",
+          "label": "Refines positioning through listening and iteration rather than settling on first draft",
+          "cells": {
+            "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "missing",
+            "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "missing",
+            "694da0ea-afdd-490e-9111-25129a69d2e2": "partial",
+            "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "full",
+            "60c83467-0223-4098-a28c-dd89978af39b": "partial",
+            "e74d2042-7ff9-4649-9fce-391450262489": "missing",
+            "3d96295a-eee4-479b-9afe-e28a54f8d26d": "full",
+            "20fad543-22c4-452b-9fc5-437e34763d99": "partial"
+          }
+        },
+        {
+          "id": "avoids_generic_or_unvalidated_claims",
+          "label": "Avoids generic language and unvalidated claims in positioning statements",
+          "cells": {
+            "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "missing",
+            "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "missing",
+            "694da0ea-afdd-490e-9111-25129a69d2e2": "missing",
+            "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "full",
+            "60c83467-0223-4098-a28c-dd89978af39b": "partial",
+            "e74d2042-7ff9-4649-9fce-391450262489": "partial",
+            "3d96295a-eee4-479b-9afe-e28a54f8d26d": "full",
+            "20fad543-22c4-452b-9fc5-437e34763d99": "partial"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 8 letters, per-team classification of credit."
+    },
+    "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8": {
+      "criteria": [
+        {
+          "id": "grounds_recommendation_in_core_competencies",
+          "label": "Grounds recommendation in Echelon's core competencies"
+        },
+        {
+          "id": "arrives_with_specific_recommendation",
+          "label": "Arrives with specific, concrete recommendation (not exploratory)"
+        },
+        {
+          "id": "articulates_clear_brand_promise",
+          "label": "Articulates crisp customer promise or brand positioning rationale"
+        },
+        {
+          "id": "aligns_team_on_vision_and_sequencing",
+          "label": "Achieves executive alignment on shared vision and next steps"
+        },
+        {
+          "id": "deepens_when_challenged",
+          "label": "Deepens reasoning when executives push back (vs. pivoting)"
+        },
+        {
+          "id": "demonstrates_listening_and_adaptation",
+          "label": "Listens carefully and adapts without losing strategic anchor"
+        },
+        {
+          "id": "provides_scaling_logic",
+          "label": "Provides clear logic for how recommendation scales revenue/operations"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "grounds_recommendation_in_core_competencies",
+          "label": "Grounds recommendation in Echelon's core competencies",
+          "cells": {
+            "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "full",
+            "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "full",
+            "694da0ea-afdd-490e-9111-25129a69d2e2": "full",
+            "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "partial",
+            "60c83467-0223-4098-a28c-dd89978af39b": "full",
+            "e74d2042-7ff9-4649-9fce-391450262489": "full",
+            "3d96295a-eee4-479b-9afe-e28a54f8d26d": "partial",
+            "20fad543-22c4-452b-9fc5-437e34763d99": "full"
+          }
+        },
+        {
+          "id": "arrives_with_specific_recommendation",
+          "label": "Arrives with specific, concrete recommendation (not exploratory)",
+          "cells": {
+            "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "full",
+            "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "full",
+            "694da0ea-afdd-490e-9111-25129a69d2e2": "full",
+            "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "partial",
+            "60c83467-0223-4098-a28c-dd89978af39b": "full",
+            "e74d2042-7ff9-4649-9fce-391450262489": "partial",
+            "3d96295a-eee4-479b-9afe-e28a54f8d26d": "missing",
+            "20fad543-22c4-452b-9fc5-437e34763d99": "partial"
+          }
+        },
+        {
+          "id": "articulates_clear_brand_promise",
+          "label": "Articulates crisp customer promise or brand positioning rationale",
+          "cells": {
+            "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "full",
+            "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "full",
+            "694da0ea-afdd-490e-9111-25129a69d2e2": "partial",
+            "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "partial",
+            "60c83467-0223-4098-a28c-dd89978af39b": "full",
+            "e74d2042-7ff9-4649-9fce-391450262489": "full",
+            "3d96295a-eee4-479b-9afe-e28a54f8d26d": "partial",
+            "20fad543-22c4-452b-9fc5-437e34763d99": "full"
+          }
+        },
+        {
+          "id": "aligns_team_on_vision_and_sequencing",
+          "label": "Achieves executive alignment on shared vision and next steps",
+          "cells": {
+            "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "full",
+            "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "full",
+            "694da0ea-afdd-490e-9111-25129a69d2e2": "partial",
+            "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "missing",
+            "60c83467-0223-4098-a28c-dd89978af39b": "full",
+            "e74d2042-7ff9-4649-9fce-391450262489": "full",
+            "3d96295a-eee4-479b-9afe-e28a54f8d26d": "missing",
+            "20fad543-22c4-452b-9fc5-437e34763d99": "full"
+          }
+        },
+        {
+          "id": "deepens_when_challenged",
+          "label": "Deepens reasoning when executives push back (vs. pivoting)",
+          "cells": {
+            "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "missing",
+            "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "full",
+            "694da0ea-afdd-490e-9111-25129a69d2e2": "full",
+            "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "partial",
+            "60c83467-0223-4098-a28c-dd89978af39b": "missing",
+            "e74d2042-7ff9-4649-9fce-391450262489": "full",
+            "3d96295a-eee4-479b-9afe-e28a54f8d26d": "missing",
+            "20fad543-22c4-452b-9fc5-437e34763d99": "partial"
+          }
+        },
+        {
+          "id": "demonstrates_listening_and_adaptation",
+          "label": "Listens carefully and adapts without losing strategic anchor",
+          "cells": {
+            "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "full",
+            "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "full",
+            "694da0ea-afdd-490e-9111-25129a69d2e2": "full",
+            "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "partial",
+            "60c83467-0223-4098-a28c-dd89978af39b": "full",
+            "e74d2042-7ff9-4649-9fce-391450262489": "full",
+            "3d96295a-eee4-479b-9afe-e28a54f8d26d": "full",
+            "20fad543-22c4-452b-9fc5-437e34763d99": "full"
+          }
+        },
+        {
+          "id": "provides_scaling_logic",
+          "label": "Provides clear logic for how recommendation scales revenue/operations",
+          "cells": {
+            "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "partial",
+            "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "full",
+            "694da0ea-afdd-490e-9111-25129a69d2e2": "missing",
+            "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "partial",
+            "60c83467-0223-4098-a28c-dd89978af39b": "full",
+            "e74d2042-7ff9-4649-9fce-391450262489": "missing",
+            "3d96295a-eee4-479b-9afe-e28a54f8d26d": "missing",
+            "20fad543-22c4-452b-9fc5-437e34763d99": "missing"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 8 letters, per-team classification of credit."
+    }
+  },
+  "rubric": {
+    "criteria": [
+      {
+        "id": "grounds_recommendation_in_core_competencies",
+        "label": "Grounds recommendation in Echelon's core competencies"
+      },
+      {
+        "id": "arrives_with_specific_recommendation",
+        "label": "Arrives with specific, concrete recommendation (not exploratory)"
+      },
+      {
+        "id": "articulates_clear_brand_promise",
+        "label": "Articulates crisp customer promise or brand positioning rationale"
+      },
+      {
+        "id": "aligns_team_on_vision_and_sequencing",
+        "label": "Achieves executive alignment on shared vision and next steps"
+      },
+      {
+        "id": "deepens_when_challenged",
+        "label": "Deepens reasoning when executives push back (vs. pivoting)"
+      },
+      {
+        "id": "demonstrates_listening_and_adaptation",
+        "label": "Listens carefully and adapts without losing strategic anchor"
+      },
+      {
+        "id": "provides_scaling_logic",
+        "label": "Provides clear logic for how recommendation scales revenue/operations"
+      }
+    ],
+    "team_cells": [
+      {
+        "id": "grounds_recommendation_in_core_competencies",
+        "label": "Grounds recommendation in Echelon's core competencies",
+        "cells": {
+          "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "full",
+          "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "full",
+          "694da0ea-afdd-490e-9111-25129a69d2e2": "full",
+          "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "partial",
+          "60c83467-0223-4098-a28c-dd89978af39b": "full",
+          "e74d2042-7ff9-4649-9fce-391450262489": "full",
+          "3d96295a-eee4-479b-9afe-e28a54f8d26d": "partial",
+          "20fad543-22c4-452b-9fc5-437e34763d99": "full"
+        }
+      },
+      {
+        "id": "arrives_with_specific_recommendation",
+        "label": "Arrives with specific, concrete recommendation (not exploratory)",
+        "cells": {
+          "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "full",
+          "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "full",
+          "694da0ea-afdd-490e-9111-25129a69d2e2": "full",
+          "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "partial",
+          "60c83467-0223-4098-a28c-dd89978af39b": "full",
+          "e74d2042-7ff9-4649-9fce-391450262489": "partial",
+          "3d96295a-eee4-479b-9afe-e28a54f8d26d": "missing",
+          "20fad543-22c4-452b-9fc5-437e34763d99": "partial"
+        }
+      },
+      {
+        "id": "articulates_clear_brand_promise",
+        "label": "Articulates crisp customer promise or brand positioning rationale",
+        "cells": {
+          "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "full",
+          "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "full",
+          "694da0ea-afdd-490e-9111-25129a69d2e2": "partial",
+          "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "partial",
+          "60c83467-0223-4098-a28c-dd89978af39b": "full",
+          "e74d2042-7ff9-4649-9fce-391450262489": "full",
+          "3d96295a-eee4-479b-9afe-e28a54f8d26d": "partial",
+          "20fad543-22c4-452b-9fc5-437e34763d99": "full"
+        }
+      },
+      {
+        "id": "aligns_team_on_vision_and_sequencing",
+        "label": "Achieves executive alignment on shared vision and next steps",
+        "cells": {
+          "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "full",
+          "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "full",
+          "694da0ea-afdd-490e-9111-25129a69d2e2": "partial",
+          "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "missing",
+          "60c83467-0223-4098-a28c-dd89978af39b": "full",
+          "e74d2042-7ff9-4649-9fce-391450262489": "full",
+          "3d96295a-eee4-479b-9afe-e28a54f8d26d": "missing",
+          "20fad543-22c4-452b-9fc5-437e34763d99": "full"
+        }
+      },
+      {
+        "id": "deepens_when_challenged",
+        "label": "Deepens reasoning when executives push back (vs. pivoting)",
+        "cells": {
+          "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "missing",
+          "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "full",
+          "694da0ea-afdd-490e-9111-25129a69d2e2": "full",
+          "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "partial",
+          "60c83467-0223-4098-a28c-dd89978af39b": "missing",
+          "e74d2042-7ff9-4649-9fce-391450262489": "full",
+          "3d96295a-eee4-479b-9afe-e28a54f8d26d": "missing",
+          "20fad543-22c4-452b-9fc5-437e34763d99": "partial"
+        }
+      },
+      {
+        "id": "demonstrates_listening_and_adaptation",
+        "label": "Listens carefully and adapts without losing strategic anchor",
+        "cells": {
+          "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "full",
+          "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "full",
+          "694da0ea-afdd-490e-9111-25129a69d2e2": "full",
+          "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "partial",
+          "60c83467-0223-4098-a28c-dd89978af39b": "full",
+          "e74d2042-7ff9-4649-9fce-391450262489": "full",
+          "3d96295a-eee4-479b-9afe-e28a54f8d26d": "full",
+          "20fad543-22c4-452b-9fc5-437e34763d99": "full"
+        }
+      },
+      {
+        "id": "provides_scaling_logic",
+        "label": "Provides clear logic for how recommendation scales revenue/operations",
+        "cells": {
+          "da6c8ac1-b059-40b2-9254-b11c24f26fc1": "partial",
+          "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": "full",
+          "694da0ea-afdd-490e-9111-25129a69d2e2": "missing",
+          "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": "partial",
+          "60c83467-0223-4098-a28c-dd89978af39b": "full",
+          "e74d2042-7ff9-4649-9fce-391450262489": "missing",
+          "3d96295a-eee4-479b-9afe-e28a54f8d26d": "missing",
+          "20fad543-22c4-452b-9fc5-437e34763d99": "missing"
+        }
+      }
+    ],
+    "method": "LLM-derived via claude-haiku-4-5: criteria identified from 8 letters, per-team classification of credit."
+  }
 }

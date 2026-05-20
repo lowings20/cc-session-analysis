@@ -2053,5 +2053,409 @@
       "created_at": "2026-04-15T16:41:15.034Z",
       "updated_at": "2026-04-15T16:41:15.034Z"
     }
-  ]
+  ],
+  "rubric_by_chapter": {
+    "56540d39-9c35-4083-ab28-6dd78ef4f258": {
+      "criteria": [
+        {
+          "id": "stakeholder_perspective_exploration",
+          "label": "Explores perspectives of key stakeholders"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "stakeholder_perspective_exploration",
+          "label": "Explores perspectives of key stakeholders",
+          "cells": {
+            "b58c8833-367e-4229-a0ef-1ae324fda9bf": "full",
+            "4701260c-46dc-4af5-aa9c-76c2a2ee16d4": "full",
+            "eb6eba36-8ebd-42ef-aa83-3b82298b301d": "full",
+            "40347058-176e-445a-ba37-5d1ebda9aee9": "full",
+            "fe526ec7-8944-4c66-aaf5-fddd2fbd4409": "full",
+            "faee6b09-4d89-4fdb-9569-911a9f1b3486": "full",
+            "edb18006-e1dd-446f-bafa-6cbdbc139dd4": "full",
+            "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6": "full",
+            "1d24980f-6b79-4101-a244-85a31e38a06c": "full",
+            "2f901bf5-b048-45da-b103-7ee51993f754": "full",
+            "2dfe0726-9b7b-41fb-8303-a6734911675b": "full",
+            "d17395f5-6578-447f-a52c-3effdd3ca599": "full"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 12 letters, per-team classification of credit."
+    },
+    "8790fc80-aa22-4d3c-8d7e-00689f05be6f": {
+      "criteria": [
+        {
+          "id": "maps_influence_dynamics",
+          "label": "Maps influence dynamics among stakeholders"
+        },
+        {
+          "id": "identifies_mei_as_focus",
+          "label": "Identifies Mei as key target for influencing strategy"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "maps_influence_dynamics",
+          "label": "Maps influence dynamics among stakeholders",
+          "cells": {
+            "b58c8833-367e-4229-a0ef-1ae324fda9bf": "full",
+            "4701260c-46dc-4af5-aa9c-76c2a2ee16d4": "full",
+            "eb6eba36-8ebd-42ef-aa83-3b82298b301d": "full",
+            "40347058-176e-445a-ba37-5d1ebda9aee9": "full",
+            "fe526ec7-8944-4c66-aaf5-fddd2fbd4409": "full",
+            "faee6b09-4d89-4fdb-9569-911a9f1b3486": "full",
+            "edb18006-e1dd-446f-bafa-6cbdbc139dd4": "full",
+            "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6": "full",
+            "1d24980f-6b79-4101-a244-85a31e38a06c": "full",
+            "2f901bf5-b048-45da-b103-7ee51993f754": "full",
+            "2dfe0726-9b7b-41fb-8303-a6734911675b": "full",
+            "d17395f5-6578-447f-a52c-3effdd3ca599": "full"
+          }
+        },
+        {
+          "id": "identifies_mei_as_focus",
+          "label": "Identifies Mei as key target for influencing strategy",
+          "cells": {
+            "b58c8833-367e-4229-a0ef-1ae324fda9bf": "partial",
+            "4701260c-46dc-4af5-aa9c-76c2a2ee16d4": "partial",
+            "eb6eba36-8ebd-42ef-aa83-3b82298b301d": "partial",
+            "40347058-176e-445a-ba37-5d1ebda9aee9": "partial",
+            "fe526ec7-8944-4c66-aaf5-fddd2fbd4409": "partial",
+            "faee6b09-4d89-4fdb-9569-911a9f1b3486": "partial",
+            "edb18006-e1dd-446f-bafa-6cbdbc139dd4": "partial",
+            "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6": "partial",
+            "1d24980f-6b79-4101-a244-85a31e38a06c": "partial",
+            "2f901bf5-b048-45da-b103-7ee51993f754": "partial",
+            "2dfe0726-9b7b-41fb-8303-a6734911675b": "partial",
+            "d17395f5-6578-447f-a52c-3effdd3ca599": "partial"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 12 letters, per-team classification of credit."
+    },
+    "a563e32f-b2f6-461a-8f8b-57e097c75cbd": {
+      "criteria": [
+        {
+          "id": "identifies_grace_as_critical_first_mover",
+          "label": "Identifies Grace as critical first mover in manufacturing"
+        },
+        {
+          "id": "maps_marvin_grace_influence_relationship",
+          "label": "Maps Marvin's influence on Grace's position"
+        },
+        {
+          "id": "recognizes_dana_financial_gatekeeping_power",
+          "label": "Recognizes Dana's financial gatekeeping as blocking risk"
+        },
+        {
+          "id": "sequences_coalition_building_strategically",
+          "label": "Sequences influence approach (supporters before blockers)"
+        },
+        {
+          "id": "identifies_blaine_as_natural_ally",
+          "label": "Identifies Blaine as natural early supporter/champion"
+        },
+        {
+          "id": "calibrates_stakeholder_power_levels_accurately",
+          "label": "Distinguishes primary blockers from secondary influencers"
+        },
+        {
+          "id": "connects_concerns_to_persuasion_tactics",
+          "label": "Links stakeholder concerns to tailored persuasion approaches"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "identifies_grace_as_critical_first_mover",
+          "label": "Identifies Grace as critical first mover in manufacturing",
+          "cells": {
+            "b58c8833-367e-4229-a0ef-1ae324fda9bf": "partial",
+            "4701260c-46dc-4af5-aa9c-76c2a2ee16d4": "partial",
+            "eb6eba36-8ebd-42ef-aa83-3b82298b301d": "partial",
+            "40347058-176e-445a-ba37-5d1ebda9aee9": "full",
+            "fe526ec7-8944-4c66-aaf5-fddd2fbd4409": "partial",
+            "faee6b09-4d89-4fdb-9569-911a9f1b3486": "partial",
+            "edb18006-e1dd-446f-bafa-6cbdbc139dd4": "partial",
+            "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6": "full",
+            "1d24980f-6b79-4101-a244-85a31e38a06c": "full",
+            "2f901bf5-b048-45da-b103-7ee51993f754": "partial",
+            "2dfe0726-9b7b-41fb-8303-a6734911675b": "partial",
+            "d17395f5-6578-447f-a52c-3effdd3ca599": "full"
+          }
+        },
+        {
+          "id": "maps_marvin_grace_influence_relationship",
+          "label": "Maps Marvin's influence on Grace's position",
+          "cells": {
+            "b58c8833-367e-4229-a0ef-1ae324fda9bf": "full",
+            "4701260c-46dc-4af5-aa9c-76c2a2ee16d4": "partial",
+            "eb6eba36-8ebd-42ef-aa83-3b82298b301d": "full",
+            "40347058-176e-445a-ba37-5d1ebda9aee9": "full",
+            "fe526ec7-8944-4c66-aaf5-fddd2fbd4409": "partial",
+            "faee6b09-4d89-4fdb-9569-911a9f1b3486": "full",
+            "edb18006-e1dd-446f-bafa-6cbdbc139dd4": "partial",
+            "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6": "full",
+            "1d24980f-6b79-4101-a244-85a31e38a06c": "full",
+            "2f901bf5-b048-45da-b103-7ee51993f754": "partial",
+            "2dfe0726-9b7b-41fb-8303-a6734911675b": "full",
+            "d17395f5-6578-447f-a52c-3effdd3ca599": "full"
+          }
+        },
+        {
+          "id": "recognizes_dana_financial_gatekeeping_power",
+          "label": "Recognizes Dana's financial gatekeeping as blocking risk",
+          "cells": {
+            "b58c8833-367e-4229-a0ef-1ae324fda9bf": "full",
+            "4701260c-46dc-4af5-aa9c-76c2a2ee16d4": "full",
+            "eb6eba36-8ebd-42ef-aa83-3b82298b301d": "full",
+            "40347058-176e-445a-ba37-5d1ebda9aee9": "partial",
+            "fe526ec7-8944-4c66-aaf5-fddd2fbd4409": "full",
+            "faee6b09-4d89-4fdb-9569-911a9f1b3486": "partial",
+            "edb18006-e1dd-446f-bafa-6cbdbc139dd4": "full",
+            "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6": "full",
+            "1d24980f-6b79-4101-a244-85a31e38a06c": "full",
+            "2f901bf5-b048-45da-b103-7ee51993f754": "full",
+            "2dfe0726-9b7b-41fb-8303-a6734911675b": "full",
+            "d17395f5-6578-447f-a52c-3effdd3ca599": "missing"
+          }
+        },
+        {
+          "id": "sequences_coalition_building_strategically",
+          "label": "Sequences influence approach (supporters before blockers)",
+          "cells": {
+            "b58c8833-367e-4229-a0ef-1ae324fda9bf": "full",
+            "4701260c-46dc-4af5-aa9c-76c2a2ee16d4": "partial",
+            "eb6eba36-8ebd-42ef-aa83-3b82298b301d": "full",
+            "40347058-176e-445a-ba37-5d1ebda9aee9": "full",
+            "fe526ec7-8944-4c66-aaf5-fddd2fbd4409": "partial",
+            "faee6b09-4d89-4fdb-9569-911a9f1b3486": "partial",
+            "edb18006-e1dd-446f-bafa-6cbdbc139dd4": "full",
+            "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6": "partial",
+            "1d24980f-6b79-4101-a244-85a31e38a06c": "partial",
+            "2f901bf5-b048-45da-b103-7ee51993f754": "partial",
+            "2dfe0726-9b7b-41fb-8303-a6734911675b": "full",
+            "d17395f5-6578-447f-a52c-3effdd3ca599": "partial"
+          }
+        },
+        {
+          "id": "identifies_blaine_as_natural_ally",
+          "label": "Identifies Blaine as natural early supporter/champion",
+          "cells": {
+            "b58c8833-367e-4229-a0ef-1ae324fda9bf": "full",
+            "4701260c-46dc-4af5-aa9c-76c2a2ee16d4": "full",
+            "eb6eba36-8ebd-42ef-aa83-3b82298b301d": "full",
+            "40347058-176e-445a-ba37-5d1ebda9aee9": "full",
+            "fe526ec7-8944-4c66-aaf5-fddd2fbd4409": "partial",
+            "faee6b09-4d89-4fdb-9569-911a9f1b3486": "full",
+            "edb18006-e1dd-446f-bafa-6cbdbc139dd4": "full",
+            "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6": "partial",
+            "1d24980f-6b79-4101-a244-85a31e38a06c": "full",
+            "2f901bf5-b048-45da-b103-7ee51993f754": "missing",
+            "2dfe0726-9b7b-41fb-8303-a6734911675b": "missing",
+            "d17395f5-6578-447f-a52c-3effdd3ca599": "full"
+          }
+        },
+        {
+          "id": "calibrates_stakeholder_power_levels_accurately",
+          "label": "Distinguishes primary blockers from secondary influencers",
+          "cells": {
+            "b58c8833-367e-4229-a0ef-1ae324fda9bf": "full",
+            "4701260c-46dc-4af5-aa9c-76c2a2ee16d4": "partial",
+            "eb6eba36-8ebd-42ef-aa83-3b82298b301d": "full",
+            "40347058-176e-445a-ba37-5d1ebda9aee9": "partial",
+            "fe526ec7-8944-4c66-aaf5-fddd2fbd4409": "partial",
+            "faee6b09-4d89-4fdb-9569-911a9f1b3486": "full",
+            "edb18006-e1dd-446f-bafa-6cbdbc139dd4": "full",
+            "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6": "partial",
+            "1d24980f-6b79-4101-a244-85a31e38a06c": "partial",
+            "2f901bf5-b048-45da-b103-7ee51993f754": "partial",
+            "2dfe0726-9b7b-41fb-8303-a6734911675b": "partial",
+            "d17395f5-6578-447f-a52c-3effdd3ca599": "partial"
+          }
+        },
+        {
+          "id": "connects_concerns_to_persuasion_tactics",
+          "label": "Links stakeholder concerns to tailored persuasion approaches",
+          "cells": {
+            "b58c8833-367e-4229-a0ef-1ae324fda9bf": "full",
+            "4701260c-46dc-4af5-aa9c-76c2a2ee16d4": "missing",
+            "eb6eba36-8ebd-42ef-aa83-3b82298b301d": "full",
+            "40347058-176e-445a-ba37-5d1ebda9aee9": "full",
+            "fe526ec7-8944-4c66-aaf5-fddd2fbd4409": "missing",
+            "faee6b09-4d89-4fdb-9569-911a9f1b3486": "missing",
+            "edb18006-e1dd-446f-bafa-6cbdbc139dd4": "full",
+            "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6": "missing",
+            "1d24980f-6b79-4101-a244-85a31e38a06c": "missing",
+            "2f901bf5-b048-45da-b103-7ee51993f754": "missing",
+            "2dfe0726-9b7b-41fb-8303-a6734911675b": "missing",
+            "d17395f5-6578-447f-a52c-3effdd3ca599": "missing"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 12 letters, per-team classification of credit."
+    }
+  },
+  "rubric": {
+    "criteria": [
+      {
+        "id": "identifies_grace_as_critical_first_mover",
+        "label": "Identifies Grace as critical first mover in manufacturing"
+      },
+      {
+        "id": "maps_marvin_grace_influence_relationship",
+        "label": "Maps Marvin's influence on Grace's position"
+      },
+      {
+        "id": "recognizes_dana_financial_gatekeeping_power",
+        "label": "Recognizes Dana's financial gatekeeping as blocking risk"
+      },
+      {
+        "id": "sequences_coalition_building_strategically",
+        "label": "Sequences influence approach (supporters before blockers)"
+      },
+      {
+        "id": "identifies_blaine_as_natural_ally",
+        "label": "Identifies Blaine as natural early supporter/champion"
+      },
+      {
+        "id": "calibrates_stakeholder_power_levels_accurately",
+        "label": "Distinguishes primary blockers from secondary influencers"
+      },
+      {
+        "id": "connects_concerns_to_persuasion_tactics",
+        "label": "Links stakeholder concerns to tailored persuasion approaches"
+      }
+    ],
+    "team_cells": [
+      {
+        "id": "identifies_grace_as_critical_first_mover",
+        "label": "Identifies Grace as critical first mover in manufacturing",
+        "cells": {
+          "b58c8833-367e-4229-a0ef-1ae324fda9bf": "partial",
+          "4701260c-46dc-4af5-aa9c-76c2a2ee16d4": "partial",
+          "eb6eba36-8ebd-42ef-aa83-3b82298b301d": "partial",
+          "40347058-176e-445a-ba37-5d1ebda9aee9": "full",
+          "fe526ec7-8944-4c66-aaf5-fddd2fbd4409": "partial",
+          "faee6b09-4d89-4fdb-9569-911a9f1b3486": "partial",
+          "edb18006-e1dd-446f-bafa-6cbdbc139dd4": "partial",
+          "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6": "full",
+          "1d24980f-6b79-4101-a244-85a31e38a06c": "full",
+          "2f901bf5-b048-45da-b103-7ee51993f754": "partial",
+          "2dfe0726-9b7b-41fb-8303-a6734911675b": "partial",
+          "d17395f5-6578-447f-a52c-3effdd3ca599": "full"
+        }
+      },
+      {
+        "id": "maps_marvin_grace_influence_relationship",
+        "label": "Maps Marvin's influence on Grace's position",
+        "cells": {
+          "b58c8833-367e-4229-a0ef-1ae324fda9bf": "full",
+          "4701260c-46dc-4af5-aa9c-76c2a2ee16d4": "partial",
+          "eb6eba36-8ebd-42ef-aa83-3b82298b301d": "full",
+          "40347058-176e-445a-ba37-5d1ebda9aee9": "full",
+          "fe526ec7-8944-4c66-aaf5-fddd2fbd4409": "partial",
+          "faee6b09-4d89-4fdb-9569-911a9f1b3486": "full",
+          "edb18006-e1dd-446f-bafa-6cbdbc139dd4": "partial",
+          "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6": "full",
+          "1d24980f-6b79-4101-a244-85a31e38a06c": "full",
+          "2f901bf5-b048-45da-b103-7ee51993f754": "partial",
+          "2dfe0726-9b7b-41fb-8303-a6734911675b": "full",
+          "d17395f5-6578-447f-a52c-3effdd3ca599": "full"
+        }
+      },
+      {
+        "id": "recognizes_dana_financial_gatekeeping_power",
+        "label": "Recognizes Dana's financial gatekeeping as blocking risk",
+        "cells": {
+          "b58c8833-367e-4229-a0ef-1ae324fda9bf": "full",
+          "4701260c-46dc-4af5-aa9c-76c2a2ee16d4": "full",
+          "eb6eba36-8ebd-42ef-aa83-3b82298b301d": "full",
+          "40347058-176e-445a-ba37-5d1ebda9aee9": "partial",
+          "fe526ec7-8944-4c66-aaf5-fddd2fbd4409": "full",
+          "faee6b09-4d89-4fdb-9569-911a9f1b3486": "partial",
+          "edb18006-e1dd-446f-bafa-6cbdbc139dd4": "full",
+          "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6": "full",
+          "1d24980f-6b79-4101-a244-85a31e38a06c": "full",
+          "2f901bf5-b048-45da-b103-7ee51993f754": "full",
+          "2dfe0726-9b7b-41fb-8303-a6734911675b": "full",
+          "d17395f5-6578-447f-a52c-3effdd3ca599": "missing"
+        }
+      },
+      {
+        "id": "sequences_coalition_building_strategically",
+        "label": "Sequences influence approach (supporters before blockers)",
+        "cells": {
+          "b58c8833-367e-4229-a0ef-1ae324fda9bf": "full",
+          "4701260c-46dc-4af5-aa9c-76c2a2ee16d4": "partial",
+          "eb6eba36-8ebd-42ef-aa83-3b82298b301d": "full",
+          "40347058-176e-445a-ba37-5d1ebda9aee9": "full",
+          "fe526ec7-8944-4c66-aaf5-fddd2fbd4409": "partial",
+          "faee6b09-4d89-4fdb-9569-911a9f1b3486": "partial",
+          "edb18006-e1dd-446f-bafa-6cbdbc139dd4": "full",
+          "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6": "partial",
+          "1d24980f-6b79-4101-a244-85a31e38a06c": "partial",
+          "2f901bf5-b048-45da-b103-7ee51993f754": "partial",
+          "2dfe0726-9b7b-41fb-8303-a6734911675b": "full",
+          "d17395f5-6578-447f-a52c-3effdd3ca599": "partial"
+        }
+      },
+      {
+        "id": "identifies_blaine_as_natural_ally",
+        "label": "Identifies Blaine as natural early supporter/champion",
+        "cells": {
+          "b58c8833-367e-4229-a0ef-1ae324fda9bf": "full",
+          "4701260c-46dc-4af5-aa9c-76c2a2ee16d4": "full",
+          "eb6eba36-8ebd-42ef-aa83-3b82298b301d": "full",
+          "40347058-176e-445a-ba37-5d1ebda9aee9": "full",
+          "fe526ec7-8944-4c66-aaf5-fddd2fbd4409": "partial",
+          "faee6b09-4d89-4fdb-9569-911a9f1b3486": "full",
+          "edb18006-e1dd-446f-bafa-6cbdbc139dd4": "full",
+          "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6": "partial",
+          "1d24980f-6b79-4101-a244-85a31e38a06c": "full",
+          "2f901bf5-b048-45da-b103-7ee51993f754": "missing",
+          "2dfe0726-9b7b-41fb-8303-a6734911675b": "missing",
+          "d17395f5-6578-447f-a52c-3effdd3ca599": "full"
+        }
+      },
+      {
+        "id": "calibrates_stakeholder_power_levels_accurately",
+        "label": "Distinguishes primary blockers from secondary influencers",
+        "cells": {
+          "b58c8833-367e-4229-a0ef-1ae324fda9bf": "full",
+          "4701260c-46dc-4af5-aa9c-76c2a2ee16d4": "partial",
+          "eb6eba36-8ebd-42ef-aa83-3b82298b301d": "full",
+          "40347058-176e-445a-ba37-5d1ebda9aee9": "partial",
+          "fe526ec7-8944-4c66-aaf5-fddd2fbd4409": "partial",
+          "faee6b09-4d89-4fdb-9569-911a9f1b3486": "full",
+          "edb18006-e1dd-446f-bafa-6cbdbc139dd4": "full",
+          "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6": "partial",
+          "1d24980f-6b79-4101-a244-85a31e38a06c": "partial",
+          "2f901bf5-b048-45da-b103-7ee51993f754": "partial",
+          "2dfe0726-9b7b-41fb-8303-a6734911675b": "partial",
+          "d17395f5-6578-447f-a52c-3effdd3ca599": "partial"
+        }
+      },
+      {
+        "id": "connects_concerns_to_persuasion_tactics",
+        "label": "Links stakeholder concerns to tailored persuasion approaches",
+        "cells": {
+          "b58c8833-367e-4229-a0ef-1ae324fda9bf": "full",
+          "4701260c-46dc-4af5-aa9c-76c2a2ee16d4": "missing",
+          "eb6eba36-8ebd-42ef-aa83-3b82298b301d": "full",
+          "40347058-176e-445a-ba37-5d1ebda9aee9": "full",
+          "fe526ec7-8944-4c66-aaf5-fddd2fbd4409": "missing",
+          "faee6b09-4d89-4fdb-9569-911a9f1b3486": "missing",
+          "edb18006-e1dd-446f-bafa-6cbdbc139dd4": "full",
+          "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6": "missing",
+          "1d24980f-6b79-4101-a244-85a31e38a06c": "missing",
+          "2f901bf5-b048-45da-b103-7ee51993f754": "missing",
+          "2dfe0726-9b7b-41fb-8303-a6734911675b": "missing",
+          "d17395f5-6578-447f-a52c-3effdd3ca599": "missing"
+        }
+      }
+    ],
+    "method": "LLM-derived via claude-haiku-4-5: criteria identified from 12 letters, per-team classification of credit."
+  }
 }

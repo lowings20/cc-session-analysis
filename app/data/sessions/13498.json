@@ -1335,5 +1335,485 @@
       "created_at": "2026-05-06T16:44:58.844Z",
       "updated_at": "2026-05-06T16:44:58.844Z"
     }
-  ]
+  ],
+  "rubric_by_chapter": {
+    "cc2abb26-f763-44d9-b197-81b6776e73fb": {
+      "criteria": [
+        {
+          "id": "breakeven_math_accuracy",
+          "label": "Calculates breakeven volumes correctly for all three options"
+        },
+        {
+          "id": "identifies_retrofit_elimination",
+          "label": "Correctly identifies Retrofit as the option to eliminate"
+        },
+        {
+          "id": "articulates_retrofit_weakness",
+          "label": "Explains why Retrofit is strategically inferior (middle squeeze, highest breakeven, never wins)"
+        },
+        {
+          "id": "maps_option_win_scenarios",
+          "label": "Maps which option wins under different demand scenarios (Co-Packer low, New Plant high)"
+        },
+        {
+          "id": "considers_operational_complexity",
+          "label": "Identifies operational constraints beyond pure math (complexity, flexibility, risk mitigation)"
+        },
+        {
+          "id": "develops_implementation_path",
+          "label": "Proposes forward-looking strategy (e.g., co-packer then scale to new plant)"
+        },
+        {
+          "id": "analyzes_downside_scenarios",
+          "label": "Tests recommendations against downside cases, not just base-case demand"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "breakeven_math_accuracy",
+          "label": "Calculates breakeven volumes correctly for all three options",
+          "cells": {
+            "0da44bf0-b2c3-4fc5-905a-2f6f3f2b34a4": "full",
+            "29feb36e-3afa-4fb5-8212-2b540ccb1d73": "missing",
+            "bc7f93ba-bdfa-4fd4-951e-8ad256bb2ffd": "partial",
+            "07ccbeb9-a582-4fa4-b0f1-423c956a40bb": "missing",
+            "1cdb7ab4-7b04-44f4-9884-60c81af65a50": "full",
+            "bd275eb0-a36c-4232-a1b2-df55334cf01a": "full",
+            "660ec2b8-6517-490f-84f2-d27d354c5dc8": "full",
+            "17285c00-871a-4f9e-bec3-b916e85e5d57": "missing"
+          }
+        },
+        {
+          "id": "identifies_retrofit_elimination",
+          "label": "Correctly identifies Retrofit as the option to eliminate",
+          "cells": {
+            "0da44bf0-b2c3-4fc5-905a-2f6f3f2b34a4": "full",
+            "29feb36e-3afa-4fb5-8212-2b540ccb1d73": "full",
+            "bc7f93ba-bdfa-4fd4-951e-8ad256bb2ffd": "full",
+            "07ccbeb9-a582-4fa4-b0f1-423c956a40bb": "full",
+            "1cdb7ab4-7b04-44f4-9884-60c81af65a50": "full",
+            "bd275eb0-a36c-4232-a1b2-df55334cf01a": "full",
+            "660ec2b8-6517-490f-84f2-d27d354c5dc8": "full",
+            "17285c00-871a-4f9e-bec3-b916e85e5d57": "partial"
+          }
+        },
+        {
+          "id": "articulates_retrofit_weakness",
+          "label": "Explains why Retrofit is strategically inferior (middle squeeze, highest breakeven, never wins)",
+          "cells": {
+            "0da44bf0-b2c3-4fc5-905a-2f6f3f2b34a4": "full",
+            "29feb36e-3afa-4fb5-8212-2b540ccb1d73": "full",
+            "bc7f93ba-bdfa-4fd4-951e-8ad256bb2ffd": "partial",
+            "07ccbeb9-a582-4fa4-b0f1-423c956a40bb": "partial",
+            "1cdb7ab4-7b04-44f4-9884-60c81af65a50": "full",
+            "bd275eb0-a36c-4232-a1b2-df55334cf01a": "partial",
+            "660ec2b8-6517-490f-84f2-d27d354c5dc8": "full",
+            "17285c00-871a-4f9e-bec3-b916e85e5d57": "partial"
+          }
+        },
+        {
+          "id": "maps_option_win_scenarios",
+          "label": "Maps which option wins under different demand scenarios (Co-Packer low, New Plant high)",
+          "cells": {
+            "0da44bf0-b2c3-4fc5-905a-2f6f3f2b34a4": "partial",
+            "29feb36e-3afa-4fb5-8212-2b540ccb1d73": "missing",
+            "bc7f93ba-bdfa-4fd4-951e-8ad256bb2ffd": "missing",
+            "07ccbeb9-a582-4fa4-b0f1-423c956a40bb": "missing",
+            "1cdb7ab4-7b04-44f4-9884-60c81af65a50": "missing",
+            "bd275eb0-a36c-4232-a1b2-df55334cf01a": "full",
+            "660ec2b8-6517-490f-84f2-d27d354c5dc8": "full",
+            "17285c00-871a-4f9e-bec3-b916e85e5d57": "partial"
+          }
+        },
+        {
+          "id": "considers_operational_complexity",
+          "label": "Identifies operational constraints beyond pure math (complexity, flexibility, risk mitigation)",
+          "cells": {
+            "0da44bf0-b2c3-4fc5-905a-2f6f3f2b34a4": "full",
+            "29feb36e-3afa-4fb5-8212-2b540ccb1d73": "missing",
+            "bc7f93ba-bdfa-4fd4-951e-8ad256bb2ffd": "missing",
+            "07ccbeb9-a582-4fa4-b0f1-423c956a40bb": "partial",
+            "1cdb7ab4-7b04-44f4-9884-60c81af65a50": "missing",
+            "bd275eb0-a36c-4232-a1b2-df55334cf01a": "missing",
+            "660ec2b8-6517-490f-84f2-d27d354c5dc8": "missing",
+            "17285c00-871a-4f9e-bec3-b916e85e5d57": "missing"
+          }
+        },
+        {
+          "id": "develops_implementation_path",
+          "label": "Proposes forward-looking strategy (e.g., co-packer then scale to new plant)",
+          "cells": {
+            "0da44bf0-b2c3-4fc5-905a-2f6f3f2b34a4": "full",
+            "29feb36e-3afa-4fb5-8212-2b540ccb1d73": "missing",
+            "bc7f93ba-bdfa-4fd4-951e-8ad256bb2ffd": "missing",
+            "07ccbeb9-a582-4fa4-b0f1-423c956a40bb": "missing",
+            "1cdb7ab4-7b04-44f4-9884-60c81af65a50": "missing",
+            "bd275eb0-a36c-4232-a1b2-df55334cf01a": "missing",
+            "660ec2b8-6517-490f-84f2-d27d354c5dc8": "partial",
+            "17285c00-871a-4f9e-bec3-b916e85e5d57": "missing"
+          }
+        },
+        {
+          "id": "analyzes_downside_scenarios",
+          "label": "Tests recommendations against downside cases, not just base-case demand",
+          "cells": {
+            "0da44bf0-b2c3-4fc5-905a-2f6f3f2b34a4": "missing",
+            "29feb36e-3afa-4fb5-8212-2b540ccb1d73": "missing",
+            "bc7f93ba-bdfa-4fd4-951e-8ad256bb2ffd": "missing",
+            "07ccbeb9-a582-4fa4-b0f1-423c956a40bb": "missing",
+            "1cdb7ab4-7b04-44f4-9884-60c81af65a50": "partial",
+            "bd275eb0-a36c-4232-a1b2-df55334cf01a": "full",
+            "660ec2b8-6517-490f-84f2-d27d354c5dc8": "partial",
+            "17285c00-871a-4f9e-bec3-b916e85e5d57": "missing"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 8 letters, per-team classification of credit."
+    },
+    "66e7aed3-09d7-43f9-922c-2a9f9f45bcad": {
+      "criteria": [
+        {
+          "id": "recommends_new_plant_path",
+          "label": "Recommends New Plant as production path"
+        },
+        {
+          "id": "links_quality_to_demand",
+          "label": "Connects product quality/consistency to repeat demand or account retention"
+        },
+        {
+          "id": "grounds_in_financial_analysis",
+          "label": "Grounds recommendation in financial metrics (breakeven, margins, capital)"
+        },
+        {
+          "id": "incorporates_expert_insights",
+          "label": "Incorporates Carlos's specific concerns (texture, consistency, retention, staffing)"
+        },
+        {
+          "id": "translates_pilot_to_forecast",
+          "label": "Explicitly connects specific pilot metrics to demand forecast assumptions (e.g., 80% active → 500K base)"
+        },
+        {
+          "id": "develops_signal_framework",
+          "label": "Develops early warning signals to track if demand is tracking toward base vs. alternative scenarios"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "recommends_new_plant_path",
+          "label": "Recommends New Plant as production path",
+          "cells": {
+            "0da44bf0-b2c3-4fc5-905a-2f6f3f2b34a4": "full",
+            "29feb36e-3afa-4fb5-8212-2b540ccb1d73": "full",
+            "bc7f93ba-bdfa-4fd4-951e-8ad256bb2ffd": "full",
+            "07ccbeb9-a582-4fa4-b0f1-423c956a40bb": "full",
+            "1cdb7ab4-7b04-44f4-9884-60c81af65a50": "full",
+            "bd275eb0-a36c-4232-a1b2-df55334cf01a": "full",
+            "660ec2b8-6517-490f-84f2-d27d354c5dc8": "full",
+            "17285c00-871a-4f9e-bec3-b916e85e5d57": "full"
+          }
+        },
+        {
+          "id": "links_quality_to_demand",
+          "label": "Connects product quality/consistency to repeat demand or account retention",
+          "cells": {
+            "0da44bf0-b2c3-4fc5-905a-2f6f3f2b34a4": "full",
+            "29feb36e-3afa-4fb5-8212-2b540ccb1d73": "full",
+            "bc7f93ba-bdfa-4fd4-951e-8ad256bb2ffd": "full",
+            "07ccbeb9-a582-4fa4-b0f1-423c956a40bb": "partial",
+            "1cdb7ab4-7b04-44f4-9884-60c81af65a50": "full",
+            "bd275eb0-a36c-4232-a1b2-df55334cf01a": "full",
+            "660ec2b8-6517-490f-84f2-d27d354c5dc8": "full",
+            "17285c00-871a-4f9e-bec3-b916e85e5d57": "full"
+          }
+        },
+        {
+          "id": "grounds_in_financial_analysis",
+          "label": "Grounds recommendation in financial metrics (breakeven, margins, capital)",
+          "cells": {
+            "0da44bf0-b2c3-4fc5-905a-2f6f3f2b34a4": "partial",
+            "29feb36e-3afa-4fb5-8212-2b540ccb1d73": "full",
+            "bc7f93ba-bdfa-4fd4-951e-8ad256bb2ffd": "full",
+            "07ccbeb9-a582-4fa4-b0f1-423c956a40bb": "full",
+            "1cdb7ab4-7b04-44f4-9884-60c81af65a50": "full",
+            "bd275eb0-a36c-4232-a1b2-df55334cf01a": "partial",
+            "660ec2b8-6517-490f-84f2-d27d354c5dc8": "full",
+            "17285c00-871a-4f9e-bec3-b916e85e5d57": "full"
+          }
+        },
+        {
+          "id": "incorporates_expert_insights",
+          "label": "Incorporates Carlos's specific concerns (texture, consistency, retention, staffing)",
+          "cells": {
+            "0da44bf0-b2c3-4fc5-905a-2f6f3f2b34a4": "full",
+            "29feb36e-3afa-4fb5-8212-2b540ccb1d73": "full",
+            "bc7f93ba-bdfa-4fd4-951e-8ad256bb2ffd": "missing",
+            "07ccbeb9-a582-4fa4-b0f1-423c956a40bb": "full",
+            "1cdb7ab4-7b04-44f4-9884-60c81af65a50": "full",
+            "bd275eb0-a36c-4232-a1b2-df55334cf01a": "full",
+            "660ec2b8-6517-490f-84f2-d27d354c5dc8": "partial",
+            "17285c00-871a-4f9e-bec3-b916e85e5d57": "full"
+          }
+        },
+        {
+          "id": "translates_pilot_to_forecast",
+          "label": "Explicitly connects specific pilot metrics to demand forecast assumptions (e.g., 80% active → 500K base)",
+          "cells": {
+            "0da44bf0-b2c3-4fc5-905a-2f6f3f2b34a4": "partial",
+            "29feb36e-3afa-4fb5-8212-2b540ccb1d73": "partial",
+            "bc7f93ba-bdfa-4fd4-951e-8ad256bb2ffd": "partial",
+            "07ccbeb9-a582-4fa4-b0f1-423c956a40bb": "partial",
+            "1cdb7ab4-7b04-44f4-9884-60c81af65a50": "partial",
+            "bd275eb0-a36c-4232-a1b2-df55334cf01a": "partial",
+            "660ec2b8-6517-490f-84f2-d27d354c5dc8": "partial",
+            "17285c00-871a-4f9e-bec3-b916e85e5d57": "partial"
+          }
+        },
+        {
+          "id": "develops_signal_framework",
+          "label": "Develops early warning signals to track if demand is tracking toward base vs. alternative scenarios",
+          "cells": {
+            "0da44bf0-b2c3-4fc5-905a-2f6f3f2b34a4": "partial",
+            "29feb36e-3afa-4fb5-8212-2b540ccb1d73": "partial",
+            "bc7f93ba-bdfa-4fd4-951e-8ad256bb2ffd": "partial",
+            "07ccbeb9-a582-4fa4-b0f1-423c956a40bb": "missing",
+            "1cdb7ab4-7b04-44f4-9884-60c81af65a50": "partial",
+            "bd275eb0-a36c-4232-a1b2-df55334cf01a": "partial",
+            "660ec2b8-6517-490f-84f2-d27d354c5dc8": "partial",
+            "17285c00-871a-4f9e-bec3-b916e85e5d57": "partial"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 8 letters, per-team classification of credit."
+    },
+    "324e78dc-69d5-4c1a-8f37-3bafaad87cee": {
+      "criteria": [
+        {
+          "id": "identifies_leading_indicators",
+          "label": "Identifies leading indicators before P&L impact"
+        },
+        {
+          "id": "connects_quality_to_retention",
+          "label": "Connects quality metrics to retention/reorder chain reaction"
+        },
+        {
+          "id": "sets_quantified_thresholds",
+          "label": "Sets specific quantified warning thresholds or boundaries"
+        },
+        {
+          "id": "challenges_base_assumptions",
+          "label": "Questions or challenges standard assumptions in the model"
+        },
+        {
+          "id": "clear_recommendation_backed_by_numbers",
+          "label": "Delivers clear recommendation supported by specific financials"
+        },
+        {
+          "id": "builds_staged_approach",
+          "label": "Proposes controlled/staged implementation over binary bet"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "identifies_leading_indicators",
+          "label": "Identifies leading indicators before P&L impact",
+          "cells": {
+            "0da44bf0-b2c3-4fc5-905a-2f6f3f2b34a4": "missing",
+            "29feb36e-3afa-4fb5-8212-2b540ccb1d73": "missing",
+            "bc7f93ba-bdfa-4fd4-951e-8ad256bb2ffd": "full",
+            "07ccbeb9-a582-4fa4-b0f1-423c956a40bb": "missing",
+            "1cdb7ab4-7b04-44f4-9884-60c81af65a50": "missing",
+            "bd275eb0-a36c-4232-a1b2-df55334cf01a": "missing",
+            "660ec2b8-6517-490f-84f2-d27d354c5dc8": "full",
+            "17285c00-871a-4f9e-bec3-b916e85e5d57": "full"
+          }
+        },
+        {
+          "id": "connects_quality_to_retention",
+          "label": "Connects quality metrics to retention/reorder chain reaction",
+          "cells": {
+            "0da44bf0-b2c3-4fc5-905a-2f6f3f2b34a4": "missing",
+            "29feb36e-3afa-4fb5-8212-2b540ccb1d73": "missing",
+            "bc7f93ba-bdfa-4fd4-951e-8ad256bb2ffd": "full",
+            "07ccbeb9-a582-4fa4-b0f1-423c956a40bb": "missing",
+            "1cdb7ab4-7b04-44f4-9884-60c81af65a50": "missing",
+            "bd275eb0-a36c-4232-a1b2-df55334cf01a": "missing",
+            "660ec2b8-6517-490f-84f2-d27d354c5dc8": "full",
+            "17285c00-871a-4f9e-bec3-b916e85e5d57": "missing"
+          }
+        },
+        {
+          "id": "sets_quantified_thresholds",
+          "label": "Sets specific quantified warning thresholds or boundaries",
+          "cells": {
+            "0da44bf0-b2c3-4fc5-905a-2f6f3f2b34a4": "missing",
+            "29feb36e-3afa-4fb5-8212-2b540ccb1d73": "missing",
+            "bc7f93ba-bdfa-4fd4-951e-8ad256bb2ffd": "full",
+            "07ccbeb9-a582-4fa4-b0f1-423c956a40bb": "missing",
+            "1cdb7ab4-7b04-44f4-9884-60c81af65a50": "missing",
+            "bd275eb0-a36c-4232-a1b2-df55334cf01a": "missing",
+            "660ec2b8-6517-490f-84f2-d27d354c5dc8": "full",
+            "17285c00-871a-4f9e-bec3-b916e85e5d57": "full"
+          }
+        },
+        {
+          "id": "challenges_base_assumptions",
+          "label": "Questions or challenges standard assumptions in the model",
+          "cells": {
+            "0da44bf0-b2c3-4fc5-905a-2f6f3f2b34a4": "missing",
+            "29feb36e-3afa-4fb5-8212-2b540ccb1d73": "missing",
+            "bc7f93ba-bdfa-4fd4-951e-8ad256bb2ffd": "missing",
+            "07ccbeb9-a582-4fa4-b0f1-423c956a40bb": "missing",
+            "1cdb7ab4-7b04-44f4-9884-60c81af65a50": "missing",
+            "bd275eb0-a36c-4232-a1b2-df55334cf01a": "missing",
+            "660ec2b8-6517-490f-84f2-d27d354c5dc8": "full",
+            "17285c00-871a-4f9e-bec3-b916e85e5d57": "missing"
+          }
+        },
+        {
+          "id": "clear_recommendation_backed_by_numbers",
+          "label": "Delivers clear recommendation supported by specific financials",
+          "cells": {
+            "0da44bf0-b2c3-4fc5-905a-2f6f3f2b34a4": "missing",
+            "29feb36e-3afa-4fb5-8212-2b540ccb1d73": "missing",
+            "bc7f93ba-bdfa-4fd4-951e-8ad256bb2ffd": "full",
+            "07ccbeb9-a582-4fa4-b0f1-423c956a40bb": "missing",
+            "1cdb7ab4-7b04-44f4-9884-60c81af65a50": "missing",
+            "bd275eb0-a36c-4232-a1b2-df55334cf01a": "missing",
+            "660ec2b8-6517-490f-84f2-d27d354c5dc8": "full",
+            "17285c00-871a-4f9e-bec3-b916e85e5d57": "full"
+          }
+        },
+        {
+          "id": "builds_staged_approach",
+          "label": "Proposes controlled/staged implementation over binary bet",
+          "cells": {
+            "0da44bf0-b2c3-4fc5-905a-2f6f3f2b34a4": "missing",
+            "29feb36e-3afa-4fb5-8212-2b540ccb1d73": "missing",
+            "bc7f93ba-bdfa-4fd4-951e-8ad256bb2ffd": "partial",
+            "07ccbeb9-a582-4fa4-b0f1-423c956a40bb": "missing",
+            "1cdb7ab4-7b04-44f4-9884-60c81af65a50": "missing",
+            "bd275eb0-a36c-4232-a1b2-df55334cf01a": "missing",
+            "660ec2b8-6517-490f-84f2-d27d354c5dc8": "full",
+            "17285c00-871a-4f9e-bec3-b916e85e5d57": "partial"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 8 letters, per-team classification of credit."
+    }
+  },
+  "rubric": {
+    "criteria": [
+      {
+        "id": "identifies_leading_indicators",
+        "label": "Identifies leading indicators before P&L impact"
+      },
+      {
+        "id": "connects_quality_to_retention",
+        "label": "Connects quality metrics to retention/reorder chain reaction"
+      },
+      {
+        "id": "sets_quantified_thresholds",
+        "label": "Sets specific quantified warning thresholds or boundaries"
+      },
+      {
+        "id": "challenges_base_assumptions",
+        "label": "Questions or challenges standard assumptions in the model"
+      },
+      {
+        "id": "clear_recommendation_backed_by_numbers",
+        "label": "Delivers clear recommendation supported by specific financials"
+      },
+      {
+        "id": "builds_staged_approach",
+        "label": "Proposes controlled/staged implementation over binary bet"
+      }
+    ],
+    "team_cells": [
+      {
+        "id": "identifies_leading_indicators",
+        "label": "Identifies leading indicators before P&L impact",
+        "cells": {
+          "0da44bf0-b2c3-4fc5-905a-2f6f3f2b34a4": "missing",
+          "29feb36e-3afa-4fb5-8212-2b540ccb1d73": "missing",
+          "bc7f93ba-bdfa-4fd4-951e-8ad256bb2ffd": "full",
+          "07ccbeb9-a582-4fa4-b0f1-423c956a40bb": "missing",
+          "1cdb7ab4-7b04-44f4-9884-60c81af65a50": "missing",
+          "bd275eb0-a36c-4232-a1b2-df55334cf01a": "missing",
+          "660ec2b8-6517-490f-84f2-d27d354c5dc8": "full",
+          "17285c00-871a-4f9e-bec3-b916e85e5d57": "full"
+        }
+      },
+      {
+        "id": "connects_quality_to_retention",
+        "label": "Connects quality metrics to retention/reorder chain reaction",
+        "cells": {
+          "0da44bf0-b2c3-4fc5-905a-2f6f3f2b34a4": "missing",
+          "29feb36e-3afa-4fb5-8212-2b540ccb1d73": "missing",
+          "bc7f93ba-bdfa-4fd4-951e-8ad256bb2ffd": "full",
+          "07ccbeb9-a582-4fa4-b0f1-423c956a40bb": "missing",
+          "1cdb7ab4-7b04-44f4-9884-60c81af65a50": "missing",
+          "bd275eb0-a36c-4232-a1b2-df55334cf01a": "missing",
+          "660ec2b8-6517-490f-84f2-d27d354c5dc8": "full",
+          "17285c00-871a-4f9e-bec3-b916e85e5d57": "missing"
+        }
+      },
+      {
+        "id": "sets_quantified_thresholds",
+        "label": "Sets specific quantified warning thresholds or boundaries",
+        "cells": {
+          "0da44bf0-b2c3-4fc5-905a-2f6f3f2b34a4": "missing",
+          "29feb36e-3afa-4fb5-8212-2b540ccb1d73": "missing",
+          "bc7f93ba-bdfa-4fd4-951e-8ad256bb2ffd": "full",
+          "07ccbeb9-a582-4fa4-b0f1-423c956a40bb": "missing",
+          "1cdb7ab4-7b04-44f4-9884-60c81af65a50": "missing",
+          "bd275eb0-a36c-4232-a1b2-df55334cf01a": "missing",
+          "660ec2b8-6517-490f-84f2-d27d354c5dc8": "full",
+          "17285c00-871a-4f9e-bec3-b916e85e5d57": "full"
+        }
+      },
+      {
+        "id": "challenges_base_assumptions",
+        "label": "Questions or challenges standard assumptions in the model",
+        "cells": {
+          "0da44bf0-b2c3-4fc5-905a-2f6f3f2b34a4": "missing",
+          "29feb36e-3afa-4fb5-8212-2b540ccb1d73": "missing",
+          "bc7f93ba-bdfa-4fd4-951e-8ad256bb2ffd": "missing",
+          "07ccbeb9-a582-4fa4-b0f1-423c956a40bb": "missing",
+          "1cdb7ab4-7b04-44f4-9884-60c81af65a50": "missing",
+          "bd275eb0-a36c-4232-a1b2-df55334cf01a": "missing",
+          "660ec2b8-6517-490f-84f2-d27d354c5dc8": "full",
+          "17285c00-871a-4f9e-bec3-b916e85e5d57": "missing"
+        }
+      },
+      {
+        "id": "clear_recommendation_backed_by_numbers",
+        "label": "Delivers clear recommendation supported by specific financials",
+        "cells": {
+          "0da44bf0-b2c3-4fc5-905a-2f6f3f2b34a4": "missing",
+          "29feb36e-3afa-4fb5-8212-2b540ccb1d73": "missing",
+          "bc7f93ba-bdfa-4fd4-951e-8ad256bb2ffd": "full",
+          "07ccbeb9-a582-4fa4-b0f1-423c956a40bb": "missing",
+          "1cdb7ab4-7b04-44f4-9884-60c81af65a50": "missing",
+          "bd275eb0-a36c-4232-a1b2-df55334cf01a": "missing",
+          "660ec2b8-6517-490f-84f2-d27d354c5dc8": "full",
+          "17285c00-871a-4f9e-bec3-b916e85e5d57": "full"
+        }
+      },
+      {
+        "id": "builds_staged_approach",
+        "label": "Proposes controlled/staged implementation over binary bet",
+        "cells": {
+          "0da44bf0-b2c3-4fc5-905a-2f6f3f2b34a4": "missing",
+          "29feb36e-3afa-4fb5-8212-2b540ccb1d73": "missing",
+          "bc7f93ba-bdfa-4fd4-951e-8ad256bb2ffd": "partial",
+          "07ccbeb9-a582-4fa4-b0f1-423c956a40bb": "missing",
+          "1cdb7ab4-7b04-44f4-9884-60c81af65a50": "missing",
+          "bd275eb0-a36c-4232-a1b2-df55334cf01a": "missing",
+          "660ec2b8-6517-490f-84f2-d27d354c5dc8": "full",
+          "17285c00-871a-4f9e-bec3-b916e85e5d57": "partial"
+        }
+      }
+    ],
+    "method": "LLM-derived via claude-haiku-4-5: criteria identified from 8 letters, per-team classification of credit."
+  }
 }

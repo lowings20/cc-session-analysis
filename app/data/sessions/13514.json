@@ -981,5 +981,315 @@
       "created_at": "2026-04-08T05:51:24.675Z",
       "updated_at": "2026-04-08T05:51:24.675Z"
     }
-  ]
+  ],
+  "rubric_by_chapter": {
+    "92f9af6f-71fb-4e35-8d62-fe09fc2f0351": {
+      "criteria": [
+        {
+          "id": "analyzes_performance_data",
+          "label": "Analyzes specific performance data (margins, turnover, labor costs, satisfaction scores)"
+        },
+        {
+          "id": "diagnoses_root_causes",
+          "label": "Diagnoses root causes rather than recommending surface-level symptoms"
+        },
+        {
+          "id": "prioritizes_sequencing",
+          "label": "Prioritizes which store or issue to address first with clear sequencing"
+        },
+        {
+          "id": "evaluates_individual_managers",
+          "label": "Evaluates individual managers (Clara, Derek, Helen) and their leadership effectiveness"
+        },
+        {
+          "id": "connects_people_to_results",
+          "label": "Connects people and culture issues directly to financial/operational outcomes"
+        },
+        {
+          "id": "provides_concrete_actions",
+          "label": "Provides concrete Monday-morning actions rather than directional themes"
+        },
+        {
+          "id": "defines_success_metrics",
+          "label": "Defines measurable success metrics or 60-day outcomes"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "analyzes_performance_data",
+          "label": "Analyzes specific performance data (margins, turnover, labor costs, satisfaction scores)",
+          "cells": {
+            "d1f5742e-fbfd-4283-be6f-6f6db5590067": "missing",
+            "0ccbeac8-4f37-4a65-a6a0-08621243b783": "missing",
+            "4501fc6f-6124-49d9-af92-6010be5d5302": "partial",
+            "ec341151-b95c-456d-8ada-a56431a91457": "full",
+            "a24459ff-2f7b-402c-934e-623f35fa9257": "missing",
+            "c7a67c8f-152a-4b1c-b3b7-1aa1fe6f63e3": "partial",
+            "3a2ce92d-83f8-4346-a8e6-9da2559837c3": "missing",
+            "a91bd69f-17f7-4f0e-8ec7-a164ddcffed7": "missing",
+            "361ee531-518f-4a36-b57b-2923c5a633a3": "partial",
+            "01a949e9-5d8c-421c-93e2-773df3f59f16": "full",
+            "d95c2fd3-511e-4668-a4d3-9309b865fec9": "partial"
+          }
+        },
+        {
+          "id": "diagnoses_root_causes",
+          "label": "Diagnoses root causes rather than recommending surface-level symptoms",
+          "cells": {
+            "d1f5742e-fbfd-4283-be6f-6f6db5590067": "missing",
+            "0ccbeac8-4f37-4a65-a6a0-08621243b783": "partial",
+            "4501fc6f-6124-49d9-af92-6010be5d5302": "missing",
+            "ec341151-b95c-456d-8ada-a56431a91457": "partial",
+            "a24459ff-2f7b-402c-934e-623f35fa9257": "partial",
+            "c7a67c8f-152a-4b1c-b3b7-1aa1fe6f63e3": "missing",
+            "3a2ce92d-83f8-4346-a8e6-9da2559837c3": "partial",
+            "a91bd69f-17f7-4f0e-8ec7-a164ddcffed7": "partial",
+            "361ee531-518f-4a36-b57b-2923c5a633a3": "partial",
+            "01a949e9-5d8c-421c-93e2-773df3f59f16": "partial",
+            "d95c2fd3-511e-4668-a4d3-9309b865fec9": "partial"
+          }
+        },
+        {
+          "id": "prioritizes_sequencing",
+          "label": "Prioritizes which store or issue to address first with clear sequencing",
+          "cells": {
+            "d1f5742e-fbfd-4283-be6f-6f6db5590067": "missing",
+            "0ccbeac8-4f37-4a65-a6a0-08621243b783": "missing",
+            "4501fc6f-6124-49d9-af92-6010be5d5302": "missing",
+            "ec341151-b95c-456d-8ada-a56431a91457": "partial",
+            "a24459ff-2f7b-402c-934e-623f35fa9257": "partial",
+            "c7a67c8f-152a-4b1c-b3b7-1aa1fe6f63e3": "missing",
+            "3a2ce92d-83f8-4346-a8e6-9da2559837c3": "missing",
+            "a91bd69f-17f7-4f0e-8ec7-a164ddcffed7": "missing",
+            "361ee531-518f-4a36-b57b-2923c5a633a3": "full",
+            "01a949e9-5d8c-421c-93e2-773df3f59f16": "partial",
+            "d95c2fd3-511e-4668-a4d3-9309b865fec9": "missing"
+          }
+        },
+        {
+          "id": "evaluates_individual_managers",
+          "label": "Evaluates individual managers (Clara, Derek, Helen) and their leadership effectiveness",
+          "cells": {
+            "d1f5742e-fbfd-4283-be6f-6f6db5590067": "missing",
+            "0ccbeac8-4f37-4a65-a6a0-08621243b783": "partial",
+            "4501fc6f-6124-49d9-af92-6010be5d5302": "missing",
+            "ec341151-b95c-456d-8ada-a56431a91457": "partial",
+            "a24459ff-2f7b-402c-934e-623f35fa9257": "partial",
+            "c7a67c8f-152a-4b1c-b3b7-1aa1fe6f63e3": "partial",
+            "3a2ce92d-83f8-4346-a8e6-9da2559837c3": "partial",
+            "a91bd69f-17f7-4f0e-8ec7-a164ddcffed7": "missing",
+            "361ee531-518f-4a36-b57b-2923c5a633a3": "partial",
+            "01a949e9-5d8c-421c-93e2-773df3f59f16": "partial",
+            "d95c2fd3-511e-4668-a4d3-9309b865fec9": "partial"
+          }
+        },
+        {
+          "id": "connects_people_to_results",
+          "label": "Connects people and culture issues directly to financial/operational outcomes",
+          "cells": {
+            "d1f5742e-fbfd-4283-be6f-6f6db5590067": "missing",
+            "0ccbeac8-4f37-4a65-a6a0-08621243b783": "partial",
+            "4501fc6f-6124-49d9-af92-6010be5d5302": "partial",
+            "ec341151-b95c-456d-8ada-a56431a91457": "full",
+            "a24459ff-2f7b-402c-934e-623f35fa9257": "partial",
+            "c7a67c8f-152a-4b1c-b3b7-1aa1fe6f63e3": "partial",
+            "3a2ce92d-83f8-4346-a8e6-9da2559837c3": "partial",
+            "a91bd69f-17f7-4f0e-8ec7-a164ddcffed7": "partial",
+            "361ee531-518f-4a36-b57b-2923c5a633a3": "full",
+            "01a949e9-5d8c-421c-93e2-773df3f59f16": "partial",
+            "d95c2fd3-511e-4668-a4d3-9309b865fec9": "partial"
+          }
+        },
+        {
+          "id": "provides_concrete_actions",
+          "label": "Provides concrete Monday-morning actions rather than directional themes",
+          "cells": {
+            "d1f5742e-fbfd-4283-be6f-6f6db5590067": "missing",
+            "0ccbeac8-4f37-4a65-a6a0-08621243b783": "missing",
+            "4501fc6f-6124-49d9-af92-6010be5d5302": "missing",
+            "ec341151-b95c-456d-8ada-a56431a91457": "missing",
+            "a24459ff-2f7b-402c-934e-623f35fa9257": "missing",
+            "c7a67c8f-152a-4b1c-b3b7-1aa1fe6f63e3": "missing",
+            "3a2ce92d-83f8-4346-a8e6-9da2559837c3": "missing",
+            "a91bd69f-17f7-4f0e-8ec7-a164ddcffed7": "missing",
+            "361ee531-518f-4a36-b57b-2923c5a633a3": "partial",
+            "01a949e9-5d8c-421c-93e2-773df3f59f16": "missing",
+            "d95c2fd3-511e-4668-a4d3-9309b865fec9": "missing"
+          }
+        },
+        {
+          "id": "defines_success_metrics",
+          "label": "Defines measurable success metrics or 60-day outcomes",
+          "cells": {
+            "d1f5742e-fbfd-4283-be6f-6f6db5590067": "missing",
+            "0ccbeac8-4f37-4a65-a6a0-08621243b783": "missing",
+            "4501fc6f-6124-49d9-af92-6010be5d5302": "missing",
+            "ec341151-b95c-456d-8ada-a56431a91457": "missing",
+            "a24459ff-2f7b-402c-934e-623f35fa9257": "missing",
+            "c7a67c8f-152a-4b1c-b3b7-1aa1fe6f63e3": "missing",
+            "3a2ce92d-83f8-4346-a8e6-9da2559837c3": "missing",
+            "a91bd69f-17f7-4f0e-8ec7-a164ddcffed7": "missing",
+            "361ee531-518f-4a36-b57b-2923c5a633a3": "missing",
+            "01a949e9-5d8c-421c-93e2-773df3f59f16": "missing",
+            "d95c2fd3-511e-4668-a4d3-9309b865fec9": "missing"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 11 letters, per-team classification of credit."
+    }
+  },
+  "rubric": {
+    "criteria": [
+      {
+        "id": "analyzes_performance_data",
+        "label": "Analyzes specific performance data (margins, turnover, labor costs, satisfaction scores)"
+      },
+      {
+        "id": "diagnoses_root_causes",
+        "label": "Diagnoses root causes rather than recommending surface-level symptoms"
+      },
+      {
+        "id": "prioritizes_sequencing",
+        "label": "Prioritizes which store or issue to address first with clear sequencing"
+      },
+      {
+        "id": "evaluates_individual_managers",
+        "label": "Evaluates individual managers (Clara, Derek, Helen) and their leadership effectiveness"
+      },
+      {
+        "id": "connects_people_to_results",
+        "label": "Connects people and culture issues directly to financial/operational outcomes"
+      },
+      {
+        "id": "provides_concrete_actions",
+        "label": "Provides concrete Monday-morning actions rather than directional themes"
+      },
+      {
+        "id": "defines_success_metrics",
+        "label": "Defines measurable success metrics or 60-day outcomes"
+      }
+    ],
+    "team_cells": [
+      {
+        "id": "analyzes_performance_data",
+        "label": "Analyzes specific performance data (margins, turnover, labor costs, satisfaction scores)",
+        "cells": {
+          "d1f5742e-fbfd-4283-be6f-6f6db5590067": "missing",
+          "0ccbeac8-4f37-4a65-a6a0-08621243b783": "missing",
+          "4501fc6f-6124-49d9-af92-6010be5d5302": "partial",
+          "ec341151-b95c-456d-8ada-a56431a91457": "full",
+          "a24459ff-2f7b-402c-934e-623f35fa9257": "missing",
+          "c7a67c8f-152a-4b1c-b3b7-1aa1fe6f63e3": "partial",
+          "3a2ce92d-83f8-4346-a8e6-9da2559837c3": "missing",
+          "a91bd69f-17f7-4f0e-8ec7-a164ddcffed7": "missing",
+          "361ee531-518f-4a36-b57b-2923c5a633a3": "partial",
+          "01a949e9-5d8c-421c-93e2-773df3f59f16": "full",
+          "d95c2fd3-511e-4668-a4d3-9309b865fec9": "partial"
+        }
+      },
+      {
+        "id": "diagnoses_root_causes",
+        "label": "Diagnoses root causes rather than recommending surface-level symptoms",
+        "cells": {
+          "d1f5742e-fbfd-4283-be6f-6f6db5590067": "missing",
+          "0ccbeac8-4f37-4a65-a6a0-08621243b783": "partial",
+          "4501fc6f-6124-49d9-af92-6010be5d5302": "missing",
+          "ec341151-b95c-456d-8ada-a56431a91457": "partial",
+          "a24459ff-2f7b-402c-934e-623f35fa9257": "partial",
+          "c7a67c8f-152a-4b1c-b3b7-1aa1fe6f63e3": "missing",
+          "3a2ce92d-83f8-4346-a8e6-9da2559837c3": "partial",
+          "a91bd69f-17f7-4f0e-8ec7-a164ddcffed7": "partial",
+          "361ee531-518f-4a36-b57b-2923c5a633a3": "partial",
+          "01a949e9-5d8c-421c-93e2-773df3f59f16": "partial",
+          "d95c2fd3-511e-4668-a4d3-9309b865fec9": "partial"
+        }
+      },
+      {
+        "id": "prioritizes_sequencing",
+        "label": "Prioritizes which store or issue to address first with clear sequencing",
+        "cells": {
+          "d1f5742e-fbfd-4283-be6f-6f6db5590067": "missing",
+          "0ccbeac8-4f37-4a65-a6a0-08621243b783": "missing",
+          "4501fc6f-6124-49d9-af92-6010be5d5302": "missing",
+          "ec341151-b95c-456d-8ada-a56431a91457": "partial",
+          "a24459ff-2f7b-402c-934e-623f35fa9257": "partial",
+          "c7a67c8f-152a-4b1c-b3b7-1aa1fe6f63e3": "missing",
+          "3a2ce92d-83f8-4346-a8e6-9da2559837c3": "missing",
+          "a91bd69f-17f7-4f0e-8ec7-a164ddcffed7": "missing",
+          "361ee531-518f-4a36-b57b-2923c5a633a3": "full",
+          "01a949e9-5d8c-421c-93e2-773df3f59f16": "partial",
+          "d95c2fd3-511e-4668-a4d3-9309b865fec9": "missing"
+        }
+      },
+      {
+        "id": "evaluates_individual_managers",
+        "label": "Evaluates individual managers (Clara, Derek, Helen) and their leadership effectiveness",
+        "cells": {
+          "d1f5742e-fbfd-4283-be6f-6f6db5590067": "missing",
+          "0ccbeac8-4f37-4a65-a6a0-08621243b783": "partial",
+          "4501fc6f-6124-49d9-af92-6010be5d5302": "missing",
+          "ec341151-b95c-456d-8ada-a56431a91457": "partial",
+          "a24459ff-2f7b-402c-934e-623f35fa9257": "partial",
+          "c7a67c8f-152a-4b1c-b3b7-1aa1fe6f63e3": "partial",
+          "3a2ce92d-83f8-4346-a8e6-9da2559837c3": "partial",
+          "a91bd69f-17f7-4f0e-8ec7-a164ddcffed7": "missing",
+          "361ee531-518f-4a36-b57b-2923c5a633a3": "partial",
+          "01a949e9-5d8c-421c-93e2-773df3f59f16": "partial",
+          "d95c2fd3-511e-4668-a4d3-9309b865fec9": "partial"
+        }
+      },
+      {
+        "id": "connects_people_to_results",
+        "label": "Connects people and culture issues directly to financial/operational outcomes",
+        "cells": {
+          "d1f5742e-fbfd-4283-be6f-6f6db5590067": "missing",
+          "0ccbeac8-4f37-4a65-a6a0-08621243b783": "partial",
+          "4501fc6f-6124-49d9-af92-6010be5d5302": "partial",
+          "ec341151-b95c-456d-8ada-a56431a91457": "full",
+          "a24459ff-2f7b-402c-934e-623f35fa9257": "partial",
+          "c7a67c8f-152a-4b1c-b3b7-1aa1fe6f63e3": "partial",
+          "3a2ce92d-83f8-4346-a8e6-9da2559837c3": "partial",
+          "a91bd69f-17f7-4f0e-8ec7-a164ddcffed7": "partial",
+          "361ee531-518f-4a36-b57b-2923c5a633a3": "full",
+          "01a949e9-5d8c-421c-93e2-773df3f59f16": "partial",
+          "d95c2fd3-511e-4668-a4d3-9309b865fec9": "partial"
+        }
+      },
+      {
+        "id": "provides_concrete_actions",
+        "label": "Provides concrete Monday-morning actions rather than directional themes",
+        "cells": {
+          "d1f5742e-fbfd-4283-be6f-6f6db5590067": "missing",
+          "0ccbeac8-4f37-4a65-a6a0-08621243b783": "missing",
+          "4501fc6f-6124-49d9-af92-6010be5d5302": "missing",
+          "ec341151-b95c-456d-8ada-a56431a91457": "missing",
+          "a24459ff-2f7b-402c-934e-623f35fa9257": "missing",
+          "c7a67c8f-152a-4b1c-b3b7-1aa1fe6f63e3": "missing",
+          "3a2ce92d-83f8-4346-a8e6-9da2559837c3": "missing",
+          "a91bd69f-17f7-4f0e-8ec7-a164ddcffed7": "missing",
+          "361ee531-518f-4a36-b57b-2923c5a633a3": "partial",
+          "01a949e9-5d8c-421c-93e2-773df3f59f16": "missing",
+          "d95c2fd3-511e-4668-a4d3-9309b865fec9": "missing"
+        }
+      },
+      {
+        "id": "defines_success_metrics",
+        "label": "Defines measurable success metrics or 60-day outcomes",
+        "cells": {
+          "d1f5742e-fbfd-4283-be6f-6f6db5590067": "missing",
+          "0ccbeac8-4f37-4a65-a6a0-08621243b783": "missing",
+          "4501fc6f-6124-49d9-af92-6010be5d5302": "missing",
+          "ec341151-b95c-456d-8ada-a56431a91457": "missing",
+          "a24459ff-2f7b-402c-934e-623f35fa9257": "missing",
+          "c7a67c8f-152a-4b1c-b3b7-1aa1fe6f63e3": "missing",
+          "3a2ce92d-83f8-4346-a8e6-9da2559837c3": "missing",
+          "a91bd69f-17f7-4f0e-8ec7-a164ddcffed7": "missing",
+          "361ee531-518f-4a36-b57b-2923c5a633a3": "missing",
+          "01a949e9-5d8c-421c-93e2-773df3f59f16": "missing",
+          "d95c2fd3-511e-4668-a4d3-9309b865fec9": "missing"
+        }
+      }
+    ],
+    "method": "LLM-derived via claude-haiku-4-5: criteria identified from 11 letters, per-team classification of credit."
+  }
 }

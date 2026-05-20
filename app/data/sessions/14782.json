@@ -1130,5 +1130,329 @@
       "created_at": "2026-05-05T05:25:56.120Z",
       "updated_at": "2026-05-05T05:25:56.120Z"
     }
-  ]
+  ],
+  "rubric_by_chapter": {
+    "92f9af6f-71fb-4e35-8d62-fe09fc2f0351": {
+      "criteria": [
+        {
+          "id": "anchors_analysis_in_quantitative_data",
+          "label": "Anchors diagnosis in specific metrics (margins, turnover, labor costs, satisfaction)"
+        },
+        {
+          "id": "compares_performance_across_all_stores",
+          "label": "Compares all three stores side-by-side to identify patterns and gaps"
+        },
+        {
+          "id": "connects_root_causes_to_outcomes",
+          "label": "Connects leadership/operations issues to specific performance gaps (not just identifies problems)"
+        },
+        {
+          "id": "prioritizes_sequenced_actions",
+          "label": "Recommends clear prioritization and sequencing (which store/lever first, why, what's second)"
+        },
+        {
+          "id": "provides_specific_executable_recommendations",
+          "label": "Provides specific, actionable next steps (not broad themes; includes 'who,' 'what,' 'when')"
+        },
+        {
+          "id": "actively_leads_diagnosis",
+          "label": "Leads analysis and challenges thinking (doesn't rely on CEO to drive the insights)"
+        },
+        {
+          "id": "builds_systematic_business_case",
+          "label": "Builds logical chain from diagnosis to recommendation with clear ROI or success metrics"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "anchors_analysis_in_quantitative_data",
+          "label": "Anchors diagnosis in specific metrics (margins, turnover, labor costs, satisfaction)",
+          "cells": {
+            "9d5c2585-44b3-4aab-9130-ab42a356e94d": "missing",
+            "3c487265-c5d2-4160-983b-9bc78bacaaf8": "full",
+            "18e153b7-02ad-4a92-bfbc-0e309f136e6f": "missing",
+            "f1cef00d-1947-42da-ae6f-83ababe112df": "missing",
+            "8f831e58-efcc-45bc-b70c-19b9dfc0443b": "partial",
+            "1814c6c1-a6ba-4bc6-9d4d-372a8c129808": "partial",
+            "1d5241c6-5474-4a77-9ad2-94bdfb19df10": "missing",
+            "45cb99dc-7355-4f34-90ad-9bfd31ac0e7c": "partial",
+            "8ade7045-15d2-463a-985b-65b32458659c": "partial",
+            "844e3134-3956-470d-a23c-e06e183956dd": "partial",
+            "0f10cab5-9490-4331-88ec-38e9329128b8": "partial",
+            "2639406c-c937-4739-81fb-7aee13f6b77a": "partial"
+          }
+        },
+        {
+          "id": "compares_performance_across_all_stores",
+          "label": "Compares all three stores side-by-side to identify patterns and gaps",
+          "cells": {
+            "9d5c2585-44b3-4aab-9130-ab42a356e94d": "missing",
+            "3c487265-c5d2-4160-983b-9bc78bacaaf8": "full",
+            "18e153b7-02ad-4a92-bfbc-0e309f136e6f": "partial",
+            "f1cef00d-1947-42da-ae6f-83ababe112df": "missing",
+            "8f831e58-efcc-45bc-b70c-19b9dfc0443b": "partial",
+            "1814c6c1-a6ba-4bc6-9d4d-372a8c129808": "partial",
+            "1d5241c6-5474-4a77-9ad2-94bdfb19df10": "partial",
+            "45cb99dc-7355-4f34-90ad-9bfd31ac0e7c": "partial",
+            "8ade7045-15d2-463a-985b-65b32458659c": "partial",
+            "844e3134-3956-470d-a23c-e06e183956dd": "partial",
+            "0f10cab5-9490-4331-88ec-38e9329128b8": "partial",
+            "2639406c-c937-4739-81fb-7aee13f6b77a": "partial"
+          }
+        },
+        {
+          "id": "connects_root_causes_to_outcomes",
+          "label": "Connects leadership/operations issues to specific performance gaps (not just identifies problems)",
+          "cells": {
+            "9d5c2585-44b3-4aab-9130-ab42a356e94d": "missing",
+            "3c487265-c5d2-4160-983b-9bc78bacaaf8": "partial",
+            "18e153b7-02ad-4a92-bfbc-0e309f136e6f": "partial",
+            "f1cef00d-1947-42da-ae6f-83ababe112df": "partial",
+            "8f831e58-efcc-45bc-b70c-19b9dfc0443b": "missing",
+            "1814c6c1-a6ba-4bc6-9d4d-372a8c129808": "partial",
+            "1d5241c6-5474-4a77-9ad2-94bdfb19df10": "partial",
+            "45cb99dc-7355-4f34-90ad-9bfd31ac0e7c": "partial",
+            "8ade7045-15d2-463a-985b-65b32458659c": "full",
+            "844e3134-3956-470d-a23c-e06e183956dd": "partial",
+            "0f10cab5-9490-4331-88ec-38e9329128b8": "partial",
+            "2639406c-c937-4739-81fb-7aee13f6b77a": "partial"
+          }
+        },
+        {
+          "id": "prioritizes_sequenced_actions",
+          "label": "Recommends clear prioritization and sequencing (which store/lever first, why, what's second)",
+          "cells": {
+            "9d5c2585-44b3-4aab-9130-ab42a356e94d": "missing",
+            "3c487265-c5d2-4160-983b-9bc78bacaaf8": "missing",
+            "18e153b7-02ad-4a92-bfbc-0e309f136e6f": "missing",
+            "f1cef00d-1947-42da-ae6f-83ababe112df": "missing",
+            "8f831e58-efcc-45bc-b70c-19b9dfc0443b": "missing",
+            "1814c6c1-a6ba-4bc6-9d4d-372a8c129808": "missing",
+            "1d5241c6-5474-4a77-9ad2-94bdfb19df10": "missing",
+            "45cb99dc-7355-4f34-90ad-9bfd31ac0e7c": "missing",
+            "8ade7045-15d2-463a-985b-65b32458659c": "missing",
+            "844e3134-3956-470d-a23c-e06e183956dd": "partial",
+            "0f10cab5-9490-4331-88ec-38e9329128b8": "missing",
+            "2639406c-c937-4739-81fb-7aee13f6b77a": "missing"
+          }
+        },
+        {
+          "id": "provides_specific_executable_recommendations",
+          "label": "Provides specific, actionable next steps (not broad themes; includes 'who,' 'what,' 'when')",
+          "cells": {
+            "9d5c2585-44b3-4aab-9130-ab42a356e94d": "missing",
+            "3c487265-c5d2-4160-983b-9bc78bacaaf8": "missing",
+            "18e153b7-02ad-4a92-bfbc-0e309f136e6f": "missing",
+            "f1cef00d-1947-42da-ae6f-83ababe112df": "missing",
+            "8f831e58-efcc-45bc-b70c-19b9dfc0443b": "missing",
+            "1814c6c1-a6ba-4bc6-9d4d-372a8c129808": "missing",
+            "1d5241c6-5474-4a77-9ad2-94bdfb19df10": "missing",
+            "45cb99dc-7355-4f34-90ad-9bfd31ac0e7c": "missing",
+            "8ade7045-15d2-463a-985b-65b32458659c": "missing",
+            "844e3134-3956-470d-a23c-e06e183956dd": "missing",
+            "0f10cab5-9490-4331-88ec-38e9329128b8": "missing",
+            "2639406c-c937-4739-81fb-7aee13f6b77a": "missing"
+          }
+        },
+        {
+          "id": "actively_leads_diagnosis",
+          "label": "Leads analysis and challenges thinking (doesn't rely on CEO to drive the insights)",
+          "cells": {
+            "9d5c2585-44b3-4aab-9130-ab42a356e94d": "missing",
+            "3c487265-c5d2-4160-983b-9bc78bacaaf8": "partial",
+            "18e153b7-02ad-4a92-bfbc-0e309f136e6f": "missing",
+            "f1cef00d-1947-42da-ae6f-83ababe112df": "missing",
+            "8f831e58-efcc-45bc-b70c-19b9dfc0443b": "missing",
+            "1814c6c1-a6ba-4bc6-9d4d-372a8c129808": "missing",
+            "1d5241c6-5474-4a77-9ad2-94bdfb19df10": "missing",
+            "45cb99dc-7355-4f34-90ad-9bfd31ac0e7c": "missing",
+            "8ade7045-15d2-463a-985b-65b32458659c": "full",
+            "844e3134-3956-470d-a23c-e06e183956dd": "partial",
+            "0f10cab5-9490-4331-88ec-38e9329128b8": "missing",
+            "2639406c-c937-4739-81fb-7aee13f6b77a": "missing"
+          }
+        },
+        {
+          "id": "builds_systematic_business_case",
+          "label": "Builds logical chain from diagnosis to recommendation with clear ROI or success metrics",
+          "cells": {
+            "9d5c2585-44b3-4aab-9130-ab42a356e94d": "missing",
+            "3c487265-c5d2-4160-983b-9bc78bacaaf8": "partial",
+            "18e153b7-02ad-4a92-bfbc-0e309f136e6f": "missing",
+            "f1cef00d-1947-42da-ae6f-83ababe112df": "missing",
+            "8f831e58-efcc-45bc-b70c-19b9dfc0443b": "missing",
+            "1814c6c1-a6ba-4bc6-9d4d-372a8c129808": "missing",
+            "1d5241c6-5474-4a77-9ad2-94bdfb19df10": "missing",
+            "45cb99dc-7355-4f34-90ad-9bfd31ac0e7c": "missing",
+            "8ade7045-15d2-463a-985b-65b32458659c": "partial",
+            "844e3134-3956-470d-a23c-e06e183956dd": "partial",
+            "0f10cab5-9490-4331-88ec-38e9329128b8": "missing",
+            "2639406c-c937-4739-81fb-7aee13f6b77a": "partial"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 12 letters, per-team classification of credit."
+    }
+  },
+  "rubric": {
+    "criteria": [
+      {
+        "id": "anchors_analysis_in_quantitative_data",
+        "label": "Anchors diagnosis in specific metrics (margins, turnover, labor costs, satisfaction)"
+      },
+      {
+        "id": "compares_performance_across_all_stores",
+        "label": "Compares all three stores side-by-side to identify patterns and gaps"
+      },
+      {
+        "id": "connects_root_causes_to_outcomes",
+        "label": "Connects leadership/operations issues to specific performance gaps (not just identifies problems)"
+      },
+      {
+        "id": "prioritizes_sequenced_actions",
+        "label": "Recommends clear prioritization and sequencing (which store/lever first, why, what's second)"
+      },
+      {
+        "id": "provides_specific_executable_recommendations",
+        "label": "Provides specific, actionable next steps (not broad themes; includes 'who,' 'what,' 'when')"
+      },
+      {
+        "id": "actively_leads_diagnosis",
+        "label": "Leads analysis and challenges thinking (doesn't rely on CEO to drive the insights)"
+      },
+      {
+        "id": "builds_systematic_business_case",
+        "label": "Builds logical chain from diagnosis to recommendation with clear ROI or success metrics"
+      }
+    ],
+    "team_cells": [
+      {
+        "id": "anchors_analysis_in_quantitative_data",
+        "label": "Anchors diagnosis in specific metrics (margins, turnover, labor costs, satisfaction)",
+        "cells": {
+          "9d5c2585-44b3-4aab-9130-ab42a356e94d": "missing",
+          "3c487265-c5d2-4160-983b-9bc78bacaaf8": "full",
+          "18e153b7-02ad-4a92-bfbc-0e309f136e6f": "missing",
+          "f1cef00d-1947-42da-ae6f-83ababe112df": "missing",
+          "8f831e58-efcc-45bc-b70c-19b9dfc0443b": "partial",
+          "1814c6c1-a6ba-4bc6-9d4d-372a8c129808": "partial",
+          "1d5241c6-5474-4a77-9ad2-94bdfb19df10": "missing",
+          "45cb99dc-7355-4f34-90ad-9bfd31ac0e7c": "partial",
+          "8ade7045-15d2-463a-985b-65b32458659c": "partial",
+          "844e3134-3956-470d-a23c-e06e183956dd": "partial",
+          "0f10cab5-9490-4331-88ec-38e9329128b8": "partial",
+          "2639406c-c937-4739-81fb-7aee13f6b77a": "partial"
+        }
+      },
+      {
+        "id": "compares_performance_across_all_stores",
+        "label": "Compares all three stores side-by-side to identify patterns and gaps",
+        "cells": {
+          "9d5c2585-44b3-4aab-9130-ab42a356e94d": "missing",
+          "3c487265-c5d2-4160-983b-9bc78bacaaf8": "full",
+          "18e153b7-02ad-4a92-bfbc-0e309f136e6f": "partial",
+          "f1cef00d-1947-42da-ae6f-83ababe112df": "missing",
+          "8f831e58-efcc-45bc-b70c-19b9dfc0443b": "partial",
+          "1814c6c1-a6ba-4bc6-9d4d-372a8c129808": "partial",
+          "1d5241c6-5474-4a77-9ad2-94bdfb19df10": "partial",
+          "45cb99dc-7355-4f34-90ad-9bfd31ac0e7c": "partial",
+          "8ade7045-15d2-463a-985b-65b32458659c": "partial",
+          "844e3134-3956-470d-a23c-e06e183956dd": "partial",
+          "0f10cab5-9490-4331-88ec-38e9329128b8": "partial",
+          "2639406c-c937-4739-81fb-7aee13f6b77a": "partial"
+        }
+      },
+      {
+        "id": "connects_root_causes_to_outcomes",
+        "label": "Connects leadership/operations issues to specific performance gaps (not just identifies problems)",
+        "cells": {
+          "9d5c2585-44b3-4aab-9130-ab42a356e94d": "missing",
+          "3c487265-c5d2-4160-983b-9bc78bacaaf8": "partial",
+          "18e153b7-02ad-4a92-bfbc-0e309f136e6f": "partial",
+          "f1cef00d-1947-42da-ae6f-83ababe112df": "partial",
+          "8f831e58-efcc-45bc-b70c-19b9dfc0443b": "missing",
+          "1814c6c1-a6ba-4bc6-9d4d-372a8c129808": "partial",
+          "1d5241c6-5474-4a77-9ad2-94bdfb19df10": "partial",
+          "45cb99dc-7355-4f34-90ad-9bfd31ac0e7c": "partial",
+          "8ade7045-15d2-463a-985b-65b32458659c": "full",
+          "844e3134-3956-470d-a23c-e06e183956dd": "partial",
+          "0f10cab5-9490-4331-88ec-38e9329128b8": "partial",
+          "2639406c-c937-4739-81fb-7aee13f6b77a": "partial"
+        }
+      },
+      {
+        "id": "prioritizes_sequenced_actions",
+        "label": "Recommends clear prioritization and sequencing (which store/lever first, why, what's second)",
+        "cells": {
+          "9d5c2585-44b3-4aab-9130-ab42a356e94d": "missing",
+          "3c487265-c5d2-4160-983b-9bc78bacaaf8": "missing",
+          "18e153b7-02ad-4a92-bfbc-0e309f136e6f": "missing",
+          "f1cef00d-1947-42da-ae6f-83ababe112df": "missing",
+          "8f831e58-efcc-45bc-b70c-19b9dfc0443b": "missing",
+          "1814c6c1-a6ba-4bc6-9d4d-372a8c129808": "missing",
+          "1d5241c6-5474-4a77-9ad2-94bdfb19df10": "missing",
+          "45cb99dc-7355-4f34-90ad-9bfd31ac0e7c": "missing",
+          "8ade7045-15d2-463a-985b-65b32458659c": "missing",
+          "844e3134-3956-470d-a23c-e06e183956dd": "partial",
+          "0f10cab5-9490-4331-88ec-38e9329128b8": "missing",
+          "2639406c-c937-4739-81fb-7aee13f6b77a": "missing"
+        }
+      },
+      {
+        "id": "provides_specific_executable_recommendations",
+        "label": "Provides specific, actionable next steps (not broad themes; includes 'who,' 'what,' 'when')",
+        "cells": {
+          "9d5c2585-44b3-4aab-9130-ab42a356e94d": "missing",
+          "3c487265-c5d2-4160-983b-9bc78bacaaf8": "missing",
+          "18e153b7-02ad-4a92-bfbc-0e309f136e6f": "missing",
+          "f1cef00d-1947-42da-ae6f-83ababe112df": "missing",
+          "8f831e58-efcc-45bc-b70c-19b9dfc0443b": "missing",
+          "1814c6c1-a6ba-4bc6-9d4d-372a8c129808": "missing",
+          "1d5241c6-5474-4a77-9ad2-94bdfb19df10": "missing",
+          "45cb99dc-7355-4f34-90ad-9bfd31ac0e7c": "missing",
+          "8ade7045-15d2-463a-985b-65b32458659c": "missing",
+          "844e3134-3956-470d-a23c-e06e183956dd": "missing",
+          "0f10cab5-9490-4331-88ec-38e9329128b8": "missing",
+          "2639406c-c937-4739-81fb-7aee13f6b77a": "missing"
+        }
+      },
+      {
+        "id": "actively_leads_diagnosis",
+        "label": "Leads analysis and challenges thinking (doesn't rely on CEO to drive the insights)",
+        "cells": {
+          "9d5c2585-44b3-4aab-9130-ab42a356e94d": "missing",
+          "3c487265-c5d2-4160-983b-9bc78bacaaf8": "partial",
+          "18e153b7-02ad-4a92-bfbc-0e309f136e6f": "missing",
+          "f1cef00d-1947-42da-ae6f-83ababe112df": "missing",
+          "8f831e58-efcc-45bc-b70c-19b9dfc0443b": "missing",
+          "1814c6c1-a6ba-4bc6-9d4d-372a8c129808": "missing",
+          "1d5241c6-5474-4a77-9ad2-94bdfb19df10": "missing",
+          "45cb99dc-7355-4f34-90ad-9bfd31ac0e7c": "missing",
+          "8ade7045-15d2-463a-985b-65b32458659c": "full",
+          "844e3134-3956-470d-a23c-e06e183956dd": "partial",
+          "0f10cab5-9490-4331-88ec-38e9329128b8": "missing",
+          "2639406c-c937-4739-81fb-7aee13f6b77a": "missing"
+        }
+      },
+      {
+        "id": "builds_systematic_business_case",
+        "label": "Builds logical chain from diagnosis to recommendation with clear ROI or success metrics",
+        "cells": {
+          "9d5c2585-44b3-4aab-9130-ab42a356e94d": "missing",
+          "3c487265-c5d2-4160-983b-9bc78bacaaf8": "partial",
+          "18e153b7-02ad-4a92-bfbc-0e309f136e6f": "missing",
+          "f1cef00d-1947-42da-ae6f-83ababe112df": "missing",
+          "8f831e58-efcc-45bc-b70c-19b9dfc0443b": "missing",
+          "1814c6c1-a6ba-4bc6-9d4d-372a8c129808": "missing",
+          "1d5241c6-5474-4a77-9ad2-94bdfb19df10": "missing",
+          "45cb99dc-7355-4f34-90ad-9bfd31ac0e7c": "missing",
+          "8ade7045-15d2-463a-985b-65b32458659c": "partial",
+          "844e3134-3956-470d-a23c-e06e183956dd": "partial",
+          "0f10cab5-9490-4331-88ec-38e9329128b8": "missing",
+          "2639406c-c937-4739-81fb-7aee13f6b77a": "partial"
+        }
+      }
+    ],
+    "method": "LLM-derived via claude-haiku-4-5: criteria identified from 12 letters, per-team classification of credit."
+  }
 }

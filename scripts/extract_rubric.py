@@ -22,7 +22,7 @@ except ImportError:
     print("Run: pip install anthropic")
     sys.exit(1)
 
-# Load .env.local if present
+# Load .env.local if present. Always override empty values in env.
 env_file = Path(".env.local")
 if env_file.exists():
     for line in env_file.read_text().splitlines():
@@ -31,7 +31,7 @@ if env_file.exists():
             continue
         k, _, v = line.partition("=")
         v = v.strip().strip('"').strip("'")
-        if v and k not in os.environ:
+        if v and not os.environ.get(k):
             os.environ[k] = v
 
 if not os.environ.get("ANTHROPIC_API_KEY"):
@@ -71,6 +71,34 @@ For each criterion, classify this team's credit as:
 Return ONLY a JSON object: {{ "criterion_id": "full|partial|missing", ... }}
 """
 
+def _extract_json(text: str, expect_kind):
+    """Robustly pull a JSON array/object out of LLM text."""
+    text = text.strip()
+    if text.startswith("```"):
+        text = text.split("```", 2)[1]
+        if text.startswith("json"):
+            text = text[4:]
+        text = text.strip()
+    # Find the first [ or { and scan forward to balanced close.
+    open_char = "[" if expect_kind is list else "{"
+    close_char = "]" if expect_kind is list else "}"
+    i = text.find(open_char)
+    if i < 0:
+        raise ValueError(f"no {open_char} in response: {text[:200]}")
+    depth, in_string, escape, k = 0, False, False, i
+    while k < len(text):
+        c = text[k]
+        if escape: escape = False
+        elif c == "\\": escape = True
+        elif c == '"': in_string = not in_string
+        elif not in_string:
+            if c == open_char: depth += 1
+            elif c == close_char:
+                depth -= 1
+                if depth == 0: break
+        k += 1
+    return json.loads(text[i:k+1])
+
 def extract_criteria(case_challenge, chapter_title, analyses):
     """First LLM pass: identify rubric criteria from the letters."""
     letters_text = ""
@@ -83,13 +111,7 @@ def extract_criteria(case_challenge, chapter_title, analyses):
         max_tokens=1024,
         messages=[{"role": "user", "content": prompt}],
     )
-    text = resp.content[0].text.strip()
-    # Strip code fences if present
-    if text.startswith("```"):
-        text = text.split("```")[1]
-        if text.startswith("json"):
-            text = text[4:]
-    return json.loads(text.strip())
+    return _extract_json(resp.content[0].text, list)
 
 def classify_team(case_challenge, chapter_title, criteria, analysis):
     letter = analysis.get("analysis", "")
@@ -100,12 +122,7 @@ def classify_team(case_challenge, chapter_title, criteria, analysis):
         max_tokens=512,
         messages=[{"role": "user", "content": prompt}],
     )
-    text = resp.content[0].text.strip()
-    if text.startswith("```"):
-        text = text.split("```")[1]
-        if text.startswith("json"):
-            text = text[4:]
-    return json.loads(text.strip())
+    return _extract_json(resp.content[0].text, dict)
 
 def process_session(arrow_id, force=False):
     path = Path(f"app/data/sessions/{arrow_id}.json")
@@ -171,9 +188,20 @@ def main():
     force = "--force" in args
     args = [a for a in args if a != "--force"]
     if "--all" in args:
+        # Print unbuffered for live progress monitoring
+        sys.stdout.reconfigure(line_buffering=True)
         for f in sorted(Path("app/data/sessions").glob("*.json")):
-            print(f"\n=== {f.name} ===")
-            process_session(f.stem, force=force)
+            print(f"\n=== {f.name} ===", flush=True)
+            try:
+                process_session(f.stem, force=force)
+            except Exception as e:
+                print(f"  !!! Top-level exception for {f.stem}: {type(e).__name__}: {e}", flush=True)
+                # On rate limit, back off
+                if "rate_limit" in str(e).lower() or "429" in str(e):
+                    print("  Sleeping 30s before continuing…", flush=True)
+                    time.sleep(30)
+                continue
+        print("\nAll done.", flush=True)
     elif args:
         process_session(args[0], force=force)
     else:

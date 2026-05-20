@@ -725,5 +725,347 @@
       "created_at": "2026-04-07T15:47:37.768Z",
       "updated_at": "2026-04-07T15:47:37.768Z"
     }
-  ]
+  ],
+  "rubric_by_chapter": {
+    "cc2abb26-f763-44d9-b197-81b6776e73fb": {
+      "criteria": [
+        {
+          "id": "calculates_breakeven_all_options",
+          "label": "Calculates breakeven for all three options (Co-Packer, Retrofit, New Plant)"
+        },
+        {
+          "id": "identifies_winning_option_by_volume",
+          "label": "Identifies which option wins across different demand volume scenarios"
+        },
+        {
+          "id": "makes_elimination_decision",
+          "label": "Makes a clear strategic decision on which option to eliminate"
+        },
+        {
+          "id": "justifies_elimination_rationale",
+          "label": "Provides sound rationale for why the eliminated option should not proceed"
+        },
+        {
+          "id": "connects_quantitative_to_strategy",
+          "label": "Connects numerical analysis to broader strategic considerations (e.g., risk, complexity)"
+        },
+        {
+          "id": "submits_work_deliverables",
+          "label": "Submits completed calculations and analysis in tangible form"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "calculates_breakeven_all_options",
+          "label": "Calculates breakeven for all three options (Co-Packer, Retrofit, New Plant)",
+          "cells": {
+            "4ec1b391-e2b5-451f-b225-938c8b910b26": "missing",
+            "7d51fda1-1723-4c48-b2ee-092b20933052": "full",
+            "5ac3c926-6c78-40d9-b014-98897bedb2d7": "full"
+          }
+        },
+        {
+          "id": "identifies_winning_option_by_volume",
+          "label": "Identifies which option wins across different demand volume scenarios",
+          "cells": {
+            "4ec1b391-e2b5-451f-b225-938c8b910b26": "missing",
+            "7d51fda1-1723-4c48-b2ee-092b20933052": "partial",
+            "5ac3c926-6c78-40d9-b014-98897bedb2d7": "full"
+          }
+        },
+        {
+          "id": "makes_elimination_decision",
+          "label": "Makes a clear strategic decision on which option to eliminate",
+          "cells": {
+            "4ec1b391-e2b5-451f-b225-938c8b910b26": "missing",
+            "7d51fda1-1723-4c48-b2ee-092b20933052": "full",
+            "5ac3c926-6c78-40d9-b014-98897bedb2d7": "full"
+          }
+        },
+        {
+          "id": "justifies_elimination_rationale",
+          "label": "Provides sound rationale for why the eliminated option should not proceed",
+          "cells": {
+            "4ec1b391-e2b5-451f-b225-938c8b910b26": "missing",
+            "7d51fda1-1723-4c48-b2ee-092b20933052": "partial",
+            "5ac3c926-6c78-40d9-b014-98897bedb2d7": "full"
+          }
+        },
+        {
+          "id": "connects_quantitative_to_strategy",
+          "label": "Connects numerical analysis to broader strategic considerations (e.g., risk, complexity)",
+          "cells": {
+            "4ec1b391-e2b5-451f-b225-938c8b910b26": "missing",
+            "7d51fda1-1723-4c48-b2ee-092b20933052": "full",
+            "5ac3c926-6c78-40d9-b014-98897bedb2d7": "full"
+          }
+        },
+        {
+          "id": "submits_work_deliverables",
+          "label": "Submits completed calculations and analysis in tangible form",
+          "cells": {
+            "4ec1b391-e2b5-451f-b225-938c8b910b26": "missing",
+            "7d51fda1-1723-4c48-b2ee-092b20933052": "full",
+            "5ac3c926-6c78-40d9-b014-98897bedb2d7": "full"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 3 letters, per-team classification of credit."
+    },
+    "66e7aed3-09d7-43f9-922c-2a9f9f45bcad": {
+      "criteria": [
+        {
+          "id": "clear_path_selection",
+          "label": "Makes explicit choice between Nimble, Scaled, or Flex path"
+        },
+        {
+          "id": "grounds_choice_in_data",
+          "label": "Supports recommendation with specific scenario data and numbers"
+        },
+        {
+          "id": "identifies_demand_forecast",
+          "label": "Clearly states which demand forecast (200K, 500K, 800K) the recommendation assumes"
+        },
+        {
+          "id": "acknowledges_constraints",
+          "label": "Recognizes and addresses stakeholder concerns (e.g., co-packer texture risk, Carlos input)"
+        },
+        {
+          "id": "defines_early_warning_metrics",
+          "label": "Identifies specific pilot metrics to track whether demand assumptions are holding"
+        },
+        {
+          "id": "considers_multiple_scenarios",
+          "label": "Explores upside/downside scenarios beyond base case forecast"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "clear_path_selection",
+          "label": "Makes explicit choice between Nimble, Scaled, or Flex path",
+          "cells": {
+            "4ec1b391-e2b5-451f-b225-938c8b910b26": "missing",
+            "7d51fda1-1723-4c48-b2ee-092b20933052": "full",
+            "5ac3c926-6c78-40d9-b014-98897bedb2d7": "full"
+          }
+        },
+        {
+          "id": "grounds_choice_in_data",
+          "label": "Supports recommendation with specific scenario data and numbers",
+          "cells": {
+            "4ec1b391-e2b5-451f-b225-938c8b910b26": "missing",
+            "7d51fda1-1723-4c48-b2ee-092b20933052": "partial",
+            "5ac3c926-6c78-40d9-b014-98897bedb2d7": "partial"
+          }
+        },
+        {
+          "id": "identifies_demand_forecast",
+          "label": "Clearly states which demand forecast (200K, 500K, 800K) the recommendation assumes",
+          "cells": {
+            "4ec1b391-e2b5-451f-b225-938c8b910b26": "missing",
+            "7d51fda1-1723-4c48-b2ee-092b20933052": "missing",
+            "5ac3c926-6c78-40d9-b014-98897bedb2d7": "partial"
+          }
+        },
+        {
+          "id": "acknowledges_constraints",
+          "label": "Recognizes and addresses stakeholder concerns (e.g., co-packer texture risk, Carlos input)",
+          "cells": {
+            "4ec1b391-e2b5-451f-b225-938c8b910b26": "partial",
+            "7d51fda1-1723-4c48-b2ee-092b20933052": "partial",
+            "5ac3c926-6c78-40d9-b014-98897bedb2d7": "full"
+          }
+        },
+        {
+          "id": "defines_early_warning_metrics",
+          "label": "Identifies specific pilot metrics to track whether demand assumptions are holding",
+          "cells": {
+            "4ec1b391-e2b5-451f-b225-938c8b910b26": "partial",
+            "7d51fda1-1723-4c48-b2ee-092b20933052": "partial",
+            "5ac3c926-6c78-40d9-b014-98897bedb2d7": "partial"
+          }
+        },
+        {
+          "id": "considers_multiple_scenarios",
+          "label": "Explores upside/downside scenarios beyond base case forecast",
+          "cells": {
+            "4ec1b391-e2b5-451f-b225-938c8b910b26": "missing",
+            "7d51fda1-1723-4c48-b2ee-092b20933052": "missing",
+            "5ac3c926-6c78-40d9-b014-98897bedb2d7": "full"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 3 letters, per-team classification of credit."
+    },
+    "324e78dc-69d5-4c1a-8f37-3bafaad87cee": {
+      "criteria": [
+        {
+          "id": "makes_explicit_recommendation",
+          "label": "Makes explicit recommendation for a specific scenario"
+        },
+        {
+          "id": "provides_financial_justification",
+          "label": "Supports recommendation with quantitative financial analysis"
+        },
+        {
+          "id": "identifies_key_metrics",
+          "label": "Specifies which metrics/KPIs will be tracked to measure success"
+        },
+        {
+          "id": "articulates_risk_analysis",
+          "label": "Identifies and analyzes potential risks or failure scenarios"
+        },
+        {
+          "id": "proposes_contingency_plan",
+          "label": "Outlines contingency actions if recommendation doesn't succeed"
+        },
+        {
+          "id": "demonstrates_reasoning_process",
+          "label": "Walks through logical reasoning and thinking behind the recommendation"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "makes_explicit_recommendation",
+          "label": "Makes explicit recommendation for a specific scenario",
+          "cells": {
+            "4ec1b391-e2b5-451f-b225-938c8b910b26": "missing",
+            "7d51fda1-1723-4c48-b2ee-092b20933052": "missing",
+            "5ac3c926-6c78-40d9-b014-98897bedb2d7": "missing"
+          }
+        },
+        {
+          "id": "provides_financial_justification",
+          "label": "Supports recommendation with quantitative financial analysis",
+          "cells": {
+            "4ec1b391-e2b5-451f-b225-938c8b910b26": "missing",
+            "7d51fda1-1723-4c48-b2ee-092b20933052": "missing",
+            "5ac3c926-6c78-40d9-b014-98897bedb2d7": "missing"
+          }
+        },
+        {
+          "id": "identifies_key_metrics",
+          "label": "Specifies which metrics/KPIs will be tracked to measure success",
+          "cells": {
+            "4ec1b391-e2b5-451f-b225-938c8b910b26": "missing",
+            "7d51fda1-1723-4c48-b2ee-092b20933052": "missing",
+            "5ac3c926-6c78-40d9-b014-98897bedb2d7": "missing"
+          }
+        },
+        {
+          "id": "articulates_risk_analysis",
+          "label": "Identifies and analyzes potential risks or failure scenarios",
+          "cells": {
+            "4ec1b391-e2b5-451f-b225-938c8b910b26": "missing",
+            "7d51fda1-1723-4c48-b2ee-092b20933052": "missing",
+            "5ac3c926-6c78-40d9-b014-98897bedb2d7": "missing"
+          }
+        },
+        {
+          "id": "proposes_contingency_plan",
+          "label": "Outlines contingency actions if recommendation doesn't succeed",
+          "cells": {
+            "4ec1b391-e2b5-451f-b225-938c8b910b26": "missing",
+            "7d51fda1-1723-4c48-b2ee-092b20933052": "missing",
+            "5ac3c926-6c78-40d9-b014-98897bedb2d7": "missing"
+          }
+        },
+        {
+          "id": "demonstrates_reasoning_process",
+          "label": "Walks through logical reasoning and thinking behind the recommendation",
+          "cells": {
+            "4ec1b391-e2b5-451f-b225-938c8b910b26": "missing",
+            "7d51fda1-1723-4c48-b2ee-092b20933052": "missing",
+            "5ac3c926-6c78-40d9-b014-98897bedb2d7": "missing"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 3 letters, per-team classification of credit."
+    }
+  },
+  "rubric": {
+    "criteria": [
+      {
+        "id": "makes_explicit_recommendation",
+        "label": "Makes explicit recommendation for a specific scenario"
+      },
+      {
+        "id": "provides_financial_justification",
+        "label": "Supports recommendation with quantitative financial analysis"
+      },
+      {
+        "id": "identifies_key_metrics",
+        "label": "Specifies which metrics/KPIs will be tracked to measure success"
+      },
+      {
+        "id": "articulates_risk_analysis",
+        "label": "Identifies and analyzes potential risks or failure scenarios"
+      },
+      {
+        "id": "proposes_contingency_plan",
+        "label": "Outlines contingency actions if recommendation doesn't succeed"
+      },
+      {
+        "id": "demonstrates_reasoning_process",
+        "label": "Walks through logical reasoning and thinking behind the recommendation"
+      }
+    ],
+    "team_cells": [
+      {
+        "id": "makes_explicit_recommendation",
+        "label": "Makes explicit recommendation for a specific scenario",
+        "cells": {
+          "4ec1b391-e2b5-451f-b225-938c8b910b26": "missing",
+          "7d51fda1-1723-4c48-b2ee-092b20933052": "missing",
+          "5ac3c926-6c78-40d9-b014-98897bedb2d7": "missing"
+        }
+      },
+      {
+        "id": "provides_financial_justification",
+        "label": "Supports recommendation with quantitative financial analysis",
+        "cells": {
+          "4ec1b391-e2b5-451f-b225-938c8b910b26": "missing",
+          "7d51fda1-1723-4c48-b2ee-092b20933052": "missing",
+          "5ac3c926-6c78-40d9-b014-98897bedb2d7": "missing"
+        }
+      },
+      {
+        "id": "identifies_key_metrics",
+        "label": "Specifies which metrics/KPIs will be tracked to measure success",
+        "cells": {
+          "4ec1b391-e2b5-451f-b225-938c8b910b26": "missing",
+          "7d51fda1-1723-4c48-b2ee-092b20933052": "missing",
+          "5ac3c926-6c78-40d9-b014-98897bedb2d7": "missing"
+        }
+      },
+      {
+        "id": "articulates_risk_analysis",
+        "label": "Identifies and analyzes potential risks or failure scenarios",
+        "cells": {
+          "4ec1b391-e2b5-451f-b225-938c8b910b26": "missing",
+          "7d51fda1-1723-4c48-b2ee-092b20933052": "missing",
+          "5ac3c926-6c78-40d9-b014-98897bedb2d7": "missing"
+        }
+      },
+      {
+        "id": "proposes_contingency_plan",
+        "label": "Outlines contingency actions if recommendation doesn't succeed",
+        "cells": {
+          "4ec1b391-e2b5-451f-b225-938c8b910b26": "missing",
+          "7d51fda1-1723-4c48-b2ee-092b20933052": "missing",
+          "5ac3c926-6c78-40d9-b014-98897bedb2d7": "missing"
+        }
+      },
+      {
+        "id": "demonstrates_reasoning_process",
+        "label": "Walks through logical reasoning and thinking behind the recommendation",
+        "cells": {
+          "4ec1b391-e2b5-451f-b225-938c8b910b26": "missing",
+          "7d51fda1-1723-4c48-b2ee-092b20933052": "missing",
+          "5ac3c926-6c78-40d9-b014-98897bedb2d7": "missing"
+        }
+      }
+    ],
+    "method": "LLM-derived via claude-haiku-4-5: criteria identified from 3 letters, per-team classification of credit."
+  }
 }

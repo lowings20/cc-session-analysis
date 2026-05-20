@@ -1602,5 +1602,535 @@
       "created_at": "2026-05-07T16:48:23.690Z",
       "updated_at": "2026-05-07T16:48:23.690Z"
     }
-  ]
+  ],
+  "rubric_by_chapter": {
+    "cc2abb26-f763-44d9-b197-81b6776e73fb": {
+      "criteria": [
+        {
+          "id": "breakeven_calculations_accurate",
+          "label": "Performs accurate breakeven calculations across all options"
+        },
+        {
+          "id": "identifies_retrofit_as_weakest",
+          "label": "Correctly identifies Retrofit as the option to eliminate"
+        },
+        {
+          "id": "explains_squeeze_logic",
+          "label": "Articulates why Retrofit loses across demand scenarios (squeezed in middle)"
+        },
+        {
+          "id": "connects_math_to_strategy",
+          "label": "Links quantitative analysis to strategic reasoning and trade-offs"
+        },
+        {
+          "id": "analyzes_profit_at_volume",
+          "label": "Tests options against profit scenarios, not just breakeven volumes"
+        },
+        {
+          "id": "identifies_winner_by_scenario",
+          "label": "Clearly maps which option wins at low vs. high demand"
+        },
+        {
+          "id": "reasoning_matches_recommendation",
+          "label": "Ensures stated rationale aligns with final elimination choice"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "breakeven_calculations_accurate",
+          "label": "Performs accurate breakeven calculations across all options",
+          "cells": {
+            "4384eab4-6fa9-4ed9-9f0a-4be28ade2719": "partial",
+            "b8f6330b-9e09-4311-b6e3-12728feba163": "full",
+            "6ceaf2f2-6f05-4834-b693-15ecdcfb593e": "full",
+            "d9bcdc69-90f8-46d2-b161-5fc0864f21f2": "partial",
+            "59866147-95d1-4b63-acfd-4329748029e3": "full",
+            "4764ea33-0946-461f-8e1e-92469d863aed": "missing",
+            "9b279629-0bdd-47ab-a198-98998431a210": "full",
+            "321f422c-b490-45f6-aedc-9ac2110e7b07": "full",
+            "2cf5e7d9-a62f-43bd-bcab-e74245e9c424": "full",
+            "41f24496-b44c-4e37-b984-85ade6bdf6bd": "full"
+          }
+        },
+        {
+          "id": "identifies_retrofit_as_weakest",
+          "label": "Correctly identifies Retrofit as the option to eliminate",
+          "cells": {
+            "4384eab4-6fa9-4ed9-9f0a-4be28ade2719": "full",
+            "b8f6330b-9e09-4311-b6e3-12728feba163": "full",
+            "6ceaf2f2-6f05-4834-b693-15ecdcfb593e": "full",
+            "d9bcdc69-90f8-46d2-b161-5fc0864f21f2": "full",
+            "59866147-95d1-4b63-acfd-4329748029e3": "partial",
+            "4764ea33-0946-461f-8e1e-92469d863aed": "missing",
+            "9b279629-0bdd-47ab-a198-98998431a210": "full",
+            "321f422c-b490-45f6-aedc-9ac2110e7b07": "full",
+            "2cf5e7d9-a62f-43bd-bcab-e74245e9c424": "full",
+            "41f24496-b44c-4e37-b984-85ade6bdf6bd": "partial"
+          }
+        },
+        {
+          "id": "explains_squeeze_logic",
+          "label": "Articulates why Retrofit loses across demand scenarios (squeezed in middle)",
+          "cells": {
+            "4384eab4-6fa9-4ed9-9f0a-4be28ade2719": "full",
+            "b8f6330b-9e09-4311-b6e3-12728feba163": "full",
+            "6ceaf2f2-6f05-4834-b693-15ecdcfb593e": "full",
+            "d9bcdc69-90f8-46d2-b161-5fc0864f21f2": "partial",
+            "59866147-95d1-4b63-acfd-4329748029e3": "partial",
+            "4764ea33-0946-461f-8e1e-92469d863aed": "missing",
+            "9b279629-0bdd-47ab-a198-98998431a210": "full",
+            "321f422c-b490-45f6-aedc-9ac2110e7b07": "full",
+            "2cf5e7d9-a62f-43bd-bcab-e74245e9c424": "full",
+            "41f24496-b44c-4e37-b984-85ade6bdf6bd": "partial"
+          }
+        },
+        {
+          "id": "connects_math_to_strategy",
+          "label": "Links quantitative analysis to strategic reasoning and trade-offs",
+          "cells": {
+            "4384eab4-6fa9-4ed9-9f0a-4be28ade2719": "partial",
+            "b8f6330b-9e09-4311-b6e3-12728feba163": "full",
+            "6ceaf2f2-6f05-4834-b693-15ecdcfb593e": "full",
+            "d9bcdc69-90f8-46d2-b161-5fc0864f21f2": "partial",
+            "59866147-95d1-4b63-acfd-4329748029e3": "partial",
+            "4764ea33-0946-461f-8e1e-92469d863aed": "missing",
+            "9b279629-0bdd-47ab-a198-98998431a210": "full",
+            "321f422c-b490-45f6-aedc-9ac2110e7b07": "full",
+            "2cf5e7d9-a62f-43bd-bcab-e74245e9c424": "full",
+            "41f24496-b44c-4e37-b984-85ade6bdf6bd": "full"
+          }
+        },
+        {
+          "id": "analyzes_profit_at_volume",
+          "label": "Tests options against profit scenarios, not just breakeven volumes",
+          "cells": {
+            "4384eab4-6fa9-4ed9-9f0a-4be28ade2719": "missing",
+            "b8f6330b-9e09-4311-b6e3-12728feba163": "full",
+            "6ceaf2f2-6f05-4834-b693-15ecdcfb593e": "partial",
+            "d9bcdc69-90f8-46d2-b161-5fc0864f21f2": "missing",
+            "59866147-95d1-4b63-acfd-4329748029e3": "partial",
+            "4764ea33-0946-461f-8e1e-92469d863aed": "missing",
+            "9b279629-0bdd-47ab-a198-98998431a210": "partial",
+            "321f422c-b490-45f6-aedc-9ac2110e7b07": "partial",
+            "2cf5e7d9-a62f-43bd-bcab-e74245e9c424": "full",
+            "41f24496-b44c-4e37-b984-85ade6bdf6bd": "partial"
+          }
+        },
+        {
+          "id": "identifies_winner_by_scenario",
+          "label": "Clearly maps which option wins at low vs. high demand",
+          "cells": {
+            "4384eab4-6fa9-4ed9-9f0a-4be28ade2719": "missing",
+            "b8f6330b-9e09-4311-b6e3-12728feba163": "missing",
+            "6ceaf2f2-6f05-4834-b693-15ecdcfb593e": "full",
+            "d9bcdc69-90f8-46d2-b161-5fc0864f21f2": "missing",
+            "59866147-95d1-4b63-acfd-4329748029e3": "partial",
+            "4764ea33-0946-461f-8e1e-92469d863aed": "missing",
+            "9b279629-0bdd-47ab-a198-98998431a210": "full",
+            "321f422c-b490-45f6-aedc-9ac2110e7b07": "full",
+            "2cf5e7d9-a62f-43bd-bcab-e74245e9c424": "full",
+            "41f24496-b44c-4e37-b984-85ade6bdf6bd": "partial"
+          }
+        },
+        {
+          "id": "reasoning_matches_recommendation",
+          "label": "Ensures stated rationale aligns with final elimination choice",
+          "cells": {
+            "4384eab4-6fa9-4ed9-9f0a-4be28ade2719": "full",
+            "b8f6330b-9e09-4311-b6e3-12728feba163": "full",
+            "6ceaf2f2-6f05-4834-b693-15ecdcfb593e": "full",
+            "d9bcdc69-90f8-46d2-b161-5fc0864f21f2": "partial",
+            "59866147-95d1-4b63-acfd-4329748029e3": "partial",
+            "4764ea33-0946-461f-8e1e-92469d863aed": "missing",
+            "9b279629-0bdd-47ab-a198-98998431a210": "full",
+            "321f422c-b490-45f6-aedc-9ac2110e7b07": "full",
+            "2cf5e7d9-a62f-43bd-bcab-e74245e9c424": "full",
+            "41f24496-b44c-4e37-b984-85ade6bdf6bd": "partial"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 10 letters, per-team classification of credit."
+    },
+    "66e7aed3-09d7-43f9-922c-2a9f9f45bcad": {
+      "criteria": [
+        {
+          "id": "makes_clear_path_choice",
+          "label": "Makes explicit production path choice (New Plant, Moderate, Flexible, or Copacker)"
+        },
+        {
+          "id": "supports_choice_with_scenario_data",
+          "label": "Backs path choice with specific financial data from scenario analysis (breakeven, margins, volumes)"
+        },
+        {
+          "id": "incorporates_carlos_insights",
+          "label": "Integrates Carlos's pilot insights on operational risks and quality control trade-offs"
+        },
+        {
+          "id": "connects_pilot_metrics_to_forecast",
+          "label": "Links specific pilot metrics (trial rates, repeat purchase, velocity, active accounts) to 500K base case projection"
+        },
+        {
+          "id": "identifies_early_demand_signals",
+          "label": "Specifies which early signals and metrics would confirm or contradict demand forecast across scenarios"
+        },
+        {
+          "id": "shows_quantified_assumptions",
+          "label": "States specific, quantified assumptions (e.g., percentages, volume units, metrics) rather than general claims"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "makes_clear_path_choice",
+          "label": "Makes explicit production path choice (New Plant, Moderate, Flexible, or Copacker)",
+          "cells": {
+            "4384eab4-6fa9-4ed9-9f0a-4be28ade2719": "full",
+            "b8f6330b-9e09-4311-b6e3-12728feba163": "full",
+            "6ceaf2f2-6f05-4834-b693-15ecdcfb593e": "full",
+            "d9bcdc69-90f8-46d2-b161-5fc0864f21f2": "full",
+            "59866147-95d1-4b63-acfd-4329748029e3": "full",
+            "4764ea33-0946-461f-8e1e-92469d863aed": "missing",
+            "9b279629-0bdd-47ab-a198-98998431a210": "full",
+            "321f422c-b490-45f6-aedc-9ac2110e7b07": "full",
+            "2cf5e7d9-a62f-43bd-bcab-e74245e9c424": "full",
+            "41f24496-b44c-4e37-b984-85ade6bdf6bd": "missing"
+          }
+        },
+        {
+          "id": "supports_choice_with_scenario_data",
+          "label": "Backs path choice with specific financial data from scenario analysis (breakeven, margins, volumes)",
+          "cells": {
+            "4384eab4-6fa9-4ed9-9f0a-4be28ade2719": "partial",
+            "b8f6330b-9e09-4311-b6e3-12728feba163": "full",
+            "6ceaf2f2-6f05-4834-b693-15ecdcfb593e": "partial",
+            "d9bcdc69-90f8-46d2-b161-5fc0864f21f2": "full",
+            "59866147-95d1-4b63-acfd-4329748029e3": "full",
+            "4764ea33-0946-461f-8e1e-92469d863aed": "missing",
+            "9b279629-0bdd-47ab-a198-98998431a210": "partial",
+            "321f422c-b490-45f6-aedc-9ac2110e7b07": "full",
+            "2cf5e7d9-a62f-43bd-bcab-e74245e9c424": "full",
+            "41f24496-b44c-4e37-b984-85ade6bdf6bd": "missing"
+          }
+        },
+        {
+          "id": "incorporates_carlos_insights",
+          "label": "Integrates Carlos's pilot insights on operational risks and quality control trade-offs",
+          "cells": {
+            "4384eab4-6fa9-4ed9-9f0a-4be28ade2719": "partial",
+            "b8f6330b-9e09-4311-b6e3-12728feba163": "full",
+            "6ceaf2f2-6f05-4834-b693-15ecdcfb593e": "full",
+            "d9bcdc69-90f8-46d2-b161-5fc0864f21f2": "full",
+            "59866147-95d1-4b63-acfd-4329748029e3": "full",
+            "4764ea33-0946-461f-8e1e-92469d863aed": "partial",
+            "9b279629-0bdd-47ab-a198-98998431a210": "full",
+            "321f422c-b490-45f6-aedc-9ac2110e7b07": "full",
+            "2cf5e7d9-a62f-43bd-bcab-e74245e9c424": "full",
+            "41f24496-b44c-4e37-b984-85ade6bdf6bd": "partial"
+          }
+        },
+        {
+          "id": "connects_pilot_metrics_to_forecast",
+          "label": "Links specific pilot metrics (trial rates, repeat purchase, velocity, active accounts) to 500K base case projection",
+          "cells": {
+            "4384eab4-6fa9-4ed9-9f0a-4be28ade2719": "partial",
+            "b8f6330b-9e09-4311-b6e3-12728feba163": "partial",
+            "6ceaf2f2-6f05-4834-b693-15ecdcfb593e": "partial",
+            "d9bcdc69-90f8-46d2-b161-5fc0864f21f2": "partial",
+            "59866147-95d1-4b63-acfd-4329748029e3": "partial",
+            "4764ea33-0946-461f-8e1e-92469d863aed": "partial",
+            "9b279629-0bdd-47ab-a198-98998431a210": "partial",
+            "321f422c-b490-45f6-aedc-9ac2110e7b07": "partial",
+            "2cf5e7d9-a62f-43bd-bcab-e74245e9c424": "partial",
+            "41f24496-b44c-4e37-b984-85ade6bdf6bd": "partial"
+          }
+        },
+        {
+          "id": "identifies_early_demand_signals",
+          "label": "Specifies which early signals and metrics would confirm or contradict demand forecast across scenarios",
+          "cells": {
+            "4384eab4-6fa9-4ed9-9f0a-4be28ade2719": "partial",
+            "b8f6330b-9e09-4311-b6e3-12728feba163": "partial",
+            "6ceaf2f2-6f05-4834-b693-15ecdcfb593e": "partial",
+            "d9bcdc69-90f8-46d2-b161-5fc0864f21f2": "partial",
+            "59866147-95d1-4b63-acfd-4329748029e3": "partial",
+            "4764ea33-0946-461f-8e1e-92469d863aed": "partial",
+            "9b279629-0bdd-47ab-a198-98998431a210": "partial",
+            "321f422c-b490-45f6-aedc-9ac2110e7b07": "partial",
+            "2cf5e7d9-a62f-43bd-bcab-e74245e9c424": "partial",
+            "41f24496-b44c-4e37-b984-85ade6bdf6bd": "partial"
+          }
+        },
+        {
+          "id": "shows_quantified_assumptions",
+          "label": "States specific, quantified assumptions (e.g., percentages, volume units, metrics) rather than general claims",
+          "cells": {
+            "4384eab4-6fa9-4ed9-9f0a-4be28ade2719": "partial",
+            "b8f6330b-9e09-4311-b6e3-12728feba163": "partial",
+            "6ceaf2f2-6f05-4834-b693-15ecdcfb593e": "partial",
+            "d9bcdc69-90f8-46d2-b161-5fc0864f21f2": "partial",
+            "59866147-95d1-4b63-acfd-4329748029e3": "partial",
+            "4764ea33-0946-461f-8e1e-92469d863aed": "missing",
+            "9b279629-0bdd-47ab-a198-98998431a210": "partial",
+            "321f422c-b490-45f6-aedc-9ac2110e7b07": "missing",
+            "2cf5e7d9-a62f-43bd-bcab-e74245e9c424": "full",
+            "41f24496-b44c-4e37-b984-85ade6bdf6bd": "missing"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 10 letters, per-team classification of credit."
+    },
+    "324e78dc-69d5-4c1a-8f37-3bafaad87cee": {
+      "criteria": [
+        {
+          "id": "clear_recommendation_with_rationale",
+          "label": "Makes a clear production choice and defends it with quantified trade-offs"
+        },
+        {
+          "id": "identifies_critical_metrics",
+          "label": "Identifies forward-looking signals (velocity, reorder rate, adoption) over lagging metrics"
+        },
+        {
+          "id": "connects_quality_to_business_outcome",
+          "label": "Links product quality to customer behavior (reorders, retention, velocity)"
+        },
+        {
+          "id": "sets_operational_thresholds",
+          "label": "Defines specific success/failure triggers for first 90 days (not vague targets)"
+        },
+        {
+          "id": "stress_tests_key_assumptions",
+          "label": "Proactively identifies and pressure-tests loadbearing assumptions without prompting"
+        },
+        {
+          "id": "owns_analysis_independently",
+          "label": "Demonstrates personal command of numbers and logic, not reliance on subject matter experts"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "clear_recommendation_with_rationale",
+          "label": "Makes a clear production choice and defends it with quantified trade-offs",
+          "cells": {
+            "4384eab4-6fa9-4ed9-9f0a-4be28ade2719": "missing",
+            "b8f6330b-9e09-4311-b6e3-12728feba163": "missing",
+            "6ceaf2f2-6f05-4834-b693-15ecdcfb593e": "full",
+            "d9bcdc69-90f8-46d2-b161-5fc0864f21f2": "missing",
+            "59866147-95d1-4b63-acfd-4329748029e3": "missing",
+            "4764ea33-0946-461f-8e1e-92469d863aed": "missing",
+            "9b279629-0bdd-47ab-a198-98998431a210": "full",
+            "321f422c-b490-45f6-aedc-9ac2110e7b07": "full",
+            "2cf5e7d9-a62f-43bd-bcab-e74245e9c424": "full",
+            "41f24496-b44c-4e37-b984-85ade6bdf6bd": "missing"
+          }
+        },
+        {
+          "id": "identifies_critical_metrics",
+          "label": "Identifies forward-looking signals (velocity, reorder rate, adoption) over lagging metrics",
+          "cells": {
+            "4384eab4-6fa9-4ed9-9f0a-4be28ade2719": "missing",
+            "b8f6330b-9e09-4311-b6e3-12728feba163": "missing",
+            "6ceaf2f2-6f05-4834-b693-15ecdcfb593e": "full",
+            "d9bcdc69-90f8-46d2-b161-5fc0864f21f2": "missing",
+            "59866147-95d1-4b63-acfd-4329748029e3": "missing",
+            "4764ea33-0946-461f-8e1e-92469d863aed": "missing",
+            "9b279629-0bdd-47ab-a198-98998431a210": "full",
+            "321f422c-b490-45f6-aedc-9ac2110e7b07": "full",
+            "2cf5e7d9-a62f-43bd-bcab-e74245e9c424": "full",
+            "41f24496-b44c-4e37-b984-85ade6bdf6bd": "missing"
+          }
+        },
+        {
+          "id": "connects_quality_to_business_outcome",
+          "label": "Links product quality to customer behavior (reorders, retention, velocity)",
+          "cells": {
+            "4384eab4-6fa9-4ed9-9f0a-4be28ade2719": "missing",
+            "b8f6330b-9e09-4311-b6e3-12728feba163": "missing",
+            "6ceaf2f2-6f05-4834-b693-15ecdcfb593e": "full",
+            "d9bcdc69-90f8-46d2-b161-5fc0864f21f2": "missing",
+            "59866147-95d1-4b63-acfd-4329748029e3": "missing",
+            "4764ea33-0946-461f-8e1e-92469d863aed": "missing",
+            "9b279629-0bdd-47ab-a198-98998431a210": "full",
+            "321f422c-b490-45f6-aedc-9ac2110e7b07": "full",
+            "2cf5e7d9-a62f-43bd-bcab-e74245e9c424": "missing",
+            "41f24496-b44c-4e37-b984-85ade6bdf6bd": "missing"
+          }
+        },
+        {
+          "id": "sets_operational_thresholds",
+          "label": "Defines specific success/failure triggers for first 90 days (not vague targets)",
+          "cells": {
+            "4384eab4-6fa9-4ed9-9f0a-4be28ade2719": "missing",
+            "b8f6330b-9e09-4311-b6e3-12728feba163": "missing",
+            "6ceaf2f2-6f05-4834-b693-15ecdcfb593e": "full",
+            "d9bcdc69-90f8-46d2-b161-5fc0864f21f2": "missing",
+            "59866147-95d1-4b63-acfd-4329748029e3": "missing",
+            "4764ea33-0946-461f-8e1e-92469d863aed": "missing",
+            "9b279629-0bdd-47ab-a198-98998431a210": "full",
+            "321f422c-b490-45f6-aedc-9ac2110e7b07": "full",
+            "2cf5e7d9-a62f-43bd-bcab-e74245e9c424": "missing",
+            "41f24496-b44c-4e37-b984-85ade6bdf6bd": "missing"
+          }
+        },
+        {
+          "id": "stress_tests_key_assumptions",
+          "label": "Proactively identifies and pressure-tests loadbearing assumptions without prompting",
+          "cells": {
+            "4384eab4-6fa9-4ed9-9f0a-4be28ade2719": "missing",
+            "b8f6330b-9e09-4311-b6e3-12728feba163": "missing",
+            "6ceaf2f2-6f05-4834-b693-15ecdcfb593e": "missing",
+            "d9bcdc69-90f8-46d2-b161-5fc0864f21f2": "missing",
+            "59866147-95d1-4b63-acfd-4329748029e3": "missing",
+            "4764ea33-0946-461f-8e1e-92469d863aed": "partial",
+            "9b279629-0bdd-47ab-a198-98998431a210": "partial",
+            "321f422c-b490-45f6-aedc-9ac2110e7b07": "missing",
+            "2cf5e7d9-a62f-43bd-bcab-e74245e9c424": "partial",
+            "41f24496-b44c-4e37-b984-85ade6bdf6bd": "missing"
+          }
+        },
+        {
+          "id": "owns_analysis_independently",
+          "label": "Demonstrates personal command of numbers and logic, not reliance on subject matter experts",
+          "cells": {
+            "4384eab4-6fa9-4ed9-9f0a-4be28ade2719": "missing",
+            "b8f6330b-9e09-4311-b6e3-12728feba163": "missing",
+            "6ceaf2f2-6f05-4834-b693-15ecdcfb593e": "partial",
+            "d9bcdc69-90f8-46d2-b161-5fc0864f21f2": "missing",
+            "59866147-95d1-4b63-acfd-4329748029e3": "missing",
+            "4764ea33-0946-461f-8e1e-92469d863aed": "missing",
+            "9b279629-0bdd-47ab-a198-98998431a210": "full",
+            "321f422c-b490-45f6-aedc-9ac2110e7b07": "partial",
+            "2cf5e7d9-a62f-43bd-bcab-e74245e9c424": "partial",
+            "41f24496-b44c-4e37-b984-85ade6bdf6bd": "missing"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 10 letters, per-team classification of credit."
+    }
+  },
+  "rubric": {
+    "criteria": [
+      {
+        "id": "clear_recommendation_with_rationale",
+        "label": "Makes a clear production choice and defends it with quantified trade-offs"
+      },
+      {
+        "id": "identifies_critical_metrics",
+        "label": "Identifies forward-looking signals (velocity, reorder rate, adoption) over lagging metrics"
+      },
+      {
+        "id": "connects_quality_to_business_outcome",
+        "label": "Links product quality to customer behavior (reorders, retention, velocity)"
+      },
+      {
+        "id": "sets_operational_thresholds",
+        "label": "Defines specific success/failure triggers for first 90 days (not vague targets)"
+      },
+      {
+        "id": "stress_tests_key_assumptions",
+        "label": "Proactively identifies and pressure-tests loadbearing assumptions without prompting"
+      },
+      {
+        "id": "owns_analysis_independently",
+        "label": "Demonstrates personal command of numbers and logic, not reliance on subject matter experts"
+      }
+    ],
+    "team_cells": [
+      {
+        "id": "clear_recommendation_with_rationale",
+        "label": "Makes a clear production choice and defends it with quantified trade-offs",
+        "cells": {
+          "4384eab4-6fa9-4ed9-9f0a-4be28ade2719": "missing",
+          "b8f6330b-9e09-4311-b6e3-12728feba163": "missing",
+          "6ceaf2f2-6f05-4834-b693-15ecdcfb593e": "full",
+          "d9bcdc69-90f8-46d2-b161-5fc0864f21f2": "missing",
+          "59866147-95d1-4b63-acfd-4329748029e3": "missing",
+          "4764ea33-0946-461f-8e1e-92469d863aed": "missing",
+          "9b279629-0bdd-47ab-a198-98998431a210": "full",
+          "321f422c-b490-45f6-aedc-9ac2110e7b07": "full",
+          "2cf5e7d9-a62f-43bd-bcab-e74245e9c424": "full",
+          "41f24496-b44c-4e37-b984-85ade6bdf6bd": "missing"
+        }
+      },
+      {
+        "id": "identifies_critical_metrics",
+        "label": "Identifies forward-looking signals (velocity, reorder rate, adoption) over lagging metrics",
+        "cells": {
+          "4384eab4-6fa9-4ed9-9f0a-4be28ade2719": "missing",
+          "b8f6330b-9e09-4311-b6e3-12728feba163": "missing",
+          "6ceaf2f2-6f05-4834-b693-15ecdcfb593e": "full",
+          "d9bcdc69-90f8-46d2-b161-5fc0864f21f2": "missing",
+          "59866147-95d1-4b63-acfd-4329748029e3": "missing",
+          "4764ea33-0946-461f-8e1e-92469d863aed": "missing",
+          "9b279629-0bdd-47ab-a198-98998431a210": "full",
+          "321f422c-b490-45f6-aedc-9ac2110e7b07": "full",
+          "2cf5e7d9-a62f-43bd-bcab-e74245e9c424": "full",
+          "41f24496-b44c-4e37-b984-85ade6bdf6bd": "missing"
+        }
+      },
+      {
+        "id": "connects_quality_to_business_outcome",
+        "label": "Links product quality to customer behavior (reorders, retention, velocity)",
+        "cells": {
+          "4384eab4-6fa9-4ed9-9f0a-4be28ade2719": "missing",
+          "b8f6330b-9e09-4311-b6e3-12728feba163": "missing",
+          "6ceaf2f2-6f05-4834-b693-15ecdcfb593e": "full",
+          "d9bcdc69-90f8-46d2-b161-5fc0864f21f2": "missing",
+          "59866147-95d1-4b63-acfd-4329748029e3": "missing",
+          "4764ea33-0946-461f-8e1e-92469d863aed": "missing",
+          "9b279629-0bdd-47ab-a198-98998431a210": "full",
+          "321f422c-b490-45f6-aedc-9ac2110e7b07": "full",
+          "2cf5e7d9-a62f-43bd-bcab-e74245e9c424": "missing",
+          "41f24496-b44c-4e37-b984-85ade6bdf6bd": "missing"
+        }
+      },
+      {
+        "id": "sets_operational_thresholds",
+        "label": "Defines specific success/failure triggers for first 90 days (not vague targets)",
+        "cells": {
+          "4384eab4-6fa9-4ed9-9f0a-4be28ade2719": "missing",
+          "b8f6330b-9e09-4311-b6e3-12728feba163": "missing",
+          "6ceaf2f2-6f05-4834-b693-15ecdcfb593e": "full",
+          "d9bcdc69-90f8-46d2-b161-5fc0864f21f2": "missing",
+          "59866147-95d1-4b63-acfd-4329748029e3": "missing",
+          "4764ea33-0946-461f-8e1e-92469d863aed": "missing",
+          "9b279629-0bdd-47ab-a198-98998431a210": "full",
+          "321f422c-b490-45f6-aedc-9ac2110e7b07": "full",
+          "2cf5e7d9-a62f-43bd-bcab-e74245e9c424": "missing",
+          "41f24496-b44c-4e37-b984-85ade6bdf6bd": "missing"
+        }
+      },
+      {
+        "id": "stress_tests_key_assumptions",
+        "label": "Proactively identifies and pressure-tests loadbearing assumptions without prompting",
+        "cells": {
+          "4384eab4-6fa9-4ed9-9f0a-4be28ade2719": "missing",
+          "b8f6330b-9e09-4311-b6e3-12728feba163": "missing",
+          "6ceaf2f2-6f05-4834-b693-15ecdcfb593e": "missing",
+          "d9bcdc69-90f8-46d2-b161-5fc0864f21f2": "missing",
+          "59866147-95d1-4b63-acfd-4329748029e3": "missing",
+          "4764ea33-0946-461f-8e1e-92469d863aed": "partial",
+          "9b279629-0bdd-47ab-a198-98998431a210": "partial",
+          "321f422c-b490-45f6-aedc-9ac2110e7b07": "missing",
+          "2cf5e7d9-a62f-43bd-bcab-e74245e9c424": "partial",
+          "41f24496-b44c-4e37-b984-85ade6bdf6bd": "missing"
+        }
+      },
+      {
+        "id": "owns_analysis_independently",
+        "label": "Demonstrates personal command of numbers and logic, not reliance on subject matter experts",
+        "cells": {
+          "4384eab4-6fa9-4ed9-9f0a-4be28ade2719": "missing",
+          "b8f6330b-9e09-4311-b6e3-12728feba163": "missing",
+          "6ceaf2f2-6f05-4834-b693-15ecdcfb593e": "partial",
+          "d9bcdc69-90f8-46d2-b161-5fc0864f21f2": "missing",
+          "59866147-95d1-4b63-acfd-4329748029e3": "missing",
+          "4764ea33-0946-461f-8e1e-92469d863aed": "missing",
+          "9b279629-0bdd-47ab-a198-98998431a210": "full",
+          "321f422c-b490-45f6-aedc-9ac2110e7b07": "partial",
+          "2cf5e7d9-a62f-43bd-bcab-e74245e9c424": "partial",
+          "41f24496-b44c-4e37-b984-85ade6bdf6bd": "missing"
+        }
+      }
+    ],
+    "method": "LLM-derived via claude-haiku-4-5: criteria identified from 10 letters, per-team classification of credit."
+  }
 }

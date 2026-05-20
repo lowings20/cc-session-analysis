@@ -2014,5 +2014,610 @@
       "created_at": "2026-04-30T09:45:31.607Z",
       "updated_at": "2026-04-30T09:45:31.607Z"
     }
-  ]
+  ],
+  "rubric_by_chapter": {
+    "cc2abb26-f763-44d9-b197-81b6776e73fb": {
+      "criteria": [
+        {
+          "id": "breakeven_calculations_accurate",
+          "label": "Calculates breakeven volumes correctly for all three options"
+        },
+        {
+          "id": "identifies_retrofit_dominated",
+          "label": "Identifies Retrofit as dominated option (loses at all volume levels)"
+        },
+        {
+          "id": "analyzes_volume_scenarios",
+          "label": "Analyzes which option wins at low vs. high demand volumes"
+        },
+        {
+          "id": "integrates_cost_structure_logic",
+          "label": "Explains elimination decision using fixed/variable cost tradeoffs"
+        },
+        {
+          "id": "considers_risk_implications",
+          "label": "Evaluates risk factors (breakeven height, capital intensity, flexibility) alongside pure financials"
+        },
+        {
+          "id": "strategic_vs_mechanical_reasoning",
+          "label": "Shows strategic thinking beyond mechanical number-crunching"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "breakeven_calculations_accurate",
+          "label": "Calculates breakeven volumes correctly for all three options",
+          "cells": {
+            "272554f7-16a6-4697-b132-842c3b7de67a": "partial",
+            "224aafc0-2dc6-4a52-8454-8d69b83b4c0d": "missing",
+            "ea53b216-e4de-4e46-89f4-c8877f929147": "full",
+            "2ea8f706-ab14-475f-8712-9e7e34ffc3c6": "full",
+            "39d719f5-58b6-42f3-8692-6d430ccaf14c": "full",
+            "7524c53a-356e-4093-a932-cfd40bb58093": "full",
+            "112a63cb-7dcb-4061-a18e-f80209d53f13": "full",
+            "7d89ca31-c52e-41de-9560-f53aea443597": "full",
+            "508de5e1-e9e6-42ca-b31c-eb31bf8deaef": "full",
+            "0349326c-077b-4cd7-bf34-b1f837a28ad8": "full",
+            "a871acf6-5979-471b-9ab8-e497223820bf": "full",
+            "075f0cae-5074-45cb-95fe-d41c7e95742a": "full",
+            "22f6c5c7-b125-455b-a569-f38fd7cb6ae5": "partial"
+          }
+        },
+        {
+          "id": "identifies_retrofit_dominated",
+          "label": "Identifies Retrofit as dominated option (loses at all volume levels)",
+          "cells": {
+            "272554f7-16a6-4697-b132-842c3b7de67a": "missing",
+            "224aafc0-2dc6-4a52-8454-8d69b83b4c0d": "partial",
+            "ea53b216-e4de-4e46-89f4-c8877f929147": "full",
+            "2ea8f706-ab14-475f-8712-9e7e34ffc3c6": "full",
+            "39d719f5-58b6-42f3-8692-6d430ccaf14c": "full",
+            "7524c53a-356e-4093-a932-cfd40bb58093": "full",
+            "112a63cb-7dcb-4061-a18e-f80209d53f13": "full",
+            "7d89ca31-c52e-41de-9560-f53aea443597": "full",
+            "508de5e1-e9e6-42ca-b31c-eb31bf8deaef": "full",
+            "0349326c-077b-4cd7-bf34-b1f837a28ad8": "full",
+            "a871acf6-5979-471b-9ab8-e497223820bf": "full",
+            "075f0cae-5074-45cb-95fe-d41c7e95742a": "partial",
+            "22f6c5c7-b125-455b-a569-f38fd7cb6ae5": "full"
+          }
+        },
+        {
+          "id": "analyzes_volume_scenarios",
+          "label": "Analyzes which option wins at low vs. high demand volumes",
+          "cells": {
+            "272554f7-16a6-4697-b132-842c3b7de67a": "partial",
+            "224aafc0-2dc6-4a52-8454-8d69b83b4c0d": "missing",
+            "ea53b216-e4de-4e46-89f4-c8877f929147": "full",
+            "2ea8f706-ab14-475f-8712-9e7e34ffc3c6": "partial",
+            "39d719f5-58b6-42f3-8692-6d430ccaf14c": "full",
+            "7524c53a-356e-4093-a932-cfd40bb58093": "full",
+            "112a63cb-7dcb-4061-a18e-f80209d53f13": "full",
+            "7d89ca31-c52e-41de-9560-f53aea443597": "full",
+            "508de5e1-e9e6-42ca-b31c-eb31bf8deaef": "full",
+            "0349326c-077b-4cd7-bf34-b1f837a28ad8": "full",
+            "a871acf6-5979-471b-9ab8-e497223820bf": "full",
+            "075f0cae-5074-45cb-95fe-d41c7e95742a": "partial",
+            "22f6c5c7-b125-455b-a569-f38fd7cb6ae5": "full"
+          }
+        },
+        {
+          "id": "integrates_cost_structure_logic",
+          "label": "Explains elimination decision using fixed/variable cost tradeoffs",
+          "cells": {
+            "272554f7-16a6-4697-b132-842c3b7de67a": "partial",
+            "224aafc0-2dc6-4a52-8454-8d69b83b4c0d": "partial",
+            "ea53b216-e4de-4e46-89f4-c8877f929147": "partial",
+            "2ea8f706-ab14-475f-8712-9e7e34ffc3c6": "partial",
+            "39d719f5-58b6-42f3-8692-6d430ccaf14c": "partial",
+            "7524c53a-356e-4093-a932-cfd40bb58093": "full",
+            "112a63cb-7dcb-4061-a18e-f80209d53f13": "full",
+            "7d89ca31-c52e-41de-9560-f53aea443597": "partial",
+            "508de5e1-e9e6-42ca-b31c-eb31bf8deaef": "full",
+            "0349326c-077b-4cd7-bf34-b1f837a28ad8": "full",
+            "a871acf6-5979-471b-9ab8-e497223820bf": "full",
+            "075f0cae-5074-45cb-95fe-d41c7e95742a": "missing",
+            "22f6c5c7-b125-455b-a569-f38fd7cb6ae5": "partial"
+          }
+        },
+        {
+          "id": "considers_risk_implications",
+          "label": "Evaluates risk factors (breakeven height, capital intensity, flexibility) alongside pure financials",
+          "cells": {
+            "272554f7-16a6-4697-b132-842c3b7de67a": "partial",
+            "224aafc0-2dc6-4a52-8454-8d69b83b4c0d": "missing",
+            "ea53b216-e4de-4e46-89f4-c8877f929147": "missing",
+            "2ea8f706-ab14-475f-8712-9e7e34ffc3c6": "missing",
+            "39d719f5-58b6-42f3-8692-6d430ccaf14c": "full",
+            "7524c53a-356e-4093-a932-cfd40bb58093": "full",
+            "112a63cb-7dcb-4061-a18e-f80209d53f13": "partial",
+            "7d89ca31-c52e-41de-9560-f53aea443597": "missing",
+            "508de5e1-e9e6-42ca-b31c-eb31bf8deaef": "full",
+            "0349326c-077b-4cd7-bf34-b1f837a28ad8": "partial",
+            "a871acf6-5979-471b-9ab8-e497223820bf": "full",
+            "075f0cae-5074-45cb-95fe-d41c7e95742a": "full",
+            "22f6c5c7-b125-455b-a569-f38fd7cb6ae5": "missing"
+          }
+        },
+        {
+          "id": "strategic_vs_mechanical_reasoning",
+          "label": "Shows strategic thinking beyond mechanical number-crunching",
+          "cells": {
+            "272554f7-16a6-4697-b132-842c3b7de67a": "partial",
+            "224aafc0-2dc6-4a52-8454-8d69b83b4c0d": "partial",
+            "ea53b216-e4de-4e46-89f4-c8877f929147": "partial",
+            "2ea8f706-ab14-475f-8712-9e7e34ffc3c6": "full",
+            "39d719f5-58b6-42f3-8692-6d430ccaf14c": "full",
+            "7524c53a-356e-4093-a932-cfd40bb58093": "full",
+            "112a63cb-7dcb-4061-a18e-f80209d53f13": "full",
+            "7d89ca31-c52e-41de-9560-f53aea443597": "partial",
+            "508de5e1-e9e6-42ca-b31c-eb31bf8deaef": "full",
+            "0349326c-077b-4cd7-bf34-b1f837a28ad8": "full",
+            "a871acf6-5979-471b-9ab8-e497223820bf": "full",
+            "075f0cae-5074-45cb-95fe-d41c7e95742a": "full",
+            "22f6c5c7-b125-455b-a569-f38fd7cb6ae5": "partial"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 13 letters, per-team classification of credit."
+    },
+    "66e7aed3-09d7-43f9-922c-2a9f9f45bcad": {
+      "criteria": [
+        {
+          "id": "clear_path_selection",
+          "label": "Selects and clearly states a specific strategic path (e.g., New Plant vs. Co-Packer)"
+        },
+        {
+          "id": "pilot_to_forecast_connection",
+          "label": "Connects specific pilot metrics to 500K base case demand forecast"
+        },
+        {
+          "id": "scenario_signal_planning",
+          "label": "Identifies which early signals would indicate tracking toward high, base, or low demand scenarios"
+        },
+        {
+          "id": "quality_operational_reasoning",
+          "label": "Addresses quality, consistency, or operational control concerns in strategic rationale"
+        },
+        {
+          "id": "financial_scenario_analysis",
+          "label": "Analyzes profitability, breakeven, or financial outcomes across different demand scenarios"
+        },
+        {
+          "id": "stakeholder_priority_alignment",
+          "label": "Connects recommendation to key stakeholder priorities (e.g., Carlos's quality/consistency concerns)"
+        },
+        {
+          "id": "risk_mitigation_thinking",
+          "label": "Demonstrates risk awareness such as optionality, scalability, or phased approach to capital commitment"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "clear_path_selection",
+          "label": "Selects and clearly states a specific strategic path (e.g., New Plant vs. Co-Packer)",
+          "cells": {
+            "272554f7-16a6-4697-b132-842c3b7de67a": "full",
+            "224aafc0-2dc6-4a52-8454-8d69b83b4c0d": "partial",
+            "ea53b216-e4de-4e46-89f4-c8877f929147": "full",
+            "2ea8f706-ab14-475f-8712-9e7e34ffc3c6": "full",
+            "39d719f5-58b6-42f3-8692-6d430ccaf14c": "full",
+            "7524c53a-356e-4093-a932-cfd40bb58093": "full",
+            "112a63cb-7dcb-4061-a18e-f80209d53f13": "full",
+            "7d89ca31-c52e-41de-9560-f53aea443597": "full",
+            "508de5e1-e9e6-42ca-b31c-eb31bf8deaef": "full",
+            "0349326c-077b-4cd7-bf34-b1f837a28ad8": "full",
+            "a871acf6-5979-471b-9ab8-e497223820bf": "full",
+            "075f0cae-5074-45cb-95fe-d41c7e95742a": "full",
+            "22f6c5c7-b125-455b-a569-f38fd7cb6ae5": "full"
+          }
+        },
+        {
+          "id": "pilot_to_forecast_connection",
+          "label": "Connects specific pilot metrics to 500K base case demand forecast",
+          "cells": {
+            "272554f7-16a6-4697-b132-842c3b7de67a": "partial",
+            "224aafc0-2dc6-4a52-8454-8d69b83b4c0d": "missing",
+            "ea53b216-e4de-4e46-89f4-c8877f929147": "partial",
+            "2ea8f706-ab14-475f-8712-9e7e34ffc3c6": "partial",
+            "39d719f5-58b6-42f3-8692-6d430ccaf14c": "partial",
+            "7524c53a-356e-4093-a932-cfd40bb58093": "partial",
+            "112a63cb-7dcb-4061-a18e-f80209d53f13": "partial",
+            "7d89ca31-c52e-41de-9560-f53aea443597": "partial",
+            "508de5e1-e9e6-42ca-b31c-eb31bf8deaef": "partial",
+            "0349326c-077b-4cd7-bf34-b1f837a28ad8": "partial",
+            "a871acf6-5979-471b-9ab8-e497223820bf": "partial",
+            "075f0cae-5074-45cb-95fe-d41c7e95742a": "partial",
+            "22f6c5c7-b125-455b-a569-f38fd7cb6ae5": "partial"
+          }
+        },
+        {
+          "id": "scenario_signal_planning",
+          "label": "Identifies which early signals would indicate tracking toward high, base, or low demand scenarios",
+          "cells": {
+            "272554f7-16a6-4697-b132-842c3b7de67a": "partial",
+            "224aafc0-2dc6-4a52-8454-8d69b83b4c0d": "missing",
+            "ea53b216-e4de-4e46-89f4-c8877f929147": "partial",
+            "2ea8f706-ab14-475f-8712-9e7e34ffc3c6": "partial",
+            "39d719f5-58b6-42f3-8692-6d430ccaf14c": "partial",
+            "7524c53a-356e-4093-a932-cfd40bb58093": "partial",
+            "112a63cb-7dcb-4061-a18e-f80209d53f13": "partial",
+            "7d89ca31-c52e-41de-9560-f53aea443597": "partial",
+            "508de5e1-e9e6-42ca-b31c-eb31bf8deaef": "partial",
+            "0349326c-077b-4cd7-bf34-b1f837a28ad8": "partial",
+            "a871acf6-5979-471b-9ab8-e497223820bf": "partial",
+            "075f0cae-5074-45cb-95fe-d41c7e95742a": "partial",
+            "22f6c5c7-b125-455b-a569-f38fd7cb6ae5": "partial"
+          }
+        },
+        {
+          "id": "quality_operational_reasoning",
+          "label": "Addresses quality, consistency, or operational control concerns in strategic rationale",
+          "cells": {
+            "272554f7-16a6-4697-b132-842c3b7de67a": "full",
+            "224aafc0-2dc6-4a52-8454-8d69b83b4c0d": "missing",
+            "ea53b216-e4de-4e46-89f4-c8877f929147": "full",
+            "2ea8f706-ab14-475f-8712-9e7e34ffc3c6": "full",
+            "39d719f5-58b6-42f3-8692-6d430ccaf14c": "full",
+            "7524c53a-356e-4093-a932-cfd40bb58093": "full",
+            "112a63cb-7dcb-4061-a18e-f80209d53f13": "full",
+            "7d89ca31-c52e-41de-9560-f53aea443597": "missing",
+            "508de5e1-e9e6-42ca-b31c-eb31bf8deaef": "full",
+            "0349326c-077b-4cd7-bf34-b1f837a28ad8": "missing",
+            "a871acf6-5979-471b-9ab8-e497223820bf": "missing",
+            "075f0cae-5074-45cb-95fe-d41c7e95742a": "full",
+            "22f6c5c7-b125-455b-a569-f38fd7cb6ae5": "full"
+          }
+        },
+        {
+          "id": "financial_scenario_analysis",
+          "label": "Analyzes profitability, breakeven, or financial outcomes across different demand scenarios",
+          "cells": {
+            "272554f7-16a6-4697-b132-842c3b7de67a": "missing",
+            "224aafc0-2dc6-4a52-8454-8d69b83b4c0d": "missing",
+            "ea53b216-e4de-4e46-89f4-c8877f929147": "missing",
+            "2ea8f706-ab14-475f-8712-9e7e34ffc3c6": "full",
+            "39d719f5-58b6-42f3-8692-6d430ccaf14c": "full",
+            "7524c53a-356e-4093-a932-cfd40bb58093": "missing",
+            "112a63cb-7dcb-4061-a18e-f80209d53f13": "full",
+            "7d89ca31-c52e-41de-9560-f53aea443597": "full",
+            "508de5e1-e9e6-42ca-b31c-eb31bf8deaef": "full",
+            "0349326c-077b-4cd7-bf34-b1f837a28ad8": "missing",
+            "a871acf6-5979-471b-9ab8-e497223820bf": "missing",
+            "075f0cae-5074-45cb-95fe-d41c7e95742a": "full",
+            "22f6c5c7-b125-455b-a569-f38fd7cb6ae5": "full"
+          }
+        },
+        {
+          "id": "stakeholder_priority_alignment",
+          "label": "Connects recommendation to key stakeholder priorities (e.g., Carlos's quality/consistency concerns)",
+          "cells": {
+            "272554f7-16a6-4697-b132-842c3b7de67a": "full",
+            "224aafc0-2dc6-4a52-8454-8d69b83b4c0d": "missing",
+            "ea53b216-e4de-4e46-89f4-c8877f929147": "full",
+            "2ea8f706-ab14-475f-8712-9e7e34ffc3c6": "full",
+            "39d719f5-58b6-42f3-8692-6d430ccaf14c": "full",
+            "7524c53a-356e-4093-a932-cfd40bb58093": "full",
+            "112a63cb-7dcb-4061-a18e-f80209d53f13": "missing",
+            "7d89ca31-c52e-41de-9560-f53aea443597": "missing",
+            "508de5e1-e9e6-42ca-b31c-eb31bf8deaef": "full",
+            "0349326c-077b-4cd7-bf34-b1f837a28ad8": "missing",
+            "a871acf6-5979-471b-9ab8-e497223820bf": "missing",
+            "075f0cae-5074-45cb-95fe-d41c7e95742a": "full",
+            "22f6c5c7-b125-455b-a569-f38fd7cb6ae5": "missing"
+          }
+        },
+        {
+          "id": "risk_mitigation_thinking",
+          "label": "Demonstrates risk awareness such as optionality, scalability, or phased approach to capital commitment",
+          "cells": {
+            "272554f7-16a6-4697-b132-842c3b7de67a": "full",
+            "224aafc0-2dc6-4a52-8454-8d69b83b4c0d": "missing",
+            "ea53b216-e4de-4e46-89f4-c8877f929147": "missing",
+            "2ea8f706-ab14-475f-8712-9e7e34ffc3c6": "partial",
+            "39d719f5-58b6-42f3-8692-6d430ccaf14c": "full",
+            "7524c53a-356e-4093-a932-cfd40bb58093": "missing",
+            "112a63cb-7dcb-4061-a18e-f80209d53f13": "full",
+            "7d89ca31-c52e-41de-9560-f53aea443597": "full",
+            "508de5e1-e9e6-42ca-b31c-eb31bf8deaef": "partial",
+            "0349326c-077b-4cd7-bf34-b1f837a28ad8": "missing",
+            "a871acf6-5979-471b-9ab8-e497223820bf": "full",
+            "075f0cae-5074-45cb-95fe-d41c7e95742a": "missing",
+            "22f6c5c7-b125-455b-a569-f38fd7cb6ae5": "full"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 13 letters, per-team classification of credit."
+    },
+    "324e78dc-69d5-4c1a-8f37-3bafaad87cee": {
+      "criteria": [
+        {
+          "id": "clear_recommendation_with_conviction",
+          "label": "Makes a clear recommendation and defends it with conviction"
+        },
+        {
+          "id": "identifies_early_signals",
+          "label": "Identifies specific early signals and metrics to monitor week-to-week"
+        },
+        {
+          "id": "anticipates_failure_modes",
+          "label": "Games out failure modes and defines abort thresholds"
+        },
+        {
+          "id": "owns_answer_without_deflection",
+          "label": "Owns answers to tough questions rather than deflecting to others"
+        },
+        {
+          "id": "defends_key_assumptions",
+          "label": "Can explain and defend the key assumptions in the model"
+        },
+        {
+          "id": "demonstrates_director_presence",
+          "label": "Demonstrates active leadership presence in the decision-making process"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "clear_recommendation_with_conviction",
+          "label": "Makes a clear recommendation and defends it with conviction",
+          "cells": {
+            "272554f7-16a6-4697-b132-842c3b7de67a": "missing",
+            "224aafc0-2dc6-4a52-8454-8d69b83b4c0d": "full",
+            "ea53b216-e4de-4e46-89f4-c8877f929147": "missing",
+            "2ea8f706-ab14-475f-8712-9e7e34ffc3c6": "missing",
+            "39d719f5-58b6-42f3-8692-6d430ccaf14c": "missing",
+            "7524c53a-356e-4093-a932-cfd40bb58093": "missing",
+            "112a63cb-7dcb-4061-a18e-f80209d53f13": "missing",
+            "7d89ca31-c52e-41de-9560-f53aea443597": "missing",
+            "508de5e1-e9e6-42ca-b31c-eb31bf8deaef": "missing",
+            "0349326c-077b-4cd7-bf34-b1f837a28ad8": "full",
+            "a871acf6-5979-471b-9ab8-e497223820bf": "missing",
+            "075f0cae-5074-45cb-95fe-d41c7e95742a": "missing",
+            "22f6c5c7-b125-455b-a569-f38fd7cb6ae5": "partial"
+          }
+        },
+        {
+          "id": "identifies_early_signals",
+          "label": "Identifies specific early signals and metrics to monitor week-to-week",
+          "cells": {
+            "272554f7-16a6-4697-b132-842c3b7de67a": "missing",
+            "224aafc0-2dc6-4a52-8454-8d69b83b4c0d": "partial",
+            "ea53b216-e4de-4e46-89f4-c8877f929147": "missing",
+            "2ea8f706-ab14-475f-8712-9e7e34ffc3c6": "missing",
+            "39d719f5-58b6-42f3-8692-6d430ccaf14c": "missing",
+            "7524c53a-356e-4093-a932-cfd40bb58093": "missing",
+            "112a63cb-7dcb-4061-a18e-f80209d53f13": "missing",
+            "7d89ca31-c52e-41de-9560-f53aea443597": "missing",
+            "508de5e1-e9e6-42ca-b31c-eb31bf8deaef": "missing",
+            "0349326c-077b-4cd7-bf34-b1f837a28ad8": "partial",
+            "a871acf6-5979-471b-9ab8-e497223820bf": "missing",
+            "075f0cae-5074-45cb-95fe-d41c7e95742a": "partial",
+            "22f6c5c7-b125-455b-a569-f38fd7cb6ae5": "partial"
+          }
+        },
+        {
+          "id": "anticipates_failure_modes",
+          "label": "Games out failure modes and defines abort thresholds",
+          "cells": {
+            "272554f7-16a6-4697-b132-842c3b7de67a": "missing",
+            "224aafc0-2dc6-4a52-8454-8d69b83b4c0d": "missing",
+            "ea53b216-e4de-4e46-89f4-c8877f929147": "missing",
+            "2ea8f706-ab14-475f-8712-9e7e34ffc3c6": "missing",
+            "39d719f5-58b6-42f3-8692-6d430ccaf14c": "missing",
+            "7524c53a-356e-4093-a932-cfd40bb58093": "missing",
+            "112a63cb-7dcb-4061-a18e-f80209d53f13": "missing",
+            "7d89ca31-c52e-41de-9560-f53aea443597": "missing",
+            "508de5e1-e9e6-42ca-b31c-eb31bf8deaef": "missing",
+            "0349326c-077b-4cd7-bf34-b1f837a28ad8": "partial",
+            "a871acf6-5979-471b-9ab8-e497223820bf": "missing",
+            "075f0cae-5074-45cb-95fe-d41c7e95742a": "partial",
+            "22f6c5c7-b125-455b-a569-f38fd7cb6ae5": "missing"
+          }
+        },
+        {
+          "id": "owns_answer_without_deflection",
+          "label": "Owns answers to tough questions rather than deflecting to others",
+          "cells": {
+            "272554f7-16a6-4697-b132-842c3b7de67a": "missing",
+            "224aafc0-2dc6-4a52-8454-8d69b83b4c0d": "partial",
+            "ea53b216-e4de-4e46-89f4-c8877f929147": "missing",
+            "2ea8f706-ab14-475f-8712-9e7e34ffc3c6": "missing",
+            "39d719f5-58b6-42f3-8692-6d430ccaf14c": "missing",
+            "7524c53a-356e-4093-a932-cfd40bb58093": "missing",
+            "112a63cb-7dcb-4061-a18e-f80209d53f13": "missing",
+            "7d89ca31-c52e-41de-9560-f53aea443597": "missing",
+            "508de5e1-e9e6-42ca-b31c-eb31bf8deaef": "missing",
+            "0349326c-077b-4cd7-bf34-b1f837a28ad8": "partial",
+            "a871acf6-5979-471b-9ab8-e497223820bf": "missing",
+            "075f0cae-5074-45cb-95fe-d41c7e95742a": "partial",
+            "22f6c5c7-b125-455b-a569-f38fd7cb6ae5": "partial"
+          }
+        },
+        {
+          "id": "defends_key_assumptions",
+          "label": "Can explain and defend the key assumptions in the model",
+          "cells": {
+            "272554f7-16a6-4697-b132-842c3b7de67a": "missing",
+            "224aafc0-2dc6-4a52-8454-8d69b83b4c0d": "full",
+            "ea53b216-e4de-4e46-89f4-c8877f929147": "missing",
+            "2ea8f706-ab14-475f-8712-9e7e34ffc3c6": "missing",
+            "39d719f5-58b6-42f3-8692-6d430ccaf14c": "missing",
+            "7524c53a-356e-4093-a932-cfd40bb58093": "missing",
+            "112a63cb-7dcb-4061-a18e-f80209d53f13": "missing",
+            "7d89ca31-c52e-41de-9560-f53aea443597": "missing",
+            "508de5e1-e9e6-42ca-b31c-eb31bf8deaef": "missing",
+            "0349326c-077b-4cd7-bf34-b1f837a28ad8": "full",
+            "a871acf6-5979-471b-9ab8-e497223820bf": "missing",
+            "075f0cae-5074-45cb-95fe-d41c7e95742a": "partial",
+            "22f6c5c7-b125-455b-a569-f38fd7cb6ae5": "partial"
+          }
+        },
+        {
+          "id": "demonstrates_director_presence",
+          "label": "Demonstrates active leadership presence in the decision-making process",
+          "cells": {
+            "272554f7-16a6-4697-b132-842c3b7de67a": "missing",
+            "224aafc0-2dc6-4a52-8454-8d69b83b4c0d": "partial",
+            "ea53b216-e4de-4e46-89f4-c8877f929147": "missing",
+            "2ea8f706-ab14-475f-8712-9e7e34ffc3c6": "missing",
+            "39d719f5-58b6-42f3-8692-6d430ccaf14c": "missing",
+            "7524c53a-356e-4093-a932-cfd40bb58093": "missing",
+            "112a63cb-7dcb-4061-a18e-f80209d53f13": "missing",
+            "7d89ca31-c52e-41de-9560-f53aea443597": "missing",
+            "508de5e1-e9e6-42ca-b31c-eb31bf8deaef": "missing",
+            "0349326c-077b-4cd7-bf34-b1f837a28ad8": "full",
+            "a871acf6-5979-471b-9ab8-e497223820bf": "missing",
+            "075f0cae-5074-45cb-95fe-d41c7e95742a": "partial",
+            "22f6c5c7-b125-455b-a569-f38fd7cb6ae5": "partial"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 13 letters, per-team classification of credit."
+    }
+  },
+  "rubric": {
+    "criteria": [
+      {
+        "id": "clear_recommendation_with_conviction",
+        "label": "Makes a clear recommendation and defends it with conviction"
+      },
+      {
+        "id": "identifies_early_signals",
+        "label": "Identifies specific early signals and metrics to monitor week-to-week"
+      },
+      {
+        "id": "anticipates_failure_modes",
+        "label": "Games out failure modes and defines abort thresholds"
+      },
+      {
+        "id": "owns_answer_without_deflection",
+        "label": "Owns answers to tough questions rather than deflecting to others"
+      },
+      {
+        "id": "defends_key_assumptions",
+        "label": "Can explain and defend the key assumptions in the model"
+      },
+      {
+        "id": "demonstrates_director_presence",
+        "label": "Demonstrates active leadership presence in the decision-making process"
+      }
+    ],
+    "team_cells": [
+      {
+        "id": "clear_recommendation_with_conviction",
+        "label": "Makes a clear recommendation and defends it with conviction",
+        "cells": {
+          "272554f7-16a6-4697-b132-842c3b7de67a": "missing",
+          "224aafc0-2dc6-4a52-8454-8d69b83b4c0d": "full",
+          "ea53b216-e4de-4e46-89f4-c8877f929147": "missing",
+          "2ea8f706-ab14-475f-8712-9e7e34ffc3c6": "missing",
+          "39d719f5-58b6-42f3-8692-6d430ccaf14c": "missing",
+          "7524c53a-356e-4093-a932-cfd40bb58093": "missing",
+          "112a63cb-7dcb-4061-a18e-f80209d53f13": "missing",
+          "7d89ca31-c52e-41de-9560-f53aea443597": "missing",
+          "508de5e1-e9e6-42ca-b31c-eb31bf8deaef": "missing",
+          "0349326c-077b-4cd7-bf34-b1f837a28ad8": "full",
+          "a871acf6-5979-471b-9ab8-e497223820bf": "missing",
+          "075f0cae-5074-45cb-95fe-d41c7e95742a": "missing",
+          "22f6c5c7-b125-455b-a569-f38fd7cb6ae5": "partial"
+        }
+      },
+      {
+        "id": "identifies_early_signals",
+        "label": "Identifies specific early signals and metrics to monitor week-to-week",
+        "cells": {
+          "272554f7-16a6-4697-b132-842c3b7de67a": "missing",
+          "224aafc0-2dc6-4a52-8454-8d69b83b4c0d": "partial",
+          "ea53b216-e4de-4e46-89f4-c8877f929147": "missing",
+          "2ea8f706-ab14-475f-8712-9e7e34ffc3c6": "missing",
+          "39d719f5-58b6-42f3-8692-6d430ccaf14c": "missing",
+          "7524c53a-356e-4093-a932-cfd40bb58093": "missing",
+          "112a63cb-7dcb-4061-a18e-f80209d53f13": "missing",
+          "7d89ca31-c52e-41de-9560-f53aea443597": "missing",
+          "508de5e1-e9e6-42ca-b31c-eb31bf8deaef": "missing",
+          "0349326c-077b-4cd7-bf34-b1f837a28ad8": "partial",
+          "a871acf6-5979-471b-9ab8-e497223820bf": "missing",
+          "075f0cae-5074-45cb-95fe-d41c7e95742a": "partial",
+          "22f6c5c7-b125-455b-a569-f38fd7cb6ae5": "partial"
+        }
+      },
+      {
+        "id": "anticipates_failure_modes",
+        "label": "Games out failure modes and defines abort thresholds",
+        "cells": {
+          "272554f7-16a6-4697-b132-842c3b7de67a": "missing",
+          "224aafc0-2dc6-4a52-8454-8d69b83b4c0d": "missing",
+          "ea53b216-e4de-4e46-89f4-c8877f929147": "missing",
+          "2ea8f706-ab14-475f-8712-9e7e34ffc3c6": "missing",
+          "39d719f5-58b6-42f3-8692-6d430ccaf14c": "missing",
+          "7524c53a-356e-4093-a932-cfd40bb58093": "missing",
+          "112a63cb-7dcb-4061-a18e-f80209d53f13": "missing",
+          "7d89ca31-c52e-41de-9560-f53aea443597": "missing",
+          "508de5e1-e9e6-42ca-b31c-eb31bf8deaef": "missing",
+          "0349326c-077b-4cd7-bf34-b1f837a28ad8": "partial",
+          "a871acf6-5979-471b-9ab8-e497223820bf": "missing",
+          "075f0cae-5074-45cb-95fe-d41c7e95742a": "partial",
+          "22f6c5c7-b125-455b-a569-f38fd7cb6ae5": "missing"
+        }
+      },
+      {
+        "id": "owns_answer_without_deflection",
+        "label": "Owns answers to tough questions rather than deflecting to others",
+        "cells": {
+          "272554f7-16a6-4697-b132-842c3b7de67a": "missing",
+          "224aafc0-2dc6-4a52-8454-8d69b83b4c0d": "partial",
+          "ea53b216-e4de-4e46-89f4-c8877f929147": "missing",
+          "2ea8f706-ab14-475f-8712-9e7e34ffc3c6": "missing",
+          "39d719f5-58b6-42f3-8692-6d430ccaf14c": "missing",
+          "7524c53a-356e-4093-a932-cfd40bb58093": "missing",
+          "112a63cb-7dcb-4061-a18e-f80209d53f13": "missing",
+          "7d89ca31-c52e-41de-9560-f53aea443597": "missing",
+          "508de5e1-e9e6-42ca-b31c-eb31bf8deaef": "missing",
+          "0349326c-077b-4cd7-bf34-b1f837a28ad8": "partial",
+          "a871acf6-5979-471b-9ab8-e497223820bf": "missing",
+          "075f0cae-5074-45cb-95fe-d41c7e95742a": "partial",
+          "22f6c5c7-b125-455b-a569-f38fd7cb6ae5": "partial"
+        }
+      },
+      {
+        "id": "defends_key_assumptions",
+        "label": "Can explain and defend the key assumptions in the model",
+        "cells": {
+          "272554f7-16a6-4697-b132-842c3b7de67a": "missing",
+          "224aafc0-2dc6-4a52-8454-8d69b83b4c0d": "full",
+          "ea53b216-e4de-4e46-89f4-c8877f929147": "missing",
+          "2ea8f706-ab14-475f-8712-9e7e34ffc3c6": "missing",
+          "39d719f5-58b6-42f3-8692-6d430ccaf14c": "missing",
+          "7524c53a-356e-4093-a932-cfd40bb58093": "missing",
+          "112a63cb-7dcb-4061-a18e-f80209d53f13": "missing",
+          "7d89ca31-c52e-41de-9560-f53aea443597": "missing",
+          "508de5e1-e9e6-42ca-b31c-eb31bf8deaef": "missing",
+          "0349326c-077b-4cd7-bf34-b1f837a28ad8": "full",
+          "a871acf6-5979-471b-9ab8-e497223820bf": "missing",
+          "075f0cae-5074-45cb-95fe-d41c7e95742a": "partial",
+          "22f6c5c7-b125-455b-a569-f38fd7cb6ae5": "partial"
+        }
+      },
+      {
+        "id": "demonstrates_director_presence",
+        "label": "Demonstrates active leadership presence in the decision-making process",
+        "cells": {
+          "272554f7-16a6-4697-b132-842c3b7de67a": "missing",
+          "224aafc0-2dc6-4a52-8454-8d69b83b4c0d": "partial",
+          "ea53b216-e4de-4e46-89f4-c8877f929147": "missing",
+          "2ea8f706-ab14-475f-8712-9e7e34ffc3c6": "missing",
+          "39d719f5-58b6-42f3-8692-6d430ccaf14c": "missing",
+          "7524c53a-356e-4093-a932-cfd40bb58093": "missing",
+          "112a63cb-7dcb-4061-a18e-f80209d53f13": "missing",
+          "7d89ca31-c52e-41de-9560-f53aea443597": "missing",
+          "508de5e1-e9e6-42ca-b31c-eb31bf8deaef": "missing",
+          "0349326c-077b-4cd7-bf34-b1f837a28ad8": "full",
+          "a871acf6-5979-471b-9ab8-e497223820bf": "missing",
+          "075f0cae-5074-45cb-95fe-d41c7e95742a": "partial",
+          "22f6c5c7-b125-455b-a569-f38fd7cb6ae5": "partial"
+        }
+      }
+    ],
+    "method": "LLM-derived via claude-haiku-4-5: criteria identified from 13 letters, per-team classification of credit."
+  }
 }

@@ -1467,5 +1467,460 @@
       "created_at": "2026-04-29T09:45:39.881Z",
       "updated_at": "2026-04-29T09:45:39.881Z"
     }
-  ]
+  ],
+  "rubric_by_chapter": {
+    "cc2abb26-f763-44d9-b197-81b6776e73fb": {
+      "criteria": [
+        {
+          "id": "breakeven_calculation_accuracy",
+          "label": "Calculates breakeven points correctly across all three options"
+        },
+        {
+          "id": "identifies_retrofit_elimination",
+          "label": "Correctly identifies Retrofit as the option to eliminate"
+        },
+        {
+          "id": "articulates_retrofit_strategic_weakness",
+          "label": "Explains why Retrofit fails (stuck in middle, doesn't win any scenario)"
+        },
+        {
+          "id": "understands_option_tradeoffs",
+          "label": "Demonstrates understanding of cost structure tradeoffs (fixed vs. variable across scenarios)"
+        },
+        {
+          "id": "connects_demand_scenarios_to_winners",
+          "label": "Links demand levels to which option wins (Co-Packer low, New Plant high)"
+        },
+        {
+          "id": "integrates_risk_and_profitability",
+          "label": "Considers both risk profile and profitability dynamics in recommendation"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "breakeven_calculation_accuracy",
+          "label": "Calculates breakeven points correctly across all three options",
+          "cells": {
+            "5de70742-7b9b-407b-a817-55ba2b4a2ce7": "partial",
+            "c16c8059-a55f-484f-9ba1-f715bd11c372": "full",
+            "73dd028b-d669-4384-a85e-3812d7344e92": "full",
+            "09dfb16c-53d4-40fd-81ed-839ac14b2bff": "full",
+            "defe33f6-ca6c-441d-9e2f-092285a84800": "full",
+            "7f5d7eb1-67c3-4d7a-9883-0eb218638dad": "full",
+            "63fd5839-6c11-44d2-8dd8-7be203c3af3d": "full"
+          }
+        },
+        {
+          "id": "identifies_retrofit_elimination",
+          "label": "Correctly identifies Retrofit as the option to eliminate",
+          "cells": {
+            "5de70742-7b9b-407b-a817-55ba2b4a2ce7": "full",
+            "c16c8059-a55f-484f-9ba1-f715bd11c372": "full",
+            "73dd028b-d669-4384-a85e-3812d7344e92": "full",
+            "09dfb16c-53d4-40fd-81ed-839ac14b2bff": "full",
+            "defe33f6-ca6c-441d-9e2f-092285a84800": "full",
+            "7f5d7eb1-67c3-4d7a-9883-0eb218638dad": "full",
+            "63fd5839-6c11-44d2-8dd8-7be203c3af3d": "full"
+          }
+        },
+        {
+          "id": "articulates_retrofit_strategic_weakness",
+          "label": "Explains why Retrofit fails (stuck in middle, doesn't win any scenario)",
+          "cells": {
+            "5de70742-7b9b-407b-a817-55ba2b4a2ce7": "missing",
+            "c16c8059-a55f-484f-9ba1-f715bd11c372": "full",
+            "73dd028b-d669-4384-a85e-3812d7344e92": "full",
+            "09dfb16c-53d4-40fd-81ed-839ac14b2bff": "full",
+            "defe33f6-ca6c-441d-9e2f-092285a84800": "full",
+            "7f5d7eb1-67c3-4d7a-9883-0eb218638dad": "full",
+            "63fd5839-6c11-44d2-8dd8-7be203c3af3d": "full"
+          }
+        },
+        {
+          "id": "understands_option_tradeoffs",
+          "label": "Demonstrates understanding of cost structure tradeoffs (fixed vs. variable across scenarios)",
+          "cells": {
+            "5de70742-7b9b-407b-a817-55ba2b4a2ce7": "partial",
+            "c16c8059-a55f-484f-9ba1-f715bd11c372": "full",
+            "73dd028b-d669-4384-a85e-3812d7344e92": "full",
+            "09dfb16c-53d4-40fd-81ed-839ac14b2bff": "full",
+            "defe33f6-ca6c-441d-9e2f-092285a84800": "partial",
+            "7f5d7eb1-67c3-4d7a-9883-0eb218638dad": "partial",
+            "63fd5839-6c11-44d2-8dd8-7be203c3af3d": "full"
+          }
+        },
+        {
+          "id": "connects_demand_scenarios_to_winners",
+          "label": "Links demand levels to which option wins (Co-Packer low, New Plant high)",
+          "cells": {
+            "5de70742-7b9b-407b-a817-55ba2b4a2ce7": "missing",
+            "c16c8059-a55f-484f-9ba1-f715bd11c372": "full",
+            "73dd028b-d669-4384-a85e-3812d7344e92": "full",
+            "09dfb16c-53d4-40fd-81ed-839ac14b2bff": "full",
+            "defe33f6-ca6c-441d-9e2f-092285a84800": "missing",
+            "7f5d7eb1-67c3-4d7a-9883-0eb218638dad": "missing",
+            "63fd5839-6c11-44d2-8dd8-7be203c3af3d": "full"
+          }
+        },
+        {
+          "id": "integrates_risk_and_profitability",
+          "label": "Considers both risk profile and profitability dynamics in recommendation",
+          "cells": {
+            "5de70742-7b9b-407b-a817-55ba2b4a2ce7": "missing",
+            "c16c8059-a55f-484f-9ba1-f715bd11c372": "full",
+            "73dd028b-d669-4384-a85e-3812d7344e92": "full",
+            "09dfb16c-53d4-40fd-81ed-839ac14b2bff": "partial",
+            "defe33f6-ca6c-441d-9e2f-092285a84800": "missing",
+            "7f5d7eb1-67c3-4d7a-9883-0eb218638dad": "full",
+            "63fd5839-6c11-44d2-8dd8-7be203c3af3d": "partial"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 7 letters, per-team classification of credit."
+    },
+    "66e7aed3-09d7-43f9-922c-2a9f9f45bcad": {
+      "criteria": [
+        {
+          "id": "new_plant_path_selection",
+          "label": "Selects New Plant as recommended path"
+        },
+        {
+          "id": "pilot_metrics_identification",
+          "label": "Identifies specific pilot numbers that validate demand forecast"
+        },
+        {
+          "id": "base_case_connection",
+          "label": "Connects pilot signals to 500K base case forecast"
+        },
+        {
+          "id": "scenario_threshold_definition",
+          "label": "Defines what pilot metrics would indicate High/Low/Medium demand scenarios"
+        },
+        {
+          "id": "quality_control_analysis",
+          "label": "Analyzes quality control and co-packer risk implications"
+        },
+        {
+          "id": "profitability_reasoning",
+          "label": "Justifies decision with profitability and financial analysis"
+        },
+        {
+          "id": "contextual_input_integration",
+          "label": "Incorporates relevant stakeholder insights (e.g., Carlos's capacity/volume views)"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "new_plant_path_selection",
+          "label": "Selects New Plant as recommended path",
+          "cells": {
+            "5de70742-7b9b-407b-a817-55ba2b4a2ce7": "full",
+            "c16c8059-a55f-484f-9ba1-f715bd11c372": "full",
+            "73dd028b-d669-4384-a85e-3812d7344e92": "full",
+            "09dfb16c-53d4-40fd-81ed-839ac14b2bff": "full",
+            "defe33f6-ca6c-441d-9e2f-092285a84800": "full",
+            "7f5d7eb1-67c3-4d7a-9883-0eb218638dad": "full",
+            "63fd5839-6c11-44d2-8dd8-7be203c3af3d": "full"
+          }
+        },
+        {
+          "id": "pilot_metrics_identification",
+          "label": "Identifies specific pilot numbers that validate demand forecast",
+          "cells": {
+            "5de70742-7b9b-407b-a817-55ba2b4a2ce7": "full",
+            "c16c8059-a55f-484f-9ba1-f715bd11c372": "partial",
+            "73dd028b-d669-4384-a85e-3812d7344e92": "partial",
+            "09dfb16c-53d4-40fd-81ed-839ac14b2bff": "partial",
+            "defe33f6-ca6c-441d-9e2f-092285a84800": "partial",
+            "7f5d7eb1-67c3-4d7a-9883-0eb218638dad": "partial",
+            "63fd5839-6c11-44d2-8dd8-7be203c3af3d": "partial"
+          }
+        },
+        {
+          "id": "base_case_connection",
+          "label": "Connects pilot signals to 500K base case forecast",
+          "cells": {
+            "5de70742-7b9b-407b-a817-55ba2b4a2ce7": "partial",
+            "c16c8059-a55f-484f-9ba1-f715bd11c372": "partial",
+            "73dd028b-d669-4384-a85e-3812d7344e92": "partial",
+            "09dfb16c-53d4-40fd-81ed-839ac14b2bff": "partial",
+            "defe33f6-ca6c-441d-9e2f-092285a84800": "partial",
+            "7f5d7eb1-67c3-4d7a-9883-0eb218638dad": "partial",
+            "63fd5839-6c11-44d2-8dd8-7be203c3af3d": "missing"
+          }
+        },
+        {
+          "id": "scenario_threshold_definition",
+          "label": "Defines what pilot metrics would indicate High/Low/Medium demand scenarios",
+          "cells": {
+            "5de70742-7b9b-407b-a817-55ba2b4a2ce7": "partial",
+            "c16c8059-a55f-484f-9ba1-f715bd11c372": "missing",
+            "73dd028b-d669-4384-a85e-3812d7344e92": "missing",
+            "09dfb16c-53d4-40fd-81ed-839ac14b2bff": "missing",
+            "defe33f6-ca6c-441d-9e2f-092285a84800": "partial",
+            "7f5d7eb1-67c3-4d7a-9883-0eb218638dad": "missing",
+            "63fd5839-6c11-44d2-8dd8-7be203c3af3d": "missing"
+          }
+        },
+        {
+          "id": "quality_control_analysis",
+          "label": "Analyzes quality control and co-packer risk implications",
+          "cells": {
+            "5de70742-7b9b-407b-a817-55ba2b4a2ce7": "full",
+            "c16c8059-a55f-484f-9ba1-f715bd11c372": "full",
+            "73dd028b-d669-4384-a85e-3812d7344e92": "full",
+            "09dfb16c-53d4-40fd-81ed-839ac14b2bff": "missing",
+            "defe33f6-ca6c-441d-9e2f-092285a84800": "full",
+            "7f5d7eb1-67c3-4d7a-9883-0eb218638dad": "full",
+            "63fd5839-6c11-44d2-8dd8-7be203c3af3d": "full"
+          }
+        },
+        {
+          "id": "profitability_reasoning",
+          "label": "Justifies decision with profitability and financial analysis",
+          "cells": {
+            "5de70742-7b9b-407b-a817-55ba2b4a2ce7": "full",
+            "c16c8059-a55f-484f-9ba1-f715bd11c372": "missing",
+            "73dd028b-d669-4384-a85e-3812d7344e92": "full",
+            "09dfb16c-53d4-40fd-81ed-839ac14b2bff": "partial",
+            "defe33f6-ca6c-441d-9e2f-092285a84800": "full",
+            "7f5d7eb1-67c3-4d7a-9883-0eb218638dad": "full",
+            "63fd5839-6c11-44d2-8dd8-7be203c3af3d": "full"
+          }
+        },
+        {
+          "id": "contextual_input_integration",
+          "label": "Incorporates relevant stakeholder insights (e.g., Carlos's capacity/volume views)",
+          "cells": {
+            "5de70742-7b9b-407b-a817-55ba2b4a2ce7": "missing",
+            "c16c8059-a55f-484f-9ba1-f715bd11c372": "missing",
+            "73dd028b-d669-4384-a85e-3812d7344e92": "missing",
+            "09dfb16c-53d4-40fd-81ed-839ac14b2bff": "partial",
+            "defe33f6-ca6c-441d-9e2f-092285a84800": "full",
+            "7f5d7eb1-67c3-4d7a-9883-0eb218638dad": "missing",
+            "63fd5839-6c11-44d2-8dd8-7be203c3af3d": "missing"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 7 letters, per-team classification of credit."
+    },
+    "324e78dc-69d5-4c1a-8f37-3bafaad87cee": {
+      "criteria": [
+        {
+          "id": "stress_tested_demand_model",
+          "label": "Stress-tested demand assumptions rather than accepting them as given"
+        },
+        {
+          "id": "connected_quality_to_demand",
+          "label": "Connected product quality to customer retention and word-of-mouth demand"
+        },
+        {
+          "id": "identified_leading_indicators",
+          "label": "Identified specific leading indicators (velocity, reorder rate, weekly active accounts) that signal success before P&L impact"
+        },
+        {
+          "id": "linked_metrics_to_breakeven",
+          "label": "Tied identified metrics directly to the financial breakeven point ($1.2M investment)"
+        },
+        {
+          "id": "set_decision_thresholds",
+          "label": "Defined specific numerical thresholds for when to escalate or adjust course (e.g., 'if X drops below Y%')"
+        },
+        {
+          "id": "distinguished_vanity_from_signal_metrics",
+          "label": "Differentiated between vanity metrics and metrics that actually drive business outcomes"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "stress_tested_demand_model",
+          "label": "Stress-tested demand assumptions rather than accepting them as given",
+          "cells": {
+            "5de70742-7b9b-407b-a817-55ba2b4a2ce7": "full",
+            "c16c8059-a55f-484f-9ba1-f715bd11c372": "missing",
+            "73dd028b-d669-4384-a85e-3812d7344e92": "partial",
+            "09dfb16c-53d4-40fd-81ed-839ac14b2bff": "missing",
+            "defe33f6-ca6c-441d-9e2f-092285a84800": "missing",
+            "7f5d7eb1-67c3-4d7a-9883-0eb218638dad": "partial",
+            "63fd5839-6c11-44d2-8dd8-7be203c3af3d": "missing"
+          }
+        },
+        {
+          "id": "connected_quality_to_demand",
+          "label": "Connected product quality to customer retention and word-of-mouth demand",
+          "cells": {
+            "5de70742-7b9b-407b-a817-55ba2b4a2ce7": "full",
+            "c16c8059-a55f-484f-9ba1-f715bd11c372": "missing",
+            "73dd028b-d669-4384-a85e-3812d7344e92": "full",
+            "09dfb16c-53d4-40fd-81ed-839ac14b2bff": "missing",
+            "defe33f6-ca6c-441d-9e2f-092285a84800": "missing",
+            "7f5d7eb1-67c3-4d7a-9883-0eb218638dad": "full",
+            "63fd5839-6c11-44d2-8dd8-7be203c3af3d": "missing"
+          }
+        },
+        {
+          "id": "identified_leading_indicators",
+          "label": "Identified specific leading indicators (velocity, reorder rate, weekly active accounts) that signal success before P&L impact",
+          "cells": {
+            "5de70742-7b9b-407b-a817-55ba2b4a2ce7": "full",
+            "c16c8059-a55f-484f-9ba1-f715bd11c372": "missing",
+            "73dd028b-d669-4384-a85e-3812d7344e92": "full",
+            "09dfb16c-53d4-40fd-81ed-839ac14b2bff": "missing",
+            "defe33f6-ca6c-441d-9e2f-092285a84800": "full",
+            "7f5d7eb1-67c3-4d7a-9883-0eb218638dad": "full",
+            "63fd5839-6c11-44d2-8dd8-7be203c3af3d": "missing"
+          }
+        },
+        {
+          "id": "linked_metrics_to_breakeven",
+          "label": "Tied identified metrics directly to the financial breakeven point ($1.2M investment)",
+          "cells": {
+            "5de70742-7b9b-407b-a817-55ba2b4a2ce7": "missing",
+            "c16c8059-a55f-484f-9ba1-f715bd11c372": "missing",
+            "73dd028b-d669-4384-a85e-3812d7344e92": "full",
+            "09dfb16c-53d4-40fd-81ed-839ac14b2bff": "missing",
+            "defe33f6-ca6c-441d-9e2f-092285a84800": "full",
+            "7f5d7eb1-67c3-4d7a-9883-0eb218638dad": "full",
+            "63fd5839-6c11-44d2-8dd8-7be203c3af3d": "missing"
+          }
+        },
+        {
+          "id": "set_decision_thresholds",
+          "label": "Defined specific numerical thresholds for when to escalate or adjust course (e.g., 'if X drops below Y%')",
+          "cells": {
+            "5de70742-7b9b-407b-a817-55ba2b4a2ce7": "full",
+            "c16c8059-a55f-484f-9ba1-f715bd11c372": "missing",
+            "73dd028b-d669-4384-a85e-3812d7344e92": "missing",
+            "09dfb16c-53d4-40fd-81ed-839ac14b2bff": "missing",
+            "defe33f6-ca6c-441d-9e2f-092285a84800": "partial",
+            "7f5d7eb1-67c3-4d7a-9883-0eb218638dad": "partial",
+            "63fd5839-6c11-44d2-8dd8-7be203c3af3d": "missing"
+          }
+        },
+        {
+          "id": "distinguished_vanity_from_signal_metrics",
+          "label": "Differentiated between vanity metrics and metrics that actually drive business outcomes",
+          "cells": {
+            "5de70742-7b9b-407b-a817-55ba2b4a2ce7": "missing",
+            "c16c8059-a55f-484f-9ba1-f715bd11c372": "missing",
+            "73dd028b-d669-4384-a85e-3812d7344e92": "full",
+            "09dfb16c-53d4-40fd-81ed-839ac14b2bff": "missing",
+            "defe33f6-ca6c-441d-9e2f-092285a84800": "full",
+            "7f5d7eb1-67c3-4d7a-9883-0eb218638dad": "full",
+            "63fd5839-6c11-44d2-8dd8-7be203c3af3d": "missing"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 7 letters, per-team classification of credit."
+    }
+  },
+  "rubric": {
+    "criteria": [
+      {
+        "id": "stress_tested_demand_model",
+        "label": "Stress-tested demand assumptions rather than accepting them as given"
+      },
+      {
+        "id": "connected_quality_to_demand",
+        "label": "Connected product quality to customer retention and word-of-mouth demand"
+      },
+      {
+        "id": "identified_leading_indicators",
+        "label": "Identified specific leading indicators (velocity, reorder rate, weekly active accounts) that signal success before P&L impact"
+      },
+      {
+        "id": "linked_metrics_to_breakeven",
+        "label": "Tied identified metrics directly to the financial breakeven point ($1.2M investment)"
+      },
+      {
+        "id": "set_decision_thresholds",
+        "label": "Defined specific numerical thresholds for when to escalate or adjust course (e.g., 'if X drops below Y%')"
+      },
+      {
+        "id": "distinguished_vanity_from_signal_metrics",
+        "label": "Differentiated between vanity metrics and metrics that actually drive business outcomes"
+      }
+    ],
+    "team_cells": [
+      {
+        "id": "stress_tested_demand_model",
+        "label": "Stress-tested demand assumptions rather than accepting them as given",
+        "cells": {
+          "5de70742-7b9b-407b-a817-55ba2b4a2ce7": "full",
+          "c16c8059-a55f-484f-9ba1-f715bd11c372": "missing",
+          "73dd028b-d669-4384-a85e-3812d7344e92": "partial",
+          "09dfb16c-53d4-40fd-81ed-839ac14b2bff": "missing",
+          "defe33f6-ca6c-441d-9e2f-092285a84800": "missing",
+          "7f5d7eb1-67c3-4d7a-9883-0eb218638dad": "partial",
+          "63fd5839-6c11-44d2-8dd8-7be203c3af3d": "missing"
+        }
+      },
+      {
+        "id": "connected_quality_to_demand",
+        "label": "Connected product quality to customer retention and word-of-mouth demand",
+        "cells": {
+          "5de70742-7b9b-407b-a817-55ba2b4a2ce7": "full",
+          "c16c8059-a55f-484f-9ba1-f715bd11c372": "missing",
+          "73dd028b-d669-4384-a85e-3812d7344e92": "full",
+          "09dfb16c-53d4-40fd-81ed-839ac14b2bff": "missing",
+          "defe33f6-ca6c-441d-9e2f-092285a84800": "missing",
+          "7f5d7eb1-67c3-4d7a-9883-0eb218638dad": "full",
+          "63fd5839-6c11-44d2-8dd8-7be203c3af3d": "missing"
+        }
+      },
+      {
+        "id": "identified_leading_indicators",
+        "label": "Identified specific leading indicators (velocity, reorder rate, weekly active accounts) that signal success before P&L impact",
+        "cells": {
+          "5de70742-7b9b-407b-a817-55ba2b4a2ce7": "full",
+          "c16c8059-a55f-484f-9ba1-f715bd11c372": "missing",
+          "73dd028b-d669-4384-a85e-3812d7344e92": "full",
+          "09dfb16c-53d4-40fd-81ed-839ac14b2bff": "missing",
+          "defe33f6-ca6c-441d-9e2f-092285a84800": "full",
+          "7f5d7eb1-67c3-4d7a-9883-0eb218638dad": "full",
+          "63fd5839-6c11-44d2-8dd8-7be203c3af3d": "missing"
+        }
+      },
+      {
+        "id": "linked_metrics_to_breakeven",
+        "label": "Tied identified metrics directly to the financial breakeven point ($1.2M investment)",
+        "cells": {
+          "5de70742-7b9b-407b-a817-55ba2b4a2ce7": "missing",
+          "c16c8059-a55f-484f-9ba1-f715bd11c372": "missing",
+          "73dd028b-d669-4384-a85e-3812d7344e92": "full",
+          "09dfb16c-53d4-40fd-81ed-839ac14b2bff": "missing",
+          "defe33f6-ca6c-441d-9e2f-092285a84800": "full",
+          "7f5d7eb1-67c3-4d7a-9883-0eb218638dad": "full",
+          "63fd5839-6c11-44d2-8dd8-7be203c3af3d": "missing"
+        }
+      },
+      {
+        "id": "set_decision_thresholds",
+        "label": "Defined specific numerical thresholds for when to escalate or adjust course (e.g., 'if X drops below Y%')",
+        "cells": {
+          "5de70742-7b9b-407b-a817-55ba2b4a2ce7": "full",
+          "c16c8059-a55f-484f-9ba1-f715bd11c372": "missing",
+          "73dd028b-d669-4384-a85e-3812d7344e92": "missing",
+          "09dfb16c-53d4-40fd-81ed-839ac14b2bff": "missing",
+          "defe33f6-ca6c-441d-9e2f-092285a84800": "partial",
+          "7f5d7eb1-67c3-4d7a-9883-0eb218638dad": "partial",
+          "63fd5839-6c11-44d2-8dd8-7be203c3af3d": "missing"
+        }
+      },
+      {
+        "id": "distinguished_vanity_from_signal_metrics",
+        "label": "Differentiated between vanity metrics and metrics that actually drive business outcomes",
+        "cells": {
+          "5de70742-7b9b-407b-a817-55ba2b4a2ce7": "missing",
+          "c16c8059-a55f-484f-9ba1-f715bd11c372": "missing",
+          "73dd028b-d669-4384-a85e-3812d7344e92": "full",
+          "09dfb16c-53d4-40fd-81ed-839ac14b2bff": "missing",
+          "defe33f6-ca6c-441d-9e2f-092285a84800": "full",
+          "7f5d7eb1-67c3-4d7a-9883-0eb218638dad": "full",
+          "63fd5839-6c11-44d2-8dd8-7be203c3af3d": "missing"
+        }
+      }
+    ],
+    "method": "LLM-derived via claude-haiku-4-5: criteria identified from 7 letters, per-team classification of credit."
+  }
 }

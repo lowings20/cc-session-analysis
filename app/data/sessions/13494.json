@@ -1670,5 +1670,393 @@
       "created_at": "2026-04-08T15:47:58.147Z",
       "updated_at": "2026-04-08T15:47:58.147Z"
     }
-  ]
+  ],
+  "rubric_by_chapter": {
+    "92f9af6f-71fb-4e35-8d62-fe09fc2f0351": {
+      "criteria": [
+        {
+          "id": "diagnose_performance_gaps",
+          "label": "Analyzes specific performance metrics (turnover, labor cost, satisfaction, margin) to identify gaps between stores"
+        },
+        {
+          "id": "connect_data_to_root_causes",
+          "label": "Links performance data to underlying root causes rather than treating metrics as isolated"
+        },
+        {
+          "id": "prioritize_across_issues",
+          "label": "Identifies which problem to address first (e.g., Briarwood cost crisis vs. turnover vs. culture)"
+        },
+        {
+          "id": "diagnose_individual_manager_styles",
+          "label": "Assesses Derek and Helen's specific management behaviors and development needs as individuals"
+        },
+        {
+          "id": "deliver_30day_action_plan",
+          "label": "Provides concrete 30-day plan with clear owners, timelines, and measurable behaviors"
+        },
+        {
+          "id": "translate_recommendation_to_practice",
+          "label": "Explains what recommendations mean in practice with specific, actionable next steps"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "diagnose_performance_gaps",
+          "label": "Analyzes specific performance metrics (turnover, labor cost, satisfaction, margin) to identify gaps between stores",
+          "cells": {
+            "05cb658c-2912-4379-8395-cdfd1999dc4e": "full",
+            "e33cb93f-38f1-4346-a77c-c6625648491a": "partial",
+            "3a919996-ec5b-4eea-b263-ef0374e896e4": "partial",
+            "f37b0170-3e05-4b53-84b9-ff573a774430": "partial",
+            "92d0e6f6-504e-4712-8471-58fe59abdb7e": "partial",
+            "4fdd51a3-ddf0-4403-9bfe-1c271793d1e7": "partial",
+            "69db3fcc-34d1-4d22-85a8-66ccc9fedcaf": "partial",
+            "aa333ff5-0d7c-4b0b-a8de-03c350dd69a6": "partial",
+            "1a9b476a-3d3b-42f0-9f05-fd603191f64d": "partial",
+            "bddf5ec5-3a87-48f5-aab0-bcfd19c17e19": "full",
+            "8a9c21d1-b835-4f0c-a951-34bf4e96e1d4": "full",
+            "4afb23f5-839a-40cb-86c9-922fc7c02f0a": "missing",
+            "78110542-c94a-4f16-8900-6b525ac384e8": "full",
+            "20c60fe6-24e1-4538-98d6-f35b5f3431bf": "partial",
+            "730f8bd3-c978-44a0-9fff-e38f7bcf9f80": "missing",
+            "be0d19ae-de7a-45af-a3a1-a9eebcc5ad27": "partial",
+            "120d853d-a950-4705-a522-24116d31385c": "full",
+            "e308eeed-c508-4f39-a28c-c7bc7e4d9d01": "partial",
+            "e95172b4-8ac1-455e-b8b2-84796f27fa80": "partial",
+            "3fa1cfec-e3c2-4f97-88c5-3d85bf13be3f": "partial",
+            "bfcf8512-5efe-47ea-87d5-7431d947e5b0": "missing"
+          }
+        },
+        {
+          "id": "connect_data_to_root_causes",
+          "label": "Links performance data to underlying root causes rather than treating metrics as isolated",
+          "cells": {
+            "05cb658c-2912-4379-8395-cdfd1999dc4e": "partial",
+            "e33cb93f-38f1-4346-a77c-c6625648491a": "missing",
+            "3a919996-ec5b-4eea-b263-ef0374e896e4": "missing",
+            "f37b0170-3e05-4b53-84b9-ff573a774430": "missing",
+            "92d0e6f6-504e-4712-8471-58fe59abdb7e": "missing",
+            "4fdd51a3-ddf0-4403-9bfe-1c271793d1e7": "missing",
+            "69db3fcc-34d1-4d22-85a8-66ccc9fedcaf": "partial",
+            "aa333ff5-0d7c-4b0b-a8de-03c350dd69a6": "partial",
+            "1a9b476a-3d3b-42f0-9f05-fd603191f64d": "partial",
+            "bddf5ec5-3a87-48f5-aab0-bcfd19c17e19": "missing",
+            "8a9c21d1-b835-4f0c-a951-34bf4e96e1d4": "partial",
+            "4afb23f5-839a-40cb-86c9-922fc7c02f0a": "missing",
+            "78110542-c94a-4f16-8900-6b525ac384e8": "partial",
+            "20c60fe6-24e1-4538-98d6-f35b5f3431bf": "missing",
+            "730f8bd3-c978-44a0-9fff-e38f7bcf9f80": "missing",
+            "be0d19ae-de7a-45af-a3a1-a9eebcc5ad27": "missing",
+            "120d853d-a950-4705-a522-24116d31385c": "partial",
+            "e308eeed-c508-4f39-a28c-c7bc7e4d9d01": "missing",
+            "e95172b4-8ac1-455e-b8b2-84796f27fa80": "missing",
+            "3fa1cfec-e3c2-4f97-88c5-3d85bf13be3f": "missing",
+            "bfcf8512-5efe-47ea-87d5-7431d947e5b0": "missing"
+          }
+        },
+        {
+          "id": "prioritize_across_issues",
+          "label": "Identifies which problem to address first (e.g., Briarwood cost crisis vs. turnover vs. culture)",
+          "cells": {
+            "05cb658c-2912-4379-8395-cdfd1999dc4e": "partial",
+            "e33cb93f-38f1-4346-a77c-c6625648491a": "partial",
+            "3a919996-ec5b-4eea-b263-ef0374e896e4": "partial",
+            "f37b0170-3e05-4b53-84b9-ff573a774430": "missing",
+            "92d0e6f6-504e-4712-8471-58fe59abdb7e": "missing",
+            "4fdd51a3-ddf0-4403-9bfe-1c271793d1e7": "missing",
+            "69db3fcc-34d1-4d22-85a8-66ccc9fedcaf": "missing",
+            "aa333ff5-0d7c-4b0b-a8de-03c350dd69a6": "partial",
+            "1a9b476a-3d3b-42f0-9f05-fd603191f64d": "missing",
+            "bddf5ec5-3a87-48f5-aab0-bcfd19c17e19": "missing",
+            "8a9c21d1-b835-4f0c-a951-34bf4e96e1d4": "partial",
+            "4afb23f5-839a-40cb-86c9-922fc7c02f0a": "missing",
+            "78110542-c94a-4f16-8900-6b525ac384e8": "partial",
+            "20c60fe6-24e1-4538-98d6-f35b5f3431bf": "partial",
+            "730f8bd3-c978-44a0-9fff-e38f7bcf9f80": "missing",
+            "be0d19ae-de7a-45af-a3a1-a9eebcc5ad27": "partial",
+            "120d853d-a950-4705-a522-24116d31385c": "partial",
+            "e308eeed-c508-4f39-a28c-c7bc7e4d9d01": "missing",
+            "e95172b4-8ac1-455e-b8b2-84796f27fa80": "partial",
+            "3fa1cfec-e3c2-4f97-88c5-3d85bf13be3f": "missing",
+            "bfcf8512-5efe-47ea-87d5-7431d947e5b0": "missing"
+          }
+        },
+        {
+          "id": "diagnose_individual_manager_styles",
+          "label": "Assesses Derek and Helen's specific management behaviors and development needs as individuals",
+          "cells": {
+            "05cb658c-2912-4379-8395-cdfd1999dc4e": "partial",
+            "e33cb93f-38f1-4346-a77c-c6625648491a": "full",
+            "3a919996-ec5b-4eea-b263-ef0374e896e4": "missing",
+            "f37b0170-3e05-4b53-84b9-ff573a774430": "partial",
+            "92d0e6f6-504e-4712-8471-58fe59abdb7e": "full",
+            "4fdd51a3-ddf0-4403-9bfe-1c271793d1e7": "missing",
+            "69db3fcc-34d1-4d22-85a8-66ccc9fedcaf": "missing",
+            "aa333ff5-0d7c-4b0b-a8de-03c350dd69a6": "full",
+            "1a9b476a-3d3b-42f0-9f05-fd603191f64d": "full",
+            "bddf5ec5-3a87-48f5-aab0-bcfd19c17e19": "partial",
+            "8a9c21d1-b835-4f0c-a951-34bf4e96e1d4": "partial",
+            "4afb23f5-839a-40cb-86c9-922fc7c02f0a": "missing",
+            "78110542-c94a-4f16-8900-6b525ac384e8": "full",
+            "20c60fe6-24e1-4538-98d6-f35b5f3431bf": "missing",
+            "730f8bd3-c978-44a0-9fff-e38f7bcf9f80": "missing",
+            "be0d19ae-de7a-45af-a3a1-a9eebcc5ad27": "missing",
+            "120d853d-a950-4705-a522-24116d31385c": "missing",
+            "e308eeed-c508-4f39-a28c-c7bc7e4d9d01": "missing",
+            "e95172b4-8ac1-455e-b8b2-84796f27fa80": "missing",
+            "3fa1cfec-e3c2-4f97-88c5-3d85bf13be3f": "missing",
+            "bfcf8512-5efe-47ea-87d5-7431d947e5b0": "missing"
+          }
+        },
+        {
+          "id": "deliver_30day_action_plan",
+          "label": "Provides concrete 30-day plan with clear owners, timelines, and measurable behaviors",
+          "cells": {
+            "05cb658c-2912-4379-8395-cdfd1999dc4e": "missing",
+            "e33cb93f-38f1-4346-a77c-c6625648491a": "missing",
+            "3a919996-ec5b-4eea-b263-ef0374e896e4": "partial",
+            "f37b0170-3e05-4b53-84b9-ff573a774430": "missing",
+            "92d0e6f6-504e-4712-8471-58fe59abdb7e": "partial",
+            "4fdd51a3-ddf0-4403-9bfe-1c271793d1e7": "missing",
+            "69db3fcc-34d1-4d22-85a8-66ccc9fedcaf": "missing",
+            "aa333ff5-0d7c-4b0b-a8de-03c350dd69a6": "partial",
+            "1a9b476a-3d3b-42f0-9f05-fd603191f64d": "missing",
+            "bddf5ec5-3a87-48f5-aab0-bcfd19c17e19": "missing",
+            "8a9c21d1-b835-4f0c-a951-34bf4e96e1d4": "missing",
+            "4afb23f5-839a-40cb-86c9-922fc7c02f0a": "missing",
+            "78110542-c94a-4f16-8900-6b525ac384e8": "missing",
+            "20c60fe6-24e1-4538-98d6-f35b5f3431bf": "missing",
+            "730f8bd3-c978-44a0-9fff-e38f7bcf9f80": "missing",
+            "be0d19ae-de7a-45af-a3a1-a9eebcc5ad27": "partial",
+            "120d853d-a950-4705-a522-24116d31385c": "missing",
+            "e308eeed-c508-4f39-a28c-c7bc7e4d9d01": "missing",
+            "e95172b4-8ac1-455e-b8b2-84796f27fa80": "missing",
+            "3fa1cfec-e3c2-4f97-88c5-3d85bf13be3f": "missing",
+            "bfcf8512-5efe-47ea-87d5-7431d947e5b0": "missing"
+          }
+        },
+        {
+          "id": "translate_recommendation_to_practice",
+          "label": "Explains what recommendations mean in practice with specific, actionable next steps",
+          "cells": {
+            "05cb658c-2912-4379-8395-cdfd1999dc4e": "missing",
+            "e33cb93f-38f1-4346-a77c-c6625648491a": "partial",
+            "3a919996-ec5b-4eea-b263-ef0374e896e4": "partial",
+            "f37b0170-3e05-4b53-84b9-ff573a774430": "partial",
+            "92d0e6f6-504e-4712-8471-58fe59abdb7e": "partial",
+            "4fdd51a3-ddf0-4403-9bfe-1c271793d1e7": "missing",
+            "69db3fcc-34d1-4d22-85a8-66ccc9fedcaf": "missing",
+            "aa333ff5-0d7c-4b0b-a8de-03c350dd69a6": "full",
+            "1a9b476a-3d3b-42f0-9f05-fd603191f64d": "partial",
+            "bddf5ec5-3a87-48f5-aab0-bcfd19c17e19": "missing",
+            "8a9c21d1-b835-4f0c-a951-34bf4e96e1d4": "missing",
+            "4afb23f5-839a-40cb-86c9-922fc7c02f0a": "missing",
+            "78110542-c94a-4f16-8900-6b525ac384e8": "partial",
+            "20c60fe6-24e1-4538-98d6-f35b5f3431bf": "missing",
+            "730f8bd3-c978-44a0-9fff-e38f7bcf9f80": "missing",
+            "be0d19ae-de7a-45af-a3a1-a9eebcc5ad27": "missing",
+            "120d853d-a950-4705-a522-24116d31385c": "partial",
+            "e308eeed-c508-4f39-a28c-c7bc7e4d9d01": "missing",
+            "e95172b4-8ac1-455e-b8b2-84796f27fa80": "missing",
+            "3fa1cfec-e3c2-4f97-88c5-3d85bf13be3f": "partial",
+            "bfcf8512-5efe-47ea-87d5-7431d947e5b0": "missing"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 21 letters, per-team classification of credit."
+    }
+  },
+  "rubric": {
+    "criteria": [
+      {
+        "id": "diagnose_performance_gaps",
+        "label": "Analyzes specific performance metrics (turnover, labor cost, satisfaction, margin) to identify gaps between stores"
+      },
+      {
+        "id": "connect_data_to_root_causes",
+        "label": "Links performance data to underlying root causes rather than treating metrics as isolated"
+      },
+      {
+        "id": "prioritize_across_issues",
+        "label": "Identifies which problem to address first (e.g., Briarwood cost crisis vs. turnover vs. culture)"
+      },
+      {
+        "id": "diagnose_individual_manager_styles",
+        "label": "Assesses Derek and Helen's specific management behaviors and development needs as individuals"
+      },
+      {
+        "id": "deliver_30day_action_plan",
+        "label": "Provides concrete 30-day plan with clear owners, timelines, and measurable behaviors"
+      },
+      {
+        "id": "translate_recommendation_to_practice",
+        "label": "Explains what recommendations mean in practice with specific, actionable next steps"
+      }
+    ],
+    "team_cells": [
+      {
+        "id": "diagnose_performance_gaps",
+        "label": "Analyzes specific performance metrics (turnover, labor cost, satisfaction, margin) to identify gaps between stores",
+        "cells": {
+          "05cb658c-2912-4379-8395-cdfd1999dc4e": "full",
+          "e33cb93f-38f1-4346-a77c-c6625648491a": "partial",
+          "3a919996-ec5b-4eea-b263-ef0374e896e4": "partial",
+          "f37b0170-3e05-4b53-84b9-ff573a774430": "partial",
+          "92d0e6f6-504e-4712-8471-58fe59abdb7e": "partial",
+          "4fdd51a3-ddf0-4403-9bfe-1c271793d1e7": "partial",
+          "69db3fcc-34d1-4d22-85a8-66ccc9fedcaf": "partial",
+          "aa333ff5-0d7c-4b0b-a8de-03c350dd69a6": "partial",
+          "1a9b476a-3d3b-42f0-9f05-fd603191f64d": "partial",
+          "bddf5ec5-3a87-48f5-aab0-bcfd19c17e19": "full",
+          "8a9c21d1-b835-4f0c-a951-34bf4e96e1d4": "full",
+          "4afb23f5-839a-40cb-86c9-922fc7c02f0a": "missing",
+          "78110542-c94a-4f16-8900-6b525ac384e8": "full",
+          "20c60fe6-24e1-4538-98d6-f35b5f3431bf": "partial",
+          "730f8bd3-c978-44a0-9fff-e38f7bcf9f80": "missing",
+          "be0d19ae-de7a-45af-a3a1-a9eebcc5ad27": "partial",
+          "120d853d-a950-4705-a522-24116d31385c": "full",
+          "e308eeed-c508-4f39-a28c-c7bc7e4d9d01": "partial",
+          "e95172b4-8ac1-455e-b8b2-84796f27fa80": "partial",
+          "3fa1cfec-e3c2-4f97-88c5-3d85bf13be3f": "partial",
+          "bfcf8512-5efe-47ea-87d5-7431d947e5b0": "missing"
+        }
+      },
+      {
+        "id": "connect_data_to_root_causes",
+        "label": "Links performance data to underlying root causes rather than treating metrics as isolated",
+        "cells": {
+          "05cb658c-2912-4379-8395-cdfd1999dc4e": "partial",
+          "e33cb93f-38f1-4346-a77c-c6625648491a": "missing",
+          "3a919996-ec5b-4eea-b263-ef0374e896e4": "missing",
+          "f37b0170-3e05-4b53-84b9-ff573a774430": "missing",
+          "92d0e6f6-504e-4712-8471-58fe59abdb7e": "missing",
+          "4fdd51a3-ddf0-4403-9bfe-1c271793d1e7": "missing",
+          "69db3fcc-34d1-4d22-85a8-66ccc9fedcaf": "partial",
+          "aa333ff5-0d7c-4b0b-a8de-03c350dd69a6": "partial",
+          "1a9b476a-3d3b-42f0-9f05-fd603191f64d": "partial",
+          "bddf5ec5-3a87-48f5-aab0-bcfd19c17e19": "missing",
+          "8a9c21d1-b835-4f0c-a951-34bf4e96e1d4": "partial",
+          "4afb23f5-839a-40cb-86c9-922fc7c02f0a": "missing",
+          "78110542-c94a-4f16-8900-6b525ac384e8": "partial",
+          "20c60fe6-24e1-4538-98d6-f35b5f3431bf": "missing",
+          "730f8bd3-c978-44a0-9fff-e38f7bcf9f80": "missing",
+          "be0d19ae-de7a-45af-a3a1-a9eebcc5ad27": "missing",
+          "120d853d-a950-4705-a522-24116d31385c": "partial",
+          "e308eeed-c508-4f39-a28c-c7bc7e4d9d01": "missing",
+          "e95172b4-8ac1-455e-b8b2-84796f27fa80": "missing",
+          "3fa1cfec-e3c2-4f97-88c5-3d85bf13be3f": "missing",
+          "bfcf8512-5efe-47ea-87d5-7431d947e5b0": "missing"
+        }
+      },
+      {
+        "id": "prioritize_across_issues",
+        "label": "Identifies which problem to address first (e.g., Briarwood cost crisis vs. turnover vs. culture)",
+        "cells": {
+          "05cb658c-2912-4379-8395-cdfd1999dc4e": "partial",
+          "e33cb93f-38f1-4346-a77c-c6625648491a": "partial",
+          "3a919996-ec5b-4eea-b263-ef0374e896e4": "partial",
+          "f37b0170-3e05-4b53-84b9-ff573a774430": "missing",
+          "92d0e6f6-504e-4712-8471-58fe59abdb7e": "missing",
+          "4fdd51a3-ddf0-4403-9bfe-1c271793d1e7": "missing",
+          "69db3fcc-34d1-4d22-85a8-66ccc9fedcaf": "missing",
+          "aa333ff5-0d7c-4b0b-a8de-03c350dd69a6": "partial",
+          "1a9b476a-3d3b-42f0-9f05-fd603191f64d": "missing",
+          "bddf5ec5-3a87-48f5-aab0-bcfd19c17e19": "missing",
+          "8a9c21d1-b835-4f0c-a951-34bf4e96e1d4": "partial",
+          "4afb23f5-839a-40cb-86c9-922fc7c02f0a": "missing",
+          "78110542-c94a-4f16-8900-6b525ac384e8": "partial",
+          "20c60fe6-24e1-4538-98d6-f35b5f3431bf": "partial",
+          "730f8bd3-c978-44a0-9fff-e38f7bcf9f80": "missing",
+          "be0d19ae-de7a-45af-a3a1-a9eebcc5ad27": "partial",
+          "120d853d-a950-4705-a522-24116d31385c": "partial",
+          "e308eeed-c508-4f39-a28c-c7bc7e4d9d01": "missing",
+          "e95172b4-8ac1-455e-b8b2-84796f27fa80": "partial",
+          "3fa1cfec-e3c2-4f97-88c5-3d85bf13be3f": "missing",
+          "bfcf8512-5efe-47ea-87d5-7431d947e5b0": "missing"
+        }
+      },
+      {
+        "id": "diagnose_individual_manager_styles",
+        "label": "Assesses Derek and Helen's specific management behaviors and development needs as individuals",
+        "cells": {
+          "05cb658c-2912-4379-8395-cdfd1999dc4e": "partial",
+          "e33cb93f-38f1-4346-a77c-c6625648491a": "full",
+          "3a919996-ec5b-4eea-b263-ef0374e896e4": "missing",
+          "f37b0170-3e05-4b53-84b9-ff573a774430": "partial",
+          "92d0e6f6-504e-4712-8471-58fe59abdb7e": "full",
+          "4fdd51a3-ddf0-4403-9bfe-1c271793d1e7": "missing",
+          "69db3fcc-34d1-4d22-85a8-66ccc9fedcaf": "missing",
+          "aa333ff5-0d7c-4b0b-a8de-03c350dd69a6": "full",
+          "1a9b476a-3d3b-42f0-9f05-fd603191f64d": "full",
+          "bddf5ec5-3a87-48f5-aab0-bcfd19c17e19": "partial",
+          "8a9c21d1-b835-4f0c-a951-34bf4e96e1d4": "partial",
+          "4afb23f5-839a-40cb-86c9-922fc7c02f0a": "missing",
+          "78110542-c94a-4f16-8900-6b525ac384e8": "full",
+          "20c60fe6-24e1-4538-98d6-f35b5f3431bf": "missing",
+          "730f8bd3-c978-44a0-9fff-e38f7bcf9f80": "missing",
+          "be0d19ae-de7a-45af-a3a1-a9eebcc5ad27": "missing",
+          "120d853d-a950-4705-a522-24116d31385c": "missing",
+          "e308eeed-c508-4f39-a28c-c7bc7e4d9d01": "missing",
+          "e95172b4-8ac1-455e-b8b2-84796f27fa80": "missing",
+          "3fa1cfec-e3c2-4f97-88c5-3d85bf13be3f": "missing",
+          "bfcf8512-5efe-47ea-87d5-7431d947e5b0": "missing"
+        }
+      },
+      {
+        "id": "deliver_30day_action_plan",
+        "label": "Provides concrete 30-day plan with clear owners, timelines, and measurable behaviors",
+        "cells": {
+          "05cb658c-2912-4379-8395-cdfd1999dc4e": "missing",
+          "e33cb93f-38f1-4346-a77c-c6625648491a": "missing",
+          "3a919996-ec5b-4eea-b263-ef0374e896e4": "partial",
+          "f37b0170-3e05-4b53-84b9-ff573a774430": "missing",
+          "92d0e6f6-504e-4712-8471-58fe59abdb7e": "partial",
+          "4fdd51a3-ddf0-4403-9bfe-1c271793d1e7": "missing",
+          "69db3fcc-34d1-4d22-85a8-66ccc9fedcaf": "missing",
+          "aa333ff5-0d7c-4b0b-a8de-03c350dd69a6": "partial",
+          "1a9b476a-3d3b-42f0-9f05-fd603191f64d": "missing",
+          "bddf5ec5-3a87-48f5-aab0-bcfd19c17e19": "missing",
+          "8a9c21d1-b835-4f0c-a951-34bf4e96e1d4": "missing",
+          "4afb23f5-839a-40cb-86c9-922fc7c02f0a": "missing",
+          "78110542-c94a-4f16-8900-6b525ac384e8": "missing",
+          "20c60fe6-24e1-4538-98d6-f35b5f3431bf": "missing",
+          "730f8bd3-c978-44a0-9fff-e38f7bcf9f80": "missing",
+          "be0d19ae-de7a-45af-a3a1-a9eebcc5ad27": "partial",
+          "120d853d-a950-4705-a522-24116d31385c": "missing",
+          "e308eeed-c508-4f39-a28c-c7bc7e4d9d01": "missing",
+          "e95172b4-8ac1-455e-b8b2-84796f27fa80": "missing",
+          "3fa1cfec-e3c2-4f97-88c5-3d85bf13be3f": "missing",
+          "bfcf8512-5efe-47ea-87d5-7431d947e5b0": "missing"
+        }
+      },
+      {
+        "id": "translate_recommendation_to_practice",
+        "label": "Explains what recommendations mean in practice with specific, actionable next steps",
+        "cells": {
+          "05cb658c-2912-4379-8395-cdfd1999dc4e": "missing",
+          "e33cb93f-38f1-4346-a77c-c6625648491a": "partial",
+          "3a919996-ec5b-4eea-b263-ef0374e896e4": "partial",
+          "f37b0170-3e05-4b53-84b9-ff573a774430": "partial",
+          "92d0e6f6-504e-4712-8471-58fe59abdb7e": "partial",
+          "4fdd51a3-ddf0-4403-9bfe-1c271793d1e7": "missing",
+          "69db3fcc-34d1-4d22-85a8-66ccc9fedcaf": "missing",
+          "aa333ff5-0d7c-4b0b-a8de-03c350dd69a6": "full",
+          "1a9b476a-3d3b-42f0-9f05-fd603191f64d": "partial",
+          "bddf5ec5-3a87-48f5-aab0-bcfd19c17e19": "missing",
+          "8a9c21d1-b835-4f0c-a951-34bf4e96e1d4": "missing",
+          "4afb23f5-839a-40cb-86c9-922fc7c02f0a": "missing",
+          "78110542-c94a-4f16-8900-6b525ac384e8": "partial",
+          "20c60fe6-24e1-4538-98d6-f35b5f3431bf": "missing",
+          "730f8bd3-c978-44a0-9fff-e38f7bcf9f80": "missing",
+          "be0d19ae-de7a-45af-a3a1-a9eebcc5ad27": "missing",
+          "120d853d-a950-4705-a522-24116d31385c": "partial",
+          "e308eeed-c508-4f39-a28c-c7bc7e4d9d01": "missing",
+          "e95172b4-8ac1-455e-b8b2-84796f27fa80": "missing",
+          "3fa1cfec-e3c2-4f97-88c5-3d85bf13be3f": "partial",
+          "bfcf8512-5efe-47ea-87d5-7431d947e5b0": "missing"
+        }
+      }
+    ],
+    "method": "LLM-derived via claude-haiku-4-5: criteria identified from 21 letters, per-team classification of credit."
+  }
 }

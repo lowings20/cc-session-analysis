@@ -1419,5 +1419,352 @@
       "created_at": "2026-05-06T05:40:58.252Z",
       "updated_at": "2026-05-06T05:40:58.252Z"
     }
-  ]
+  ],
+  "rubric_by_chapter": {
+    "cc2abb26-f763-44d9-b197-81b6776e73fb": {
+      "criteria": [
+        {
+          "id": "completes_breakeven_calculations",
+          "label": "Completes accurate breakeven calculations for all three options"
+        },
+        {
+          "id": "identifies_retrofit_elimination",
+          "label": "Identifies Retrofit as the option to eliminate"
+        },
+        {
+          "id": "understands_volume_scenario_tradeoffs",
+          "label": "Recognizes which options win at different demand volumes"
+        },
+        {
+          "id": "provides_clear_elimination_rationale",
+          "label": "Provides clear, logical rationale for elimination choice"
+        },
+        {
+          "id": "identifies_capital_or_equipment_concerns",
+          "label": "Identifies capital exposure, maintenance, or equipment concerns with Retrofit"
+        },
+        {
+          "id": "distinguishes_cost_structure_differences",
+          "label": "Understands fixed vs. variable cost differences between options"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "completes_breakeven_calculations",
+          "label": "Completes accurate breakeven calculations for all three options",
+          "cells": {
+            "e7060b32-2ef9-4640-979a-71e25cd80728": "missing",
+            "d3b8757c-2e32-4d73-9ea8-5742e6645c70": "full",
+            "c6d31e6d-104b-4920-a7ba-a4213fb86308": "missing",
+            "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede": "full",
+            "141c7e7f-c6fb-42d2-87d0-b492664b9c59": "full",
+            "68642c66-300d-46a0-9c4e-adcaa0ee9de8": "full",
+            "9cb23583-d5be-4f22-acd6-f1570ceaabe8": "missing",
+            "cea91730-5b5c-4337-ba13-ee0cd49de8f8": "full"
+          }
+        },
+        {
+          "id": "identifies_retrofit_elimination",
+          "label": "Identifies Retrofit as the option to eliminate",
+          "cells": {
+            "e7060b32-2ef9-4640-979a-71e25cd80728": "missing",
+            "d3b8757c-2e32-4d73-9ea8-5742e6645c70": "full",
+            "c6d31e6d-104b-4920-a7ba-a4213fb86308": "missing",
+            "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede": "full",
+            "141c7e7f-c6fb-42d2-87d0-b492664b9c59": "full",
+            "68642c66-300d-46a0-9c4e-adcaa0ee9de8": "full",
+            "9cb23583-d5be-4f22-acd6-f1570ceaabe8": "full",
+            "cea91730-5b5c-4337-ba13-ee0cd49de8f8": "full"
+          }
+        },
+        {
+          "id": "understands_volume_scenario_tradeoffs",
+          "label": "Recognizes which options win at different demand volumes",
+          "cells": {
+            "e7060b32-2ef9-4640-979a-71e25cd80728": "missing",
+            "d3b8757c-2e32-4d73-9ea8-5742e6645c70": "partial",
+            "c6d31e6d-104b-4920-a7ba-a4213fb86308": "missing",
+            "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede": "full",
+            "141c7e7f-c6fb-42d2-87d0-b492664b9c59": "partial",
+            "68642c66-300d-46a0-9c4e-adcaa0ee9de8": "full",
+            "9cb23583-d5be-4f22-acd6-f1570ceaabe8": "missing",
+            "cea91730-5b5c-4337-ba13-ee0cd49de8f8": "full"
+          }
+        },
+        {
+          "id": "provides_clear_elimination_rationale",
+          "label": "Provides clear, logical rationale for elimination choice",
+          "cells": {
+            "e7060b32-2ef9-4640-979a-71e25cd80728": "missing",
+            "d3b8757c-2e32-4d73-9ea8-5742e6645c70": "partial",
+            "c6d31e6d-104b-4920-a7ba-a4213fb86308": "missing",
+            "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede": "full",
+            "141c7e7f-c6fb-42d2-87d0-b492664b9c59": "partial",
+            "68642c66-300d-46a0-9c4e-adcaa0ee9de8": "full",
+            "9cb23583-d5be-4f22-acd6-f1570ceaabe8": "partial",
+            "cea91730-5b5c-4337-ba13-ee0cd49de8f8": "full"
+          }
+        },
+        {
+          "id": "identifies_capital_or_equipment_concerns",
+          "label": "Identifies capital exposure, maintenance, or equipment concerns with Retrofit",
+          "cells": {
+            "e7060b32-2ef9-4640-979a-71e25cd80728": "missing",
+            "d3b8757c-2e32-4d73-9ea8-5742e6645c70": "missing",
+            "c6d31e6d-104b-4920-a7ba-a4213fb86308": "missing",
+            "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede": "full",
+            "141c7e7f-c6fb-42d2-87d0-b492664b9c59": "missing",
+            "68642c66-300d-46a0-9c4e-adcaa0ee9de8": "full",
+            "9cb23583-d5be-4f22-acd6-f1570ceaabe8": "missing",
+            "cea91730-5b5c-4337-ba13-ee0cd49de8f8": "missing"
+          }
+        },
+        {
+          "id": "distinguishes_cost_structure_differences",
+          "label": "Understands fixed vs. variable cost differences between options",
+          "cells": {
+            "e7060b32-2ef9-4640-979a-71e25cd80728": "partial",
+            "d3b8757c-2e32-4d73-9ea8-5742e6645c70": "partial",
+            "c6d31e6d-104b-4920-a7ba-a4213fb86308": "missing",
+            "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede": "missing",
+            "141c7e7f-c6fb-42d2-87d0-b492664b9c59": "missing",
+            "68642c66-300d-46a0-9c4e-adcaa0ee9de8": "missing",
+            "9cb23583-d5be-4f22-acd6-f1570ceaabe8": "missing",
+            "cea91730-5b5c-4337-ba13-ee0cd49de8f8": "missing"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 8 letters, per-team classification of credit."
+    },
+    "66e7aed3-09d7-43f9-922c-2a9f9f45bcad": {
+      "criteria": [
+        {
+          "id": "selects_production_path",
+          "label": "Selects a specific production path (Agile, Moderate, Committed, or New Plant)"
+        },
+        {
+          "id": "grounds_choice_in_scenario_analysis",
+          "label": "Grounds path choice in demand scenario analysis and financial data"
+        },
+        {
+          "id": "connects_pilot_metrics_to_demand_forecast",
+          "label": "Connects specific pilot metrics to the base case (500K) demand forecast"
+        },
+        {
+          "id": "identifies_leading_indicators",
+          "label": "Identifies which pilot metrics signal tracking toward low/base/high scenarios"
+        },
+        {
+          "id": "incorporates_carlos_framework",
+          "label": "Applies Carlos's framework on risk, flexibility, and signal-reading"
+        },
+        {
+          "id": "addresses_operational_quality_factors",
+          "label": "Addresses operational considerations (quality control, scalability, co-packer risk)"
+        }
+      ],
+      "team_cells": [
+        {
+          "id": "selects_production_path",
+          "label": "Selects a specific production path (Agile, Moderate, Committed, or New Plant)",
+          "cells": {
+            "e7060b32-2ef9-4640-979a-71e25cd80728": "missing",
+            "d3b8757c-2e32-4d73-9ea8-5742e6645c70": "full",
+            "c6d31e6d-104b-4920-a7ba-a4213fb86308": "full",
+            "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede": "full",
+            "141c7e7f-c6fb-42d2-87d0-b492664b9c59": "full",
+            "68642c66-300d-46a0-9c4e-adcaa0ee9de8": "full",
+            "9cb23583-d5be-4f22-acd6-f1570ceaabe8": "full",
+            "cea91730-5b5c-4337-ba13-ee0cd49de8f8": "partial"
+          }
+        },
+        {
+          "id": "grounds_choice_in_scenario_analysis",
+          "label": "Grounds path choice in demand scenario analysis and financial data",
+          "cells": {
+            "e7060b32-2ef9-4640-979a-71e25cd80728": "missing",
+            "d3b8757c-2e32-4d73-9ea8-5742e6645c70": "full",
+            "c6d31e6d-104b-4920-a7ba-a4213fb86308": "full",
+            "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede": "partial",
+            "141c7e7f-c6fb-42d2-87d0-b492664b9c59": "full",
+            "68642c66-300d-46a0-9c4e-adcaa0ee9de8": "partial",
+            "9cb23583-d5be-4f22-acd6-f1570ceaabe8": "partial",
+            "cea91730-5b5c-4337-ba13-ee0cd49de8f8": "partial"
+          }
+        },
+        {
+          "id": "connects_pilot_metrics_to_demand_forecast",
+          "label": "Connects specific pilot metrics to the base case (500K) demand forecast",
+          "cells": {
+            "e7060b32-2ef9-4640-979a-71e25cd80728": "missing",
+            "d3b8757c-2e32-4d73-9ea8-5742e6645c70": "partial",
+            "c6d31e6d-104b-4920-a7ba-a4213fb86308": "partial",
+            "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede": "partial",
+            "141c7e7f-c6fb-42d2-87d0-b492664b9c59": "partial",
+            "68642c66-300d-46a0-9c4e-adcaa0ee9de8": "partial",
+            "9cb23583-d5be-4f22-acd6-f1570ceaabe8": "partial",
+            "cea91730-5b5c-4337-ba13-ee0cd49de8f8": "missing"
+          }
+        },
+        {
+          "id": "identifies_leading_indicators",
+          "label": "Identifies which pilot metrics signal tracking toward low/base/high scenarios",
+          "cells": {
+            "e7060b32-2ef9-4640-979a-71e25cd80728": "partial",
+            "d3b8757c-2e32-4d73-9ea8-5742e6645c70": "partial",
+            "c6d31e6d-104b-4920-a7ba-a4213fb86308": "partial",
+            "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede": "partial",
+            "141c7e7f-c6fb-42d2-87d0-b492664b9c59": "partial",
+            "68642c66-300d-46a0-9c4e-adcaa0ee9de8": "partial",
+            "9cb23583-d5be-4f22-acd6-f1570ceaabe8": "partial",
+            "cea91730-5b5c-4337-ba13-ee0cd49de8f8": "partial"
+          }
+        },
+        {
+          "id": "incorporates_carlos_framework",
+          "label": "Applies Carlos's framework on risk, flexibility, and signal-reading",
+          "cells": {
+            "e7060b32-2ef9-4640-979a-71e25cd80728": "partial",
+            "d3b8757c-2e32-4d73-9ea8-5742e6645c70": "partial",
+            "c6d31e6d-104b-4920-a7ba-a4213fb86308": "partial",
+            "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede": "partial",
+            "141c7e7f-c6fb-42d2-87d0-b492664b9c59": "partial",
+            "68642c66-300d-46a0-9c4e-adcaa0ee9de8": "full",
+            "9cb23583-d5be-4f22-acd6-f1570ceaabe8": "partial",
+            "cea91730-5b5c-4337-ba13-ee0cd49de8f8": "missing"
+          }
+        },
+        {
+          "id": "addresses_operational_quality_factors",
+          "label": "Addresses operational considerations (quality control, scalability, co-packer risk)",
+          "cells": {
+            "e7060b32-2ef9-4640-979a-71e25cd80728": "missing",
+            "d3b8757c-2e32-4d73-9ea8-5742e6645c70": "missing",
+            "c6d31e6d-104b-4920-a7ba-a4213fb86308": "full",
+            "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede": "partial",
+            "141c7e7f-c6fb-42d2-87d0-b492664b9c59": "full",
+            "68642c66-300d-46a0-9c4e-adcaa0ee9de8": "full",
+            "9cb23583-d5be-4f22-acd6-f1570ceaabe8": "partial",
+            "cea91730-5b5c-4337-ba13-ee0cd49de8f8": "missing"
+          }
+        }
+      ],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 8 letters, per-team classification of credit."
+    }
+  },
+  "rubric": {
+    "criteria": [
+      {
+        "id": "selects_production_path",
+        "label": "Selects a specific production path (Agile, Moderate, Committed, or New Plant)"
+      },
+      {
+        "id": "grounds_choice_in_scenario_analysis",
+        "label": "Grounds path choice in demand scenario analysis and financial data"
+      },
+      {
+        "id": "connects_pilot_metrics_to_demand_forecast",
+        "label": "Connects specific pilot metrics to the base case (500K) demand forecast"
+      },
+      {
+        "id": "identifies_leading_indicators",
+        "label": "Identifies which pilot metrics signal tracking toward low/base/high scenarios"
+      },
+      {
+        "id": "incorporates_carlos_framework",
+        "label": "Applies Carlos's framework on risk, flexibility, and signal-reading"
+      },
+      {
+        "id": "addresses_operational_quality_factors",
+        "label": "Addresses operational considerations (quality control, scalability, co-packer risk)"
+      }
+    ],
+    "team_cells": [
+      {
+        "id": "selects_production_path",
+        "label": "Selects a specific production path (Agile, Moderate, Committed, or New Plant)",
+        "cells": {
+          "e7060b32-2ef9-4640-979a-71e25cd80728": "missing",
+          "d3b8757c-2e32-4d73-9ea8-5742e6645c70": "full",
+          "c6d31e6d-104b-4920-a7ba-a4213fb86308": "full",
+          "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede": "full",
+          "141c7e7f-c6fb-42d2-87d0-b492664b9c59": "full",
+          "68642c66-300d-46a0-9c4e-adcaa0ee9de8": "full",
+          "9cb23583-d5be-4f22-acd6-f1570ceaabe8": "full",
+          "cea91730-5b5c-4337-ba13-ee0cd49de8f8": "partial"
+        }
+      },
+      {
+        "id": "grounds_choice_in_scenario_analysis",
+        "label": "Grounds path choice in demand scenario analysis and financial data",
+        "cells": {
+          "e7060b32-2ef9-4640-979a-71e25cd80728": "missing",
+          "d3b8757c-2e32-4d73-9ea8-5742e6645c70": "full",
+          "c6d31e6d-104b-4920-a7ba-a4213fb86308": "full",
+          "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede": "partial",
+          "141c7e7f-c6fb-42d2-87d0-b492664b9c59": "full",
+          "68642c66-300d-46a0-9c4e-adcaa0ee9de8": "partial",
+          "9cb23583-d5be-4f22-acd6-f1570ceaabe8": "partial",
+          "cea91730-5b5c-4337-ba13-ee0cd49de8f8": "partial"
+        }
+      },
+      {
+        "id": "connects_pilot_metrics_to_demand_forecast",
+        "label": "Connects specific pilot metrics to the base case (500K) demand forecast",
+        "cells": {
+          "e7060b32-2ef9-4640-979a-71e25cd80728": "missing",
+          "d3b8757c-2e32-4d73-9ea8-5742e6645c70": "partial",
+          "c6d31e6d-104b-4920-a7ba-a4213fb86308": "partial",
+          "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede": "partial",
+          "141c7e7f-c6fb-42d2-87d0-b492664b9c59": "partial",
+          "68642c66-300d-46a0-9c4e-adcaa0ee9de8": "partial",
+          "9cb23583-d5be-4f22-acd6-f1570ceaabe8": "partial",
+          "cea91730-5b5c-4337-ba13-ee0cd49de8f8": "missing"
+        }
+      },
+      {
+        "id": "identifies_leading_indicators",
+        "label": "Identifies which pilot metrics signal tracking toward low/base/high scenarios",
+        "cells": {
+          "e7060b32-2ef9-4640-979a-71e25cd80728": "partial",
+          "d3b8757c-2e32-4d73-9ea8-5742e6645c70": "partial",
+          "c6d31e6d-104b-4920-a7ba-a4213fb86308": "partial",
+          "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede": "partial",
+          "141c7e7f-c6fb-42d2-87d0-b492664b9c59": "partial",
+          "68642c66-300d-46a0-9c4e-adcaa0ee9de8": "partial",
+          "9cb23583-d5be-4f22-acd6-f1570ceaabe8": "partial",
+          "cea91730-5b5c-4337-ba13-ee0cd49de8f8": "partial"
+        }
+      },
+      {
+        "id": "incorporates_carlos_framework",
+        "label": "Applies Carlos's framework on risk, flexibility, and signal-reading",
+        "cells": {
+          "e7060b32-2ef9-4640-979a-71e25cd80728": "partial",
+          "d3b8757c-2e32-4d73-9ea8-5742e6645c70": "partial",
+          "c6d31e6d-104b-4920-a7ba-a4213fb86308": "partial",
+          "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede": "partial",
+          "141c7e7f-c6fb-42d2-87d0-b492664b9c59": "partial",
+          "68642c66-300d-46a0-9c4e-adcaa0ee9de8": "full",
+          "9cb23583-d5be-4f22-acd6-f1570ceaabe8": "partial",
+          "cea91730-5b5c-4337-ba13-ee0cd49de8f8": "missing"
+        }
+      },
+      {
+        "id": "addresses_operational_quality_factors",
+        "label": "Addresses operational considerations (quality control, scalability, co-packer risk)",
+        "cells": {
+          "e7060b32-2ef9-4640-979a-71e25cd80728": "missing",
+          "d3b8757c-2e32-4d73-9ea8-5742e6645c70": "missing",
+          "c6d31e6d-104b-4920-a7ba-a4213fb86308": "full",
+          "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede": "partial",
+          "141c7e7f-c6fb-42d2-87d0-b492664b9c59": "full",
+          "68642c66-300d-46a0-9c4e-adcaa0ee9de8": "full",
+          "9cb23583-d5be-4f22-acd6-f1570ceaabe8": "partial",
+          "cea91730-5b5c-4337-ba13-ee0cd49de8f8": "missing"
+        }
+      }
+    ],
+    "method": "LLM-derived via claude-haiku-4-5: criteria identified from 8 letters, per-team classification of credit."
+  }
 }
