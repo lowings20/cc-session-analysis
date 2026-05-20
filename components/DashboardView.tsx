@@ -543,7 +543,7 @@ export default function DashboardView({
   return (
     <div className="min-h-screen">
       {/* Header */}
-      <header className="bg-[#1e293b] border-b border-[#334155] px-6 pt-4 sticky top-0 z-40">
+      <header className="bg-[#1e293b] border-b border-[#334155] px-6 pt-4 sticky top-[44px] z-40">
         <div className="flex items-start justify-between gap-4">
           <div>
             <h1 className="text-lg font-semibold text-[#e2e8f0]">Case Challenge Dashboard</h1>
