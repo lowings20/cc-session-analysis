@@ -2,8 +2,10 @@ import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { findCase, getCaseChallenges } from '@/lib/case-challenges'
 import { getSessions } from '@/lib/sessions'
+import { getCaseTimelineData } from '@/lib/dashboard'
 import RunsheetTimeline from '@/components/RunsheetTimeline'
 import SurveyResultsChart from '@/components/SurveyResultsChart'
+import ActualVsExpected from '@/components/ActualVsExpected'
 import type { SessionRow } from '@/components/SessionsTable'
 
 export function generateStaticParams() {
@@ -59,6 +61,8 @@ export default async function CaseChallengeDetailPage({ params }: PageProps) {
     })
 
   const hasSurveyData = sessions.some((s) => typeof s.survey_score === 'number')
+  const timelineData = getCaseTimelineData(cc.case_challenge)
+  const hasTimelineData = !!timelineData && timelineData.sessions.length > 0
 
   return (
     <div className="min-h-screen px-6 py-8 max-w-5xl mx-auto">
@@ -110,6 +114,20 @@ export default async function CaseChallengeDetailPage({ params }: PageProps) {
         </Section>
 
         <Section
+          title="Actual vs Expected"
+          subtitle="How each session actually ran against the planned runsheet, from cc.abilitie.com activity feeds"
+          status={hasTimelineData ? 'data' : 'placeholder'}
+        >
+          {timelineData ? (
+            <ActualVsExpected caseData={timelineData} />
+          ) : (
+            <p className="text-sm text-[#94a3b8]">
+              No activity-feed timings recorded for this case challenge yet.
+            </p>
+          )}
+        </Section>
+
+        <Section
           title="Sessions That Ran"
           subtitle="Each session in the snapshot for this case challenge"
           status="data"
@@ -134,21 +152,6 @@ export default async function CaseChallengeDetailPage({ params }: PageProps) {
               </div>
             ))}
           </div>
-        </Section>
-
-        <Section
-          title="Activity Feed (per session)"
-          subtitle="Live activity feed from cc.abilitie.com — to be wired"
-          status="placeholder"
-        >
-          <p className="text-sm text-[#94a3b8]">
-            Will populate once the cc.abilitie.com MCP exposes session results.
-          </p>
-          <p className="text-xs text-[#475569] mt-3">
-            Today the <code className="text-[#cbd5e1] bg-[#1e293b] px-1 py-0.5 rounded">pe_*</code> tools only cover product/program/slide editing. We need a tool like{' '}
-            <code className="text-[#cbd5e1] bg-[#1e293b] px-1 py-0.5 rounded">pe_get_session_activity</code> that returns the activity feed entries
-            for a given cc.abilitie.com session id. Once added, this card will render the timeline of each session.
-          </p>
         </Section>
 
         <Section
