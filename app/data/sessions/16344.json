@@ -1,0 +1,1955 @@
+{
+  "session_arrow_id": 16344,
+  "session_cc_uuid": "381a0f84-f135-475a-a678-089ef0d4d477",
+  "case_challenge": "Navigating Critical Conversations",
+  "case_challenge_id": "ed2551ab-bd65-4195-b571-43edd96f9e63",
+  "viewed_chapter_id": "84b81960-4156-4582-a05f-fc121acf76fb",
+  "extracted_at": "2026-05-20T00:00:00.000Z",
+  "source_url": "https://entain6.abilitie.com/facilitator/381a0f84-f135-475a-a678-089ef0d4d477",
+  "tenant_dns": "entain6.abilitie.com",
+  "chapters": [
+    {
+      "id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "title": "Chapter 1",
+      "order": 1,
+      "duration_min": 5,
+      "blocks": 1
+    },
+    {
+      "id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "title": "Chapter 2",
+      "order": 2,
+      "duration_min": 15,
+      "blocks": 0
+    },
+    {
+      "id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "title": "Chapter 3",
+      "order": 3,
+      "duration_min": 15,
+      "blocks": 0
+    },
+    {
+      "id": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "title": "Chapter 4",
+      "order": 4,
+      "duration_min": 15,
+      "blocks": 0
+    }
+  ],
+  "teams": [
+    {
+      "id": "e4096e48-b5a6-4e44-b843-517ec3b99220",
+      "name": "Nick and Liv",
+      "icon": "⭐",
+      "group_letter": "2"
+    },
+    {
+      "id": "f4cbba31-3dc8-466d-a6d8-dfbe17aa4da9",
+      "name": "Feedbackstreet Boys",
+      "icon": "🎸",
+      "group_letter": "5"
+    },
+    {
+      "id": "38b0d464-42f0-4740-b797-e47ac76f0fb7",
+      "name": "The A team",
+      "icon": "💪",
+      "group_letter": "3"
+    },
+    {
+      "id": "82393051-d269-42d9-89b4-61a369f201c0",
+      "name": "Madrid Massive",
+      "icon": "⚽",
+      "group_letter": "1"
+    },
+    {
+      "id": "f9189ad2-4f89-4fd4-bca4-817cb5d07660",
+      "name": "Team Smiley",
+      "icon": "🌈",
+      "group_letter": "4"
+    },
+    {
+      "id": "7208983d-44ad-498f-93db-4a57339db837",
+      "name": "High Flyers",
+      "icon": "🚀",
+      "group_letter": "6"
+    }
+  ],
+  "team_results_for_viewed_chapter": {
+    "e4096e48-b5a6-4e44-b843-517ec3b99220": {
+      "completed_block_count": 3,
+      "opened_block_count": 18,
+      "score": 78,
+      "narrative_outcome": "Back on Course"
+    },
+    "f4cbba31-3dc8-466d-a6d8-dfbe17aa4da9": {
+      "completed_block_count": 3,
+      "opened_block_count": 18,
+      "score": 91,
+      "narrative_outcome": "Full Speed Ahead"
+    },
+    "38b0d464-42f0-4740-b797-e47ac76f0fb7": {
+      "completed_block_count": 3,
+      "opened_block_count": 18,
+      "score": 92,
+      "narrative_outcome": "Full Speed Ahead"
+    },
+    "82393051-d269-42d9-89b4-61a369f201c0": {
+      "completed_block_count": 3,
+      "opened_block_count": 18,
+      "score": 81,
+      "narrative_outcome": "Back on Course"
+    },
+    "f9189ad2-4f89-4fd4-bca4-817cb5d07660": {
+      "completed_block_count": 3,
+      "opened_block_count": 18,
+      "score": 76,
+      "narrative_outcome": "Back on Course"
+    },
+    "7208983d-44ad-498f-93db-4a57339db837": {
+      "completed_block_count": 4,
+      "opened_block_count": 18,
+      "score": 82,
+      "narrative_outcome": "Back on Course"
+    }
+  },
+  "team_results_by_chapter": {
+    "e724e890-1956-4bb7-ae42-8eb9896eebeb": {},
+    "f7afb929-e886-4ba8-8055-dad79dde30d1": {},
+    "32af157d-329d-478b-bd93-4eb11ed0f3ea": {},
+    "84b81960-4156-4582-a05f-fc121acf76fb": {
+      "e4096e48-b5a6-4e44-b843-517ec3b99220": {
+        "completed_block_count": 3,
+        "opened_block_count": 18,
+        "score": 78,
+        "narrative_outcome": "Back on Course"
+      },
+      "f4cbba31-3dc8-466d-a6d8-dfbe17aa4da9": {
+        "completed_block_count": 3,
+        "opened_block_count": 18,
+        "score": 91,
+        "narrative_outcome": "Full Speed Ahead"
+      },
+      "38b0d464-42f0-4740-b797-e47ac76f0fb7": {
+        "completed_block_count": 3,
+        "opened_block_count": 18,
+        "score": 92,
+        "narrative_outcome": "Full Speed Ahead"
+      },
+      "82393051-d269-42d9-89b4-61a369f201c0": {
+        "completed_block_count": 3,
+        "opened_block_count": 18,
+        "score": 81,
+        "narrative_outcome": "Back on Course"
+      },
+      "f9189ad2-4f89-4fd4-bca4-817cb5d07660": {
+        "completed_block_count": 3,
+        "opened_block_count": 18,
+        "score": 76,
+        "narrative_outcome": "Back on Course"
+      },
+      "7208983d-44ad-498f-93db-4a57339db837": {
+        "completed_block_count": 4,
+        "opened_block_count": 18,
+        "score": 82,
+        "narrative_outcome": "Back on Course"
+      }
+    }
+  },
+  "team_analyses_for_viewed_chapter": {
+    "e4096e48-b5a6-4e44-b843-517ec3b99220": {
+      "teamId": "e4096e48-b5a6-4e44-b843-517ec3b99220",
+      "teamName": "Nick and Liv",
+      "teamIcon": "⭐",
+      "chapterId": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-84b81960-4156-4582-a05f-fc121acf76fb/1768597858736-Chapter_4.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Team Engagement"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-15T14:54:47.735Z",
+      "score": 78,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-84b81960-4156-4582-a05f-fc121acf76fb/option-3/1774540868768-back_on_course.webp",
+        "story": "One month later, your accountability email has tightened handoffs: PMs update scope language, Tanya reviews client-facing outputs, and escalations come to you on final calls. The Churchill proposal correction becomes a quick learning loop, and Watkins Annex milestones stabilize. Tanya steps into the structured, time-bounded coordinator role with clear decision rights, while Karl starts commercial training and tracks budgets weekly. Team trust improves, and you’re seen as ready for broader leadership.",
+        "title": "Back on Course",
+        "description": "One month on, Tanya remains motivated and Karl is cautiously back on track, and while not everything is resolved, your handling of the situation signaled growing leadership maturity and increased confidence in your judgment."
+      }
+    },
+    "f4cbba31-3dc8-466d-a6d8-dfbe17aa4da9": {
+      "teamId": "f4cbba31-3dc8-466d-a6d8-dfbe17aa4da9",
+      "teamName": "Feedbackstreet Boys",
+      "teamIcon": "🎸",
+      "chapterId": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-84b81960-4156-4582-a05f-fc121acf76fb/1768597858736-Chapter_4.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Team Engagement"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-15T14:54:54.939Z",
+      "score": 91,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-84b81960-4156-4582-a05f-fc121acf76fb/option-3/1774540899543-full_speed_ahead.webp",
+        "story": "One month later, your RACI and escalation rules have reduced rework on client submissions, and Tanya’s twice-weekly sweeps and handoff tracker keep ownership clear. Concept B shifted to Liam, giving Tanya capacity to run coordination and office hours without sprawl. Karl sends weekly budget/timeline updates, holds scope lines with clients, and uses Tanya’s mentoring to tighten delivery discipline. Stakeholders note smoother execution, strengthening trust in you for broader leadership.",
+        "title": "Full Speed Ahead",
+        "description": "A month later, Tanya has stepped confidently into greater ownership and Karl is refocused and engaged, and your clear, well-judged communication has strengthened trust across the team and cemented your reputation as a leader who can navigate tough moments."
+      }
+    },
+    "38b0d464-42f0-4740-b797-e47ac76f0fb7": {
+      "teamId": "38b0d464-42f0-4740-b797-e47ac76f0fb7",
+      "teamName": "The A team",
+      "teamIcon": "💪",
+      "chapterId": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-84b81960-4156-4582-a05f-fc121acf76fb/1768597858736-Chapter_4.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Team Engagement"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-15T14:54:42.483Z",
+      "score": 92,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-84b81960-4156-4582-a05f-fc121acf76fb/option-3/1774540899543-full_speed_ahead.webp",
+        "story": "One month later, the Churchill Group and Watkins Annex issues don’t repeat, as decision-making routes cleanly through Tanya as final reviewer and single point of contact. Guardrails and written decision rights keep her leadership scope clear while protecting her design focus. Karl follows his three-point plan, running weekly budget and schedule check-ins and looping others in earlier. Team trust strengthens, and you’re seen as ready for broader leadership responsibilities.",
+        "title": "Full Speed Ahead",
+        "description": "A month later, Tanya has stepped confidently into greater ownership and Karl is refocused and engaged, and your clear, well-judged communication has strengthened trust across the team and cemented your reputation as a leader who can navigate tough moments."
+      }
+    },
+    "82393051-d269-42d9-89b4-61a369f201c0": {
+      "teamId": "82393051-d269-42d9-89b4-61a369f201c0",
+      "teamName": "Madrid Massive",
+      "teamIcon": "⚽",
+      "chapterId": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-84b81960-4156-4582-a05f-fc121acf76fb/1768597858736-Chapter_4.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Team Engagement"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-15T14:54:44.279Z",
+      "score": 81,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-84b81960-4156-4582-a05f-fc121acf76fb/option-3/1774540868768-back_on_course.webp",
+        "story": "One month later, Tanya is running weekly sign-offs and the team’s client-facing documents show tighter detail, clarity, and consistency. Your email’s directive that all work routes through Tanya reduces rework and keeps priorities aligned while you focus on cross-team communications. Karl remains guarded but engages in a budgets-and-timelines mentorship and collaborates more smoothly with Tanya on Westgate follow-ups. Colleagues begin to trust your judgment in broader leadership assignments.",
+        "title": "Back on Course",
+        "description": "One month on, Tanya remains motivated and Karl is cautiously back on track, and while not everything is resolved, your handling of the situation signaled growing leadership maturity and increased confidence in your judgment."
+      }
+    },
+    "f9189ad2-4f89-4fd4-bca4-817cb5d07660": {
+      "teamId": "f9189ad2-4f89-4fd4-bca4-817cb5d07660",
+      "teamName": "Team Smiley",
+      "teamIcon": "🌈",
+      "chapterId": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-84b81960-4156-4582-a05f-fc121acf76fb/1768597858736-Chapter_4.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Team Engagement"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-15T14:54:51.919Z",
+      "score": 76,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-84b81960-4156-4582-a05f-fc121acf76fb/option-3/1774540868768-back_on_course.webp",
+        "story": "One month later, the team is using clearer handoffs and version control after you flagged the recent scope and deadline issues. Tanya operates as the day-to-day coordinator and quality bar, supporting newer staff without becoming a bottleneck, and escalations come to you for final approval. Karl completes project-management training and starts tracking budgets and timelines more visibly, staying engaged but still rebuilding peer dynamics. Your leadership readiness is viewed as growing.",
+        "title": "Back on Course",
+        "description": "One month on, Tanya remains motivated and Karl is cautiously back on track, and while not everything is resolved, your handling of the situation signaled growing leadership maturity and increased confidence in your judgment."
+      }
+    },
+    "7208983d-44ad-498f-93db-4a57339db837": {
+      "teamId": "7208983d-44ad-498f-93db-4a57339db837",
+      "teamName": "High Flyers",
+      "teamIcon": "🚀",
+      "chapterId": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-84b81960-4156-4582-a05f-fc121acf76fb/1768597858736-Chapter_4.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Team Engagement"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-15T14:54:44.964Z",
+      "score": 82,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-84b81960-4156-4582-a05f-fc121acf76fb/option-3/1774540868768-back_on_course.webp",
+        "story": "One month later... your reset on clear ownership, final review, and earlier escalation has reduced rework and missed milestones. Tanya takes on a narrow, defined coordination scope—flagging handoff risks and supporting newer staff—without becoming the default triage point. Karl adopts a simple delivery-tracking rhythm and sanity-checks budgets and timelines earlier, staying engaged through the full project arc. Trust stabilizes, and leadership views you as increasingly ready for broader responsibility.",
+        "title": "Back on Course",
+        "description": "One month on, Tanya remains motivated and Karl is cautiously back on track, and while not everything is resolved, your handling of the situation signaled growing leadership maturity and increased confidence in your judgment."
+      }
+    }
+  },
+  "team_analyses_by_chapter": {
+    "e724e890-1956-4bb7-ae42-8eb9896eebeb": {
+      "e4096e48-b5a6-4e44-b843-517ec3b99220": {
+        "teamId": "e4096e48-b5a6-4e44-b843-517ec3b99220",
+        "teamName": "Nick and Liv",
+        "teamIcon": "⭐",
+        "chapterId": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-e724e890-1956-4bb7-ae42-8eb9896eebeb/1768590727777-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-15T13:26:50.896Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "f4cbba31-3dc8-466d-a6d8-dfbe17aa4da9": {
+        "teamId": "f4cbba31-3dc8-466d-a6d8-dfbe17aa4da9",
+        "teamName": "Feedbackstreet Boys",
+        "teamIcon": "🎸",
+        "chapterId": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-e724e890-1956-4bb7-ae42-8eb9896eebeb/1768590727777-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-15T13:26:50.898Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "38b0d464-42f0-4740-b797-e47ac76f0fb7": {
+        "teamId": "38b0d464-42f0-4740-b797-e47ac76f0fb7",
+        "teamName": "The A team",
+        "teamIcon": "💪",
+        "chapterId": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-e724e890-1956-4bb7-ae42-8eb9896eebeb/1768590727777-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-15T13:26:50.897Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "82393051-d269-42d9-89b4-61a369f201c0": {
+        "teamId": "82393051-d269-42d9-89b4-61a369f201c0",
+        "teamName": "Madrid Massive",
+        "teamIcon": "⚽",
+        "chapterId": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-e724e890-1956-4bb7-ae42-8eb9896eebeb/1768590727777-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-15T13:26:50.899Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "f9189ad2-4f89-4fd4-bca4-817cb5d07660": {
+        "teamId": "f9189ad2-4f89-4fd4-bca4-817cb5d07660",
+        "teamName": "Team Smiley",
+        "teamIcon": "🌈",
+        "chapterId": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-e724e890-1956-4bb7-ae42-8eb9896eebeb/1768590727777-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-15T13:26:50.897Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "7208983d-44ad-498f-93db-4a57339db837": {
+        "teamId": "7208983d-44ad-498f-93db-4a57339db837",
+        "teamName": "High Flyers",
+        "teamIcon": "🚀",
+        "chapterId": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-e724e890-1956-4bb7-ae42-8eb9896eebeb/1768590727777-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-15T13:26:50.905Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      }
+    },
+    "f7afb929-e886-4ba8-8055-dad79dde30d1": {
+      "e4096e48-b5a6-4e44-b843-517ec3b99220": {
+        "teamId": "e4096e48-b5a6-4e44-b843-517ec3b99220",
+        "teamName": "Nick and Liv",
+        "teamIcon": "⭐",
+        "chapterId": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-f7afb929-e886-4ba8-8055-dad79dde30d1/1768590739244-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-15T13:46:55.994Z",
+        "score": 78,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "f4cbba31-3dc8-466d-a6d8-dfbe17aa4da9": {
+        "teamId": "f4cbba31-3dc8-466d-a6d8-dfbe17aa4da9",
+        "teamName": "Feedbackstreet Boys",
+        "teamIcon": "🎸",
+        "chapterId": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-f7afb929-e886-4ba8-8055-dad79dde30d1/1768590739244-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-15T13:46:49.710Z",
+        "score": 100,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "38b0d464-42f0-4740-b797-e47ac76f0fb7": {
+        "teamId": "38b0d464-42f0-4740-b797-e47ac76f0fb7",
+        "teamName": "The A team",
+        "teamIcon": "💪",
+        "chapterId": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-f7afb929-e886-4ba8-8055-dad79dde30d1/1768590739244-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-15T13:46:52.737Z",
+        "score": 85,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "82393051-d269-42d9-89b4-61a369f201c0": {
+        "teamId": "82393051-d269-42d9-89b4-61a369f201c0",
+        "teamName": "Madrid Massive",
+        "teamIcon": "⚽",
+        "chapterId": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-f7afb929-e886-4ba8-8055-dad79dde30d1/1768590739244-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-15T13:46:51.303Z",
+        "score": 67,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "f9189ad2-4f89-4fd4-bca4-817cb5d07660": {
+        "teamId": "f9189ad2-4f89-4fd4-bca4-817cb5d07660",
+        "teamName": "Team Smiley",
+        "teamIcon": "🌈",
+        "chapterId": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-f7afb929-e886-4ba8-8055-dad79dde30d1/1768590739244-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-15T13:46:53.008Z",
+        "score": 78,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "7208983d-44ad-498f-93db-4a57339db837": {
+        "teamId": "7208983d-44ad-498f-93db-4a57339db837",
+        "teamName": "High Flyers",
+        "teamIcon": "🚀",
+        "chapterId": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-f7afb929-e886-4ba8-8055-dad79dde30d1/1768590739244-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-15T13:46:47.508Z",
+        "score": 97,
+        "analysis": "$18",
+        "narrativeImpact": null
+      }
+    },
+    "32af157d-329d-478b-bd93-4eb11ed0f3ea": {
+      "e4096e48-b5a6-4e44-b843-517ec3b99220": {
+        "teamId": "e4096e48-b5a6-4e44-b843-517ec3b99220",
+        "teamName": "Nick and Liv",
+        "teamIcon": "⭐",
+        "chapterId": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-32af157d-329d-478b-bd93-4eb11ed0f3ea/1768597721822-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-15T14:23:32.202Z",
+        "score": 88,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "f4cbba31-3dc8-466d-a6d8-dfbe17aa4da9": {
+        "teamId": "f4cbba31-3dc8-466d-a6d8-dfbe17aa4da9",
+        "teamName": "Feedbackstreet Boys",
+        "teamIcon": "🎸",
+        "chapterId": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-32af157d-329d-478b-bd93-4eb11ed0f3ea/1768597721822-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-15T14:23:36.158Z",
+        "score": 84,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "38b0d464-42f0-4740-b797-e47ac76f0fb7": {
+        "teamId": "38b0d464-42f0-4740-b797-e47ac76f0fb7",
+        "teamName": "The A team",
+        "teamIcon": "💪",
+        "chapterId": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-32af157d-329d-478b-bd93-4eb11ed0f3ea/1768597721822-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-15T14:23:34.588Z",
+        "score": 77,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "82393051-d269-42d9-89b4-61a369f201c0": {
+        "teamId": "82393051-d269-42d9-89b4-61a369f201c0",
+        "teamName": "Madrid Massive",
+        "teamIcon": "⚽",
+        "chapterId": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-32af157d-329d-478b-bd93-4eb11ed0f3ea/1768597721822-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-15T14:23:28.841Z",
+        "score": 81,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "f9189ad2-4f89-4fd4-bca4-817cb5d07660": {
+        "teamId": "f9189ad2-4f89-4fd4-bca4-817cb5d07660",
+        "teamName": "Team Smiley",
+        "teamIcon": "🌈",
+        "chapterId": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-32af157d-329d-478b-bd93-4eb11ed0f3ea/1768597721822-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-15T14:23:32.154Z",
+        "score": 66,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "7208983d-44ad-498f-93db-4a57339db837": {
+        "teamId": "7208983d-44ad-498f-93db-4a57339db837",
+        "teamName": "High Flyers",
+        "teamIcon": "🚀",
+        "chapterId": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-32af157d-329d-478b-bd93-4eb11ed0f3ea/1768597721822-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-15T14:23:31.262Z",
+        "score": 86,
+        "analysis": "$18",
+        "narrativeImpact": null
+      }
+    },
+    "84b81960-4156-4582-a05f-fc121acf76fb": {
+      "e4096e48-b5a6-4e44-b843-517ec3b99220": {
+        "teamId": "e4096e48-b5a6-4e44-b843-517ec3b99220",
+        "teamName": "Nick and Liv",
+        "teamIcon": "⭐",
+        "chapterId": "84b81960-4156-4582-a05f-fc121acf76fb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-84b81960-4156-4582-a05f-fc121acf76fb/1768597858736-Chapter_4.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-15T14:54:47.735Z",
+        "score": 78,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-84b81960-4156-4582-a05f-fc121acf76fb/option-3/1774540868768-back_on_course.webp",
+          "story": "One month later, your accountability email has tightened handoffs: PMs update scope language, Tanya reviews client-facing outputs, and escalations come to you on final calls. The Churchill proposal correction becomes a quick learning loop, and Watkins Annex milestones stabilize. Tanya steps into the structured, time-bounded coordinator role with clear decision rights, while Karl starts commercial training and tracks budgets weekly. Team trust improves, and you’re seen as ready for broader leadership.",
+          "title": "Back on Course",
+          "description": "One month on, Tanya remains motivated and Karl is cautiously back on track, and while not everything is resolved, your handling of the situation signaled growing leadership maturity and increased confidence in your judgment."
+        }
+      },
+      "f4cbba31-3dc8-466d-a6d8-dfbe17aa4da9": {
+        "teamId": "f4cbba31-3dc8-466d-a6d8-dfbe17aa4da9",
+        "teamName": "Feedbackstreet Boys",
+        "teamIcon": "🎸",
+        "chapterId": "84b81960-4156-4582-a05f-fc121acf76fb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-84b81960-4156-4582-a05f-fc121acf76fb/1768597858736-Chapter_4.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-15T14:54:54.939Z",
+        "score": 91,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-84b81960-4156-4582-a05f-fc121acf76fb/option-3/1774540899543-full_speed_ahead.webp",
+          "story": "One month later, your RACI and escalation rules have reduced rework on client submissions, and Tanya’s twice-weekly sweeps and handoff tracker keep ownership clear. Concept B shifted to Liam, giving Tanya capacity to run coordination and office hours without sprawl. Karl sends weekly budget/timeline updates, holds scope lines with clients, and uses Tanya’s mentoring to tighten delivery discipline. Stakeholders note smoother execution, strengthening trust in you for broader leadership.",
+          "title": "Full Speed Ahead",
+          "description": "A month later, Tanya has stepped confidently into greater ownership and Karl is refocused and engaged, and your clear, well-judged communication has strengthened trust across the team and cemented your reputation as a leader who can navigate tough moments."
+        }
+      },
+      "38b0d464-42f0-4740-b797-e47ac76f0fb7": {
+        "teamId": "38b0d464-42f0-4740-b797-e47ac76f0fb7",
+        "teamName": "The A team",
+        "teamIcon": "💪",
+        "chapterId": "84b81960-4156-4582-a05f-fc121acf76fb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-84b81960-4156-4582-a05f-fc121acf76fb/1768597858736-Chapter_4.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-15T14:54:42.483Z",
+        "score": 92,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-84b81960-4156-4582-a05f-fc121acf76fb/option-3/1774540899543-full_speed_ahead.webp",
+          "story": "One month later, the Churchill Group and Watkins Annex issues don’t repeat, as decision-making routes cleanly through Tanya as final reviewer and single point of contact. Guardrails and written decision rights keep her leadership scope clear while protecting her design focus. Karl follows his three-point plan, running weekly budget and schedule check-ins and looping others in earlier. Team trust strengthens, and you’re seen as ready for broader leadership responsibilities.",
+          "title": "Full Speed Ahead",
+          "description": "A month later, Tanya has stepped confidently into greater ownership and Karl is refocused and engaged, and your clear, well-judged communication has strengthened trust across the team and cemented your reputation as a leader who can navigate tough moments."
+        }
+      },
+      "82393051-d269-42d9-89b4-61a369f201c0": {
+        "teamId": "82393051-d269-42d9-89b4-61a369f201c0",
+        "teamName": "Madrid Massive",
+        "teamIcon": "⚽",
+        "chapterId": "84b81960-4156-4582-a05f-fc121acf76fb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-84b81960-4156-4582-a05f-fc121acf76fb/1768597858736-Chapter_4.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-15T14:54:44.279Z",
+        "score": 81,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-84b81960-4156-4582-a05f-fc121acf76fb/option-3/1774540868768-back_on_course.webp",
+          "story": "One month later, Tanya is running weekly sign-offs and the team’s client-facing documents show tighter detail, clarity, and consistency. Your email’s directive that all work routes through Tanya reduces rework and keeps priorities aligned while you focus on cross-team communications. Karl remains guarded but engages in a budgets-and-timelines mentorship and collaborates more smoothly with Tanya on Westgate follow-ups. Colleagues begin to trust your judgment in broader leadership assignments.",
+          "title": "Back on Course",
+          "description": "One month on, Tanya remains motivated and Karl is cautiously back on track, and while not everything is resolved, your handling of the situation signaled growing leadership maturity and increased confidence in your judgment."
+        }
+      },
+      "f9189ad2-4f89-4fd4-bca4-817cb5d07660": {
+        "teamId": "f9189ad2-4f89-4fd4-bca4-817cb5d07660",
+        "teamName": "Team Smiley",
+        "teamIcon": "🌈",
+        "chapterId": "84b81960-4156-4582-a05f-fc121acf76fb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-84b81960-4156-4582-a05f-fc121acf76fb/1768597858736-Chapter_4.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-15T14:54:51.919Z",
+        "score": 76,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-84b81960-4156-4582-a05f-fc121acf76fb/option-3/1774540868768-back_on_course.webp",
+          "story": "One month later, the team is using clearer handoffs and version control after you flagged the recent scope and deadline issues. Tanya operates as the day-to-day coordinator and quality bar, supporting newer staff without becoming a bottleneck, and escalations come to you for final approval. Karl completes project-management training and starts tracking budgets and timelines more visibly, staying engaged but still rebuilding peer dynamics. Your leadership readiness is viewed as growing.",
+          "title": "Back on Course",
+          "description": "One month on, Tanya remains motivated and Karl is cautiously back on track, and while not everything is resolved, your handling of the situation signaled growing leadership maturity and increased confidence in your judgment."
+        }
+      },
+      "7208983d-44ad-498f-93db-4a57339db837": {
+        "teamId": "7208983d-44ad-498f-93db-4a57339db837",
+        "teamName": "High Flyers",
+        "teamIcon": "🚀",
+        "chapterId": "84b81960-4156-4582-a05f-fc121acf76fb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-84b81960-4156-4582-a05f-fc121acf76fb/1768597858736-Chapter_4.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-15T14:54:44.964Z",
+        "score": 82,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-84b81960-4156-4582-a05f-fc121acf76fb/option-3/1774540868768-back_on_course.webp",
+          "story": "One month later... your reset on clear ownership, final review, and earlier escalation has reduced rework and missed milestones. Tanya takes on a narrow, defined coordination scope—flagging handoff risks and supporting newer staff—without becoming the default triage point. Karl adopts a simple delivery-tracking rhythm and sanity-checks budgets and timelines earlier, staying engaged through the full project arc. Trust stabilizes, and leadership views you as increasingly ready for broader responsibility.",
+          "title": "Back on Course",
+          "description": "One month on, Tanya remains motivated and Karl is cautiously back on track, and while not everything is resolved, your handling of the situation signaled growing leadership maturity and increased confidence in your judgment."
+        }
+      }
+    }
+  },
+  "chapter_timings": {
+    "e724e890-1956-4bb7-ae42-8eb9896eebeb": {
+      "started_at": "2026-05-15T13:15:29.568Z",
+      "ended_at": "2026-05-15T13:26:50.880Z"
+    },
+    "f7afb929-e886-4ba8-8055-dad79dde30d1": {
+      "started_at": "2026-05-15T13:31:09.733Z",
+      "ended_at": "2026-05-15T13:46:10.433Z"
+    },
+    "32af157d-329d-478b-bd93-4eb11ed0f3ea": {
+      "started_at": "2026-05-15T14:07:46.882Z",
+      "ended_at": "2026-05-15T14:22:51.876Z"
+    },
+    "84b81960-4156-4582-a05f-fc121acf76fb": {
+      "started_at": "2026-05-15T14:38:57.217Z",
+      "ended_at": "2026-05-15T14:54:06.606Z"
+    }
+  },
+  "events": [
+    {
+      "id": "e6da0685-c6c3-47e7-bdc4-ecd22fe7ff74",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 1 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-15T13:15:29.568Z",
+      "updated_at": "2026-05-15T13:15:29.568Z"
+    },
+    {
+      "id": "a683dc6f-a611-4d92-a60d-dfb2fa12b35d",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by +1 min — 5 min 57 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": 60
+      },
+      "created_at": "2026-05-15T13:15:33.365Z",
+      "updated_at": "2026-05-15T13:15:33.365Z"
+    },
+    {
+      "id": "f79b223b-f3f1-4ba9-a0dc-21677a9c3ba6",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by +1 min — 6 min 56 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": 60
+      },
+      "created_at": "2026-05-15T13:15:34.012Z",
+      "updated_at": "2026-05-15T13:15:34.012Z"
+    },
+    {
+      "id": "660a770b-5dbe-4eb9-b2a9-1f0778e4b230",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by +1 min — 7 min 55 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": 60
+      },
+      "created_at": "2026-05-15T13:15:35.299Z",
+      "updated_at": "2026-05-15T13:15:35.299Z"
+    },
+    {
+      "id": "cb2dc636-348c-42fd-937e-f9e53d6f6701",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams have a few minutes to review general information about the case. This is a quick orientation chapter, culminating in a short decision where they will reflect on what they expect to happen next. \n<br><br>\n<b>What to watch for:</b><ul>\n<li>Do teams move through all of the resources quickly?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-15T13:15:36.032Z",
+      "updated_at": "2026-05-15T13:15:36.036Z"
+    },
+    {
+      "id": "8a01693f-d1aa-497b-9733-b7080116145a",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by +1 min — 8 min 40 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": 60
+      },
+      "created_at": "2026-05-15T13:15:49.836Z",
+      "updated_at": "2026-05-15T13:15:49.836Z"
+    },
+    {
+      "id": "e1e09aab-20f4-4ef2-b0da-d8622801c81d",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-15T13:16:24.021Z",
+      "updated_at": "2026-05-15T13:16:24.022Z"
+    },
+    {
+      "id": "f8769ddd-d7ee-4343-934b-26b341d52d18",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "CASE_PROGRESS",
+      "content": "<p>0 teams have explored all of the available resources.</p>\n<br><br>\n<p>These teams have not yet explored all of the resources: <b>Group 1, Nick and Liv, Group 3, Group 4, Feedbackstreet Boys, Group 6</b>.</p>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$57",
+          "inputTokens": 1506,
+          "rawResponse": "<p>0 teams have explored all of the available resources.</p>\n<br><br>\n<p>These teams have not yet explored all of the resources: <b>Group 1, Nick and Liv, Group 3, Group 4, Feedbackstreet Boys, Group 6</b>.</p>",
+          "outputTokens": 76,
+          "systemPrompt": "$58",
+          "dataContextLength": 2836
+        }
+      },
+      "created_at": "2026-05-15T13:17:24.019Z",
+      "updated_at": "2026-05-15T13:17:26.933Z"
+    },
+    {
+      "id": "309d79d4-9382-4474-92cf-4e94a462bd1b",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "CASE_PROGRESS",
+      "content": "5 teams have opened all of the resources.<br>\nThese teams have not yet opened all of the resources: <b>Team Smiley</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$55",
+          "inputTokens": 1459,
+          "rawResponse": "5 teams have opened all of the resources.<br>\nThese teams have not yet opened all of the resources: <b>Team Smiley</b>.",
+          "outputTokens": 39,
+          "systemPrompt": "$56",
+          "dataContextLength": 2836
+        }
+      },
+      "created_at": "2026-05-15T13:22:24.028Z",
+      "updated_at": "2026-05-15T13:22:26.128Z"
+    },
+    {
+      "id": "039a6464-4bc4-44aa-96f9-cfe385e83c04",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "CASE_PROGRESS",
+      "content": "This chapter does not contain any unlockable resources.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$53",
+          "inputTokens": 1458,
+          "rawResponse": "This chapter does not contain any unlockable resources.",
+          "outputTokens": 14,
+          "systemPrompt": "$54",
+          "dataContextLength": 2835
+        }
+      },
+      "created_at": "2026-05-15T13:23:12.025Z",
+      "updated_at": "2026-05-15T13:23:13.728Z"
+    },
+    {
+      "id": "dc1ab626-9c82-438a-b8b4-a554cde404af",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>1 more minute before we ask for your thoughts.</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "67721358-4e81-46d2-ae89-e2229d945a49"
+      },
+      "created_at": "2026-05-15T13:23:47.516Z",
+      "updated_at": "2026-05-15T13:23:47.516Z"
+    },
+    {
+      "id": "a9742649-5fe1-49c5-ae8c-5c5d477ad84a",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Reminder:</b> Move teams to the Decision now.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-15T13:24:36.022Z",
+      "updated_at": "2026-05-15T13:24:36.026Z"
+    },
+    {
+      "id": "581798de-6fd8-456e-a895-d67a737b5c57",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "STARTING_MESSAGE",
+      "content": "Decision phase has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "decision_started"
+      },
+      "created_at": "2026-05-15T13:24:44.793Z",
+      "updated_at": "2026-05-15T13:24:44.793Z"
+    },
+    {
+      "id": "e5549769-9406-4bbb-a577-38ae07dbdf02",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Decision Time!</b> Teams must state where they anticipate ambiguity or tension might show up as Tanya steps into an elevated role. This is designed to hint toward what comes in future chapters.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-15T13:24:48.027Z",
+      "updated_at": "2026-05-15T13:24:48.030Z"
+    },
+    {
+      "id": "1667e241-98c9-4821-98e0-569462878847",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "CASE_PROGRESS",
+      "content": "6 teams have submitted a reflection response.<br>\nAll teams have responded.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CUSTOM_VARIABLE",
+          "userPrompt": "$51",
+          "inputTokens": 1514,
+          "rawResponse": "6 teams have submitted a reflection response.<br>\nAll teams have responded.",
+          "outputTokens": 21,
+          "systemPrompt": "$52",
+          "dataContextLength": 3980
+        }
+      },
+      "created_at": "2026-05-15T13:26:24.024Z",
+      "updated_at": "2026-05-15T13:26:26.493Z"
+    },
+    {
+      "id": "7f30bfe6-48e3-40bc-9585-8c5ac9df862d",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Reflection Summary:</b> Teams focused on Karl's tenure concerns, Tanya's capacity/dual workload, and peer resistance to informal authority.\n\n<br><br>\n\n<b>A possible strength is</b> widespread anticipation of Karl's potential resentment and role clarity issues.\n\n<br><br>\n\n<b>A possible gap is</b> limited attention to team-wide accountability confusion or systemic communication breakdown.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CUSTOM_VARIABLE",
+          "userPrompt": "$4f",
+          "inputTokens": 1629,
+          "rawResponse": "<b>Reflection Summary:</b> Teams focused on Karl's tenure concerns, Tanya's capacity/dual workload, and peer resistance to informal authority.\n\n<br><br>\n\n<b>A possible strength is</b> widespread anticipation of Karl's potential resentment and role clarity issues.\n\n<br><br>\n\n<b>A possible gap is</b> limited attention to team-wide accountability confusion or systemic communication breakdown.",
+          "outputTokens": 100,
+          "systemPrompt": "$50",
+          "dataContextLength": 4273
+        }
+      },
+      "created_at": "2026-05-15T13:26:36.023Z",
+      "updated_at": "2026-05-15T13:26:39.285Z"
+    },
+    {
+      "id": "341e44a9-0d26-417e-828e-3caf4b98638f",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>We&#39;re bring you back now</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "74dfef0c-3311-4629-9976-f678bc9e5f40"
+      },
+      "created_at": "2026-05-15T13:26:36.297Z",
+      "updated_at": "2026-05-15T13:26:36.297Z"
+    },
+    {
+      "id": "c1233324-e801-42a1-ab71-7bd2f16b85f5",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Debrief Reminder:</b> This is a quick debrief. <ul>\n<li> Show <b><i>Approaches</b></i> in the Debrief tools to show what how teams responded to the reflection question.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-15T13:26:48.030Z",
+      "updated_at": "2026-05-15T13:26:48.033Z"
+    },
+    {
+      "id": "9313ec78-7cd8-4ca2-9d88-67b660be7145",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-15T13:26:50.873Z",
+      "updated_at": "2026-05-15T13:26:50.873Z"
+    },
+    {
+      "id": "2033adf7-9c67-4513-8c22-48ebf6089467",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 1 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-15T13:26:50.880Z",
+      "updated_at": "2026-05-15T13:26:50.880Z"
+    },
+    {
+      "id": "0a0f9637-222a-41bd-8709-3493ff699257",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 2: Chapter 2 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-15T13:31:09.733Z",
+      "updated_at": "2026-05-15T13:31:09.733Z"
+    },
+    {
+      "id": "4ffc869e-e50f-4059-9a6d-03473bbd920f",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams must lead a development-focused conversation that helps Tanya to recognize her leadership potential and to see this moment as an opportunity rather than a risk — without pressuring her into saying yes.\n<br><br>\n<b>What to watch for:</b><ul>\n<li>Does the team ask what motivates Tanya before presenting the opportunity?\n<li>Does the team align the development opportunities with Tanya's short- and long-term motivators?\n<li>Does the team express empathy regarding any apprehension Tanya may feel?\n</ul>\n",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-15T13:31:24.025Z",
+      "updated_at": "2026-05-15T13:31:24.031Z"
+    },
+    {
+      "id": "f9d60adf-17db-4f18-9449-1a2decfcffcb",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-15T13:32:48.032Z",
+      "updated_at": "2026-05-15T13:32:48.034Z"
+    },
+    {
+      "id": "9fef4d54-20ad-4839-b635-592127285121",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "CASE_PROGRESS",
+      "content": "6 teams have explored all of the available resources.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$4d",
+          "inputTokens": 1611,
+          "rawResponse": "6 teams have explored all of the available resources.",
+          "outputTokens": 15,
+          "systemPrompt": "$4e",
+          "dataContextLength": 2927
+        }
+      },
+      "created_at": "2026-05-15T13:34:12.035Z",
+      "updated_at": "2026-05-15T13:34:14.349Z"
+    },
+    {
+      "id": "0783a28b-3a21-401d-9bc4-26e3a79ca855",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "CASE_PROGRESS",
+      "content": "5 teams have started their conversation with Tanya.\n<br>\nThese teams have not yet started: <b>Team Smiley</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$4b",
+          "inputTokens": 2961,
+          "rawResponse": "5 teams have started their conversation with Tanya.\n<br>\nThese teams have not yet started: <b>Team Smiley</b>.",
+          "outputTokens": 39,
+          "systemPrompt": "$4c",
+          "dataContextLength": 6998
+        }
+      },
+      "created_at": "2026-05-15T13:35:48.028Z",
+      "updated_at": "2026-05-15T13:35:50.693Z"
+    },
+    {
+      "id": "5a02a084-7133-4cf6-ae6b-6a341861ac25",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>Get started on the conversation if you have not yet done so!</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "147ee695-7f86-40b4-bc27-c0a35597a1da"
+      },
+      "created_at": "2026-05-15T13:36:55.127Z",
+      "updated_at": "2026-05-15T13:36:55.127Z"
+    },
+    {
+      "id": "ac019cb5-12d0-4856-abfd-1ba9ec0fb44c",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Initial Focus of Conversations:</b> Teams are building rapport, acknowledging strong recent performance, and introducing growth/leadership opportunities to Tanya.\n\n<br><br>\n<i>Reviewing 6 active conversations.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$49",
+          "inputTokens": 3886,
+          "rawResponse": "<b>Initial Focus of Conversations:</b> Teams are building rapport, acknowledging strong recent performance, and introducing growth/leadership opportunities to Tanya.\n\n<br><br>\n<i>Reviewing 6 active conversations.</i>",
+          "outputTokens": 56,
+          "systemPrompt": "$4a",
+          "dataContextLength": 9981
+        }
+      },
+      "created_at": "2026-05-15T13:37:12.024Z",
+      "updated_at": "2026-05-15T13:37:14.591Z"
+    },
+    {
+      "id": "beb2818b-a2ff-45e1-974c-95c5164e2e85",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to give participants a helpful reminder: <br><br>\n<i>Remember to ask probing questions to understand what really motivates Tanya!</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-15T13:38:48.032Z",
+      "updated_at": "2026-05-15T13:38:48.040Z"
+    },
+    {
+      "id": "3eb1fd55-7bcf-41f1-8340-1cd9cc8b7c9c",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>Remember to ask probing questions to understand what really motivates Tanya!</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "da57fc36-35e1-43c1-8db2-40dc5f31308e"
+      },
+      "created_at": "2026-05-15T13:39:05.008Z",
+      "updated_at": "2026-05-15T13:39:05.008Z"
+    },
+    {
+      "id": "6b23c9f9-c066-4cfd-a946-5931d62c5f95",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>Under 5 min to go in the conversation</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "a1496a05-7364-4490-a461-223cb96d6bab"
+      },
+      "created_at": "2026-05-15T13:41:27.716Z",
+      "updated_at": "2026-05-15T13:41:27.716Z"
+    },
+    {
+      "id": "21510d65-1c1b-4437-ba89-6878b75cce4f",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Motivators:</b> 0 teams have probed to understand what really motivates Tanya.<br>\n<i>Reviewing 6 active conversations.</i><br><br>\nAll teams jumped directly to presenting the leadership opportunity without exploring Tanya's intrinsic motivators first.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$47",
+          "inputTokens": 8384,
+          "rawResponse": "<b>Motivators:</b> 0 teams have probed to understand what really motivates Tanya.<br>\n<i>Reviewing 6 active conversations.</i><br><br>\nAll teams jumped directly to presenting the leadership opportunity without exploring Tanya's intrinsic motivators first.",
+          "outputTokens": 72,
+          "systemPrompt": "$48",
+          "dataContextLength": 26205
+        }
+      },
+      "created_at": "2026-05-15T13:41:48.087Z",
+      "updated_at": "2026-05-15T13:41:51.955Z"
+    },
+    {
+      "id": "83a4be3e-544c-420b-b35b-376c2f631cc5",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Empathy:</b> 0 teams have expressed empathy toward Tanya's apprehensions about the available opportunities.<br>\n\n<i>Reviewing 6 active conversations.</i><br><br>\n\nNone of the teams have explicitly expressed empathy toward Tanya's feelings. They have acknowledged her concerns and provided reassurance, but have not demonstrated emotional understanding of her apprehensions.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$45",
+          "inputTokens": 9239,
+          "rawResponse": "<b>Empathy:</b> 0 teams have expressed empathy toward Tanya's apprehensions about the available opportunities.<br>\n\n<i>Reviewing 6 active conversations.</i><br><br>\n\nNone of the teams have explicitly expressed empathy toward Tanya's feelings. They have acknowledged her concerns and provided reassurance, but have not demonstrated emotional understanding of her apprehensions.",
+          "outputTokens": 92,
+          "systemPrompt": "$46",
+          "dataContextLength": 29045
+        }
+      },
+      "created_at": "2026-05-15T13:42:36.024Z",
+      "updated_at": "2026-05-15T13:42:40.939Z"
+    },
+    {
+      "id": "e5ca6cfb-259a-4bf6-8558-0fae4f34c3ee",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "COHORT_INSIGHTS",
+      "content": "I'm reviewing 6 active conversations to assess alignment discussion.\n\n<b>Alignment:</b> 0 teams have explained how the development opportunities align with Tanya's own short- or long-term goals.<br>\n\n<i>No team has explicitly connected the proposed leadership role to Tanya's stated career aspirations. While teams acknowledge her strengths, none have framed the opportunity in terms of her long-term leadership interest or desire for clear growth pathways.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$43",
+          "inputTokens": 10009,
+          "rawResponse": "I'm reviewing 6 active conversations to assess alignment discussion.\n\n<b>Alignment:</b> 0 teams have explained how the development opportunities align with Tanya's own short- or long-term goals.<br>\n\n<i>No team has explicitly connected the proposed leadership role to Tanya's stated career aspirations. While teams acknowledge her strengths, none have framed the opportunity in terms of her long-term leadership interest or desire for clear growth pathways.</i>",
+          "outputTokens": 107,
+          "systemPrompt": "$44",
+          "dataContextLength": 31661
+        }
+      },
+      "created_at": "2026-05-15T13:43:12.029Z",
+      "updated_at": "2026-05-15T13:43:17.227Z"
+    },
+    {
+      "id": "64b31eef-a6ce-4718-bdf4-c96dc64d9044",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "CASE_PROGRESS",
+      "content": "This chapter has unlockable resources. \n\n<ul>\n<li>0 teams have unlocked Tanya and Karl Selfie</li>\n</ul>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$41",
+          "inputTokens": 1560,
+          "rawResponse": "This chapter has unlockable resources. \n\n<ul>\n<li>0 teams have unlocked Tanya and Karl Selfie</li>\n</ul>",
+          "outputTokens": 41,
+          "systemPrompt": "$42",
+          "dataContextLength": 2930
+        }
+      },
+      "created_at": "2026-05-15T13:44:00.151Z",
+      "updated_at": "2026-05-15T13:44:02.588Z"
+    },
+    {
+      "id": "8a16a52b-7dc1-41eb-b891-b5c8c26e65ac",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>Consider exploring how the development opportunities align with Tanya&#39;s own short- or long-term goals</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "279fdc44-5a58-4400-8140-8e89f425359a"
+      },
+      "created_at": "2026-05-15T13:44:05.389Z",
+      "updated_at": "2026-05-15T13:44:05.389Z"
+    },
+    {
+      "id": "882e0a11-bbc8-4411-b87d-df8914ca3ce1",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Conversation Summary:</b> Teams have been focused on exploring Tanya's motivators and presenting the informal leadership opportunity. Most successfully addressed her need for clarity and structure.\n\n<br><br>\n\n<b>A possible strength is...</b> Several teams earned trust by acknowledging her concerns about ambiguity and offering concrete scope definitions with ongoing support.\n\n<br><br>\n\n<b>A possible gap is...</b> Team dynamics (Ben's performance, Karl's concerns) were not explored in any conversation.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$3f",
+          "inputTokens": 12138,
+          "rawResponse": "<b>Conversation Summary:</b> Teams have been focused on exploring Tanya's motivators and presenting the informal leadership opportunity. Most successfully addressed her need for clarity and structure.\n\n<br><br>\n\n<b>A possible strength is...</b> Several teams earned trust by acknowledging her concerns about ambiguity and offering concrete scope definitions with ongoing support.\n\n<br><br>\n\n<b>A possible gap is...</b> Team dynamics (Ben's performance, Karl's concerns) were not explored in any conversation.",
+          "outputTokens": 115,
+          "systemPrompt": "$40",
+          "dataContextLength": 39834
+        }
+      },
+      "created_at": "2026-05-15T13:44:48.028Z",
+      "updated_at": "2026-05-15T13:44:52.480Z"
+    },
+    {
+      "id": "4dd8b8ad-40ed-441b-9fc9-977183463602",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>I&#39;m going to end the conversations.</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "7eb45671-b33f-49af-be06-e9ccaec8da84"
+      },
+      "created_at": "2026-05-15T13:46:04.935Z",
+      "updated_at": "2026-05-15T13:46:04.935Z"
+    },
+    {
+      "id": "8bc92029-d951-4959-b63b-9339646dd301",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-15T13:46:10.424Z",
+      "updated_at": "2026-05-15T13:46:10.424Z"
+    },
+    {
+      "id": "0b7a9cfa-2c67-48d8-8b73-14c5620b3860",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 2 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-15T13:46:10.433Z",
+      "updated_at": "2026-05-15T13:46:10.433Z"
+    },
+    {
+      "id": "7bc9326c-f28c-472e-b55b-eebebfc13812",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "CASE_PROGRESS",
+      "content": "Timer resumed — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_resumed"
+      },
+      "created_at": "2026-05-15T13:47:01.782Z",
+      "updated_at": "2026-05-15T13:47:01.782Z"
+    },
+    {
+      "id": "d177ab4d-954b-4ec8-af25-af74b016e837",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>We&#39;re bringing you back</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "06ddf03a-b523-4c05-9420-d556ea27e795"
+      },
+      "created_at": "2026-05-15T13:49:18.356Z",
+      "updated_at": "2026-05-15T13:49:18.356Z"
+    },
+    {
+      "id": "ed10dffe-072a-4e2d-8191-afa4a4cf9bc2",
+      "chapter_id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 3: Chapter 3 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-15T14:07:46.882Z",
+      "updated_at": "2026-05-15T14:07:46.882Z"
+    },
+    {
+      "id": "778363c3-ec40-44e0-9303-c24394e14a95",
+      "chapter_id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams conduct a performance review with their employee Karl. He's talented and committed, but seeing Tanya take on greater visibility has left him feeling overlooked. The objective is to deliver honest, balanced feedback that acknowledges Karl's strengths while clearly addressing what's holding him back — without losing his trust or engagement.\n<br><br>\n<b>What to watch for:</b><ul>\n<li>Does the team acknowledge Karl's strengths before delivering tough feedback?\n<li>Does the team clearly address business skill gaps (timelines, budget, project management)?\n<li>Does the team address the new peer-to-supervisor dynamic with Karl constructively?\n</ul>\n",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-15T14:08:00.164Z",
+      "updated_at": "2026-05-15T14:08:00.168Z"
+    },
+    {
+      "id": "52aeab35-88fe-4b57-87ef-3437d1805d85",
+      "chapter_id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-15T14:09:24.026Z",
+      "updated_at": "2026-05-15T14:09:24.030Z"
+    },
+    {
+      "id": "037cb6ca-71eb-4c14-b7e0-042cf1aaa46a",
+      "chapter_id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "type": "CASE_PROGRESS",
+      "content": "4 teams have explored all of the available resources.\n<br><br>\nThese teams have not yet explored all of the resources: <b>Madrid Massive, Team Smiley</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$3d",
+          "inputTokens": 1575,
+          "rawResponse": "4 teams have explored all of the available resources.\n<br><br>\nThese teams have not yet explored all of the resources: <b>Madrid Massive, Team Smiley</b>.",
+          "outputTokens": 48,
+          "systemPrompt": "$3e",
+          "dataContextLength": 3093
+        }
+      },
+      "created_at": "2026-05-15T14:10:48.032Z",
+      "updated_at": "2026-05-15T14:10:52.181Z"
+    },
+    {
+      "id": "9ba82fcb-2448-4db6-ba9f-546ef4bdf275",
+      "chapter_id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "type": "CASE_PROGRESS",
+      "content": "3 teams have started their conversation with Karl. \n<br><br>\nThese teams have not yet started: <b>High Flyers</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$3b",
+          "inputTokens": 2321,
+          "rawResponse": "3 teams have started their conversation with Karl. \n<br><br>\nThese teams have not yet started: <b>High Flyers</b>.",
+          "outputTokens": 39,
+          "systemPrompt": "$3c",
+          "dataContextLength": 5642
+        }
+      },
+      "created_at": "2026-05-15T14:12:24.022Z",
+      "updated_at": "2026-05-15T14:12:25.960Z"
+    },
+    {
+      "id": "6227d4f1-1592-4e16-8f4d-954c95fc807d",
+      "chapter_id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Initial Focus of Conversations:</b> Teams are asking Karl about his feelings on Tanya's promotion and exploring his self-assessed strengths and development areas.\n\n<br><br>\n<i>Reviewing 6 active conversations.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$39",
+          "inputTokens": 3540,
+          "rawResponse": "<b>Initial Focus of Conversations:</b> Teams are asking Karl about his feelings on Tanya's promotion and exploring his self-assessed strengths and development areas.\n\n<br><br>\n<i>Reviewing 6 active conversations.</i>",
+          "outputTokens": 59,
+          "systemPrompt": "$3a",
+          "dataContextLength": 9594
+        }
+      },
+      "created_at": "2026-05-15T14:13:48.028Z",
+      "updated_at": "2026-05-15T14:13:50.725Z"
+    },
+    {
+      "id": "f962d4cb-5501-4bff-9c1d-c82650e38f50",
+      "chapter_id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to give participants a helpful reminder: <br><br>\n<i>Good work so far. Remember to balance encouraging Karl and giving him clear feedback on what he needs to do to improve his skills.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-15T14:15:24.036Z",
+      "updated_at": "2026-05-15T14:15:24.038Z"
+    },
+    {
+      "id": "ab59d4af-995a-4845-842e-36f174429e9c",
+      "chapter_id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>Good work so far. Remember to balance encouraging Karl and giving him clear feedback on what he needs to do to improve his skills.</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "0a9a4a14-1523-4f0a-a33c-2d22f9481ff7"
+      },
+      "created_at": "2026-05-15T14:15:36.998Z",
+      "updated_at": "2026-05-15T14:15:36.998Z"
+    },
+    {
+      "id": "ba096094-bc41-4f40-816d-730319943a84",
+      "chapter_id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Clarity:</b> 0 teams have provided clarity on the promotion process and the criteria used to evaluate candidates.\n\n<br><br>\n\n<i>6 conversations reviewed. None explicitly clarified the process or criteria used to evaluate leadership candidates.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$37",
+          "inputTokens": 7797,
+          "rawResponse": "<b>Clarity:</b> 0 teams have provided clarity on the promotion process and the criteria used to evaluate candidates.\n\n<br><br>\n\n<i>6 conversations reviewed. None explicitly clarified the process or criteria used to evaluate leadership candidates.</i>",
+          "outputTokens": 61,
+          "systemPrompt": "$38",
+          "dataContextLength": 24093
+        }
+      },
+      "created_at": "2026-05-15T14:18:24.023Z",
+      "updated_at": "2026-05-15T14:18:27.620Z"
+    },
+    {
+      "id": "fe889223-9b95-4ea8-afda-8992b502e39f",
+      "chapter_id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "type": "CASE_PROGRESS",
+      "content": "This chapter does not contain any unlockable resources.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$31",
+          "inputTokens": 1524,
+          "rawResponse": "This chapter does not contain any unlockable resources.",
+          "outputTokens": 14,
+          "systemPrompt": "$32",
+          "dataContextLength": 3091
+        }
+      },
+      "created_at": "2026-05-15T14:20:36.026Z",
+      "updated_at": "2026-05-15T14:20:38.227Z"
+    },
+    {
+      "id": "9b2d5c29-b3f6-4d14-bd57-eb46eb887bb7",
+      "chapter_id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Conversation Summary:</b> Teams have focused on acknowledging Karl's strong design and client skills, clearly explaining budget/timeline gaps as the leadership barrier, and offering structured development paths (training, mentorship). Most balanced recognition with actionable next steps.\n\n<br><br>\n\n<b>A possible strength is:</b> Teams like \"Feedbackstreet Boys\" and \"High Flyers\" framed gaps constructively, tied development to leadership readiness, and maintained Karl's engagement through collaborative goal-setting.\n\n<br><br>\n\n<b>A possible gap is:</b> Some teams (e.g., \"Madrid Massive\") acknowledged feelings but didn't fully explain Tanya's selection rationale, risking Karl perceiving the decision as arbitrary rather than fair and transparent.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$2f",
+          "inputTokens": 11481,
+          "rawResponse": "<b>Conversation Summary:</b> Teams have focused on acknowledging Karl's strong design and client skills, clearly explaining budget/timeline gaps as the leadership barrier, and offering structured development paths (training, mentorship). Most balanced recognition with actionable next steps.\n\n<br><br>\n\n<b>A possible strength is:</b> Teams like \"Feedbackstreet Boys\" and \"High Flyers\" framed gaps constructively, tied development to leadership readiness, and maintained Karl's engagement through collaborative goal-setting.\n\n<br><br>\n\n<b>A possible gap is:</b> Some teams (e.g., \"Madrid Massive\") acknowledged feelings but didn't fully explain Tanya's selection rationale, risking Karl perceiving the decision as arbitrary rather than fair and transparent.",
+          "outputTokens": 174,
+          "systemPrompt": "$30",
+          "dataContextLength": 37448
+        }
+      },
+      "created_at": "2026-05-15T14:21:24.025Z",
+      "updated_at": "2026-05-15T14:21:30.222Z"
+    },
+    {
+      "id": "a6d9c760-73f3-493c-8945-e60e6708e729",
+      "chapter_id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>Just over a minute remaining.....</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "635abfde-57e5-492f-b8e1-0e6b0d01e793"
+      },
+      "created_at": "2026-05-15T14:21:32.177Z",
+      "updated_at": "2026-05-15T14:21:32.177Z"
+    },
+    {
+      "id": "3e257f27-8511-434a-a470-5f34cee42126",
+      "chapter_id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Debrief Reminder:</b> This is a relatively quick debrief. <ul>\n<li> Show <b><i>Snapshot</b></i> in the Debrief tools to show how teams performed. If anyone has earned strong team engagement, ask how they achieved that.\n<li> Use the slides to explore the Do's and Don't's of performance reviews.\n",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-15T14:22:48.036Z",
+      "updated_at": "2026-05-15T14:22:48.040Z"
+    },
+    {
+      "id": "4a42f6a5-db2d-469a-8729-ce41ae096c78",
+      "chapter_id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-15T14:22:51.873Z",
+      "updated_at": "2026-05-15T14:22:51.873Z"
+    },
+    {
+      "id": "8a7ae6c1-1adc-4189-b5b4-e19e36b7b2ec",
+      "chapter_id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 3 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-15T14:22:51.876Z",
+      "updated_at": "2026-05-15T14:22:51.876Z"
+    },
+    {
+      "id": "74ab038f-7456-4e34-9cea-62f6853860e5",
+      "chapter_id": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 4: Chapter 4 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-15T14:38:57.217Z",
+      "updated_at": "2026-05-15T14:38:57.217Z"
+    },
+    {
+      "id": "10f5208c-7f1d-4bf9-8e9a-20a6e96d32da",
+      "chapter_id": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nAn avoidable error has reached a client, exposing cracks in how the team is coordinating. Teams must email the entire team with transparency and purpose: acknowledge recent missteps, reinforce accountability, and restore confidence in the team's ability to deliver.\n<br><br>\n<b>What to watch for:</b><ul>\n<li>Does the email acknowledge the specific execution challenges (client error, slipped milestones) transparently?\n<li>Does the email take accountability without assigning individual blame?\n<li>Does the email clarify roles, decision rights, and when to escalate to Tanya vs. the manager?\n</ul>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-15T14:39:12.046Z",
+      "updated_at": "2026-05-15T14:39:12.048Z"
+    },
+    {
+      "id": "c8c5772d-184f-48b5-b9cc-526200f1d503",
+      "chapter_id": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-15T14:40:36.034Z",
+      "updated_at": "2026-05-15T14:40:36.036Z"
+    },
+    {
+      "id": "7a625b1d-689c-4d5a-ac7c-0d37e3930eb4",
+      "chapter_id": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "type": "CASE_PROGRESS",
+      "content": "1 team has explored all of the available resources.\n<br><br>\nThese teams have not yet explored all of the resources: <b>Madrid Massive, The A team, Team Smiley, Feedbackstreet Boys, High Flyers</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$2d",
+          "inputTokens": 1665,
+          "rawResponse": "1 team has explored all of the available resources.\n<br><br>\nThese teams have not yet explored all of the resources: <b>Madrid Massive, The A team, Team Smiley, Feedbackstreet Boys, High Flyers</b>.",
+          "outputTokens": 64,
+          "systemPrompt": "$2e",
+          "dataContextLength": 3136
+        }
+      },
+      "created_at": "2026-05-15T14:42:00.173Z",
+      "updated_at": "2026-05-15T14:42:02.913Z"
+    },
+    {
+      "id": "332bb576-c4a3-4234-960f-8a72c0309770",
+      "chapter_id": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "type": "CASE_PROGRESS",
+      "content": "3 teams have started their email.\n<br>\nThese teams have not yet started it: <b>Madrid Massive, Team Smiley, High Flyers</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CUSTOM_VARIABLE",
+          "userPrompt": "$2b",
+          "inputTokens": 1299,
+          "rawResponse": "3 teams have started their email.\n<br>\nThese teams have not yet started it: <b>Madrid Massive, Team Smiley, High Flyers</b>.",
+          "outputTokens": 45,
+          "systemPrompt": "$2c",
+          "dataContextLength": 2068
+        }
+      },
+      "created_at": "2026-05-15T14:43:36.026Z",
+      "updated_at": "2026-05-15T14:43:39.356Z"
+    },
+    {
+      "id": "726b79dd-7a18-4dcb-8e01-317bc2aae711",
+      "chapter_id": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>Under 5 minutes remaining. Be sure you hit the key points to get everyone back on track.</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "4a23840d-fee8-48fb-83f5-fe0f339a6240"
+      },
+      "created_at": "2026-05-15T14:49:35.288Z",
+      "updated_at": "2026-05-15T14:49:35.288Z"
+    },
+    {
+      "id": "de2cc7e4-4ec2-4973-8994-7078c8d85a6c",
+      "chapter_id": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Taking Ownership:</b> 3 out of 6 teams addressed this point.<br>\n<b>Best quote (High Flyers):</b> \"I don't see this as a capability or effort issue... What's missing right now is consistency in how decisions are made.\"",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CUSTOM_VARIABLE",
+          "userPrompt": "$27",
+          "inputTokens": 3554,
+          "rawResponse": "<b>Taking Ownership:</b> 3 out of 6 teams addressed this point.<br>\n<b>Best quote (High Flyers):</b> \"I don't see this as a capability or effort issue... What's missing right now is consistency in how decisions are made.\"",
+          "outputTokens": 68,
+          "systemPrompt": "$28",
+          "dataContextLength": 10488
+        }
+      },
+      "created_at": "2026-05-15T14:50:24.025Z",
+      "updated_at": "2026-05-15T14:50:26.926Z"
+    },
+    {
+      "id": "3483653b-baa9-46cc-8c74-1b7a66573852",
+      "chapter_id": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Direction Setting:</b> 4 teams are providing a clear path that will help the team to move on productively. <br>\nBest example from <b>Feedbackstreet Boys</b>: detailed RACI matrix and explicit process steps for coordination and approvals.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CUSTOM_VARIABLE",
+          "userPrompt": "$25",
+          "inputTokens": 5794,
+          "rawResponse": "<b>Direction Setting:</b> 4 teams are providing a clear path that will help the team to move on productively. <br>\nBest example from <b>Feedbackstreet Boys</b>: detailed RACI matrix and explicit process steps for coordination and approvals.",
+          "outputTokens": 66,
+          "systemPrompt": "$26",
+          "dataContextLength": 17315
+        }
+      },
+      "created_at": "2026-05-15T14:51:00.088Z",
+      "updated_at": "2026-05-15T14:51:03.555Z"
+    },
+    {
+      "id": "90d7213a-18e0-4a17-9fc1-7e6a319d236d",
+      "chapter_id": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "type": "CASE_PROGRESS",
+      "content": "This chapter does not contain any unlockable resources.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$23",
+          "inputTokens": 1614,
+          "rawResponse": "This chapter does not contain any unlockable resources.",
+          "outputTokens": 14,
+          "systemPrompt": "$24",
+          "dataContextLength": 3129
+        }
+      },
+      "created_at": "2026-05-15T14:51:48.031Z",
+      "updated_at": "2026-05-15T14:51:50.043Z"
+    },
+    {
+      "id": "3525cb3b-f94e-48c5-9bc6-2a7aae576452",
+      "chapter_id": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Chapter Summary:</b> In their emails, teams have focused on naming specific missteps, clarifying Tanya's coordination role, and establishing clearer review processes moving forward.\n\n<br><br>\n\n<b>A possible strength is</b> that most teams acknowledged concrete examples (Churchill scope inconsistency, Watkins timeline slip) without blaming individuals.\n\n<br><br>\n\n<b>A possible gap is</b> that few emails explicitly acknowledged the manager's own contribution to ambiguity during the transition period.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CUSTOM_VARIABLE",
+          "userPrompt": "$21",
+          "inputTokens": 5995,
+          "rawResponse": "<b>Chapter Summary:</b> In their emails, teams have focused on naming specific missteps, clarifying Tanya's coordination role, and establishing clearer review processes moving forward.\n\n<br><br>\n\n<b>A possible strength is</b> that most teams acknowledged concrete examples (Churchill scope inconsistency, Watkins timeline slip) without blaming individuals.\n\n<br><br>\n\n<b>A possible gap is</b> that few emails explicitly acknowledged the manager's own contribution to ambiguity during the transition period.",
+          "outputTokens": 120,
+          "systemPrompt": "$22",
+          "dataContextLength": 18486
+        }
+      },
+      "created_at": "2026-05-15T14:52:36.027Z",
+      "updated_at": "2026-05-15T14:52:41.287Z"
+    },
+    {
+      "id": "0412076d-4011-4cf8-8eff-929544557d22",
+      "chapter_id": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Debrief Reminder:</b> Now it's time to bring it all together in the final debrief! <ul>\n<li> Show <b><i>Snapshot</b></i> in the Debrief tools to show what happened next. If any teams earned \"Full Speed Ahead\" or \"Back on Course,\" ask them how they achieved that.\n<li> Use <b><i>Approaches</b></i> to show the subject lines of the emails that teams wrote. \n<li> Use the slides to explore important considerations for \"one-to-many\" critical conversations.\n<li> Finally, use <b><i>Reflections</b></i> to ask any reflection questions that strike you as valuable for your cohort.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-15T14:54:00.122Z",
+      "updated_at": "2026-05-15T14:54:00.131Z"
+    },
+    {
+      "id": "872b3c13-ee09-4e58-9ac7-cc51e889d149",
+      "chapter_id": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>I&#39;m going to end it in a moment.</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "5fc86689-2f5e-474e-8a64-70a9fac06406"
+      },
+      "created_at": "2026-05-15T14:54:01.469Z",
+      "updated_at": "2026-05-15T14:54:01.469Z"
+    },
+    {
+      "id": "d274dc43-d626-43cc-9a54-2605deb6d320",
+      "chapter_id": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-15T14:54:06.602Z",
+      "updated_at": "2026-05-15T14:54:06.602Z"
+    },
+    {
+      "id": "818be3b7-1899-4500-853a-17ae542c24f8",
+      "chapter_id": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 4 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-15T14:54:06.606Z",
+      "updated_at": "2026-05-15T14:54:06.606Z"
+    },
+    {
+      "id": "3220de2a-b28a-4dfc-8905-c1bc0b804ac6",
+      "chapter_id": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "type": "ENDING_MESSAGE",
+      "content": "Case completed — all chapters finished.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "case_completed"
+      },
+      "created_at": "2026-05-15T14:54:06.669Z",
+      "updated_at": "2026-05-15T14:54:06.669Z"
+    }
+  ]
+}

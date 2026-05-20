@@ -1,0 +1,118 @@
+{
+  "session_arrow_id": 14363,
+  "session_cc_uuid": "bf622b45-49b6-44ce-afb2-9736d9664e8b",
+  "case_challenge": "Influencing Without Authority",
+  "case_challenge_id": "38f208dd-a242-4566-b6d1-1d995f02966c",
+  "viewed_chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+  "extracted_at": "2026-05-20T00:00:00.000Z",
+  "source_url": "https://rxo10.abilitie.com/facilitator/bf622b45-49b6-44ce-afb2-9736d9664e8b",
+  "tenant_dns": "rxo10.abilitie.com",
+  "chapters": [
+    {
+      "id": "45dd8681-023a-458a-9480-5c699ed76314",
+      "title": "Chapter 1",
+      "order": 1,
+      "duration_min": 3,
+      "blocks": 0
+    },
+    {
+      "id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "title": "Chapter 2",
+      "order": 2,
+      "duration_min": 24,
+      "blocks": 0
+    },
+    {
+      "id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "title": "Chapter 3",
+      "order": 3,
+      "duration_min": 15,
+      "blocks": 0
+    },
+    {
+      "id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "title": "Chapter 4",
+      "order": 4,
+      "duration_min": 12,
+      "blocks": 0
+    }
+  ],
+  "teams": [
+    {
+      "id": "eaf81a78-cacb-458d-9ec5-79fc91c55e8c",
+      "name": "Group 1",
+      "icon": "🌜",
+      "group_letter": "1"
+    },
+    {
+      "id": "e48b729e-5be6-4b90-9973-aa1210d8b8db",
+      "name": "Group 2",
+      "icon": "💡",
+      "group_letter": "2"
+    },
+    {
+      "id": "8d736bfd-08a6-40c5-9041-f31baa81872f",
+      "name": "Group 3",
+      "icon": "🌿",
+      "group_letter": "3"
+    },
+    {
+      "id": "fde546a3-8ce1-4db0-83c0-3fd6fd39b345",
+      "name": "Group 4",
+      "icon": "🕕",
+      "group_letter": "4"
+    },
+    {
+      "id": "3c8360da-52a1-4554-a01e-771ba9b9b799",
+      "name": "Group 5",
+      "icon": "🦖",
+      "group_letter": "5"
+    },
+    {
+      "id": "986ea452-694a-4fee-9b0b-e09bd63f6abe",
+      "name": "Group 6",
+      "icon": "🌼",
+      "group_letter": "6"
+    },
+    {
+      "id": "37e3451c-ceb1-4c27-951a-c470374eae65",
+      "name": "Group 7",
+      "icon": "👑",
+      "group_letter": "7"
+    },
+    {
+      "id": "3e89ea18-45a0-48d6-8688-af81d3468428",
+      "name": "Group 8",
+      "icon": "🦘",
+      "group_letter": "8"
+    },
+    {
+      "id": "94a55997-a567-4563-808d-c6ebfa55d0b3",
+      "name": "Group 9",
+      "icon": "🌶️",
+      "group_letter": "9"
+    },
+    {
+      "id": "e144681b-a475-4eeb-ba63-93d46574012a",
+      "name": "Group 10",
+      "icon": "🌺",
+      "group_letter": "10"
+    }
+  ],
+  "team_results_for_viewed_chapter": {},
+  "team_results_by_chapter": {
+    "45dd8681-023a-458a-9480-5c699ed76314": {},
+    "56540d39-9c35-4083-ab28-6dd78ef4f258": {},
+    "8790fc80-aa22-4d3c-8d7e-00689f05be6f": {},
+    "a563e32f-b2f6-461a-8f8b-57e097c75cbd": {}
+  },
+  "team_analyses_for_viewed_chapter": {},
+  "team_analyses_by_chapter": {
+    "45dd8681-023a-458a-9480-5c699ed76314": {},
+    "56540d39-9c35-4083-ab28-6dd78ef4f258": {},
+    "8790fc80-aa22-4d3c-8d7e-00689f05be6f": {},
+    "a563e32f-b2f6-461a-8f8b-57e097c75cbd": {}
+  },
+  "chapter_timings": {},
+  "events": []
+}

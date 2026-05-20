@@ -1,0 +1,1199 @@
+{
+  "session_arrow_id": 14334,
+  "session_cc_uuid": "673774e5-7511-4553-94ad-a74344a041dd",
+  "case_challenge": "Navigating Critical Conversations",
+  "case_challenge_id": "ed2551ab-bd65-4195-b571-43edd96f9e63",
+  "viewed_chapter_id": "84b81960-4156-4582-a05f-fc121acf76fb",
+  "extracted_at": "2026-05-20T00:00:00.000Z",
+  "source_url": "https://rxo4.abilitie.com/facilitator/673774e5-7511-4553-94ad-a74344a041dd",
+  "tenant_dns": "rxo4.abilitie.com",
+  "chapters": [
+    {
+      "id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "title": "Chapter 1",
+      "order": 1,
+      "duration_min": 5,
+      "blocks": 1
+    },
+    {
+      "id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "title": "Chapter 2",
+      "order": 2,
+      "duration_min": 15,
+      "blocks": 0
+    },
+    {
+      "id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "title": "Chapter 3",
+      "order": 3,
+      "duration_min": 15,
+      "blocks": 0
+    },
+    {
+      "id": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "title": "Chapter 4",
+      "order": 4,
+      "duration_min": 15,
+      "blocks": 0
+    }
+  ],
+  "teams": [
+    {
+      "id": "e034bef5-11c7-4c3e-9cb7-bb266c026670",
+      "name": "Feedback Rangers",
+      "icon": "📋",
+      "group_letter": "3"
+    },
+    {
+      "id": "ae320494-e81e-42ff-aac0-a2097654f3db",
+      "name": "Goal Crushers",
+      "icon": "💪",
+      "group_letter": "5"
+    },
+    {
+      "id": "7ff54871-ea08-4e39-a636-2921b9a60d56",
+      "name": "Team Motivators",
+      "icon": "🚀",
+      "group_letter": "1"
+    },
+    {
+      "id": "e16b7175-cd9a-4d71-b073-164e7e7c7a8a",
+      "name": "The Navigators",
+      "icon": "🧭",
+      "group_letter": "6"
+    },
+    {
+      "id": "f5dbd351-40b7-4bda-9ce2-93ed73a4b9b0",
+      "name": "AreaManagers",
+      "icon": "🗺️",
+      "group_letter": "2"
+    },
+    {
+      "id": "c551ab73-244a-419e-8748-797cfb448578",
+      "name": "High Stakes Solutions",
+      "icon": "🎰",
+      "group_letter": "4"
+    }
+  ],
+  "team_results_for_viewed_chapter": {
+    "e034bef5-11c7-4c3e-9cb7-bb266c026670": {
+      "completed_block_count": 3,
+      "opened_block_count": 18,
+      "score": 90,
+      "narrative_outcome": "Full Speed Ahead"
+    },
+    "ae320494-e81e-42ff-aac0-a2097654f3db": {
+      "completed_block_count": 3,
+      "opened_block_count": 18,
+      "score": 90,
+      "narrative_outcome": "Full Speed Ahead"
+    },
+    "7ff54871-ea08-4e39-a636-2921b9a60d56": {
+      "completed_block_count": 3,
+      "opened_block_count": 18,
+      "score": 76,
+      "narrative_outcome": "Back on Course"
+    },
+    "e16b7175-cd9a-4d71-b073-164e7e7c7a8a": {
+      "completed_block_count": 4,
+      "opened_block_count": 18,
+      "score": 98,
+      "narrative_outcome": "Full Speed Ahead"
+    },
+    "f5dbd351-40b7-4bda-9ce2-93ed73a4b9b0": {
+      "completed_block_count": 3,
+      "opened_block_count": 18,
+      "score": 80,
+      "narrative_outcome": "Back on Course"
+    },
+    "c551ab73-244a-419e-8748-797cfb448578": {
+      "completed_block_count": 3,
+      "opened_block_count": 18,
+      "score": 77,
+      "narrative_outcome": "Back on Course"
+    }
+  },
+  "team_results_by_chapter": {
+    "e724e890-1956-4bb7-ae42-8eb9896eebeb": {},
+    "f7afb929-e886-4ba8-8055-dad79dde30d1": {},
+    "32af157d-329d-478b-bd93-4eb11ed0f3ea": {},
+    "84b81960-4156-4582-a05f-fc121acf76fb": {
+      "e034bef5-11c7-4c3e-9cb7-bb266c026670": {
+        "completed_block_count": 3,
+        "opened_block_count": 18,
+        "score": 90,
+        "narrative_outcome": "Full Speed Ahead"
+      },
+      "ae320494-e81e-42ff-aac0-a2097654f3db": {
+        "completed_block_count": 3,
+        "opened_block_count": 18,
+        "score": 90,
+        "narrative_outcome": "Full Speed Ahead"
+      },
+      "7ff54871-ea08-4e39-a636-2921b9a60d56": {
+        "completed_block_count": 3,
+        "opened_block_count": 18,
+        "score": 76,
+        "narrative_outcome": "Back on Course"
+      },
+      "e16b7175-cd9a-4d71-b073-164e7e7c7a8a": {
+        "completed_block_count": 4,
+        "opened_block_count": 18,
+        "score": 98,
+        "narrative_outcome": "Full Speed Ahead"
+      },
+      "f5dbd351-40b7-4bda-9ce2-93ed73a4b9b0": {
+        "completed_block_count": 3,
+        "opened_block_count": 18,
+        "score": 80,
+        "narrative_outcome": "Back on Course"
+      },
+      "c551ab73-244a-419e-8748-797cfb448578": {
+        "completed_block_count": 3,
+        "opened_block_count": 18,
+        "score": 77,
+        "narrative_outcome": "Back on Course"
+      }
+    }
+  },
+  "team_analyses_for_viewed_chapter": {
+    "e034bef5-11c7-4c3e-9cb7-bb266c026670": {
+      "teamId": "e034bef5-11c7-4c3e-9cb7-bb266c026670",
+      "teamName": "Feedback Rangers",
+      "teamIcon": "📋",
+      "chapterId": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-84b81960-4156-4582-a05f-fc121acf76fb/1768597858736-Chapter_4.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Team Engagement"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-04-30T16:52:51.562Z",
+      "score": 90,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-84b81960-4156-4582-a05f-fc121acf76fb/option-3/1774540899543-full_speed_ahead.webp",
+        "story": "One month later... Tanya is running crisp sign-offs and weekly status updates, catching handoff gaps early and escalating cleanly. You’ve protected her design bandwidth by clarifying ownership in kickoffs and routing approvals through her first, exactly as your team email directed. Karl now leads high-stakes client concepting while tracking tighter estimates with a cross-team mentor. With Churchill and Watkins lessons folded into new routines, execution is smoother—and your broader leadership credibility has accelerated.",
+        "title": "Full Speed Ahead",
+        "description": "A month later, Tanya has stepped confidently into greater ownership and Karl is refocused and engaged, and your clear, well-judged communication has strengthened trust across the team and cemented your reputation as a leader who can navigate tough moments."
+      }
+    },
+    "ae320494-e81e-42ff-aac0-a2097654f3db": {
+      "teamId": "ae320494-e81e-42ff-aac0-a2097654f3db",
+      "teamName": "Goal Crushers",
+      "teamIcon": "💪",
+      "chapterId": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-84b81960-4156-4582-a05f-fc121acf76fb/1768597858736-Chapter_4.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Team Engagement"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-04-30T16:53:07.616Z",
+      "score": 90,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-84b81960-4156-4582-a05f-fc121acf76fb/option-3/1774540899543-full_speed_ahead.webp",
+        "story": "One month later... you routed final design decisions and timeline changes through a single channel, while Tanya coordinated handoffs, flagged gaps, and aligned assumptions before they hit clients. Weekly check-ins kept her scope sustainable, and the team adopted proactive escalation and sharper attention to detail. Karl leaned into the documented development plan, owning budget and timeline tracking on his next project. Delivery stabilized, client confidence rebounded, and leadership entrusted you with a broader cross-project mandate.",
+        "title": "Full Speed Ahead",
+        "description": "A month later, Tanya has stepped confidently into greater ownership and Karl is refocused and engaged, and your clear, well-judged communication has strengthened trust across the team and cemented your reputation as a leader who can navigate tough moments."
+      }
+    },
+    "7ff54871-ea08-4e39-a636-2921b9a60d56": {
+      "teamId": "7ff54871-ea08-4e39-a636-2921b9a60d56",
+      "teamName": "Team Motivators",
+      "teamIcon": "🚀",
+      "chapterId": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-84b81960-4156-4582-a05f-fc121acf76fb/1768597858736-Chapter_4.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Team Engagement"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-04-30T16:52:44.206Z",
+      "score": 76,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-84b81960-4156-4582-a05f-fc121acf76fb/option-3/1774540868768-back_on_course.webp",
+        "story": "One month later... you formalized Tanya as the primary escalation lead and instituted weekly design reviews to catch ambiguity before client delivery. Tanya balanced “consistent set of eyes” coordination with protected design time, while structured shadowing helped Karl tighten budgeting, timelines, and client expectations. The team escalated issues earlier, reduced rework, and restored internal alignment. Leadership noted steadier project delivery and clearer accountability, strengthening your readiness for broader company leadership.",
+        "title": "Back on Course",
+        "description": "One month on, Tanya remains motivated and Karl is cautiously back on track, and while not everything is resolved, your handling of the situation signaled growing leadership maturity and increased confidence in your judgment."
+      }
+    },
+    "e16b7175-cd9a-4d71-b073-164e7e7c7a8a": {
+      "teamId": "e16b7175-cd9a-4d71-b073-164e7e7c7a8a",
+      "teamName": "The Navigators",
+      "teamIcon": "🧭",
+      "chapterId": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-84b81960-4156-4582-a05f-fc121acf76fb/1768597858736-Chapter_4.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Team Engagement"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-04-30T16:52:45.873Z",
+      "score": 98,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-84b81960-4156-4582-a05f-fc121acf76fb/option-3/1774540899543-full_speed_ahead.webp",
+        "story": "One month later... Tanya runs the own/support/escalate map like a clean switchboard, catching scope drift before it hits proposals and tightening handoffs across active work. The team adopts clear owners, final reviewers, and decision points, cutting rework and keeping Watkins Annex milestones on track. Karl leads a mid-sized project’s schedule and cost rhythm with weekly delta checks, pairing creativity with discipline. With coordination stabilized, you step further into cross-team strategy and client leadership.",
+        "title": "Full Speed Ahead",
+        "description": "A month later, Tanya has stepped confidently into greater ownership and Karl is refocused and engaged, and your clear, well-judged communication has strengthened trust across the team and cemented your reputation as a leader who can navigate tough moments."
+      }
+    },
+    "f5dbd351-40b7-4bda-9ce2-93ed73a4b9b0": {
+      "teamId": "f5dbd351-40b7-4bda-9ce2-93ed73a4b9b0",
+      "teamName": "AreaManagers",
+      "teamIcon": "🗺️",
+      "chapterId": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-84b81960-4156-4582-a05f-fc121acf76fb/1768597858736-Chapter_4.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Team Engagement"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-04-30T16:52:45.735Z",
+      "score": 80,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-84b81960-4156-4582-a05f-fc121acf76fb/option-3/1774540868768-back_on_course.webp",
+        "story": "One month later... your Thursday 15:00 cadence with Tanya turned handoffs into a steady system: clearer work products, earlier escalations, and fewer downstream surprises. The delegation map from your email reduced confusion—Tanya owned internal reviews, Karl refocused on engineering and design, and you kept final sign-off. Karl’s two-week pre-deadline checkpoints surfaced budget and schedule risks sooner. Momentum returned, and leadership trust broadened beyond Area 301.",
+        "title": "Back on Course",
+        "description": "One month on, Tanya remains motivated and Karl is cautiously back on track, and while not everything is resolved, your handling of the situation signaled growing leadership maturity and increased confidence in your judgment."
+      }
+    },
+    "c551ab73-244a-419e-8748-797cfb448578": {
+      "teamId": "c551ab73-244a-419e-8748-797cfb448578",
+      "teamName": "High Stakes Solutions",
+      "teamIcon": "🎰",
+      "chapterId": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-84b81960-4156-4582-a05f-fc121acf76fb/1768597858736-Chapter_4.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Team Engagement"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-04-30T16:52:53.261Z",
+      "score": 77,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-84b81960-4156-4582-a05f-fc121acf76fb/option-3/1774540868768-back_on_course.webp",
+        "story": "One month later... your email clarified Tanya’s stretch role and tightened escalation paths, steadying delivery as you reduced day-to-day oversight. Tanya ran kickoffs, smoothed handoffs, and partnered with seniors to keep timelines visible. Weekly alignment meetings surfaced risks early and kept approvals moving. Karl focused on budget and schedule variance targets, contributing creative breakthroughs without derailing plans. The team regained rhythm, and leadership noted your scalable operating model.",
+        "title": "Back on Course",
+        "description": "One month on, Tanya remains motivated and Karl is cautiously back on track, and while not everything is resolved, your handling of the situation signaled growing leadership maturity and increased confidence in your judgment."
+      }
+    }
+  },
+  "team_analyses_by_chapter": {
+    "e724e890-1956-4bb7-ae42-8eb9896eebeb": {
+      "e034bef5-11c7-4c3e-9cb7-bb266c026670": {
+        "teamId": "e034bef5-11c7-4c3e-9cb7-bb266c026670",
+        "teamName": "Feedback Rangers",
+        "teamIcon": "📋",
+        "chapterId": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-e724e890-1956-4bb7-ae42-8eb9896eebeb/1768590727777-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-30T15:22:45.783Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "ae320494-e81e-42ff-aac0-a2097654f3db": {
+        "teamId": "ae320494-e81e-42ff-aac0-a2097654f3db",
+        "teamName": "Goal Crushers",
+        "teamIcon": "💪",
+        "chapterId": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-e724e890-1956-4bb7-ae42-8eb9896eebeb/1768590727777-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-30T15:22:45.783Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "7ff54871-ea08-4e39-a636-2921b9a60d56": {
+        "teamId": "7ff54871-ea08-4e39-a636-2921b9a60d56",
+        "teamName": "Team Motivators",
+        "teamIcon": "🚀",
+        "chapterId": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-e724e890-1956-4bb7-ae42-8eb9896eebeb/1768590727777-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-30T15:22:45.783Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "e16b7175-cd9a-4d71-b073-164e7e7c7a8a": {
+        "teamId": "e16b7175-cd9a-4d71-b073-164e7e7c7a8a",
+        "teamName": "The Navigators",
+        "teamIcon": "🧭",
+        "chapterId": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-e724e890-1956-4bb7-ae42-8eb9896eebeb/1768590727777-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-30T15:22:45.783Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "f5dbd351-40b7-4bda-9ce2-93ed73a4b9b0": {
+        "teamId": "f5dbd351-40b7-4bda-9ce2-93ed73a4b9b0",
+        "teamName": "AreaManagers",
+        "teamIcon": "🗺️",
+        "chapterId": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-e724e890-1956-4bb7-ae42-8eb9896eebeb/1768590727777-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-30T15:22:45.784Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "c551ab73-244a-419e-8748-797cfb448578": {
+        "teamId": "c551ab73-244a-419e-8748-797cfb448578",
+        "teamName": "High Stakes Solutions",
+        "teamIcon": "🎰",
+        "chapterId": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-e724e890-1956-4bb7-ae42-8eb9896eebeb/1768590727777-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-30T15:22:45.784Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      }
+    },
+    "f7afb929-e886-4ba8-8055-dad79dde30d1": {
+      "e034bef5-11c7-4c3e-9cb7-bb266c026670": {
+        "teamId": "e034bef5-11c7-4c3e-9cb7-bb266c026670",
+        "teamName": "Feedback Rangers",
+        "teamIcon": "📋",
+        "chapterId": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-f7afb929-e886-4ba8-8055-dad79dde30d1/1768590739244-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-30T15:43:19.358Z",
+        "score": 80,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "ae320494-e81e-42ff-aac0-a2097654f3db": {
+        "teamId": "ae320494-e81e-42ff-aac0-a2097654f3db",
+        "teamName": "Goal Crushers",
+        "teamIcon": "💪",
+        "chapterId": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-f7afb929-e886-4ba8-8055-dad79dde30d1/1768590739244-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-30T15:43:24.919Z",
+        "score": 96,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "7ff54871-ea08-4e39-a636-2921b9a60d56": {
+        "teamId": "7ff54871-ea08-4e39-a636-2921b9a60d56",
+        "teamName": "Team Motivators",
+        "teamIcon": "🚀",
+        "chapterId": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-f7afb929-e886-4ba8-8055-dad79dde30d1/1768590739244-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-30T15:43:19.016Z",
+        "score": 75,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "e16b7175-cd9a-4d71-b073-164e7e7c7a8a": {
+        "teamId": "e16b7175-cd9a-4d71-b073-164e7e7c7a8a",
+        "teamName": "The Navigators",
+        "teamIcon": "🧭",
+        "chapterId": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-f7afb929-e886-4ba8-8055-dad79dde30d1/1768590739244-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-30T15:43:24.173Z",
+        "score": 80,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "f5dbd351-40b7-4bda-9ce2-93ed73a4b9b0": {
+        "teamId": "f5dbd351-40b7-4bda-9ce2-93ed73a4b9b0",
+        "teamName": "AreaManagers",
+        "teamIcon": "🗺️",
+        "chapterId": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-f7afb929-e886-4ba8-8055-dad79dde30d1/1768590739244-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-30T15:43:22.124Z",
+        "score": 89,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "c551ab73-244a-419e-8748-797cfb448578": {
+        "teamId": "c551ab73-244a-419e-8748-797cfb448578",
+        "teamName": "High Stakes Solutions",
+        "teamIcon": "🎰",
+        "chapterId": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-f7afb929-e886-4ba8-8055-dad79dde30d1/1768590739244-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-30T15:43:19.924Z",
+        "score": 72,
+        "analysis": "$18",
+        "narrativeImpact": null
+      }
+    },
+    "32af157d-329d-478b-bd93-4eb11ed0f3ea": {
+      "e034bef5-11c7-4c3e-9cb7-bb266c026670": {
+        "teamId": "e034bef5-11c7-4c3e-9cb7-bb266c026670",
+        "teamName": "Feedback Rangers",
+        "teamIcon": "📋",
+        "chapterId": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-32af157d-329d-478b-bd93-4eb11ed0f3ea/1768597721822-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-30T16:27:56.569Z",
+        "score": 80,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "ae320494-e81e-42ff-aac0-a2097654f3db": {
+        "teamId": "ae320494-e81e-42ff-aac0-a2097654f3db",
+        "teamName": "Goal Crushers",
+        "teamIcon": "💪",
+        "chapterId": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-32af157d-329d-478b-bd93-4eb11ed0f3ea/1768597721822-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-30T16:27:59.254Z",
+        "score": 85,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "7ff54871-ea08-4e39-a636-2921b9a60d56": {
+        "teamId": "7ff54871-ea08-4e39-a636-2921b9a60d56",
+        "teamName": "Team Motivators",
+        "teamIcon": "🚀",
+        "chapterId": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-32af157d-329d-478b-bd93-4eb11ed0f3ea/1768597721822-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-30T16:27:51.713Z",
+        "score": 93,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "e16b7175-cd9a-4d71-b073-164e7e7c7a8a": {
+        "teamId": "e16b7175-cd9a-4d71-b073-164e7e7c7a8a",
+        "teamName": "The Navigators",
+        "teamIcon": "🧭",
+        "chapterId": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-32af157d-329d-478b-bd93-4eb11ed0f3ea/1768597721822-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-30T16:27:56.010Z",
+        "score": 98,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "f5dbd351-40b7-4bda-9ce2-93ed73a4b9b0": {
+        "teamId": "f5dbd351-40b7-4bda-9ce2-93ed73a4b9b0",
+        "teamName": "AreaManagers",
+        "teamIcon": "🗺️",
+        "chapterId": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-32af157d-329d-478b-bd93-4eb11ed0f3ea/1768597721822-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-30T16:27:51.113Z",
+        "score": 92,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "c551ab73-244a-419e-8748-797cfb448578": {
+        "teamId": "c551ab73-244a-419e-8748-797cfb448578",
+        "teamName": "High Stakes Solutions",
+        "teamIcon": "🎰",
+        "chapterId": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-32af157d-329d-478b-bd93-4eb11ed0f3ea/1768597721822-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-30T16:27:56.476Z",
+        "score": 66,
+        "analysis": "$18",
+        "narrativeImpact": null
+      }
+    },
+    "84b81960-4156-4582-a05f-fc121acf76fb": {
+      "e034bef5-11c7-4c3e-9cb7-bb266c026670": {
+        "teamId": "e034bef5-11c7-4c3e-9cb7-bb266c026670",
+        "teamName": "Feedback Rangers",
+        "teamIcon": "📋",
+        "chapterId": "84b81960-4156-4582-a05f-fc121acf76fb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-84b81960-4156-4582-a05f-fc121acf76fb/1768597858736-Chapter_4.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-30T16:52:51.562Z",
+        "score": 90,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-84b81960-4156-4582-a05f-fc121acf76fb/option-3/1774540899543-full_speed_ahead.webp",
+          "story": "One month later... Tanya is running crisp sign-offs and weekly status updates, catching handoff gaps early and escalating cleanly. You’ve protected her design bandwidth by clarifying ownership in kickoffs and routing approvals through her first, exactly as your team email directed. Karl now leads high-stakes client concepting while tracking tighter estimates with a cross-team mentor. With Churchill and Watkins lessons folded into new routines, execution is smoother—and your broader leadership credibility has accelerated.",
+          "title": "Full Speed Ahead",
+          "description": "A month later, Tanya has stepped confidently into greater ownership and Karl is refocused and engaged, and your clear, well-judged communication has strengthened trust across the team and cemented your reputation as a leader who can navigate tough moments."
+        }
+      },
+      "ae320494-e81e-42ff-aac0-a2097654f3db": {
+        "teamId": "ae320494-e81e-42ff-aac0-a2097654f3db",
+        "teamName": "Goal Crushers",
+        "teamIcon": "💪",
+        "chapterId": "84b81960-4156-4582-a05f-fc121acf76fb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-84b81960-4156-4582-a05f-fc121acf76fb/1768597858736-Chapter_4.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-30T16:53:07.616Z",
+        "score": 90,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-84b81960-4156-4582-a05f-fc121acf76fb/option-3/1774540899543-full_speed_ahead.webp",
+          "story": "One month later... you routed final design decisions and timeline changes through a single channel, while Tanya coordinated handoffs, flagged gaps, and aligned assumptions before they hit clients. Weekly check-ins kept her scope sustainable, and the team adopted proactive escalation and sharper attention to detail. Karl leaned into the documented development plan, owning budget and timeline tracking on his next project. Delivery stabilized, client confidence rebounded, and leadership entrusted you with a broader cross-project mandate.",
+          "title": "Full Speed Ahead",
+          "description": "A month later, Tanya has stepped confidently into greater ownership and Karl is refocused and engaged, and your clear, well-judged communication has strengthened trust across the team and cemented your reputation as a leader who can navigate tough moments."
+        }
+      },
+      "7ff54871-ea08-4e39-a636-2921b9a60d56": {
+        "teamId": "7ff54871-ea08-4e39-a636-2921b9a60d56",
+        "teamName": "Team Motivators",
+        "teamIcon": "🚀",
+        "chapterId": "84b81960-4156-4582-a05f-fc121acf76fb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-84b81960-4156-4582-a05f-fc121acf76fb/1768597858736-Chapter_4.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-30T16:52:44.206Z",
+        "score": 76,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-84b81960-4156-4582-a05f-fc121acf76fb/option-3/1774540868768-back_on_course.webp",
+          "story": "One month later... you formalized Tanya as the primary escalation lead and instituted weekly design reviews to catch ambiguity before client delivery. Tanya balanced “consistent set of eyes” coordination with protected design time, while structured shadowing helped Karl tighten budgeting, timelines, and client expectations. The team escalated issues earlier, reduced rework, and restored internal alignment. Leadership noted steadier project delivery and clearer accountability, strengthening your readiness for broader company leadership.",
+          "title": "Back on Course",
+          "description": "One month on, Tanya remains motivated and Karl is cautiously back on track, and while not everything is resolved, your handling of the situation signaled growing leadership maturity and increased confidence in your judgment."
+        }
+      },
+      "e16b7175-cd9a-4d71-b073-164e7e7c7a8a": {
+        "teamId": "e16b7175-cd9a-4d71-b073-164e7e7c7a8a",
+        "teamName": "The Navigators",
+        "teamIcon": "🧭",
+        "chapterId": "84b81960-4156-4582-a05f-fc121acf76fb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-84b81960-4156-4582-a05f-fc121acf76fb/1768597858736-Chapter_4.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-30T16:52:45.873Z",
+        "score": 98,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-84b81960-4156-4582-a05f-fc121acf76fb/option-3/1774540899543-full_speed_ahead.webp",
+          "story": "One month later... Tanya runs the own/support/escalate map like a clean switchboard, catching scope drift before it hits proposals and tightening handoffs across active work. The team adopts clear owners, final reviewers, and decision points, cutting rework and keeping Watkins Annex milestones on track. Karl leads a mid-sized project’s schedule and cost rhythm with weekly delta checks, pairing creativity with discipline. With coordination stabilized, you step further into cross-team strategy and client leadership.",
+          "title": "Full Speed Ahead",
+          "description": "A month later, Tanya has stepped confidently into greater ownership and Karl is refocused and engaged, and your clear, well-judged communication has strengthened trust across the team and cemented your reputation as a leader who can navigate tough moments."
+        }
+      },
+      "f5dbd351-40b7-4bda-9ce2-93ed73a4b9b0": {
+        "teamId": "f5dbd351-40b7-4bda-9ce2-93ed73a4b9b0",
+        "teamName": "AreaManagers",
+        "teamIcon": "🗺️",
+        "chapterId": "84b81960-4156-4582-a05f-fc121acf76fb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-84b81960-4156-4582-a05f-fc121acf76fb/1768597858736-Chapter_4.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-30T16:52:45.735Z",
+        "score": 80,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-84b81960-4156-4582-a05f-fc121acf76fb/option-3/1774540868768-back_on_course.webp",
+          "story": "One month later... your Thursday 15:00 cadence with Tanya turned handoffs into a steady system: clearer work products, earlier escalations, and fewer downstream surprises. The delegation map from your email reduced confusion—Tanya owned internal reviews, Karl refocused on engineering and design, and you kept final sign-off. Karl’s two-week pre-deadline checkpoints surfaced budget and schedule risks sooner. Momentum returned, and leadership trust broadened beyond Area 301.",
+          "title": "Back on Course",
+          "description": "One month on, Tanya remains motivated and Karl is cautiously back on track, and while not everything is resolved, your handling of the situation signaled growing leadership maturity and increased confidence in your judgment."
+        }
+      },
+      "c551ab73-244a-419e-8748-797cfb448578": {
+        "teamId": "c551ab73-244a-419e-8748-797cfb448578",
+        "teamName": "High Stakes Solutions",
+        "teamIcon": "🎰",
+        "chapterId": "84b81960-4156-4582-a05f-fc121acf76fb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-84b81960-4156-4582-a05f-fc121acf76fb/1768597858736-Chapter_4.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Team Engagement"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-30T16:52:53.261Z",
+        "score": 77,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-84b81960-4156-4582-a05f-fc121acf76fb/option-3/1774540868768-back_on_course.webp",
+          "story": "One month later... your email clarified Tanya’s stretch role and tightened escalation paths, steadying delivery as you reduced day-to-day oversight. Tanya ran kickoffs, smoothed handoffs, and partnered with seniors to keep timelines visible. Weekly alignment meetings surfaced risks early and kept approvals moving. Karl focused on budget and schedule variance targets, contributing creative breakthroughs without derailing plans. The team regained rhythm, and leadership noted your scalable operating model.",
+          "title": "Back on Course",
+          "description": "One month on, Tanya remains motivated and Karl is cautiously back on track, and while not everything is resolved, your handling of the situation signaled growing leadership maturity and increased confidence in your judgment."
+        }
+      }
+    }
+  },
+  "chapter_timings": {
+    "e724e890-1956-4bb7-ae42-8eb9896eebeb": {
+      "started_at": "2026-04-30T15:15:25.340Z",
+      "ended_at": "2026-04-30T15:22:45.722Z"
+    },
+    "f7afb929-e886-4ba8-8055-dad79dde30d1": {
+      "started_at": "2026-04-30T15:26:11.255Z",
+      "ended_at": "2026-04-30T15:42:41.327Z"
+    },
+    "32af157d-329d-478b-bd93-4eb11ed0f3ea": {
+      "started_at": "2026-04-30T16:10:45.425Z",
+      "ended_at": "2026-04-30T16:27:11.320Z"
+    },
+    "84b81960-4156-4582-a05f-fc121acf76fb": {
+      "started_at": "2026-04-30T16:37:05.316Z",
+      "ended_at": "2026-04-30T16:52:07.423Z"
+    }
+  },
+  "events": [
+    {
+      "id": "2f908997-a454-4bd5-a752-58c4a4ee561d",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 1: Chapter 1 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-04-30T15:15:25.340Z",
+      "updated_at": "2026-04-30T15:15:25.340Z"
+    },
+    {
+      "id": "459ea6f8-4a2f-4857-be1c-cd86fb9a38fa",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams have a few minutes to review general information about the case. This is a quick orientation chapter, culminating in a short decision where they will reflect on what they expect to happen next. \n<br><br>\n<b>What to watch for:</b><ul>\n<li>Do teams move through all of the resources quickly?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-30T15:15:36.054Z",
+      "updated_at": "2026-04-30T15:15:36.057Z"
+    },
+    {
+      "id": "345ffca4-e1ab-4e38-b271-7b85b69f1a28",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>The Case has started</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "3cfdf32c-ec88-439f-b1d5-158fce1fb977"
+      },
+      "created_at": "2026-04-30T15:15:38.492Z",
+      "updated_at": "2026-04-30T15:15:38.492Z"
+    },
+    {
+      "id": "f4028ed9-1ba4-4a26-a539-8395527d00b3",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-30T15:16:00.224Z",
+      "updated_at": "2026-04-30T15:16:00.232Z"
+    },
+    {
+      "id": "9d3ce78a-4e3d-419f-a5f2-b616929af8e0",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Reminder:</b> Move teams to the Decision now.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-30T15:20:36.040Z",
+      "updated_at": "2026-04-30T15:20:36.043Z"
+    },
+    {
+      "id": "29d7e2cd-4b7a-4dc5-9fe2-c0ef898c1552",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "STARTING_MESSAGE",
+      "content": "Decision phase has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "decision_started"
+      },
+      "created_at": "2026-04-30T15:20:37.990Z",
+      "updated_at": "2026-04-30T15:20:37.990Z"
+    },
+    {
+      "id": "ceaf2e39-a154-47e4-81b3-8906e03116b2",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Decision Time!</b> Teams must state where they anticipate ambiguity or tension might show up as Tanya steps into an elevated role. This is designed to hint toward what comes in future chapters.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-30T15:20:48.039Z",
+      "updated_at": "2026-04-30T15:20:48.041Z"
+    },
+    {
+      "id": "cd33b159-9e8b-42f0-a9f2-ab8c699da531",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-04-30T15:22:45.715Z",
+      "updated_at": "2026-04-30T15:22:45.715Z"
+    },
+    {
+      "id": "037ca563-a6cb-41b0-ae97-4152784663e0",
+      "chapter_id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 1 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-04-30T15:22:45.722Z",
+      "updated_at": "2026-04-30T15:22:45.722Z"
+    },
+    {
+      "id": "6ce486d6-b165-4b3d-817d-585462af2f1d",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 2: Chapter 2 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-04-30T15:26:11.255Z",
+      "updated_at": "2026-04-30T15:26:11.255Z"
+    },
+    {
+      "id": "d114cf6f-e875-40dc-ab35-d2f257044692",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams must lead a development-focused conversation that helps Tanya to recognize her leadership potential and to see this moment as an opportunity rather than a risk — without pressuring her into saying yes.\n<br><br>\n<b>What to watch for:</b><ul>\n<li>Does the team ask what motivates Tanya before presenting the opportunity?\n<li>Does the team align the development opportunities with Tanya's short- and long-term motivators?\n<li>Does the team express empathy regarding any apprehension Tanya may feel?\n</ul>\n",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-30T15:26:24.036Z",
+      "updated_at": "2026-04-30T15:26:24.039Z"
+    },
+    {
+      "id": "ebd1979d-0b58-4def-a3bc-c38dcd470383",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-30T15:27:48.048Z",
+      "updated_at": "2026-04-30T15:27:48.052Z"
+    },
+    {
+      "id": "b6dd59f9-5689-44b4-987b-b430db6c921a",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to give participants a helpful reminder: <br><br>\n<i>Remember to ask probing questions to understand what really motivates Tanya!</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-30T15:33:48.049Z",
+      "updated_at": "2026-04-30T15:33:48.053Z"
+    },
+    {
+      "id": "62abe9f6-bf51-4f0a-a8d0-802976377941",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by +1 min — 7 min 51 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": 60
+      },
+      "created_at": "2026-04-30T15:34:20.943Z",
+      "updated_at": "2026-04-30T15:34:20.943Z"
+    },
+    {
+      "id": "9138f22b-2d78-4d4c-a3aa-cbb6cf73435b",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Debrief Reminder:</b> This is a relatively quick debrief. <ul>\n<li> Show <b><i>Snapshot</b></i> in the Debrief tools to show how teams performed. Note that it's still early, and they'll have the opportunity to keep building team engagement as they go.\n<li> Use the slides to explore the concept of Motivators more deeply.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-30T15:42:12.217Z",
+      "updated_at": "2026-04-30T15:42:12.233Z"
+    },
+    {
+      "id": "b185e118-d9ed-4161-9861-3f4fb0fada80",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-04-30T15:42:41.319Z",
+      "updated_at": "2026-04-30T15:42:41.319Z"
+    },
+    {
+      "id": "9faa7ba8-0937-48f6-bef6-68426964c7d2",
+      "chapter_id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 2 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-04-30T15:42:41.327Z",
+      "updated_at": "2026-04-30T15:42:41.327Z"
+    },
+    {
+      "id": "7afc85df-ed46-439d-b031-a10449297157",
+      "chapter_id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 3: Chapter 3 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-04-30T16:10:45.425Z",
+      "updated_at": "2026-04-30T16:10:45.425Z"
+    },
+    {
+      "id": "8b449aff-a540-4373-aee3-150d5ef46941",
+      "chapter_id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams conduct a performance review with their employee Karl. He's talented and committed, but seeing Tanya take on greater visibility has left him feeling overlooked. The objective is to deliver honest, balanced feedback that acknowledges Karl's strengths while clearly addressing what's holding him back — without losing his trust or engagement.\n<br><br>\n<b>What to watch for:</b><ul>\n<li>Does the team acknowledge Karl's strengths before delivering tough feedback?\n<li>Does the team clearly address business skill gaps (timelines, budget, project management)?\n<li>Does the team address the new peer-to-supervisor dynamic with Karl constructively?\n</ul>\n",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-30T16:11:00.220Z",
+      "updated_at": "2026-04-30T16:11:00.229Z"
+    },
+    {
+      "id": "672f3aac-4deb-45f6-a519-86ee93491cbd",
+      "chapter_id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-30T16:12:24.035Z",
+      "updated_at": "2026-04-30T16:12:24.038Z"
+    },
+    {
+      "id": "e0dbade5-06cc-47da-8161-1a199929991f",
+      "chapter_id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to give participants a helpful reminder: <br><br>\n<i>Good work so far. Remember to balance encouraging Karl and giving him clear feedback on what he needs to do to improve his skills.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-30T16:18:24.035Z",
+      "updated_at": "2026-04-30T16:18:24.037Z"
+    },
+    {
+      "id": "76747f77-a823-46f8-a138-90c4e2d7039e",
+      "chapter_id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by +1 min — 4 min 12 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": 60
+      },
+      "created_at": "2026-04-30T16:22:34.198Z",
+      "updated_at": "2026-04-30T16:22:34.198Z"
+    },
+    {
+      "id": "759719d9-c4a6-4ec0-a956-8bbef86d38c0",
+      "chapter_id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Debrief Reminder:</b> This is a relatively quick debrief. <ul>\n<li> Show <b><i>Snapshot</b></i> in the Debrief tools to show how teams performed. If anyone has earned strong team engagement, ask how they achieved that.\n<li> Use the slides to explore the Do's and Don't's of performance reviews.\n",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-30T16:26:48.038Z",
+      "updated_at": "2026-04-30T16:26:48.040Z"
+    },
+    {
+      "id": "fdf4d170-453c-4c5d-b8c1-134b073d060b",
+      "chapter_id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-04-30T16:27:11.313Z",
+      "updated_at": "2026-04-30T16:27:11.313Z"
+    },
+    {
+      "id": "160c912c-e4ed-4a9e-aef5-bc60e1c74e46",
+      "chapter_id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 3 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-04-30T16:27:11.320Z",
+      "updated_at": "2026-04-30T16:27:11.320Z"
+    },
+    {
+      "id": "a9013736-0979-4c51-b6e2-bff34ed78ebd",
+      "chapter_id": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 4: Chapter 4 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-04-30T16:37:05.316Z",
+      "updated_at": "2026-04-30T16:37:05.316Z"
+    },
+    {
+      "id": "2cc9d1d5-1b21-479d-886e-71402817e214",
+      "chapter_id": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nAn avoidable error has reached a client, exposing cracks in how the team is coordinating. Teams must email the entire team with transparency and purpose: acknowledge recent missteps, reinforce accountability, and restore confidence in the team's ability to deliver.\n<br><br>\n<b>What to watch for:</b><ul>\n<li>Does the email acknowledge the specific execution challenges (client error, slipped milestones) transparently?\n<li>Does the email take accountability without assigning individual blame?\n<li>Does the email clarify roles, decision rights, and when to escalate to Tanya vs. the manager?\n</ul>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-30T16:37:24.075Z",
+      "updated_at": "2026-04-30T16:37:24.078Z"
+    },
+    {
+      "id": "b5cce3d1-22fd-4624-a21d-8c35adaf7117",
+      "chapter_id": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-30T16:38:36.069Z",
+      "updated_at": "2026-04-30T16:38:36.072Z"
+    },
+    {
+      "id": "0ddee99b-0a06-4673-b6b2-5d8c575bd632",
+      "chapter_id": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-04-30T16:52:07.415Z",
+      "updated_at": "2026-04-30T16:52:07.415Z"
+    },
+    {
+      "id": "a41a4c20-8fe5-4779-ac36-45e3d6ecbb73",
+      "chapter_id": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 4 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-04-30T16:52:07.423Z",
+      "updated_at": "2026-04-30T16:52:07.423Z"
+    },
+    {
+      "id": "c643c31e-696c-458f-940f-1e2761d802ad",
+      "chapter_id": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "type": "ENDING_MESSAGE",
+      "content": "Case completed — all chapters finished.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "case_completed"
+      },
+      "created_at": "2026-04-30T16:52:07.589Z",
+      "updated_at": "2026-04-30T16:52:07.589Z"
+    }
+  ]
+}

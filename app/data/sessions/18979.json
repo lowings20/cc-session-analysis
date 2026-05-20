@@ -1,0 +1,1665 @@
+{
+  "session_arrow_id": 18979,
+  "session_cc_uuid": "a67d78fb-c75b-4c7e-8cd0-6e2220ca490d",
+  "case_challenge": "Leading in Times of Change",
+  "case_challenge_id": "e9346dd7-b05a-46bc-bc69-182046835717",
+  "viewed_chapter_id": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+  "extracted_at": "2026-05-20T00:00:00.000Z",
+  "source_url": "https://abbott2.abilitie.com/facilitator/a67d78fb-c75b-4c7e-8cd0-6e2220ca490d",
+  "tenant_dns": "abbott2.abilitie.com",
+  "chapters": [
+    {
+      "id": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+      "title": "Chapter 1: Survive... or Thryve?",
+      "order": 1,
+      "duration_min": 15,
+      "blocks": 1
+    },
+    {
+      "id": "d17bf175-83a9-4584-83ef-69ded065f999",
+      "title": "Chapter 2: Built to Thryve.",
+      "order": 2,
+      "duration_min": 12,
+      "blocks": 0
+    },
+    {
+      "id": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "title": "Chapter 3: Time to Thryve!",
+      "order": 3,
+      "duration_min": 15,
+      "blocks": 0
+    }
+  ],
+  "teams": [
+    {
+      "id": "f9203828-adb7-422b-847e-d6de26099720",
+      "name": "Group 3",
+      "icon": "🔶",
+      "group_letter": "3"
+    },
+    {
+      "id": "ee9f7b53-0dd4-4d64-a2ae-3f69788bb3ed",
+      "name": "Purple Pathfinders",
+      "icon": "🦄",
+      "group_letter": "7"
+    },
+    {
+      "id": "15cfa537-600f-4678-86dc-b3217abfb302",
+      "name": "Learning Champions",
+      "icon": "🏆",
+      "group_letter": "1"
+    },
+    {
+      "id": "c5f5e2bf-db5e-4580-8675-9537ff296018",
+      "name": "The Sorters",
+      "icon": "🗂️",
+      "group_letter": "4"
+    },
+    {
+      "id": "feb095e6-b8c5-46af-a79c-afe17877df9a",
+      "name": "Change Champions",
+      "icon": "🚀",
+      "group_letter": "2"
+    },
+    {
+      "id": "e7e6f298-7eff-4836-9e10-b89985f07e31",
+      "name": "Director's Edge",
+      "icon": "⚡",
+      "group_letter": "6"
+    },
+    {
+      "id": "0020a386-5e80-4833-aefd-c5484a798fe3",
+      "name": "KeyPad",
+      "icon": "🦄",
+      "group_letter": "5"
+    }
+  ],
+  "team_results_for_viewed_chapter": {
+    "f9203828-adb7-422b-847e-d6de26099720": {
+      "completed_block_count": 6,
+      "opened_block_count": 13,
+      "score": 84,
+      "narrative_outcome": "Alignment in Motion"
+    },
+    "ee9f7b53-0dd4-4d64-a2ae-3f69788bb3ed": {
+      "completed_block_count": 6,
+      "opened_block_count": 13,
+      "score": 96,
+      "narrative_outcome": "Built to Thryve"
+    },
+    "15cfa537-600f-4678-86dc-b3217abfb302": {
+      "completed_block_count": 5,
+      "opened_block_count": 13,
+      "score": 85,
+      "narrative_outcome": "Built to Thryve"
+    },
+    "c5f5e2bf-db5e-4580-8675-9537ff296018": {
+      "completed_block_count": 4,
+      "opened_block_count": 13,
+      "score": 89,
+      "narrative_outcome": "Built to Thryve"
+    },
+    "feb095e6-b8c5-46af-a79c-afe17877df9a": {
+      "completed_block_count": 4,
+      "opened_block_count": 13,
+      "score": 93,
+      "narrative_outcome": "Built to Thryve"
+    },
+    "e7e6f298-7eff-4836-9e10-b89985f07e31": {
+      "completed_block_count": 5,
+      "opened_block_count": 12,
+      "score": 74,
+      "narrative_outcome": "Alignment in Motion"
+    },
+    "0020a386-5e80-4833-aefd-c5484a798fe3": {
+      "completed_block_count": 4,
+      "opened_block_count": 13,
+      "score": 73,
+      "narrative_outcome": "Alignment in Motion"
+    }
+  },
+  "team_results_by_chapter": {
+    "d3cd96ca-75dd-4c4c-ac5b-00781690885d": {},
+    "d17bf175-83a9-4584-83ef-69ded065f999": {},
+    "a55c16e8-0e97-47ee-8052-b5b571ca26d9": {
+      "f9203828-adb7-422b-847e-d6de26099720": {
+        "completed_block_count": 6,
+        "opened_block_count": 13,
+        "score": 84,
+        "narrative_outcome": "Alignment in Motion"
+      },
+      "ee9f7b53-0dd4-4d64-a2ae-3f69788bb3ed": {
+        "completed_block_count": 6,
+        "opened_block_count": 13,
+        "score": 96,
+        "narrative_outcome": "Built to Thryve"
+      },
+      "15cfa537-600f-4678-86dc-b3217abfb302": {
+        "completed_block_count": 5,
+        "opened_block_count": 13,
+        "score": 85,
+        "narrative_outcome": "Built to Thryve"
+      },
+      "c5f5e2bf-db5e-4580-8675-9537ff296018": {
+        "completed_block_count": 4,
+        "opened_block_count": 13,
+        "score": 89,
+        "narrative_outcome": "Built to Thryve"
+      },
+      "feb095e6-b8c5-46af-a79c-afe17877df9a": {
+        "completed_block_count": 4,
+        "opened_block_count": 13,
+        "score": 93,
+        "narrative_outcome": "Built to Thryve"
+      },
+      "e7e6f298-7eff-4836-9e10-b89985f07e31": {
+        "completed_block_count": 5,
+        "opened_block_count": 12,
+        "score": 74,
+        "narrative_outcome": "Alignment in Motion"
+      },
+      "0020a386-5e80-4833-aefd-c5484a798fe3": {
+        "completed_block_count": 4,
+        "opened_block_count": 13,
+        "score": 73,
+        "narrative_outcome": "Alignment in Motion"
+      }
+    }
+  },
+  "team_analyses_for_viewed_chapter": {
+    "f9203828-adb7-422b-847e-d6de26099720": {
+      "teamId": "f9203828-adb7-422b-847e-d6de26099720",
+      "teamName": "Group 3",
+      "teamIcon": "🔶",
+      "chapterId": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/1774645292486-chapter3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Susan's Confidence in You"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-12T16:53:36.896Z",
+      "score": 84,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/option-2/1771884433188-Alignment_in_Motion.webp",
+        "story": "Two months later... your retained core keeps delivery tight while two new capability hires stand up analytics and AI-enabled content workflows. Malek partners with the new expert to set standards, and Elena takes on operational metrics and reporting. Tasha stabilizes stakeholder relationships as roles clarify and approvals shrink. Campaigns run with test-and-learn KPIs, and messaging coherence improves. Your influence grows as governance enables speed without sacrificing quality.",
+        "title": "Alignment in Motion",
+        "description": "The team is starting to gel. Communication is thoughtful, and team members are starting to operate with greater confidence and cohesion. There’s still work ahead, but momentum is building."
+      }
+    },
+    "ee9f7b53-0dd4-4d64-a2ae-3f69788bb3ed": {
+      "teamId": "ee9f7b53-0dd4-4d64-a2ae-3f69788bb3ed",
+      "teamName": "Purple Pathfinders",
+      "teamIcon": "🦄",
+      "chapterId": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/1774645292486-chapter3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Susan's Confidence in You"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-12T16:53:45.770Z",
+      "score": 96,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/option-3/1771884441086-Built_to_Thryve.webp",
+        "story": "Two months later... you implement a three-tower structure, keeping six IMC incumbents while reshuffling responsibilities and setting KPI-based accountability. Malek leads modernization with Elena and Tasha, supported by an external partner and IT for GenAI and analytics capability transfer. Thomas, Denise, and Leo stabilize launches through a single intake and clear campaign ownership. Early proof points—faster content iteration and cleaner performance reporting—raise confidence and strengthen your influence across Brand.",
+        "title": "Built to Thryve",
+        "description": "Your actions spark clarity, conviction, and alignment. The team understands not just what’s changing — but why. People feel seen, empowered, and focused. New capabilities are beginning to take hold, and Thryve’s marketing function is positioned to compete, evolve, and lead. The way forward is not just clear — it's energized."
+      }
+    },
+    "15cfa537-600f-4678-86dc-b3217abfb302": {
+      "teamId": "15cfa537-600f-4678-86dc-b3217abfb302",
+      "teamName": "Learning Champions",
+      "teamIcon": "🏆",
+      "chapterId": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/1774645292486-chapter3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Susan's Confidence in You"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-12T16:53:41.371Z",
+      "score": 85,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/option-3/1771884441086-Built_to_Thryve.webp",
+        "story": "Two months later... you keep IMC operational continuity while modernizing: two new hires accelerate AI-assisted content and data-driven analytics, and legacy coordination strengths stabilize campaign delivery. Upskilling happens through real measurement work, pairing performance-curious contributors with campaign readouts. Expectations to grow and deliver results become concrete in weekly reporting and faster test-and-learn cycles. Brand leaders see tighter alignment, and you’re pulled into broader transformation work.",
+        "title": "Built to Thryve",
+        "description": "Your actions spark clarity, conviction, and alignment. The team understands not just what’s changing — but why. People feel seen, empowered, and focused. New capabilities are beginning to take hold, and Thryve’s marketing function is positioned to compete, evolve, and lead. The way forward is not just clear — it's energized."
+      }
+    },
+    "c5f5e2bf-db5e-4580-8675-9537ff296018": {
+      "teamId": "c5f5e2bf-db5e-4580-8675-9537ff296018",
+      "teamName": "The Sorters",
+      "teamIcon": "🗂️",
+      "chapterId": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/1774645292486-chapter3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Susan's Confidence in You"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-12T16:53:34.512Z",
+      "score": 89,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/option-3/1771884441086-Built_to_Thryve.webp",
+        "story": "Two months later... you retain three key roles—Denise and Thomas to preserve cross-functional continuity and Malek to bridge into digital and AI capabilities—while hiring leaders for AI and digital. Guardrails keep Malek aligned with orchestration, and AI supports briefs, versioning, and QA without breaking relationships. Launch coordination stabilizes, performance learning loops tighten, and the reset becomes a model for modernizing teams with clarity and dignity.",
+        "title": "Built to Thryve",
+        "description": "Your actions spark clarity, conviction, and alignment. The team understands not just what’s changing — but why. People feel seen, empowered, and focused. New capabilities are beginning to take hold, and Thryve’s marketing function is positioned to compete, evolve, and lead. The way forward is not just clear — it's energized."
+      }
+    },
+    "feb095e6-b8c5-46af-a79c-afe17877df9a": {
+      "teamId": "feb095e6-b8c5-46af-a79c-afe17877df9a",
+      "teamName": "Change Champions",
+      "teamIcon": "🚀",
+      "chapterId": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/1774645292486-chapter3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Susan's Confidence in You"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-12T16:53:45.806Z",
+      "score": 93,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/option-3/1771884441086-Built_to_Thryve.webp",
+        "story": "Two months later... you retain four IMC members to preserve proven execution and relationships, and add two hires in analytics, AI, and marketing strategy. A streamlined governance model clarifies decision rights and reduces approval-by-committee handoffs. A performance scorecard shifts focus from on-time assets to business impact, tracking cycle time and rework. Brands stop bypassing IMC steps as priorities narrow and creative quality rises, strengthening your influence.",
+        "title": "Built to Thryve",
+        "description": "Your actions spark clarity, conviction, and alignment. The team understands not just what’s changing — but why. People feel seen, empowered, and focused. New capabilities are beginning to take hold, and Thryve’s marketing function is positioned to compete, evolve, and lead. The way forward is not just clear — it's energized."
+      }
+    },
+    "e7e6f298-7eff-4836-9e10-b89985f07e31": {
+      "teamId": "e7e6f298-7eff-4836-9e10-b89985f07e31",
+      "teamName": "Director's Edge",
+      "teamIcon": "⚡",
+      "chapterId": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/1774645292486-chapter3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Susan's Confidence in You"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-12T16:53:46.021Z",
+      "score": 74,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/option-2/1771884433188-Alignment_in_Motion.webp",
+        "story": "Two months later... you implement partial retention, keeping content strategy and comms strength while adding an AI capability hire and an analytics lead. External expertise jump-starts AI-driven productivity as launch execution stays steady through clearer rescoping and fewer duplicated processes. Malek pilots test-and-learn dashboards, and Tasha expands into performance briefs. With coordination tightened, partners see faster decisions and measurable outcomes, strengthening your influence across the marketing realignment.",
+        "title": "Alignment in Motion",
+        "description": "The team is starting to gel. Communication is thoughtful, and team members are starting to operate with greater confidence and cohesion. There’s still work ahead, but momentum is building."
+      }
+    },
+    "0020a386-5e80-4833-aefd-c5484a798fe3": {
+      "teamId": "0020a386-5e80-4833-aefd-c5484a798fe3",
+      "teamName": "KeyPad",
+      "teamIcon": "🦄",
+      "chapterId": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/1774645292486-chapter3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Susan's Confidence in You"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-12T16:53:35.411Z",
+      "score": 73,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/option-2/1771884433188-Alignment_in_Motion.webp",
+        "story": "Two months later... you retain six marketers to stabilize campaign cadence while the group learns new tools and culture. You set clear expectations around measurable impact and modern capability, and you spotlight Tasha’s AI market-research work as it moves from experimentation into adoption. A senior performance analytics hire tightens dashboards and test-and-learn cycles. Coordination improves, duplication drops, and Brand teams follow the new operating rules more consistently.",
+        "title": "Alignment in Motion",
+        "description": "The team is starting to gel. Communication is thoughtful, and team members are starting to operate with greater confidence and cohesion. There’s still work ahead, but momentum is building."
+      }
+    }
+  },
+  "team_analyses_by_chapter": {
+    "d3cd96ca-75dd-4c4c-ac5b-00781690885d": {
+      "f9203828-adb7-422b-847e-d6de26099720": {
+        "teamId": "f9203828-adb7-422b-847e-d6de26099720",
+        "teamName": "Group 3",
+        "teamIcon": "🔶",
+        "chapterId": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d3cd96ca-75dd-4c4c-ac5b-00781690885d/1770036591679-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Ron's Endorsement of You",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-12T15:51:58.590Z",
+        "score": 76,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "ee9f7b53-0dd4-4d64-a2ae-3f69788bb3ed": {
+        "teamId": "ee9f7b53-0dd4-4d64-a2ae-3f69788bb3ed",
+        "teamName": "Purple Pathfinders",
+        "teamIcon": "🦄",
+        "chapterId": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d3cd96ca-75dd-4c4c-ac5b-00781690885d/1770036591679-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Ron's Endorsement of You",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-12T15:51:58.740Z",
+        "score": 82,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "15cfa537-600f-4678-86dc-b3217abfb302": {
+        "teamId": "15cfa537-600f-4678-86dc-b3217abfb302",
+        "teamName": "Learning Champions",
+        "teamIcon": "🏆",
+        "chapterId": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d3cd96ca-75dd-4c4c-ac5b-00781690885d/1770036591679-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Ron's Endorsement of You",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-12T15:51:54.900Z",
+        "score": 60,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "c5f5e2bf-db5e-4580-8675-9537ff296018": {
+        "teamId": "c5f5e2bf-db5e-4580-8675-9537ff296018",
+        "teamName": "The Sorters",
+        "teamIcon": "🗂️",
+        "chapterId": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d3cd96ca-75dd-4c4c-ac5b-00781690885d/1770036591679-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Ron's Endorsement of You",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-12T15:51:58.923Z",
+        "score": 70,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "feb095e6-b8c5-46af-a79c-afe17877df9a": {
+        "teamId": "feb095e6-b8c5-46af-a79c-afe17877df9a",
+        "teamName": "Change Champions",
+        "teamIcon": "🚀",
+        "chapterId": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d3cd96ca-75dd-4c4c-ac5b-00781690885d/1770036591679-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Ron's Endorsement of You",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-12T15:51:50.956Z",
+        "score": 64,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "e7e6f298-7eff-4836-9e10-b89985f07e31": {
+        "teamId": "e7e6f298-7eff-4836-9e10-b89985f07e31",
+        "teamName": "Director's Edge",
+        "teamIcon": "⚡",
+        "chapterId": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d3cd96ca-75dd-4c4c-ac5b-00781690885d/1770036591679-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Ron's Endorsement of You",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-12T15:51:50.347Z",
+        "score": 78,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "0020a386-5e80-4833-aefd-c5484a798fe3": {
+        "teamId": "0020a386-5e80-4833-aefd-c5484a798fe3",
+        "teamName": "KeyPad",
+        "teamIcon": "🦄",
+        "chapterId": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d3cd96ca-75dd-4c4c-ac5b-00781690885d/1770036591679-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Ron's Endorsement of You",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-12T15:51:55.161Z",
+        "score": 53,
+        "analysis": "$18",
+        "narrativeImpact": null
+      }
+    },
+    "d17bf175-83a9-4584-83ef-69ded065f999": {
+      "f9203828-adb7-422b-847e-d6de26099720": {
+        "teamId": "f9203828-adb7-422b-847e-d6de26099720",
+        "teamName": "Group 3",
+        "teamIcon": "🔶",
+        "chapterId": "d17bf175-83a9-4584-83ef-69ded065f999",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d17bf175-83a9-4584-83ef-69ded065f999/1770036609972-Chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-12T16:27:39.454Z",
+        "score": null,
+        "analysis": "You’re about to debrief with your cohort. Be prepared to discuss your reorganization prototype.",
+        "narrativeImpact": null
+      },
+      "ee9f7b53-0dd4-4d64-a2ae-3f69788bb3ed": {
+        "teamId": "ee9f7b53-0dd4-4d64-a2ae-3f69788bb3ed",
+        "teamName": "Purple Pathfinders",
+        "teamIcon": "🦄",
+        "chapterId": "d17bf175-83a9-4584-83ef-69ded065f999",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d17bf175-83a9-4584-83ef-69ded065f999/1770036609972-Chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-12T16:27:39.454Z",
+        "score": null,
+        "analysis": "You’re about to debrief with your cohort. Be prepared to discuss your reorganization prototype.",
+        "narrativeImpact": null
+      },
+      "15cfa537-600f-4678-86dc-b3217abfb302": {
+        "teamId": "15cfa537-600f-4678-86dc-b3217abfb302",
+        "teamName": "Learning Champions",
+        "teamIcon": "🏆",
+        "chapterId": "d17bf175-83a9-4584-83ef-69ded065f999",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d17bf175-83a9-4584-83ef-69ded065f999/1770036609972-Chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-12T16:27:39.455Z",
+        "score": null,
+        "analysis": "You’re about to debrief with your cohort. Be prepared to discuss your reorganization prototype.",
+        "narrativeImpact": null
+      },
+      "c5f5e2bf-db5e-4580-8675-9537ff296018": {
+        "teamId": "c5f5e2bf-db5e-4580-8675-9537ff296018",
+        "teamName": "The Sorters",
+        "teamIcon": "🗂️",
+        "chapterId": "d17bf175-83a9-4584-83ef-69ded065f999",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d17bf175-83a9-4584-83ef-69ded065f999/1770036609972-Chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-12T16:27:39.455Z",
+        "score": null,
+        "analysis": "You’re about to debrief with your cohort. Be prepared to discuss your reorganization prototype.",
+        "narrativeImpact": null
+      },
+      "feb095e6-b8c5-46af-a79c-afe17877df9a": {
+        "teamId": "feb095e6-b8c5-46af-a79c-afe17877df9a",
+        "teamName": "Change Champions",
+        "teamIcon": "🚀",
+        "chapterId": "d17bf175-83a9-4584-83ef-69ded065f999",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d17bf175-83a9-4584-83ef-69ded065f999/1770036609972-Chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-12T16:27:39.455Z",
+        "score": null,
+        "analysis": "You’re about to debrief with your cohort. Be prepared to discuss your reorganization prototype.",
+        "narrativeImpact": null
+      },
+      "e7e6f298-7eff-4836-9e10-b89985f07e31": {
+        "teamId": "e7e6f298-7eff-4836-9e10-b89985f07e31",
+        "teamName": "Director's Edge",
+        "teamIcon": "⚡",
+        "chapterId": "d17bf175-83a9-4584-83ef-69ded065f999",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d17bf175-83a9-4584-83ef-69ded065f999/1770036609972-Chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-12T16:27:39.455Z",
+        "score": null,
+        "analysis": "You’re about to debrief with your cohort. Be prepared to discuss your reorganization prototype.",
+        "narrativeImpact": null
+      },
+      "0020a386-5e80-4833-aefd-c5484a798fe3": {
+        "teamId": "0020a386-5e80-4833-aefd-c5484a798fe3",
+        "teamName": "KeyPad",
+        "teamIcon": "🦄",
+        "chapterId": "d17bf175-83a9-4584-83ef-69ded065f999",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d17bf175-83a9-4584-83ef-69ded065f999/1770036609972-Chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-12T16:27:39.455Z",
+        "score": null,
+        "analysis": "You’re about to debrief with your cohort. Be prepared to discuss your reorganization prototype.",
+        "narrativeImpact": null
+      }
+    },
+    "a55c16e8-0e97-47ee-8052-b5b571ca26d9": {
+      "f9203828-adb7-422b-847e-d6de26099720": {
+        "teamId": "f9203828-adb7-422b-847e-d6de26099720",
+        "teamName": "Group 3",
+        "teamIcon": "🔶",
+        "chapterId": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/1774645292486-chapter3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Susan's Confidence in You"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-12T16:53:36.896Z",
+        "score": 84,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/option-2/1771884433188-Alignment_in_Motion.webp",
+          "story": "Two months later... your retained core keeps delivery tight while two new capability hires stand up analytics and AI-enabled content workflows. Malek partners with the new expert to set standards, and Elena takes on operational metrics and reporting. Tasha stabilizes stakeholder relationships as roles clarify and approvals shrink. Campaigns run with test-and-learn KPIs, and messaging coherence improves. Your influence grows as governance enables speed without sacrificing quality.",
+          "title": "Alignment in Motion",
+          "description": "The team is starting to gel. Communication is thoughtful, and team members are starting to operate with greater confidence and cohesion. There’s still work ahead, but momentum is building."
+        }
+      },
+      "ee9f7b53-0dd4-4d64-a2ae-3f69788bb3ed": {
+        "teamId": "ee9f7b53-0dd4-4d64-a2ae-3f69788bb3ed",
+        "teamName": "Purple Pathfinders",
+        "teamIcon": "🦄",
+        "chapterId": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/1774645292486-chapter3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Susan's Confidence in You"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-12T16:53:45.770Z",
+        "score": 96,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/option-3/1771884441086-Built_to_Thryve.webp",
+          "story": "Two months later... you implement a three-tower structure, keeping six IMC incumbents while reshuffling responsibilities and setting KPI-based accountability. Malek leads modernization with Elena and Tasha, supported by an external partner and IT for GenAI and analytics capability transfer. Thomas, Denise, and Leo stabilize launches through a single intake and clear campaign ownership. Early proof points—faster content iteration and cleaner performance reporting—raise confidence and strengthen your influence across Brand.",
+          "title": "Built to Thryve",
+          "description": "Your actions spark clarity, conviction, and alignment. The team understands not just what’s changing — but why. People feel seen, empowered, and focused. New capabilities are beginning to take hold, and Thryve’s marketing function is positioned to compete, evolve, and lead. The way forward is not just clear — it's energized."
+        }
+      },
+      "15cfa537-600f-4678-86dc-b3217abfb302": {
+        "teamId": "15cfa537-600f-4678-86dc-b3217abfb302",
+        "teamName": "Learning Champions",
+        "teamIcon": "🏆",
+        "chapterId": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/1774645292486-chapter3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Susan's Confidence in You"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-12T16:53:41.371Z",
+        "score": 85,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/option-3/1771884441086-Built_to_Thryve.webp",
+          "story": "Two months later... you keep IMC operational continuity while modernizing: two new hires accelerate AI-assisted content and data-driven analytics, and legacy coordination strengths stabilize campaign delivery. Upskilling happens through real measurement work, pairing performance-curious contributors with campaign readouts. Expectations to grow and deliver results become concrete in weekly reporting and faster test-and-learn cycles. Brand leaders see tighter alignment, and you’re pulled into broader transformation work.",
+          "title": "Built to Thryve",
+          "description": "Your actions spark clarity, conviction, and alignment. The team understands not just what’s changing — but why. People feel seen, empowered, and focused. New capabilities are beginning to take hold, and Thryve’s marketing function is positioned to compete, evolve, and lead. The way forward is not just clear — it's energized."
+        }
+      },
+      "c5f5e2bf-db5e-4580-8675-9537ff296018": {
+        "teamId": "c5f5e2bf-db5e-4580-8675-9537ff296018",
+        "teamName": "The Sorters",
+        "teamIcon": "🗂️",
+        "chapterId": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/1774645292486-chapter3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Susan's Confidence in You"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-12T16:53:34.512Z",
+        "score": 89,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/option-3/1771884441086-Built_to_Thryve.webp",
+          "story": "Two months later... you retain three key roles—Denise and Thomas to preserve cross-functional continuity and Malek to bridge into digital and AI capabilities—while hiring leaders for AI and digital. Guardrails keep Malek aligned with orchestration, and AI supports briefs, versioning, and QA without breaking relationships. Launch coordination stabilizes, performance learning loops tighten, and the reset becomes a model for modernizing teams with clarity and dignity.",
+          "title": "Built to Thryve",
+          "description": "Your actions spark clarity, conviction, and alignment. The team understands not just what’s changing — but why. People feel seen, empowered, and focused. New capabilities are beginning to take hold, and Thryve’s marketing function is positioned to compete, evolve, and lead. The way forward is not just clear — it's energized."
+        }
+      },
+      "feb095e6-b8c5-46af-a79c-afe17877df9a": {
+        "teamId": "feb095e6-b8c5-46af-a79c-afe17877df9a",
+        "teamName": "Change Champions",
+        "teamIcon": "🚀",
+        "chapterId": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/1774645292486-chapter3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Susan's Confidence in You"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-12T16:53:45.806Z",
+        "score": 93,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/option-3/1771884441086-Built_to_Thryve.webp",
+          "story": "Two months later... you retain four IMC members to preserve proven execution and relationships, and add two hires in analytics, AI, and marketing strategy. A streamlined governance model clarifies decision rights and reduces approval-by-committee handoffs. A performance scorecard shifts focus from on-time assets to business impact, tracking cycle time and rework. Brands stop bypassing IMC steps as priorities narrow and creative quality rises, strengthening your influence.",
+          "title": "Built to Thryve",
+          "description": "Your actions spark clarity, conviction, and alignment. The team understands not just what’s changing — but why. People feel seen, empowered, and focused. New capabilities are beginning to take hold, and Thryve’s marketing function is positioned to compete, evolve, and lead. The way forward is not just clear — it's energized."
+        }
+      },
+      "e7e6f298-7eff-4836-9e10-b89985f07e31": {
+        "teamId": "e7e6f298-7eff-4836-9e10-b89985f07e31",
+        "teamName": "Director's Edge",
+        "teamIcon": "⚡",
+        "chapterId": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/1774645292486-chapter3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Susan's Confidence in You"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-12T16:53:46.021Z",
+        "score": 74,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/option-2/1771884433188-Alignment_in_Motion.webp",
+          "story": "Two months later... you implement partial retention, keeping content strategy and comms strength while adding an AI capability hire and an analytics lead. External expertise jump-starts AI-driven productivity as launch execution stays steady through clearer rescoping and fewer duplicated processes. Malek pilots test-and-learn dashboards, and Tasha expands into performance briefs. With coordination tightened, partners see faster decisions and measurable outcomes, strengthening your influence across the marketing realignment.",
+          "title": "Alignment in Motion",
+          "description": "The team is starting to gel. Communication is thoughtful, and team members are starting to operate with greater confidence and cohesion. There’s still work ahead, but momentum is building."
+        }
+      },
+      "0020a386-5e80-4833-aefd-c5484a798fe3": {
+        "teamId": "0020a386-5e80-4833-aefd-c5484a798fe3",
+        "teamName": "KeyPad",
+        "teamIcon": "🦄",
+        "chapterId": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/1774645292486-chapter3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Susan's Confidence in You"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-12T16:53:35.411Z",
+        "score": 73,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a55c16e8-0e97-47ee-8052-b5b571ca26d9/option-2/1771884433188-Alignment_in_Motion.webp",
+          "story": "Two months later... you retain six marketers to stabilize campaign cadence while the group learns new tools and culture. You set clear expectations around measurable impact and modern capability, and you spotlight Tasha’s AI market-research work as it moves from experimentation into adoption. A senior performance analytics hire tightens dashboards and test-and-learn cycles. Coordination improves, duplication drops, and Brand teams follow the new operating rules more consistently.",
+          "title": "Alignment in Motion",
+          "description": "The team is starting to gel. Communication is thoughtful, and team members are starting to operate with greater confidence and cohesion. There’s still work ahead, but momentum is building."
+        }
+      }
+    }
+  },
+  "chapter_timings": {
+    "d3cd96ca-75dd-4c4c-ac5b-00781690885d": {
+      "started_at": "2026-05-12T15:31:58.651Z",
+      "ended_at": "2026-05-12T15:51:11.692Z"
+    },
+    "d17bf175-83a9-4584-83ef-69ded065f999": {
+      "started_at": "2026-05-12T16:14:41.508Z",
+      "ended_at": "2026-05-12T16:27:39.419Z"
+    },
+    "a55c16e8-0e97-47ee-8052-b5b571ca26d9": {
+      "started_at": "2026-05-12T16:35:07.850Z",
+      "ended_at": "2026-05-12T16:53:00.707Z"
+    }
+  },
+  "events": [
+    {
+      "id": "23c2d627-29fd-4034-b37e-b5050d2d8e63",
+      "chapter_id": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 1: Chapter 1: Survive... or Thryve? has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-12T15:31:58.651Z",
+      "updated_at": "2026-05-12T15:31:58.651Z"
+    },
+    {
+      "id": "25796183-0af8-4006-ad86-bd897fa734c1",
+      "chapter_id": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams play the role of a new leader of the Brand Marketing team at Thryve, a global consumer packaged goods company. Just before their start date, the leader of the Integrated Marketing Communications (IMC) team was promoted, and a decision was made to roll up the IMC team's functionality under Brand Marketing. The IMC team has 8 members, but teams only have headcount for 6. They must ultimately decide whether to eliminate the IMC team entirely, to keep some members and to use the remaining available headcount for new hires, or to keep 6 members of the IMC team and delay additional hiring. In this first chapter, teams interview Ron, the former leader of the IMC team, to get his perspective.\n\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams explore how the IMC team's structure and responsibilities align with the organization's overall goals?\n<li>Do they explore the structural implications of their decision? \n<li>Do they surface any potential skill and capability gaps?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-12T15:32:12.026Z",
+      "updated_at": "2026-05-12T15:32:12.028Z"
+    },
+    {
+      "id": "2d9b4438-fd7b-496a-93ea-0ee617bd3459",
+      "chapter_id": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-12T15:33:36.022Z",
+      "updated_at": "2026-05-12T15:33:36.024Z"
+    },
+    {
+      "id": "1fca6b8f-5c6a-4600-8dd1-8de1f0ffe44f",
+      "chapter_id": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+      "type": "CASE_PROGRESS",
+      "content": "1 team has explored all of the available resources.\n<br><br>\nThese teams have not yet explored all of the resources: <b>Learning Champions, Change Champions, Group 3, The Sorters, KeyPad, Director's Edge</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$52",
+          "inputTokens": 1939,
+          "rawResponse": "1 team has explored all of the available resources.\n<br><br>\nThese teams have not yet explored all of the resources: <b>Learning Champions, Change Champions, Group 3, The Sorters, KeyPad, Director's Edge</b>.",
+          "outputTokens": 61,
+          "systemPrompt": "$53",
+          "dataContextLength": 4287
+        }
+      },
+      "created_at": "2026-05-12T15:35:00.197Z",
+      "updated_at": "2026-05-12T15:35:02.876Z"
+    },
+    {
+      "id": "5e308e12-2fef-47bf-bbb4-47587db9fce9",
+      "chapter_id": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+      "type": "CASE_PROGRESS",
+      "content": "3 teams have started their conversations with Ron.\n<br><br>\nThese teams have not yet started the conversation: <b>Learning Champions, Change Champions, The Sorters, KeyPad</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$50",
+          "inputTokens": 1840,
+          "rawResponse": "3 teams have started their conversations with Ron.\n<br><br>\nThese teams have not yet started the conversation: <b>Learning Champions, Change Champions, The Sorters, KeyPad</b>.",
+          "outputTokens": 50,
+          "systemPrompt": "$51",
+          "dataContextLength": 4281
+        }
+      },
+      "created_at": "2026-05-12T15:36:36.022Z",
+      "updated_at": "2026-05-12T15:36:39.188Z"
+    },
+    {
+      "id": "48d98da6-1c66-4829-84d5-7085febfafa5",
+      "chapter_id": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Initial Focus of Conversations:</b>\nTeams are asking Ron about his rationale for different restructuring options, his recommendation, concerns about talent fit, and team morale during the transition.\n<br><br>\n<i>Reviewing 5 active conversations.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$4e",
+          "inputTokens": 2207,
+          "rawResponse": "<b>Initial Focus of Conversations:</b>\nTeams are asking Ron about his rationale for different restructuring options, his recommendation, concerns about talent fit, and team morale during the transition.\n<br><br>\n<i>Reviewing 5 active conversations.</i>",
+          "outputTokens": 65,
+          "systemPrompt": "$4f",
+          "dataContextLength": 4992
+        }
+      },
+      "created_at": "2026-05-12T15:38:00.100Z",
+      "updated_at": "2026-05-12T15:38:05.006Z"
+    },
+    {
+      "id": "35e54e67-dd2f-40b9-85f6-a813eb092a68",
+      "chapter_id": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to remind participants: <br><br>\n<i>Keep going! The more you ask Ron, the more information you'll learn.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-12T15:39:36.020Z",
+      "updated_at": "2026-05-12T15:39:36.022Z"
+    },
+    {
+      "id": "327acfa2-dafe-4da8-9d23-41e6d67cffdb",
+      "chapter_id": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+      "type": "CASE_PROGRESS",
+      "content": "This chapter does not contain any unlockable resources.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$46",
+          "inputTokens": 1888,
+          "rawResponse": "This chapter does not contain any unlockable resources.",
+          "outputTokens": 14,
+          "systemPrompt": "$47",
+          "dataContextLength": 4279
+        }
+      },
+      "created_at": "2026-05-12T15:44:48.039Z",
+      "updated_at": "2026-05-12T15:44:50.169Z"
+    },
+    {
+      "id": "2f883df0-e75e-4a7b-ab88-3c2f5ac47f8a",
+      "chapter_id": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Conversation Summary:</b> Teams have been focused on team stability, emotional impact, and individual skill assessments, with limited exploration of strategic fit or structural implications for Brand Marketing's future workflow.\n\n<br><br>\n\n<b>A possible area of strength for this group is...</b> surfacing skill and capability gaps—most teams identified Malek's data fluency and explored who fits future analytics needs.\n\n<br><br>\n\n<b>A possible gap is...</b> strategic alignment and structural design. Few teams explored how roles support marketing strategy, post-decision collaboration models, or real-world tradeoffs between continuity and modernization.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$44",
+          "inputTokens": 7231,
+          "rawResponse": "<b>Conversation Summary:</b> Teams have been focused on team stability, emotional impact, and individual skill assessments, with limited exploration of strategic fit or structural implications for Brand Marketing's future workflow.\n\n<br><br>\n\n<b>A possible area of strength for this group is...</b> surfacing skill and capability gaps—most teams identified Malek's data fluency and explored who fits future analytics needs.\n\n<br><br>\n\n<b>A possible gap is...</b> strategic alignment and structural design. Few teams explored how roles support marketing strategy, post-decision collaboration models, or real-world tradeoffs between continuity and modernization.",
+          "outputTokens": 144,
+          "systemPrompt": "$45",
+          "dataContextLength": 22364
+        }
+      },
+      "created_at": "2026-05-12T15:45:36.023Z",
+      "updated_at": "2026-05-12T15:45:41.610Z"
+    },
+    {
+      "id": "0d87c5d3-9bb1-4ce6-b718-c7f8e763a843",
+      "chapter_id": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Reminder:</b> Move teams to the Decision now.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-12T15:47:00.165Z",
+      "updated_at": "2026-05-12T15:47:00.174Z"
+    },
+    {
+      "id": "2ecdbc99-1efa-4e0d-a277-031cb73372c8",
+      "chapter_id": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by +1 min — 1 min remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": 60
+      },
+      "created_at": "2026-05-12T15:47:01.756Z",
+      "updated_at": "2026-05-12T15:47:01.756Z"
+    },
+    {
+      "id": "a2c5c8e7-d6b7-4c02-8bcc-9c0f6320178a",
+      "chapter_id": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>We are now moving you to a decision and your conversations will end automatically.</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "7ba45ea3-b951-419e-85c6-a72dba1de4fb"
+      },
+      "created_at": "2026-05-12T15:47:59.176Z",
+      "updated_at": "2026-05-12T15:47:59.176Z"
+    },
+    {
+      "id": "50f64278-ef02-480f-9379-b9c688df885a",
+      "chapter_id": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+      "type": "STARTING_MESSAGE",
+      "content": "Decision phase has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "decision_started"
+      },
+      "created_at": "2026-05-12T15:48:06.568Z",
+      "updated_at": "2026-05-12T15:48:06.568Z"
+    },
+    {
+      "id": "222bc535-cf6e-4b19-85ea-cb3a7569ad83",
+      "chapter_id": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Decision Time!</b> Teams must choose from one of these options: <ul>\n<li>Eliminate the IMC team, use headcount to establish 6 new capability hires.\n<li>Retain several IMC team members and use remaining headcount to hire select new capability roles.\n<li>Retain 6 IMC team members and delay new capability hiring.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-12T15:48:12.021Z",
+      "updated_at": "2026-05-12T15:48:12.023Z"
+    },
+    {
+      "id": "b86bce2f-a130-4e46-93b4-33dc346bc1fd",
+      "chapter_id": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+      "type": "CASE_PROGRESS",
+      "content": "7 teams have started making their decision.\n<br><br>\nAll teams have begun entering their decisions.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CUSTOM_VARIABLE",
+          "userPrompt": "$42",
+          "inputTokens": 913,
+          "rawResponse": "7 teams have started making their decision.\n<br><br>\nAll teams have begun entering their decisions.",
+          "outputTokens": 28,
+          "systemPrompt": "$43",
+          "dataContextLength": 858
+        }
+      },
+      "created_at": "2026-05-12T15:49:12.019Z",
+      "updated_at": "2026-05-12T15:49:14.534Z"
+    },
+    {
+      "id": "acb764a6-af4a-42b0-9391-c183950049de",
+      "chapter_id": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>One more minute to finalize decisions if you have not already</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "d9f6afbd-9303-4e67-8c80-c18ea11ca9a8"
+      },
+      "created_at": "2026-05-12T15:50:24.335Z",
+      "updated_at": "2026-05-12T15:50:24.335Z"
+    },
+    {
+      "id": "47b06cdf-1dd0-462a-b9b1-88f656362165",
+      "chapter_id": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Decision Summary:</b> Here is how teams are leaning so far: <ul>\n<li>0 teams are choosing to eliminate the IMC team\n<li>6 teams are choosing to retain some members of the IMC team and make some new hires\n<li>1 team is choosing to retain 6 members of the IMC team\n</ul>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CUSTOM_VARIABLE",
+          "userPrompt": "$40",
+          "inputTokens": 907,
+          "rawResponse": "<b>Decision Summary:</b> Here is how teams are leaning so far: <ul>\n<li>0 teams are choosing to eliminate the IMC team\n<li>6 teams are choosing to retain some members of the IMC team and make some new hires\n<li>1 team is choosing to retain 6 members of the IMC team\n</ul>",
+          "outputTokens": 87,
+          "systemPrompt": "$41",
+          "dataContextLength": 858
+        }
+      },
+      "created_at": "2026-05-12T15:51:00.163Z",
+      "updated_at": "2026-05-12T15:51:02.665Z"
+    },
+    {
+      "id": "f6b81800-e6d2-4d40-85e1-67181cddad64",
+      "chapter_id": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-12T15:51:11.687Z",
+      "updated_at": "2026-05-12T15:51:11.687Z"
+    },
+    {
+      "id": "30a4acf0-35aa-45db-9d91-09b7f7e7eb40",
+      "chapter_id": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 1 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-12T15:51:11.692Z",
+      "updated_at": "2026-05-12T15:51:11.692Z"
+    },
+    {
+      "id": "b3c86c06-10f6-420a-883d-354ae6625902",
+      "chapter_id": "d3cd96ca-75dd-4c4c-ac5b-00781690885d",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>Take a moment to review your feedback</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "3d19ab27-2ffd-4a1a-b1ec-0b13e4b3e041"
+      },
+      "created_at": "2026-05-12T15:51:21.306Z",
+      "updated_at": "2026-05-12T15:51:21.306Z"
+    },
+    {
+      "id": "eb9f3ef3-0f5e-4b1d-8daf-c10a3bdf157b",
+      "chapter_id": "d17bf175-83a9-4584-83ef-69ded065f999",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 2: Chapter 2: Built to Thryve. has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-12T16:14:41.508Z",
+      "updated_at": "2026-05-12T16:14:41.508Z"
+    },
+    {
+      "id": "5536bcfb-62b0-45c8-afad-f90221e37dc6",
+      "chapter_id": "d17bf175-83a9-4584-83ef-69ded065f999",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams now use a tool to build the new organizational structure of their department. They must decide which team members from IMC to bring over to Brand Marketing, and which to send to HR for reassignment elsewhere in the company. Teams have access to Ron still if they have any followup questions.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams make their decision on time within the tool?\n<li>Do teams have a clear rationale for their decision? (You might need to listen in on conversations to discover this.)",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-12T16:15:00.143Z",
+      "updated_at": "2026-05-12T16:15:00.162Z"
+    },
+    {
+      "id": "6f440bb2-d48b-403a-be69-f86dc1f3b08e",
+      "chapter_id": "d17bf175-83a9-4584-83ef-69ded065f999",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-12T16:16:00.113Z",
+      "updated_at": "2026-05-12T16:16:00.128Z"
+    },
+    {
+      "id": "4d63fe6b-9eaf-47d9-8770-6f6f4152c0b0",
+      "chapter_id": "d17bf175-83a9-4584-83ef-69ded065f999",
+      "type": "CASE_PROGRESS",
+      "content": "7 teams have explored all of the available resources.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$3e",
+          "inputTokens": 1666,
+          "rawResponse": "7 teams have explored all of the available resources.",
+          "outputTokens": 15,
+          "systemPrompt": "$3f",
+          "dataContextLength": 3274
+        }
+      },
+      "created_at": "2026-05-12T16:17:12.021Z",
+      "updated_at": "2026-05-12T16:17:14.130Z"
+    },
+    {
+      "id": "7e17c70c-dd8c-4c09-ad64-bebc4d5e2a1d",
+      "chapter_id": "d17bf175-83a9-4584-83ef-69ded065f999",
+      "type": "CASE_PROGRESS",
+      "content": "1 team has started assigning allocations in the Reorganization Prototype Tool.\n<br><br>\nThese teams have not yet started it: <b>Learning Champions, Change Champions, Group 3, The Sorters, KeyPad, Purple Pathfinders</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$3c",
+          "inputTokens": 1577,
+          "rawResponse": "1 team has started assigning allocations in the Reorganization Prototype Tool.\n<br><br>\nThese teams have not yet started it: <b>Learning Champions, Change Champions, Group 3, The Sorters, KeyPad, Purple Pathfinders</b>.",
+          "outputTokens": 67,
+          "systemPrompt": "$3d",
+          "dataContextLength": 3272
+        }
+      },
+      "created_at": "2026-05-12T16:18:24.021Z",
+      "updated_at": "2026-05-12T16:18:26.530Z"
+    },
+    {
+      "id": "645aa2d7-3492-4a41-aed8-74575a47eb9c",
+      "chapter_id": "d17bf175-83a9-4584-83ef-69ded065f999",
+      "type": "CASE_PROGRESS",
+      "content": "2 teams have started the optional conversation with Ron.\n<br><br>\nThese teams have not yet started the discussion: <b>Change Champions, Group 3, The Sorters, KeyPad, Purple Pathfinders</b>.<br>\nNote that the conversation is entirely optional.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$3a",
+          "inputTokens": 1579,
+          "rawResponse": "2 teams have started the optional conversation with Ron.\n<br><br>\nThese teams have not yet started the discussion: <b>Change Champions, Group 3, The Sorters, KeyPad, Purple Pathfinders</b>.<br>\nNote that the conversation is entirely optional.",
+          "outputTokens": 70,
+          "systemPrompt": "$3b",
+          "dataContextLength": 3272
+        }
+      },
+      "created_at": "2026-05-12T16:19:00.086Z",
+      "updated_at": "2026-05-12T16:19:02.595Z"
+    },
+    {
+      "id": "aa08d246-d695-4c7f-9e33-09960601308d",
+      "chapter_id": "d17bf175-83a9-4584-83ef-69ded065f999",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Initial Focus of Conversations:</b> \nTeams are asking about individual performance capabilities and comparing team members for the new structure.\n<br><br>\n<i>Reviewing 2 active conversations.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$38",
+          "inputTokens": 1438,
+          "rawResponse": "<b>Initial Focus of Conversations:</b> \nTeams are asking about individual performance capabilities and comparing team members for the new structure.\n<br><br>\n<i>Reviewing 2 active conversations.</i>",
+          "outputTokens": 52,
+          "systemPrompt": "$39",
+          "dataContextLength": 2627
+        }
+      },
+      "created_at": "2026-05-12T16:19:36.022Z",
+      "updated_at": "2026-05-12T16:19:38.687Z"
+    },
+    {
+      "id": "e8ac1f28-4343-48c7-a44b-2bf47ce31b76",
+      "chapter_id": "d17bf175-83a9-4584-83ef-69ded065f999",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to remind participants: <br><br>\n<i>Make sure to enter your decisions in the tool! Ask Ron any followup questions if you need to.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-12T16:20:48.019Z",
+      "updated_at": "2026-05-12T16:20:48.022Z"
+    },
+    {
+      "id": "28843947-e06a-484c-bf1a-a44b18e9f689",
+      "chapter_id": "d17bf175-83a9-4584-83ef-69ded065f999",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Conversation Summary:</b> Teams are asking targeted questions about individual performance, adaptability, and tech skills—but not exploring broader strategy, structure implications, or skill gaps systematically.\n\n<i>Reviewing 4 active conversations. 0 out of 4 have explored a wide range of business areas.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$36",
+          "inputTokens": 2282,
+          "rawResponse": "<b>Conversation Summary:</b> Teams are asking targeted questions about individual performance, adaptability, and tech skills—but not exploring broader strategy, structure implications, or skill gaps systematically.\n\n<i>Reviewing 4 active conversations. 0 out of 4 have explored a wide range of business areas.</i>",
+          "outputTokens": 74,
+          "systemPrompt": "$37",
+          "dataContextLength": 4934
+        }
+      },
+      "created_at": "2026-05-12T16:22:00.050Z",
+      "updated_at": "2026-05-12T16:22:03.099Z"
+    },
+    {
+      "id": "085c8213-e311-4c06-b5b9-0e7f172de436",
+      "chapter_id": "d17bf175-83a9-4584-83ef-69ded065f999",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Strategy Exploration:</b> 0 conversations have asked questions that will help them to understand the strategy of the overall organization or of the marketing department specifically.<br><br>\n\n<i>Reviewing 4 active conversations.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$34",
+          "inputTokens": 2540,
+          "rawResponse": "<b>Strategy Exploration:</b> 0 conversations have asked questions that will help them to understand the strategy of the overall organization or of the marketing department specifically.<br><br>\n\n<i>Reviewing 4 active conversations.</i>",
+          "outputTokens": 56,
+          "systemPrompt": "$35",
+          "dataContextLength": 5510
+        }
+      },
+      "created_at": "2026-05-12T16:23:12.020Z",
+      "updated_at": "2026-05-12T16:23:14.613Z"
+    },
+    {
+      "id": "721323fa-351c-45b8-a8d1-2e97a429d463",
+      "chapter_id": "d17bf175-83a9-4584-83ef-69ded065f999",
+      "type": "CASE_PROGRESS",
+      "content": "This chapter does not contain any unlockable resources.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$30",
+          "inputTokens": 1615,
+          "rawResponse": "This chapter does not contain any unlockable resources.",
+          "outputTokens": 14,
+          "systemPrompt": "$31",
+          "dataContextLength": 3269
+        }
+      },
+      "created_at": "2026-05-12T16:25:00.125Z",
+      "updated_at": "2026-05-12T16:25:02.092Z"
+    },
+    {
+      "id": "fe623878-9ae4-45df-a056-158d19da94f8",
+      "chapter_id": "d17bf175-83a9-4584-83ef-69ded065f999",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Decisions So Far:</b>\n<ul>\n<li>4 teams have brought Tasha to Brand Marketing</li>\n<li>6 teams have brought Malek to Brand Marketing</li>\n<li>4 teams have brought Thomas to Brand Marketing</li>\n<li>4 teams have brought Denise to Brand Marketing</li>\n<li>2 teams have brought Leo to Brand Marketing</li>\n<li>3 teams have brought Jules to Brand Marketing</li>\n<li>1 team has brought Brian to Brand Marketing</li>\n<li>3 teams have brought Elena to Brand Marketing</li>\n</ul>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CUSTOM_VARIABLE",
+          "userPrompt": "$2e",
+          "inputTokens": 7671,
+          "rawResponse": "<b>Decisions So Far:</b>\n<ul>\n<li>4 teams have brought Tasha to Brand Marketing</li>\n<li>6 teams have brought Malek to Brand Marketing</li>\n<li>4 teams have brought Thomas to Brand Marketing</li>\n<li>4 teams have brought Denise to Brand Marketing</li>\n<li>2 teams have brought Leo to Brand Marketing</li>\n<li>3 teams have brought Jules to Brand Marketing</li>\n<li>1 team has brought Brian to Brand Marketing</li>\n<li>3 teams have brought Elena to Brand Marketing</li>\n</ul>",
+          "outputTokens": 155,
+          "systemPrompt": "$2f",
+          "dataContextLength": 21031
+        }
+      },
+      "created_at": "2026-05-12T16:25:36.025Z",
+      "updated_at": "2026-05-12T16:25:40.116Z"
+    },
+    {
+      "id": "fcd23d45-7c78-4551-8d19-d7c04c3c74c0",
+      "chapter_id": "d17bf175-83a9-4584-83ef-69ded065f999",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Debrief Reminder:</b> Keep this debrief quick! <ul>\n<li> Show <b><i>Approaches</b></i> in the Debrief tools to highlight how many IMC team members each group chose to retain.\n<li> If time allows, use <b><i>Reflections</b></i> to ask \"What are the biggest risks to your design choice?\"",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-12T16:26:48.023Z",
+      "updated_at": "2026-05-12T16:26:48.025Z"
+    },
+    {
+      "id": "31eca684-e9ab-4ce8-8d3a-16e3c5329d6d",
+      "chapter_id": "d17bf175-83a9-4584-83ef-69ded065f999",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-12T16:27:39.413Z",
+      "updated_at": "2026-05-12T16:27:39.413Z"
+    },
+    {
+      "id": "c4a924a7-255d-477e-aaaf-bbbe25c34fa1",
+      "chapter_id": "d17bf175-83a9-4584-83ef-69ded065f999",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 2 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-12T16:27:39.419Z",
+      "updated_at": "2026-05-12T16:27:39.419Z"
+    },
+    {
+      "id": "ae75a653-433c-41f4-990f-7dd2f3255404",
+      "chapter_id": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 3: Chapter 3: Time to Thryve! has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-12T16:35:07.850Z",
+      "updated_at": "2026-05-12T16:35:07.850Z"
+    },
+    {
+      "id": "618665fd-83d6-483e-a5d6-44b2fa75343d",
+      "chapter_id": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams meet with their boss, Susan, to explain their recommendation. Susan will push teams to articulate how their approach connects to Thryve's strategy, structure, and skill needs.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do they discuss how to implement their plan (communication, clarifying roles, supporting affected team members)?\n<li>Do they discuss what their decision will mean for people or work that is impacted (emotions, performance, team culture)?\n<li>Do teams explore what their recommendation says about their priorities, values, or leadership style?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-12T16:35:24.042Z",
+      "updated_at": "2026-05-12T16:35:24.046Z"
+    },
+    {
+      "id": "596a19ed-4658-40fa-8a2b-2b14bef21a9a",
+      "chapter_id": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-12T16:36:48.020Z",
+      "updated_at": "2026-05-12T16:36:48.021Z"
+    },
+    {
+      "id": "a1c3b47d-09b6-4f81-a719-8c5917474dba",
+      "chapter_id": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "type": "CASE_PROGRESS",
+      "content": "7 teams have explored all of the available resources.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$2c",
+          "inputTokens": 1547,
+          "rawResponse": "7 teams have explored all of the available resources.",
+          "outputTokens": 15,
+          "systemPrompt": "$2d",
+          "dataContextLength": 2870
+        }
+      },
+      "created_at": "2026-05-12T16:38:12.029Z",
+      "updated_at": "2026-05-12T16:38:14.307Z"
+    },
+    {
+      "id": "eb5a7f9e-af6a-4195-91b2-5be0ddaa88d7",
+      "chapter_id": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "type": "CASE_PROGRESS",
+      "content": "6 teams have started their conversations with Susan.\n<br><br>\nThis team has not yet started the conversation: <b>Director's Edge</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$2a",
+          "inputTokens": 1448,
+          "rawResponse": "6 teams have started their conversations with Susan.\n<br><br>\nThis team has not yet started the conversation: <b>Director's Edge</b>.",
+          "outputTokens": 39,
+          "systemPrompt": "$2b",
+          "dataContextLength": 2869
+        }
+      },
+      "created_at": "2026-05-12T16:39:48.035Z",
+      "updated_at": "2026-05-12T16:39:51.046Z"
+    },
+    {
+      "id": "b8f0b1b9-cc12-4550-86f3-e022410c7436",
+      "chapter_id": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Initial Focus of Conversations:</b><br>\nTeams are discussing team retention strategies, balancing continuity with new digital/AI capabilities, and aligning skillsets to Thryve's growth goals.\n<br><br>\n<i>I am reviewing 7 active conversations.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$28",
+          "inputTokens": 3973,
+          "rawResponse": "<b>Initial Focus of Conversations:</b><br>\nTeams are discussing team retention strategies, balancing continuity with new digital/AI capabilities, and aligning skillsets to Thryve's growth goals.\n<br><br>\n<i>I am reviewing 7 active conversations.</i>",
+          "outputTokens": 70,
+          "systemPrompt": "$29",
+          "dataContextLength": 11861
+        }
+      },
+      "created_at": "2026-05-12T16:41:12.021Z",
+      "updated_at": "2026-05-12T16:41:15.100Z"
+    },
+    {
+      "id": "63154fed-cb22-419b-b022-af50bce22772",
+      "chapter_id": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to remind participants: <br><br>\n<i>Keep going! Make sure to articulate how your recommendation impacts Thryve's strategy, structure, and skill needs.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-12T16:42:48.020Z",
+      "updated_at": "2026-05-12T16:42:48.022Z"
+    },
+    {
+      "id": "5c882e4a-f87c-4469-9590-9c1f9a84ae15",
+      "chapter_id": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Implementation:</b> 0 teams have discussed how to implement their plan (communication, clarifying roles, supporting affected team members).<br><br>\n\n<i>7 conversations are being reviewed.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$26",
+          "inputTokens": 6672,
+          "rawResponse": "<b>Implementation:</b> 0 teams have discussed how to implement their plan (communication, clarifying roles, supporting affected team members).<br><br>\n\n<i>7 conversations are being reviewed.</i>",
+          "outputTokens": 51,
+          "systemPrompt": "$27",
+          "dataContextLength": 21149
+        }
+      },
+      "created_at": "2026-05-12T16:44:12.019Z",
+      "updated_at": "2026-05-12T16:44:15.013Z"
+    },
+    {
+      "id": "48b7d43a-0ead-45b8-b5f7-d2dc9b13c426",
+      "chapter_id": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Awareness of Impact:</b> 0 teams have discussed what their decision will mean for people or work that is impacted (emotions, performance, team culture).<br><br>\n\n<i>Reviewing 7 active conversations.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$24",
+          "inputTokens": 7804,
+          "rawResponse": "<b>Awareness of Impact:</b> 0 teams have discussed what their decision will mean for people or work that is impacted (emotions, performance, team culture).<br><br>\n\n<i>Reviewing 7 active conversations.</i>",
+          "outputTokens": 59,
+          "systemPrompt": "$25",
+          "dataContextLength": 25269
+        }
+      },
+      "created_at": "2026-05-12T16:45:48.019Z",
+      "updated_at": "2026-05-12T16:45:51.577Z"
+    },
+    {
+      "id": "4e6e68ef-e983-4b91-9e02-16d455672b66",
+      "chapter_id": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "type": "CASE_PROGRESS",
+      "content": "This chapter does not contain any unlockable resources.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$20",
+          "inputTokens": 1496,
+          "rawResponse": "This chapter does not contain any unlockable resources.",
+          "outputTokens": 14,
+          "systemPrompt": "$21",
+          "dataContextLength": 2874
+        }
+      },
+      "created_at": "2026-05-12T16:48:00.096Z",
+      "updated_at": "2026-05-12T16:48:02.017Z"
+    },
+    {
+      "id": "8f145a8e-b394-4af2-b321-04514e40aadf",
+      "chapter_id": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by +2 min — 3 min 23 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": 120
+      },
+      "created_at": "2026-05-12T16:48:45.321Z",
+      "updated_at": "2026-05-12T16:48:45.321Z"
+    },
+    {
+      "id": "4e4c8f43-7374-45a7-9e07-7578f595d5e1",
+      "chapter_id": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>Added 2 more minutes to give you more time for conversations. 3 more minutes to wrap up!</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "e18583d5-d7bb-4b34-ab17-76824219822f"
+      },
+      "created_at": "2026-05-12T16:49:06.564Z",
+      "updated_at": "2026-05-12T16:49:06.564Z"
+    },
+    {
+      "id": "b110a184-a8b2-4730-a4d9-2f41a0c64747",
+      "chapter_id": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Conversation Summary:</b> Teams have been focused on balancing continuity with modernization, identifying skill gaps (analytics, AI, digital), and retaining adaptable team members. Most acknowledged institutional knowledge importance and discussed training versus hiring tradeoffs.\n\n<br><br>\n\n<b>A possible area of strength for this group is:</b> recognizing the need for explicit capability additions in analytics and AI-enabled content, and connecting decisions to Thryve's strategic evolution and performance accountability.\n\n<br><br>\n\n<b>A possible gap is:</b> limited discussion of leadership signals, emotional impact on departing members, or ongoing communication plans. Few teams explicitly addressed how the decision might feel to current staff or the dignity/clarity needed during transitions.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$1e",
+          "inputTokens": 12100,
+          "rawResponse": "<b>Conversation Summary:</b> Teams have been focused on balancing continuity with modernization, identifying skill gaps (analytics, AI, digital), and retaining adaptable team members. Most acknowledged institutional knowledge importance and discussed training versus hiring tradeoffs.\n\n<br><br>\n\n<b>A possible area of strength for this group is:</b> recognizing the need for explicit capability additions in analytics and AI-enabled content, and connecting decisions to Thryve's strategic evolution and performance accountability.\n\n<br><br>\n\n<b>A possible gap is:</b> limited discussion of leadership signals, emotional impact on departing members, or ongoing communication plans. Few teams explicitly addressed how the decision might feel to current staff or the dignity/clarity needed during transitions.",
+          "outputTokens": 166,
+          "systemPrompt": "$1f",
+          "dataContextLength": 41012
+        }
+      },
+      "created_at": "2026-05-12T16:50:36.020Z",
+      "updated_at": "2026-05-12T16:50:42.238Z"
+    },
+    {
+      "id": "8e6a1a35-e335-453b-a8b2-5979be661c7e",
+      "chapter_id": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Debrief Reminder:</b> Now it's time to bring it all together in the final debrief! <ul>\n<li> Show <b><i>Snapshot</b></i> in the Debrief tools to show what happened next. If any teams earned \"Peak Performance,\" ask them how they achieved that.\n<li> Use <b><i>Reflections</b></i> to ask \"What is the most important thing you want to communicate when announcing the reorganization?\"\n<li> Use the slides to come back to the opening frame of the 7S Framework.\n<li> Finally, use <b><i>Reflections</b></i> again to ask any additional questions to explore how the group will take this learning forward with them.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-12T16:52:12.024Z",
+      "updated_at": "2026-05-12T16:52:12.040Z"
+    },
+    {
+      "id": "cfa70c94-6725-434e-afbc-3c076b5e6302",
+      "chapter_id": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>Closing the conversation so you can see your feedback now.</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "fbb40af8-b9e1-44c4-9220-87f3725f5af9"
+      },
+      "created_at": "2026-05-12T16:52:53.217Z",
+      "updated_at": "2026-05-12T16:52:53.217Z"
+    },
+    {
+      "id": "b3953343-35bf-40fa-bd30-b3b95f51de76",
+      "chapter_id": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-12T16:53:00.702Z",
+      "updated_at": "2026-05-12T16:53:00.702Z"
+    },
+    {
+      "id": "22d3c4c6-2b8e-4da0-9ad2-f0f954efb5d9",
+      "chapter_id": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 3 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-12T16:53:00.707Z",
+      "updated_at": "2026-05-12T16:53:00.707Z"
+    },
+    {
+      "id": "b56819b1-2f57-4d8d-96a1-8845706203b8",
+      "chapter_id": "a55c16e8-0e97-47ee-8052-b5b571ca26d9",
+      "type": "ENDING_MESSAGE",
+      "content": "Case completed — all chapters finished.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "case_completed"
+      },
+      "created_at": "2026-05-12T16:53:00.822Z",
+      "updated_at": "2026-05-12T16:53:00.822Z"
+    }
+  ]
+}

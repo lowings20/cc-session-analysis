@@ -1,0 +1,1430 @@
+{
+  "session_arrow_id": 13264,
+  "session_cc_uuid": "efcd2a40-0d14-4e98-a087-c33ae52cd0f3",
+  "case_challenge": "Influencing Without Authority",
+  "case_challenge_id": "38f208dd-a242-4566-b6d1-1d995f02966c",
+  "viewed_chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+  "extracted_at": "2026-05-20T00:00:00.000Z",
+  "source_url": "https://bectondickinson8.abilitie.com/facilitator/efcd2a40-0d14-4e98-a087-c33ae52cd0f3",
+  "tenant_dns": "bectondickinson8.abilitie.com",
+  "chapters": [
+    {
+      "id": "45dd8681-023a-458a-9480-5c699ed76314",
+      "title": "Chapter 1",
+      "order": 1,
+      "duration_min": 3,
+      "blocks": 0
+    },
+    {
+      "id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "title": "Chapter 2",
+      "order": 2,
+      "duration_min": 24,
+      "blocks": 0
+    },
+    {
+      "id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "title": "Chapter 3",
+      "order": 3,
+      "duration_min": 15,
+      "blocks": 0
+    },
+    {
+      "id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "title": "Chapter 4",
+      "order": 4,
+      "duration_min": 12,
+      "blocks": 0
+    }
+  ],
+  "teams": [
+    {
+      "id": "5f0f5530-ec04-4c43-9360-fbf758bceb26",
+      "name": "MAM",
+      "icon": "🏆",
+      "group_letter": "1"
+    },
+    {
+      "id": "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b",
+      "name": "Insta Influencers",
+      "icon": "✨",
+      "group_letter": "7"
+    },
+    {
+      "id": "c544140c-aeb9-490a-a5db-60592583d94b",
+      "name": "May The 4 Be With You",
+      "icon": "🛸",
+      "group_letter": "4"
+    },
+    {
+      "id": "1453d605-56c3-46ac-a751-bb9378e5642e",
+      "name": "T3",
+      "icon": "🚀",
+      "group_letter": "3"
+    },
+    {
+      "id": "05ffb382-c5bd-43d5-81cb-137a2b84e06f",
+      "name": "Infinite influencing",
+      "icon": "🧠",
+      "group_letter": "8"
+    },
+    {
+      "id": "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751",
+      "name": "The Excellence Team",
+      "icon": "🏆",
+      "group_letter": "6"
+    },
+    {
+      "id": "cfb4aec3-9410-448e-8f17-3fbe68de179d",
+      "name": "Super Original Group 5",
+      "icon": "🏆",
+      "group_letter": "5"
+    },
+    {
+      "id": "7fe6fef7-7162-4cf0-b7f2-c19070e731df",
+      "name": "Humbled Problem Solvers",
+      "icon": "🛠️",
+      "group_letter": "2"
+    }
+  ],
+  "team_results_for_viewed_chapter": {
+    "5f0f5530-ec04-4c43-9360-fbf758bceb26": {
+      "completed_block_count": 3,
+      "opened_block_count": 15,
+      "score": 64,
+      "narrative_outcome": "Sweating It Out"
+    },
+    "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b": {
+      "completed_block_count": 3,
+      "opened_block_count": 16,
+      "score": 75,
+      "narrative_outcome": "Cool and Collected"
+    },
+    "c544140c-aeb9-490a-a5db-60592583d94b": {
+      "completed_block_count": 5,
+      "opened_block_count": 15,
+      "score": 70,
+      "narrative_outcome": "Cool and Collected"
+    },
+    "1453d605-56c3-46ac-a751-bb9378e5642e": {
+      "completed_block_count": 4,
+      "opened_block_count": 18,
+      "score": 82,
+      "narrative_outcome": "Cool and Collected"
+    },
+    "05ffb382-c5bd-43d5-81cb-137a2b84e06f": {
+      "completed_block_count": 3,
+      "opened_block_count": 15,
+      "score": 81,
+      "narrative_outcome": "Cool and Collected"
+    },
+    "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751": {
+      "completed_block_count": 3,
+      "opened_block_count": 15,
+      "score": 63,
+      "narrative_outcome": "Sweating It Out"
+    },
+    "cfb4aec3-9410-448e-8f17-3fbe68de179d": {
+      "completed_block_count": 3,
+      "opened_block_count": 21,
+      "score": 90,
+      "narrative_outcome": "Cold as Ice"
+    },
+    "7fe6fef7-7162-4cf0-b7f2-c19070e731df": {
+      "completed_block_count": 4,
+      "opened_block_count": 16,
+      "score": 72,
+      "narrative_outcome": "Cool and Collected"
+    }
+  },
+  "team_results_by_chapter": {
+    "45dd8681-023a-458a-9480-5c699ed76314": {},
+    "56540d39-9c35-4083-ab28-6dd78ef4f258": {},
+    "8790fc80-aa22-4d3c-8d7e-00689f05be6f": {},
+    "a563e32f-b2f6-461a-8f8b-57e097c75cbd": {
+      "5f0f5530-ec04-4c43-9360-fbf758bceb26": {
+        "completed_block_count": 3,
+        "opened_block_count": 15,
+        "score": 64,
+        "narrative_outcome": "Sweating It Out"
+      },
+      "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b": {
+        "completed_block_count": 3,
+        "opened_block_count": 16,
+        "score": 75,
+        "narrative_outcome": "Cool and Collected"
+      },
+      "c544140c-aeb9-490a-a5db-60592583d94b": {
+        "completed_block_count": 5,
+        "opened_block_count": 15,
+        "score": 70,
+        "narrative_outcome": "Cool and Collected"
+      },
+      "1453d605-56c3-46ac-a751-bb9378e5642e": {
+        "completed_block_count": 4,
+        "opened_block_count": 18,
+        "score": 82,
+        "narrative_outcome": "Cool and Collected"
+      },
+      "05ffb382-c5bd-43d5-81cb-137a2b84e06f": {
+        "completed_block_count": 3,
+        "opened_block_count": 15,
+        "score": 81,
+        "narrative_outcome": "Cool and Collected"
+      },
+      "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751": {
+        "completed_block_count": 3,
+        "opened_block_count": 15,
+        "score": 63,
+        "narrative_outcome": "Sweating It Out"
+      },
+      "cfb4aec3-9410-448e-8f17-3fbe68de179d": {
+        "completed_block_count": 3,
+        "opened_block_count": 21,
+        "score": 90,
+        "narrative_outcome": "Cold as Ice"
+      },
+      "7fe6fef7-7162-4cf0-b7f2-c19070e731df": {
+        "completed_block_count": 4,
+        "opened_block_count": 16,
+        "score": 72,
+        "narrative_outcome": "Cool and Collected"
+      }
+    }
+  },
+  "team_analyses_for_viewed_chapter": {
+    "5f0f5530-ec04-4c43-9360-fbf758bceb26": {
+      "teamId": "5f0f5530-ec04-4c43-9360-fbf758bceb26",
+      "teamName": "MAM",
+      "teamIcon": "🏆",
+      "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Score:"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Mei Nguyen",
+        "subject": "Re: SmartSense Influence Strategy"
+      },
+      "generatedAt": "2026-04-08T09:56:54.565Z",
+      "score": 64,
+      "analysis": "Hi,\n\nThanks for sending this over. I can see you've identified some of the key players—particularly the connection between Marvin and Grace. That's important.\n\nHowever, I'm concerned about the sequencing. Starting with Raj suggests we may be overweighting technical input before we've built the right coalition. We need to leverage our supporters first (Blaine's enthusiasm matters here) and think more carefully about how to convert our blockers, especially Dana. Your strategy doesn't give me confidence we've truly mapped who holds decision power versus who holds information.\n\nLet's regroup before we move forward. I'd like to see a revised approach that sequences our outreach more strategically.\n\nBest,\nMei",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540706766-warming_up.webp",
+        "story": "One month later, your strategic approach to SmartSense at ForgePro showed promise but revealed cracks. Key discussions initiated with Marvin and Raj highlighted gaps in influence comprehension. Despite efforts to align Grace and Dana, the misjudged sequence of engagements led to an ambiguous power dynamic. Mei, recognizing your dedication, suggested refining strategies to avoid potential pitfalls. The plan waits, teetering on revisions to ensure it doesn't falter.",
+        "title": "Sweating It Out",
+        "description": "You’ve done some of the work, but important power dynamics are only partially understood. Mei acknowledges your effort but notes that misread influence or weak sequencing could create downstream issues. The strategy is paused pending revisions."
+      }
+    },
+    "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b": {
+      "teamId": "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b",
+      "teamName": "Insta Influencers",
+      "teamIcon": "✨",
+      "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Score:"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Mei Nguyen",
+        "subject": "Re: SmartSense Influence Strategy"
+      },
+      "generatedAt": "2026-04-08T09:56:56.890Z",
+      "score": 75,
+      "analysis": "Hi,\n\nThanks for getting this to me. I appreciate you identifying the key players and recognizing Blaine as a natural ally—that's solid thinking.\n\nHowever, I'm seeing some gaps in how you've diagnosed the power dynamics. Grace and Dana aren't just stakeholders to engage early—they're potential blockers who need a more sophisticated approach. More importantly, you've positioned Marvin and Raj as tools to manage resistance, but that misreads their actual influence. Marvin is Grace's trusted advisor, which means he shapes her position before resistance even forms. And Raj, while knowledgeable, has less decision-making power than your strategy assumes.\n\nGiven these gaps, I'd like you to revisit the stakeholder map before we proceed. Let's set up time this week to talk through a revised approach.\n\nBest,\nMei",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540742292-calm_and_collected.webp",
+        "story": "One month later, your strategic foresight shone brightly at ForgePro. Engaging Grace and Dana first, with Blaine's alliance, brought notable progress in the SmartSense enhancement. Meanwhile, leveraging Marvin and Raj's commitment managed resistance effectively, yet some gaps lingered. Despite these, Mei recognized your potential but urged focus on specific risks. With conditional support secured, your leadership steered the team towards future success, cool and collected in navigating complexities.",
+        "title": "Cool and Collected",
+        "description": "Your strategy shows strong judgment and promising structure, but a few gaps remain. Mei sees real potential in your approach, yet flags specific risks or stakeholders that will need further attention before moving forward. You receive conditional support."
+      }
+    },
+    "c544140c-aeb9-490a-a5db-60592583d94b": {
+      "teamId": "c544140c-aeb9-490a-a5db-60592583d94b",
+      "teamName": "May The 4 Be With You",
+      "teamIcon": "🛸",
+      "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Score:"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Mei Nguyen",
+        "subject": "Re: SmartSense Influence Strategy"
+      },
+      "generatedAt": "2026-04-08T09:56:51.951Z",
+      "score": 70,
+      "analysis": "Hi,\n\nThanks for pulling this together. You've identified some good instincts—recognizing the Grace-Marvin connection is smart, and thinking about Sales and Finance early makes sense.\n\nThat said, I think we need to sharpen the strategy before moving forward. The power landscape requires more precision: we need to clearly identify who our blockers are (Grace and Dana both hold veto power here) versus who's already supportive (Blaine). Our sequence should focus on neutralizing resistance first—specifically addressing Grace's operational concerns and Dana's financial threshold—rather than starting with supporters. I'd also caution against overestimating our personal influence with Engineering; Raj provides information, but he's not the decision gate.\n\nLet's regroup. Can you revise the plan with a clearer coalition sequence that addresses blocker concerns upfront?\n\nBest,\nMei",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540742292-calm_and_collected.webp",
+        "story": "One month later, your strategic initiative for the SmartSense enhancement gained traction at ForgePro. Leveraging customer feedback and financial insights, the team adeptly navigated stakeholder dynamics. Your plan, rooted in sales and finance collaboration, impressed Mei, though she noted the need for further alignment with Quality and Engineering. By capitalizing on your R&D experience, you earned conditional support, highlighting both the promise of your leadership and areas needing refinement.",
+        "title": "Cool and Collected",
+        "description": "Your strategy shows strong judgment and promising structure, but a few gaps remain. Mei sees real potential in your approach, yet flags specific risks or stakeholders that will need further attention before moving forward. You receive conditional support."
+      }
+    },
+    "1453d605-56c3-46ac-a751-bb9378e5642e": {
+      "teamId": "1453d605-56c3-46ac-a751-bb9378e5642e",
+      "teamName": "T3",
+      "teamIcon": "🚀",
+      "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Score:"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Mei Nguyen",
+        "subject": "Re: SmartSense Influence Strategy"
+      },
+      "generatedAt": "2026-04-08T09:56:52.457Z",
+      "score": 82,
+      "analysis": "Hi,\n\nThanks for this — your diagnosis of the power dynamics is strong. You've correctly identified Grace and Dana as potential blockers and smartly recognized Marvin as a hidden influencer on Grace. The sequencing through Marvin first shows good strategic thinking.\n\nOne gap: you didn't mention Blaine, who's actually a natural supporter given his sales perspective. Starting with a supporter can help build momentum before tackling resistance. I'd like you to revise your coalition strategy to incorporate him, then let's discuss moving forward.\n\nYou're on the right track here.\n\nBest,\nMei",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540742292-calm_and_collected.webp",
+        "story": "One month later, your strategic approach at ForgePro shows promise as the SmartSense enhancement progresses. By prioritizing quality and financial metrics, you engaged Marvin and Dana effectively, gaining crucial insights. Although Mei identified potential stakeholder concerns, your methodical influence ensured conditional support from the leadership team. This balanced approach highlighted your potential as a discerning leader, poised to address remaining challenges and drive the project toward successful implementation.",
+        "title": "Cool and Collected",
+        "description": "Your strategy shows strong judgment and promising structure, but a few gaps remain. Mei sees real potential in your approach, yet flags specific risks or stakeholders that will need further attention before moving forward. You receive conditional support."
+      }
+    },
+    "05ffb382-c5bd-43d5-81cb-137a2b84e06f": {
+      "teamId": "05ffb382-c5bd-43d5-81cb-137a2b84e06f",
+      "teamName": "Infinite influencing",
+      "teamIcon": "🧠",
+      "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Score:"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Mei Nguyen",
+        "subject": "Re: SmartSense Influence Strategy"
+      },
+      "generatedAt": "2026-04-08T09:56:54.503Z",
+      "score": 81,
+      "analysis": "Hi,\n\nThanks for this analysis. You've done a strong job mapping the power landscape—correctly identifying Grace as our key blocker and understanding that we need to address her concerns through Dana (budget support) and Marvin (quality assurance). Your coalition-building sequence is smart: securing those two voices before approaching Grace directly.\n\nOne area to refine: be careful not to overestimate where neutral stakeholders like Raj stand. Technical feasibility doesn't equal strategic support. That said, your core strategy is sound. Let's move forward with the approach you've outlined—start with Dana and Marvin, then bring Grace into the conversation once we have their backing.\n\nNice work on this.\n\nBest,\nMei",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540742292-calm_and_collected.webp",
+        "story": "One month later, your strategic finesse at ForgePro began to show promise. By engaging Dana and Marvin, you secured essential financial backing, quelling Grace's concerns over manufacturing hurdles. With Blane's endorsement and Raj affirming ease of implementation, your team's coordinated actions forged a resilient path for SmartSense's debut. However, Mei highlighted lingering risks, urging a focus on stakeholder management to solidify your foothold, demonstrating both leadership and adaptability.",
+        "title": "Cool and Collected",
+        "description": "Your strategy shows strong judgment and promising structure, but a few gaps remain. Mei sees real potential in your approach, yet flags specific risks or stakeholders that will need further attention before moving forward. You receive conditional support."
+      }
+    },
+    "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751": {
+      "teamId": "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751",
+      "teamName": "The Excellence Team",
+      "teamIcon": "🏆",
+      "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Score:"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Mei Nguyen",
+        "subject": "Re: SmartSense Influence Strategy"
+      },
+      "generatedAt": "2026-04-08T09:56:57.230Z",
+      "score": 63,
+      "analysis": "Hi,\n\nThanks for sending this over. I appreciate the thought you've put into building a coalition approach.\n\nI have some concerns about moving forward just yet. Your strategy starts with Raj, but I'm not sure his technical input carries the decision-making weight we need here. More importantly, Grace and Dana have the power to block this—Grace through manufacturing concerns and Dana through budget control—and approaching them last, after the coalition is formed, may feel like we're boxing them in rather than genuinely addressing their concerns early.\n\nLet's discuss how we might resequence this to engage our potential blockers earlier and more authentically.\n\nBest,\nMei",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540706766-warming_up.webp",
+        "story": "One month later, your initial strategy to engage Raj and Blaine first revealed cracks, as vital influencers were overlooked. Mei acknowledged your groundwork, yet emphasized the looming risks from misjudged alliances. The SmartSense enhancement hit a pause, awaiting strategic recalibration. By misreading key dynamics and sequence, the team's progress stalled, but a clearer path to driving innovation and success emerged, demanding a more comprehensive coalition to move forward.",
+        "title": "Sweating It Out",
+        "description": "You’ve done some of the work, but important power dynamics are only partially understood. Mei acknowledges your effort but notes that misread influence or weak sequencing could create downstream issues. The strategy is paused pending revisions."
+      }
+    },
+    "cfb4aec3-9410-448e-8f17-3fbe68de179d": {
+      "teamId": "cfb4aec3-9410-448e-8f17-3fbe68de179d",
+      "teamName": "Super Original Group 5",
+      "teamIcon": "🏆",
+      "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Score:"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Mei Nguyen",
+        "subject": "Re: SmartSense Influence Strategy"
+      },
+      "generatedAt": "2026-04-08T09:57:25.647Z",
+      "score": 90,
+      "analysis": "Hi,\n\nReally strong work on this. You've clearly mapped the power dynamics well—I'm particularly impressed with how you identified Marvin's influence over Grace and the need to build coalition support through Blaine. Your sequencing makes strategic sense, and you're right to proactively address Dana's financial concerns and Marvin's risk aversion.\n\nOne refinement: I'd view Grace herself as a primary blocker, not just influenced by Marvin. Her operational concerns could stop this independently, so we need a direct mitigation plan for her manufacturing worries, not just an indirect approach through Marvin.\n\nLet's move forward with SmartSense. Excellent preparation—this gives us a real shot at success.\n\nBest,\nMei",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540760077-cold_as_ice.webp",
+        "story": "One month later, your strategic prowess in the SmartSense enhancement dazzles at ForgePro. You orchestrated a flawless engagement sequence, convincing Marvin, Grace, and Dana through precision-tuned influence maneuvers. Blaine's executive sway amplified your initiative, seamlessly leading Raj onboard. Mei, impressed by your political acumen, championed your proposal, securing executive approval. Your ability to navigate complex dynamics with a cool, decisive approach solidified your status as a formidable leader.",
+        "title": "Cold as Ice",
+        "description": "Your influence strategy is clear, disciplined, and politically astute. You’ve accurately identified the true centers of power, accounted for hidden risks, and sequenced your engagement thoughtfully. Mei endorses your approach and advances it to executive review with confidence."
+      }
+    },
+    "7fe6fef7-7162-4cf0-b7f2-c19070e731df": {
+      "teamId": "7fe6fef7-7162-4cf0-b7f2-c19070e731df",
+      "teamName": "Humbled Problem Solvers",
+      "teamIcon": "🛠️",
+      "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Score:"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Mei Nguyen",
+        "subject": "Re: SmartSense Influence Strategy"
+      },
+      "generatedAt": "2026-04-08T09:56:56.388Z",
+      "score": 72,
+      "analysis": "Hi,\n\nThanks for putting this together. You made a smart connection identifying Marvin as a hidden influencer on Grace—that's the kind of political insight that matters. That said, I think we need to refine the approach before moving forward with SmartSense.\n\nYou're treating Dana as a final checkpoint when she actually holds veto power over the budget. She's a blocker, not a rubber stamp, and leaving her to the end is risky. Also, Blaine is already supportive—we should be using him earlier to build momentum and a coalition, not approaching him fourth. Finally, be careful not to overweight Raj's influence just because he controls technical information.\n\nLet's regroup on this before we proceed. I'd like to see a revised sequence that addresses Dana's concerns earlier and leverages Blaine's enthusiasm strategically. You're on the right track with the Marvin-to-Grace play—build on that instinct.\n\nBest,\nMei",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540742292-calm_and_collected.webp",
+        "story": "One month later, your strategic finesse was on display as you deftly navigated the complex landscape of SmartSense enhancements. By prioritizing product integrity with Marvin's buy-in and aligning operations, you secured Mei's cautious endorsement. Grace’s operational insights and Raj’s production timelines fortified your structured approach, while Blaine’s market feedback shaped profitability strategies. Though ambitious, your plan's success hinged on addressing Dana’s concerns, revealing the path to influential leadership at ForgePro.",
+        "title": "Cool and Collected",
+        "description": "Your strategy shows strong judgment and promising structure, but a few gaps remain. Mei sees real potential in your approach, yet flags specific risks or stakeholders that will need further attention before moving forward. You receive conditional support."
+      }
+    }
+  },
+  "team_analyses_by_chapter": {
+    "45dd8681-023a-458a-9480-5c699ed76314": {
+      "5f0f5530-ec04-4c43-9360-fbf758bceb26": {
+        "teamId": "5f0f5530-ec04-4c43-9360-fbf758bceb26",
+        "teamName": "MAM",
+        "teamIcon": "🏆",
+        "chapterId": "45dd8681-023a-458a-9480-5c699ed76314",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-45dd8681-023a-458a-9480-5c699ed76314/1774649344880-Chapter-4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-08T08:29:51.736Z",
+        "score": null,
+        "analysis": "Good work getting started. Now let's meet some members of the team at ForgePro...",
+        "narrativeImpact": null
+      },
+      "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b": {
+        "teamId": "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b",
+        "teamName": "Insta Influencers",
+        "teamIcon": "✨",
+        "chapterId": "45dd8681-023a-458a-9480-5c699ed76314",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-45dd8681-023a-458a-9480-5c699ed76314/1774649344880-Chapter-4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-08T08:29:51.736Z",
+        "score": null,
+        "analysis": "Good work getting started. Now let's meet some members of the team at ForgePro...",
+        "narrativeImpact": null
+      },
+      "c544140c-aeb9-490a-a5db-60592583d94b": {
+        "teamId": "c544140c-aeb9-490a-a5db-60592583d94b",
+        "teamName": "May The 4 Be With You",
+        "teamIcon": "🛸",
+        "chapterId": "45dd8681-023a-458a-9480-5c699ed76314",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-45dd8681-023a-458a-9480-5c699ed76314/1774649344880-Chapter-4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-08T08:29:51.737Z",
+        "score": null,
+        "analysis": "Good work getting started. Now let's meet some members of the team at ForgePro...",
+        "narrativeImpact": null
+      },
+      "1453d605-56c3-46ac-a751-bb9378e5642e": {
+        "teamId": "1453d605-56c3-46ac-a751-bb9378e5642e",
+        "teamName": "T3",
+        "teamIcon": "🚀",
+        "chapterId": "45dd8681-023a-458a-9480-5c699ed76314",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-45dd8681-023a-458a-9480-5c699ed76314/1774649344880-Chapter-4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-08T08:29:51.737Z",
+        "score": null,
+        "analysis": "Good work getting started. Now let's meet some members of the team at ForgePro...",
+        "narrativeImpact": null
+      },
+      "05ffb382-c5bd-43d5-81cb-137a2b84e06f": {
+        "teamId": "05ffb382-c5bd-43d5-81cb-137a2b84e06f",
+        "teamName": "Infinite influencing",
+        "teamIcon": "🧠",
+        "chapterId": "45dd8681-023a-458a-9480-5c699ed76314",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-45dd8681-023a-458a-9480-5c699ed76314/1774649344880-Chapter-4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-08T08:29:51.737Z",
+        "score": null,
+        "analysis": "Good work getting started. Now let's meet some members of the team at ForgePro...",
+        "narrativeImpact": null
+      },
+      "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751": {
+        "teamId": "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751",
+        "teamName": "The Excellence Team",
+        "teamIcon": "🏆",
+        "chapterId": "45dd8681-023a-458a-9480-5c699ed76314",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-45dd8681-023a-458a-9480-5c699ed76314/1774649344880-Chapter-4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-08T08:29:51.737Z",
+        "score": null,
+        "analysis": "Good work getting started. Now let's meet some members of the team at ForgePro...",
+        "narrativeImpact": null
+      },
+      "cfb4aec3-9410-448e-8f17-3fbe68de179d": {
+        "teamId": "cfb4aec3-9410-448e-8f17-3fbe68de179d",
+        "teamName": "Super Original Group 5",
+        "teamIcon": "🏆",
+        "chapterId": "45dd8681-023a-458a-9480-5c699ed76314",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-45dd8681-023a-458a-9480-5c699ed76314/1774649344880-Chapter-4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-08T08:29:51.737Z",
+        "score": null,
+        "analysis": "Good work getting started. Now let's meet some members of the team at ForgePro...",
+        "narrativeImpact": null
+      },
+      "7fe6fef7-7162-4cf0-b7f2-c19070e731df": {
+        "teamId": "7fe6fef7-7162-4cf0-b7f2-c19070e731df",
+        "teamName": "Humbled Problem Solvers",
+        "teamIcon": "🛠️",
+        "chapterId": "45dd8681-023a-458a-9480-5c699ed76314",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-45dd8681-023a-458a-9480-5c699ed76314/1774649344880-Chapter-4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-08T08:29:51.737Z",
+        "score": null,
+        "analysis": "Good work getting started. Now let's meet some members of the team at ForgePro...",
+        "narrativeImpact": null
+      }
+    },
+    "56540d39-9c35-4083-ab28-6dd78ef4f258": {
+      "5f0f5530-ec04-4c43-9360-fbf758bceb26": {
+        "teamId": "5f0f5530-ec04-4c43-9360-fbf758bceb26",
+        "teamName": "MAM",
+        "teamIcon": "🏆",
+        "chapterId": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-56540d39-9c35-4083-ab28-6dd78ef4f258/1774649360464-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-08T09:00:33.580Z",
+        "score": null,
+        "analysis": "Nice work exploring the perspectives of key stakeholders. Now let’s continue building your understanding of the landscape.",
+        "narrativeImpact": null
+      },
+      "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b": {
+        "teamId": "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b",
+        "teamName": "Insta Influencers",
+        "teamIcon": "✨",
+        "chapterId": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-56540d39-9c35-4083-ab28-6dd78ef4f258/1774649360464-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-08T09:00:33.580Z",
+        "score": null,
+        "analysis": "Nice work exploring the perspectives of key stakeholders. Now let’s continue building your understanding of the landscape.",
+        "narrativeImpact": null
+      },
+      "c544140c-aeb9-490a-a5db-60592583d94b": {
+        "teamId": "c544140c-aeb9-490a-a5db-60592583d94b",
+        "teamName": "May The 4 Be With You",
+        "teamIcon": "🛸",
+        "chapterId": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-56540d39-9c35-4083-ab28-6dd78ef4f258/1774649360464-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-08T09:00:33.580Z",
+        "score": null,
+        "analysis": "Nice work exploring the perspectives of key stakeholders. Now let’s continue building your understanding of the landscape.",
+        "narrativeImpact": null
+      },
+      "1453d605-56c3-46ac-a751-bb9378e5642e": {
+        "teamId": "1453d605-56c3-46ac-a751-bb9378e5642e",
+        "teamName": "T3",
+        "teamIcon": "🚀",
+        "chapterId": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-56540d39-9c35-4083-ab28-6dd78ef4f258/1774649360464-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-08T09:00:33.580Z",
+        "score": null,
+        "analysis": "Nice work exploring the perspectives of key stakeholders. Now let’s continue building your understanding of the landscape.",
+        "narrativeImpact": null
+      },
+      "05ffb382-c5bd-43d5-81cb-137a2b84e06f": {
+        "teamId": "05ffb382-c5bd-43d5-81cb-137a2b84e06f",
+        "teamName": "Infinite influencing",
+        "teamIcon": "🧠",
+        "chapterId": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-56540d39-9c35-4083-ab28-6dd78ef4f258/1774649360464-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-08T09:00:33.580Z",
+        "score": null,
+        "analysis": "Nice work exploring the perspectives of key stakeholders. Now let’s continue building your understanding of the landscape.",
+        "narrativeImpact": null
+      },
+      "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751": {
+        "teamId": "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751",
+        "teamName": "The Excellence Team",
+        "teamIcon": "🏆",
+        "chapterId": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-56540d39-9c35-4083-ab28-6dd78ef4f258/1774649360464-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-08T09:00:33.580Z",
+        "score": null,
+        "analysis": "Nice work exploring the perspectives of key stakeholders. Now let’s continue building your understanding of the landscape.",
+        "narrativeImpact": null
+      },
+      "cfb4aec3-9410-448e-8f17-3fbe68de179d": {
+        "teamId": "cfb4aec3-9410-448e-8f17-3fbe68de179d",
+        "teamName": "Super Original Group 5",
+        "teamIcon": "🏆",
+        "chapterId": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-56540d39-9c35-4083-ab28-6dd78ef4f258/1774649360464-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-08T09:00:33.580Z",
+        "score": null,
+        "analysis": "Nice work exploring the perspectives of key stakeholders. Now let’s continue building your understanding of the landscape.",
+        "narrativeImpact": null
+      },
+      "7fe6fef7-7162-4cf0-b7f2-c19070e731df": {
+        "teamId": "7fe6fef7-7162-4cf0-b7f2-c19070e731df",
+        "teamName": "Humbled Problem Solvers",
+        "teamIcon": "🛠️",
+        "chapterId": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-56540d39-9c35-4083-ab28-6dd78ef4f258/1774649360464-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-08T09:00:33.580Z",
+        "score": null,
+        "analysis": "Nice work exploring the perspectives of key stakeholders. Now let’s continue building your understanding of the landscape.",
+        "narrativeImpact": null
+      }
+    },
+    "8790fc80-aa22-4d3c-8d7e-00689f05be6f": {
+      "5f0f5530-ec04-4c43-9360-fbf758bceb26": {
+        "teamId": "5f0f5530-ec04-4c43-9360-fbf758bceb26",
+        "teamName": "MAM",
+        "teamIcon": "🏆",
+        "chapterId": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-8790fc80-aa22-4d3c-8d7e-00689f05be6f/1774649380117-chapter_2.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-08T09:32:23.123Z",
+        "score": null,
+        "analysis": "Great progress mapping the influence dynamics. Get ready to draft your strategy for Mei!",
+        "narrativeImpact": null
+      },
+      "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b": {
+        "teamId": "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b",
+        "teamName": "Insta Influencers",
+        "teamIcon": "✨",
+        "chapterId": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-8790fc80-aa22-4d3c-8d7e-00689f05be6f/1774649380117-chapter_2.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-08T09:32:23.123Z",
+        "score": null,
+        "analysis": "Great progress mapping the influence dynamics. Get ready to draft your strategy for Mei!",
+        "narrativeImpact": null
+      },
+      "c544140c-aeb9-490a-a5db-60592583d94b": {
+        "teamId": "c544140c-aeb9-490a-a5db-60592583d94b",
+        "teamName": "May The 4 Be With You",
+        "teamIcon": "🛸",
+        "chapterId": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-8790fc80-aa22-4d3c-8d7e-00689f05be6f/1774649380117-chapter_2.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-08T09:32:23.124Z",
+        "score": null,
+        "analysis": "Great progress mapping the influence dynamics. Get ready to draft your strategy for Mei!",
+        "narrativeImpact": null
+      },
+      "1453d605-56c3-46ac-a751-bb9378e5642e": {
+        "teamId": "1453d605-56c3-46ac-a751-bb9378e5642e",
+        "teamName": "T3",
+        "teamIcon": "🚀",
+        "chapterId": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-8790fc80-aa22-4d3c-8d7e-00689f05be6f/1774649380117-chapter_2.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-08T09:32:23.127Z",
+        "score": null,
+        "analysis": "Great progress mapping the influence dynamics. Get ready to draft your strategy for Mei!",
+        "narrativeImpact": null
+      },
+      "05ffb382-c5bd-43d5-81cb-137a2b84e06f": {
+        "teamId": "05ffb382-c5bd-43d5-81cb-137a2b84e06f",
+        "teamName": "Infinite influencing",
+        "teamIcon": "🧠",
+        "chapterId": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-8790fc80-aa22-4d3c-8d7e-00689f05be6f/1774649380117-chapter_2.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-08T09:32:23.127Z",
+        "score": null,
+        "analysis": "Great progress mapping the influence dynamics. Get ready to draft your strategy for Mei!",
+        "narrativeImpact": null
+      },
+      "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751": {
+        "teamId": "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751",
+        "teamName": "The Excellence Team",
+        "teamIcon": "🏆",
+        "chapterId": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-8790fc80-aa22-4d3c-8d7e-00689f05be6f/1774649380117-chapter_2.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-08T09:32:23.127Z",
+        "score": null,
+        "analysis": "Great progress mapping the influence dynamics. Get ready to draft your strategy for Mei!",
+        "narrativeImpact": null
+      },
+      "cfb4aec3-9410-448e-8f17-3fbe68de179d": {
+        "teamId": "cfb4aec3-9410-448e-8f17-3fbe68de179d",
+        "teamName": "Super Original Group 5",
+        "teamIcon": "🏆",
+        "chapterId": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-8790fc80-aa22-4d3c-8d7e-00689f05be6f/1774649380117-chapter_2.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-08T09:32:23.127Z",
+        "score": null,
+        "analysis": "Great progress mapping the influence dynamics. Get ready to draft your strategy for Mei!",
+        "narrativeImpact": null
+      },
+      "7fe6fef7-7162-4cf0-b7f2-c19070e731df": {
+        "teamId": "7fe6fef7-7162-4cf0-b7f2-c19070e731df",
+        "teamName": "Humbled Problem Solvers",
+        "teamIcon": "🛠️",
+        "chapterId": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-8790fc80-aa22-4d3c-8d7e-00689f05be6f/1774649380117-chapter_2.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-04-08T09:32:23.127Z",
+        "score": null,
+        "analysis": "Great progress mapping the influence dynamics. Get ready to draft your strategy for Mei!",
+        "narrativeImpact": null
+      }
+    },
+    "a563e32f-b2f6-461a-8f8b-57e097c75cbd": {
+      "5f0f5530-ec04-4c43-9360-fbf758bceb26": {
+        "teamId": "5f0f5530-ec04-4c43-9360-fbf758bceb26",
+        "teamName": "MAM",
+        "teamIcon": "🏆",
+        "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Score:"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Mei Nguyen",
+          "subject": "Re: SmartSense Influence Strategy"
+        },
+        "generatedAt": "2026-04-08T09:56:54.565Z",
+        "score": 64,
+        "analysis": "Hi,\n\nThanks for sending this over. I can see you've identified some of the key players—particularly the connection between Marvin and Grace. That's important.\n\nHowever, I'm concerned about the sequencing. Starting with Raj suggests we may be overweighting technical input before we've built the right coalition. We need to leverage our supporters first (Blaine's enthusiasm matters here) and think more carefully about how to convert our blockers, especially Dana. Your strategy doesn't give me confidence we've truly mapped who holds decision power versus who holds information.\n\nLet's regroup before we move forward. I'd like to see a revised approach that sequences our outreach more strategically.\n\nBest,\nMei",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540706766-warming_up.webp",
+          "story": "One month later, your strategic approach to SmartSense at ForgePro showed promise but revealed cracks. Key discussions initiated with Marvin and Raj highlighted gaps in influence comprehension. Despite efforts to align Grace and Dana, the misjudged sequence of engagements led to an ambiguous power dynamic. Mei, recognizing your dedication, suggested refining strategies to avoid potential pitfalls. The plan waits, teetering on revisions to ensure it doesn't falter.",
+          "title": "Sweating It Out",
+          "description": "You’ve done some of the work, but important power dynamics are only partially understood. Mei acknowledges your effort but notes that misread influence or weak sequencing could create downstream issues. The strategy is paused pending revisions."
+        }
+      },
+      "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b": {
+        "teamId": "d6c35a3a-09f9-4cae-b1a6-f83f86cdac0b",
+        "teamName": "Insta Influencers",
+        "teamIcon": "✨",
+        "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Score:"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Mei Nguyen",
+          "subject": "Re: SmartSense Influence Strategy"
+        },
+        "generatedAt": "2026-04-08T09:56:56.890Z",
+        "score": 75,
+        "analysis": "Hi,\n\nThanks for getting this to me. I appreciate you identifying the key players and recognizing Blaine as a natural ally—that's solid thinking.\n\nHowever, I'm seeing some gaps in how you've diagnosed the power dynamics. Grace and Dana aren't just stakeholders to engage early—they're potential blockers who need a more sophisticated approach. More importantly, you've positioned Marvin and Raj as tools to manage resistance, but that misreads their actual influence. Marvin is Grace's trusted advisor, which means he shapes her position before resistance even forms. And Raj, while knowledgeable, has less decision-making power than your strategy assumes.\n\nGiven these gaps, I'd like you to revisit the stakeholder map before we proceed. Let's set up time this week to talk through a revised approach.\n\nBest,\nMei",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540742292-calm_and_collected.webp",
+          "story": "One month later, your strategic foresight shone brightly at ForgePro. Engaging Grace and Dana first, with Blaine's alliance, brought notable progress in the SmartSense enhancement. Meanwhile, leveraging Marvin and Raj's commitment managed resistance effectively, yet some gaps lingered. Despite these, Mei recognized your potential but urged focus on specific risks. With conditional support secured, your leadership steered the team towards future success, cool and collected in navigating complexities.",
+          "title": "Cool and Collected",
+          "description": "Your strategy shows strong judgment and promising structure, but a few gaps remain. Mei sees real potential in your approach, yet flags specific risks or stakeholders that will need further attention before moving forward. You receive conditional support."
+        }
+      },
+      "c544140c-aeb9-490a-a5db-60592583d94b": {
+        "teamId": "c544140c-aeb9-490a-a5db-60592583d94b",
+        "teamName": "May The 4 Be With You",
+        "teamIcon": "🛸",
+        "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Score:"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Mei Nguyen",
+          "subject": "Re: SmartSense Influence Strategy"
+        },
+        "generatedAt": "2026-04-08T09:56:51.951Z",
+        "score": 70,
+        "analysis": "Hi,\n\nThanks for pulling this together. You've identified some good instincts—recognizing the Grace-Marvin connection is smart, and thinking about Sales and Finance early makes sense.\n\nThat said, I think we need to sharpen the strategy before moving forward. The power landscape requires more precision: we need to clearly identify who our blockers are (Grace and Dana both hold veto power here) versus who's already supportive (Blaine). Our sequence should focus on neutralizing resistance first—specifically addressing Grace's operational concerns and Dana's financial threshold—rather than starting with supporters. I'd also caution against overestimating our personal influence with Engineering; Raj provides information, but he's not the decision gate.\n\nLet's regroup. Can you revise the plan with a clearer coalition sequence that addresses blocker concerns upfront?\n\nBest,\nMei",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540742292-calm_and_collected.webp",
+          "story": "One month later, your strategic initiative for the SmartSense enhancement gained traction at ForgePro. Leveraging customer feedback and financial insights, the team adeptly navigated stakeholder dynamics. Your plan, rooted in sales and finance collaboration, impressed Mei, though she noted the need for further alignment with Quality and Engineering. By capitalizing on your R&D experience, you earned conditional support, highlighting both the promise of your leadership and areas needing refinement.",
+          "title": "Cool and Collected",
+          "description": "Your strategy shows strong judgment and promising structure, but a few gaps remain. Mei sees real potential in your approach, yet flags specific risks or stakeholders that will need further attention before moving forward. You receive conditional support."
+        }
+      },
+      "1453d605-56c3-46ac-a751-bb9378e5642e": {
+        "teamId": "1453d605-56c3-46ac-a751-bb9378e5642e",
+        "teamName": "T3",
+        "teamIcon": "🚀",
+        "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Score:"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Mei Nguyen",
+          "subject": "Re: SmartSense Influence Strategy"
+        },
+        "generatedAt": "2026-04-08T09:56:52.457Z",
+        "score": 82,
+        "analysis": "Hi,\n\nThanks for this — your diagnosis of the power dynamics is strong. You've correctly identified Grace and Dana as potential blockers and smartly recognized Marvin as a hidden influencer on Grace. The sequencing through Marvin first shows good strategic thinking.\n\nOne gap: you didn't mention Blaine, who's actually a natural supporter given his sales perspective. Starting with a supporter can help build momentum before tackling resistance. I'd like you to revise your coalition strategy to incorporate him, then let's discuss moving forward.\n\nYou're on the right track here.\n\nBest,\nMei",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540742292-calm_and_collected.webp",
+          "story": "One month later, your strategic approach at ForgePro shows promise as the SmartSense enhancement progresses. By prioritizing quality and financial metrics, you engaged Marvin and Dana effectively, gaining crucial insights. Although Mei identified potential stakeholder concerns, your methodical influence ensured conditional support from the leadership team. This balanced approach highlighted your potential as a discerning leader, poised to address remaining challenges and drive the project toward successful implementation.",
+          "title": "Cool and Collected",
+          "description": "Your strategy shows strong judgment and promising structure, but a few gaps remain. Mei sees real potential in your approach, yet flags specific risks or stakeholders that will need further attention before moving forward. You receive conditional support."
+        }
+      },
+      "05ffb382-c5bd-43d5-81cb-137a2b84e06f": {
+        "teamId": "05ffb382-c5bd-43d5-81cb-137a2b84e06f",
+        "teamName": "Infinite influencing",
+        "teamIcon": "🧠",
+        "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Score:"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Mei Nguyen",
+          "subject": "Re: SmartSense Influence Strategy"
+        },
+        "generatedAt": "2026-04-08T09:56:54.503Z",
+        "score": 81,
+        "analysis": "Hi,\n\nThanks for this analysis. You've done a strong job mapping the power landscape—correctly identifying Grace as our key blocker and understanding that we need to address her concerns through Dana (budget support) and Marvin (quality assurance). Your coalition-building sequence is smart: securing those two voices before approaching Grace directly.\n\nOne area to refine: be careful not to overestimate where neutral stakeholders like Raj stand. Technical feasibility doesn't equal strategic support. That said, your core strategy is sound. Let's move forward with the approach you've outlined—start with Dana and Marvin, then bring Grace into the conversation once we have their backing.\n\nNice work on this.\n\nBest,\nMei",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540742292-calm_and_collected.webp",
+          "story": "One month later, your strategic finesse at ForgePro began to show promise. By engaging Dana and Marvin, you secured essential financial backing, quelling Grace's concerns over manufacturing hurdles. With Blane's endorsement and Raj affirming ease of implementation, your team's coordinated actions forged a resilient path for SmartSense's debut. However, Mei highlighted lingering risks, urging a focus on stakeholder management to solidify your foothold, demonstrating both leadership and adaptability.",
+          "title": "Cool and Collected",
+          "description": "Your strategy shows strong judgment and promising structure, but a few gaps remain. Mei sees real potential in your approach, yet flags specific risks or stakeholders that will need further attention before moving forward. You receive conditional support."
+        }
+      },
+      "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751": {
+        "teamId": "4dd8bc1c-9ac6-4964-b8a5-6f618a67f751",
+        "teamName": "The Excellence Team",
+        "teamIcon": "🏆",
+        "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Score:"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Mei Nguyen",
+          "subject": "Re: SmartSense Influence Strategy"
+        },
+        "generatedAt": "2026-04-08T09:56:57.230Z",
+        "score": 63,
+        "analysis": "Hi,\n\nThanks for sending this over. I appreciate the thought you've put into building a coalition approach.\n\nI have some concerns about moving forward just yet. Your strategy starts with Raj, but I'm not sure his technical input carries the decision-making weight we need here. More importantly, Grace and Dana have the power to block this—Grace through manufacturing concerns and Dana through budget control—and approaching them last, after the coalition is formed, may feel like we're boxing them in rather than genuinely addressing their concerns early.\n\nLet's discuss how we might resequence this to engage our potential blockers earlier and more authentically.\n\nBest,\nMei",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540706766-warming_up.webp",
+          "story": "One month later, your initial strategy to engage Raj and Blaine first revealed cracks, as vital influencers were overlooked. Mei acknowledged your groundwork, yet emphasized the looming risks from misjudged alliances. The SmartSense enhancement hit a pause, awaiting strategic recalibration. By misreading key dynamics and sequence, the team's progress stalled, but a clearer path to driving innovation and success emerged, demanding a more comprehensive coalition to move forward.",
+          "title": "Sweating It Out",
+          "description": "You’ve done some of the work, but important power dynamics are only partially understood. Mei acknowledges your effort but notes that misread influence or weak sequencing could create downstream issues. The strategy is paused pending revisions."
+        }
+      },
+      "cfb4aec3-9410-448e-8f17-3fbe68de179d": {
+        "teamId": "cfb4aec3-9410-448e-8f17-3fbe68de179d",
+        "teamName": "Super Original Group 5",
+        "teamIcon": "🏆",
+        "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Score:"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Mei Nguyen",
+          "subject": "Re: SmartSense Influence Strategy"
+        },
+        "generatedAt": "2026-04-08T09:57:25.647Z",
+        "score": 90,
+        "analysis": "Hi,\n\nReally strong work on this. You've clearly mapped the power dynamics well—I'm particularly impressed with how you identified Marvin's influence over Grace and the need to build coalition support through Blaine. Your sequencing makes strategic sense, and you're right to proactively address Dana's financial concerns and Marvin's risk aversion.\n\nOne refinement: I'd view Grace herself as a primary blocker, not just influenced by Marvin. Her operational concerns could stop this independently, so we need a direct mitigation plan for her manufacturing worries, not just an indirect approach through Marvin.\n\nLet's move forward with SmartSense. Excellent preparation—this gives us a real shot at success.\n\nBest,\nMei",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540760077-cold_as_ice.webp",
+          "story": "One month later, your strategic prowess in the SmartSense enhancement dazzles at ForgePro. You orchestrated a flawless engagement sequence, convincing Marvin, Grace, and Dana through precision-tuned influence maneuvers. Blaine's executive sway amplified your initiative, seamlessly leading Raj onboard. Mei, impressed by your political acumen, championed your proposal, securing executive approval. Your ability to navigate complex dynamics with a cool, decisive approach solidified your status as a formidable leader.",
+          "title": "Cold as Ice",
+          "description": "Your influence strategy is clear, disciplined, and politically astute. You’ve accurately identified the true centers of power, accounted for hidden risks, and sequenced your engagement thoughtfully. Mei endorses your approach and advances it to executive review with confidence."
+        }
+      },
+      "7fe6fef7-7162-4cf0-b7f2-c19070e731df": {
+        "teamId": "7fe6fef7-7162-4cf0-b7f2-c19070e731df",
+        "teamName": "Humbled Problem Solvers",
+        "teamIcon": "🛠️",
+        "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Score:"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Mei Nguyen",
+          "subject": "Re: SmartSense Influence Strategy"
+        },
+        "generatedAt": "2026-04-08T09:56:56.388Z",
+        "score": 72,
+        "analysis": "Hi,\n\nThanks for putting this together. You made a smart connection identifying Marvin as a hidden influencer on Grace—that's the kind of political insight that matters. That said, I think we need to refine the approach before moving forward with SmartSense.\n\nYou're treating Dana as a final checkpoint when she actually holds veto power over the budget. She's a blocker, not a rubber stamp, and leaving her to the end is risky. Also, Blaine is already supportive—we should be using him earlier to build momentum and a coalition, not approaching him fourth. Finally, be careful not to overweight Raj's influence just because he controls technical information.\n\nLet's regroup on this before we proceed. I'd like to see a revised sequence that addresses Dana's concerns earlier and leverages Blaine's enthusiasm strategically. You're on the right track with the Marvin-to-Grace play—build on that instinct.\n\nBest,\nMei",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540742292-calm_and_collected.webp",
+          "story": "One month later, your strategic finesse was on display as you deftly navigated the complex landscape of SmartSense enhancements. By prioritizing product integrity with Marvin's buy-in and aligning operations, you secured Mei's cautious endorsement. Grace’s operational insights and Raj’s production timelines fortified your structured approach, while Blaine’s market feedback shaped profitability strategies. Though ambitious, your plan's success hinged on addressing Dana’s concerns, revealing the path to influential leadership at ForgePro.",
+          "title": "Cool and Collected",
+          "description": "Your strategy shows strong judgment and promising structure, but a few gaps remain. Mei sees real potential in your approach, yet flags specific risks or stakeholders that will need further attention before moving forward. You receive conditional support."
+        }
+      }
+    }
+  },
+  "chapter_timings": {
+    "45dd8681-023a-458a-9480-5c699ed76314": {
+      "started_at": "2026-04-08T08:26:07.492Z",
+      "ended_at": "2026-04-08T08:29:51.724Z"
+    },
+    "56540d39-9c35-4083-ab28-6dd78ef4f258": {
+      "started_at": "2026-04-08T08:36:23.625Z",
+      "ended_at": "2026-04-08T09:00:33.558Z"
+    },
+    "8790fc80-aa22-4d3c-8d7e-00689f05be6f": {
+      "started_at": "2026-04-08T09:17:07.375Z",
+      "ended_at": "2026-04-08T09:32:23.110Z"
+    },
+    "a563e32f-b2f6-461a-8f8b-57e097c75cbd": {
+      "started_at": "2026-04-08T09:41:58.368Z",
+      "ended_at": "2026-04-08T09:56:15.509Z"
+    }
+  },
+  "events": [
+    {
+      "id": "65802546-c904-4324-acc8-8dbab46337eb",
+      "chapter_id": "45dd8681-023a-458a-9480-5c699ed76314",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 1: Chapter 1 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-04-08T08:26:07.492Z",
+      "updated_at": "2026-04-08T08:26:07.492Z"
+    },
+    {
+      "id": "de3a9d01-3cf6-4e51-9977-bd8704085989",
+      "chapter_id": "45dd8681-023a-458a-9480-5c699ed76314",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br\nTeams have a few minutes to review general information about the case. This is a quick orientation chapter before moving right into Chapter 2.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams explore all of the available resources?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-08T08:26:12.021Z",
+      "updated_at": "2026-04-08T08:26:12.023Z"
+    },
+    {
+      "id": "789e1e8d-10e6-401f-ae0b-11a7e8117b8d",
+      "chapter_id": "45dd8681-023a-458a-9480-5c699ed76314",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 2 min 53 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-04-08T08:26:14.927Z",
+      "updated_at": "2026-04-08T08:26:14.927Z"
+    },
+    {
+      "id": "3ec17150-1958-4284-88ad-1b4982d913a4",
+      "chapter_id": "45dd8681-023a-458a-9480-5c699ed76314",
+      "type": "CASE_PROGRESS",
+      "content": "Timer resumed — 2 min 53 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_resumed"
+      },
+      "created_at": "2026-04-08T08:26:21.282Z",
+      "updated_at": "2026-04-08T08:26:21.282Z"
+    },
+    {
+      "id": "d88761f2-077d-4119-b926-4122e1b3b0a2",
+      "chapter_id": "45dd8681-023a-458a-9480-5c699ed76314",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-08T08:26:36.018Z",
+      "updated_at": "2026-04-08T08:26:36.020Z"
+    },
+    {
+      "id": "76917d38-123c-457f-a30f-99b7ed36abb1",
+      "chapter_id": "45dd8681-023a-458a-9480-5c699ed76314",
+      "type": "FACILITATION_TIP",
+      "content": "This chapter does not require a debrief. Use the slides to introduce Chapter 2.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-08T08:29:24.019Z",
+      "updated_at": "2026-04-08T08:29:24.021Z"
+    },
+    {
+      "id": "59cd71dd-4146-4009-a73c-2e2e559966eb",
+      "chapter_id": "45dd8681-023a-458a-9480-5c699ed76314",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-04-08T08:29:51.720Z",
+      "updated_at": "2026-04-08T08:29:51.720Z"
+    },
+    {
+      "id": "de1f9ef5-f3d8-4e51-8879-e3a972fd425a",
+      "chapter_id": "45dd8681-023a-458a-9480-5c699ed76314",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 1 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-04-08T08:29:51.724Z",
+      "updated_at": "2026-04-08T08:29:51.724Z"
+    },
+    {
+      "id": "0e611189-a026-4422-b4f8-62ee6186c86e",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 2: Chapter 2 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-04-08T08:36:23.625Z",
+      "updated_at": "2026-04-08T08:36:23.625Z"
+    },
+    {
+      "id": "98336928-d852-4a46-8cd2-e49debffdd3f",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams meet with both Blaine and Grace to get a better understanding of the various stakeholders at ForgePro. Teams take notes that they can reference later on.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams talk with both Blaine and Grace?\n<li>Do they unlock additional information by asking specifically about each of the other stakeholders?\n<li>Do they take notes that will be useful to them in the next chapter?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-08T08:36:48.021Z",
+      "updated_at": "2026-04-08T08:36:48.023Z"
+    },
+    {
+      "id": "00ceca11-fcf3-442b-9932-e36204186880",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-08T08:38:48.016Z",
+      "updated_at": "2026-04-08T08:38:48.019Z"
+    },
+    {
+      "id": "47d86b11-f4de-4446-a474-8bd691e0c2e2",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to give participants a helpful reminder: <br><br>\n<i>Remember to spend time talking with both Blaine and Grace. It may help to ask specific questions about each stakeholder.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-08T08:48:24.018Z",
+      "updated_at": "2026-04-08T08:48:24.021Z"
+    },
+    {
+      "id": "947e0da1-b783-447d-8dfc-3d8b2c521fb9",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Debrief Reminder:</b> This is a very quick debrief. <ul>\n<li> Use the slides to note that Blaine and Grace might have shared additional information, or even conflicting information.\n<li> Then move directly to the next chapter.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-08T09:00:24.017Z",
+      "updated_at": "2026-04-08T09:00:24.019Z"
+    },
+    {
+      "id": "6499f33b-d77a-41a2-9fa9-aa0b4f78f070",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-04-08T09:00:33.554Z",
+      "updated_at": "2026-04-08T09:00:33.554Z"
+    },
+    {
+      "id": "801a55f1-6944-4ad3-bcd7-40a73b448e9f",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 2 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-04-08T09:00:33.558Z",
+      "updated_at": "2026-04-08T09:00:33.558Z"
+    },
+    {
+      "id": "b1e845ef-01d5-4eb6-afe0-c4adc4a6a099",
+      "chapter_id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 3: Chapter 3 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-04-08T09:17:07.375Z",
+      "updated_at": "2026-04-08T09:17:07.375Z"
+    },
+    {
+      "id": "bc21bee0-795a-4218-a257-17098634f8d7",
+      "chapter_id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams use the included tool to map who has what sort of influencing power at ForgePro.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams complete the Stakeholder Mapping Tool?\n<li>Are teams thoughtfully considering the various types of influencing power?\n<br><br>\n<b>Note: </b> There will be only a few updates in the Activity Feed during this chapter.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-08T09:17:24.023Z",
+      "updated_at": "2026-04-08T09:17:24.025Z"
+    },
+    {
+      "id": "15534856-a9f1-4504-b1b6-5d22fa6c2bf8",
+      "chapter_id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-08T09:18:48.017Z",
+      "updated_at": "2026-04-08T09:18:48.020Z"
+    },
+    {
+      "id": "a2d7b489-b4dd-4a4f-a306-92aa9884b1b0",
+      "chapter_id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to give participants a helpful reminder: <br><br>\n<i>People often have more than one type of influencing power. Just try to identify their <b>primary</b> source of power.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-08T09:24:48.016Z",
+      "updated_at": "2026-04-08T09:24:48.020Z"
+    },
+    {
+      "id": "1401b9f0-1f73-4d87-a45f-6181822ea2b4",
+      "chapter_id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Debrief Reminder:</b> This is a very quick debrief. <ul>\n<li> Use the <b><i>Reflections</b></i> tab in the Debrief tool to ask who participants view as the key stakeholder in their strategy. \n<li> If time, lead a brief discussion around their reasoning.\n<li> Then move to the next chapter.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-08T09:32:12.017Z",
+      "updated_at": "2026-04-08T09:32:12.019Z"
+    },
+    {
+      "id": "2f88dd86-0d45-4a07-b75d-c279cd662881",
+      "chapter_id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-04-08T09:32:23.105Z",
+      "updated_at": "2026-04-08T09:32:23.105Z"
+    },
+    {
+      "id": "61eb3803-d980-4286-be17-dfd964e5284e",
+      "chapter_id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 3 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-04-08T09:32:23.110Z",
+      "updated_at": "2026-04-08T09:32:23.110Z"
+    },
+    {
+      "id": "0bcd0b30-d186-4344-a257-0c10556b0863",
+      "chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 4: Chapter 4 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-04-08T09:41:58.368Z",
+      "updated_at": "2026-04-08T09:41:58.368Z"
+    },
+    {
+      "id": "82a44650-7549-4eb7-99b8-d16964d8d6bd",
+      "chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by +1 min — 12 min 55 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": 60
+      },
+      "created_at": "2026-04-08T09:42:03.431Z",
+      "updated_at": "2026-04-08T09:42:03.431Z"
+    },
+    {
+      "id": "ae1691fd-9208-49a9-8f8e-89a71e9871c3",
+      "chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams email Mei to propose their strategy for influencing key stakeholders to embrace the SmartSense technology.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams explain which stakeholders are the most important for this initiative?\n<li>Do they clearly express who should be approached first, and why?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-08T09:42:12.017Z",
+      "updated_at": "2026-04-08T09:42:12.020Z"
+    },
+    {
+      "id": "e923907d-3b6d-4c53-8688-e720ef01a136",
+      "chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-08T09:43:24.018Z",
+      "updated_at": "2026-04-08T09:43:24.021Z"
+    },
+    {
+      "id": "e814bcf0-7b8c-4f1e-947d-433b518d433b",
+      "chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Debrief Reminder:</b> Debrief the overall experience. <ul>\n<li> Use the <b><i>Snapshot</b></i> tab in the Debrief tool to show what happened next. If any teams earned \"Cold as Ice\" (the best outcome) or \"Cool and Collected,\" ask how they achieved that.\n<li> Use the slides to explore the steps of building an influence strategy in more detail.\n<li> Reconnect with the initial framing of this session: the importance of the strategic aspect of influence (not just the tactical).\n<li> Finally, use <b><i>Reflections</b></i> to ask any reflection questions that strike you as valuable for your cohort.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-08T09:55:00.179Z",
+      "updated_at": "2026-04-08T09:55:00.181Z"
+    },
+    {
+      "id": "f5e2b236-2052-4bd6-b347-17c1754f824e",
+      "chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-04-08T09:56:15.505Z",
+      "updated_at": "2026-04-08T09:56:15.505Z"
+    },
+    {
+      "id": "08475abd-7703-42d4-be3b-80b384a9a7f7",
+      "chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 4 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-04-08T09:56:15.509Z",
+      "updated_at": "2026-04-08T09:56:15.509Z"
+    },
+    {
+      "id": "7c538722-b143-4177-b799-f0ffd1b0909a",
+      "chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "type": "ENDING_MESSAGE",
+      "content": "Case completed — all chapters finished.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "case_completed"
+      },
+      "created_at": "2026-04-08T09:56:15.571Z",
+      "updated_at": "2026-04-08T09:56:15.571Z"
+    }
+  ]
+}

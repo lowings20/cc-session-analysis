@@ -61,18 +61,20 @@ export interface CcSessionData {
   viewed_chapter_id: string
   extracted_at: string
   source_url: string
+  tenant_dns?: string
   chapters: CcSessionChapter[]
   teams: CcSessionTeam[]
   team_results_for_viewed_chapter: Record<string, CcTeamResult>
+  team_results_by_chapter?: Record<string, Record<string, CcTeamResult>>
   team_analyses_for_viewed_chapter?: Record<string, CcTeamAnalysis>
+  team_analyses_by_chapter?: Record<string, Record<string, CcTeamAnalysis>>
   rubric?: CcSessionRubric
+  rubric_by_chapter?: Record<string, CcSessionRubric>
   chapter_timings: Record<string, { started_at?: string; ended_at?: string }>
   events: CcSessionEvent[]
 }
 
-const REGISTRY: Record<number, () => Promise<{ default: CcSessionData }>> = {
-  13505: () => import('@/app/data/sessions/13505.json') as unknown as Promise<{ default: CcSessionData }>,
-}
+import { SESSION_REGISTRY as REGISTRY } from './cc-session-registry'
 
 export async function getCcSession(arrowId: number): Promise<CcSessionData | null> {
   const loader = REGISTRY[arrowId]

@@ -1,0 +1,57 @@
+{
+  "session_arrow_id": 19606,
+  "session_cc_uuid": "30e7bca6-f306-40b1-bc34-67deeb86d3e9",
+  "case_challenge": "Navigating Critical Conversations",
+  "case_challenge_id": "ed2551ab-bd65-4195-b571-43edd96f9e63",
+  "viewed_chapter_id": "84b81960-4156-4582-a05f-fc121acf76fb",
+  "extracted_at": "2026-05-20T00:00:00.000Z",
+  "source_url": "https://fortunebrandsinnovations.abilitie.com/facilitator/30e7bca6-f306-40b1-bc34-67deeb86d3e9",
+  "tenant_dns": "fortunebrandsinnovations.abilitie.com",
+  "chapters": [
+    {
+      "id": "e724e890-1956-4bb7-ae42-8eb9896eebeb",
+      "title": "Chapter 1",
+      "order": 1,
+      "duration_min": 5,
+      "blocks": 1
+    },
+    {
+      "id": "f7afb929-e886-4ba8-8055-dad79dde30d1",
+      "title": "Chapter 2",
+      "order": 2,
+      "duration_min": 15,
+      "blocks": 0
+    },
+    {
+      "id": "32af157d-329d-478b-bd93-4eb11ed0f3ea",
+      "title": "Chapter 3",
+      "order": 3,
+      "duration_min": 15,
+      "blocks": 0
+    },
+    {
+      "id": "84b81960-4156-4582-a05f-fc121acf76fb",
+      "title": "Chapter 4",
+      "order": 4,
+      "duration_min": 15,
+      "blocks": 0
+    }
+  ],
+  "teams": [],
+  "team_results_for_viewed_chapter": {},
+  "team_results_by_chapter": {
+    "e724e890-1956-4bb7-ae42-8eb9896eebeb": {},
+    "f7afb929-e886-4ba8-8055-dad79dde30d1": {},
+    "32af157d-329d-478b-bd93-4eb11ed0f3ea": {},
+    "84b81960-4156-4582-a05f-fc121acf76fb": {}
+  },
+  "team_analyses_for_viewed_chapter": {},
+  "team_analyses_by_chapter": {
+    "e724e890-1956-4bb7-ae42-8eb9896eebeb": {},
+    "f7afb929-e886-4ba8-8055-dad79dde30d1": {},
+    "32af157d-329d-478b-bd93-4eb11ed0f3ea": {},
+    "84b81960-4156-4582-a05f-fc121acf76fb": {}
+  },
+  "chapter_timings": {},
+  "events": []
+}

@@ -1,0 +1,451 @@
+{
+  "session_arrow_id": 19607,
+  "session_cc_uuid": "a0ad9ad7-7595-44cd-8662-a68ad4740843",
+  "case_challenge": "Enabling Peak Performance",
+  "case_challenge_id": "0d5ca77e-bfc0-4abe-8c05-fb9ac38f5264",
+  "viewed_chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+  "extracted_at": "2026-05-20T00:00:00.000Z",
+  "source_url": "https://fortunebrandsinnovations2.abilitie.com/facilitator/a0ad9ad7-7595-44cd-8662-a68ad4740843",
+  "tenant_dns": "fortunebrandsinnovations2.abilitie.com",
+  "chapters": [
+    {
+      "id": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+      "title": "Chapter One",
+      "order": 1,
+      "duration_min": 5,
+      "blocks": 0
+    },
+    {
+      "id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "title": "Chapter Two",
+      "order": 2,
+      "duration_min": 15,
+      "blocks": 1
+    },
+    {
+      "id": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+      "title": "Chapter Three",
+      "order": 3,
+      "duration_min": 15,
+      "blocks": 0
+    },
+    {
+      "id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "title": "Chapter Four",
+      "order": 4,
+      "duration_min": 15,
+      "blocks": 0
+    }
+  ],
+  "teams": [],
+  "team_results_for_viewed_chapter": {
+    "f9c65cc0-fbfc-438a-8f1c-36bd2c9e2ed3": {
+      "completed_block_count": 4,
+      "opened_block_count": 20,
+      "score": 67,
+      "narrative_outcome": "Jordan Doubts His Fit"
+    }
+  },
+  "team_results_by_chapter": {
+    "ad0c31b7-84cf-4a36-b448-1e2849011f32": {},
+    "b7a71160-9f6d-4067-93a7-f1e6cc876a76": {},
+    "d930fbda-77f4-4a3a-be92-572be4b917ae": {},
+    "89cfef24-2d08-4382-86c4-935d627d6a37": {
+      "f9c65cc0-fbfc-438a-8f1c-36bd2c9e2ed3": {
+        "completed_block_count": 4,
+        "opened_block_count": 20,
+        "score": 67,
+        "narrative_outcome": "Jordan Doubts His Fit"
+      }
+    }
+  },
+  "team_analyses_for_viewed_chapter": {},
+  "team_analyses_by_chapter": {
+    "ad0c31b7-84cf-4a36-b448-1e2849011f32": {},
+    "b7a71160-9f6d-4067-93a7-f1e6cc876a76": {},
+    "d930fbda-77f4-4a3a-be92-572be4b917ae": {},
+    "89cfef24-2d08-4382-86c4-935d627d6a37": {}
+  },
+  "chapter_timings": {
+    "ad0c31b7-84cf-4a36-b448-1e2849011f32": {
+      "started_at": "2026-04-13T19:23:24.092Z",
+      "ended_at": "2026-04-13T19:35:34.212Z"
+    },
+    "b7a71160-9f6d-4067-93a7-f1e6cc876a76": {
+      "started_at": "2026-04-13T19:35:34.902Z",
+      "ended_at": "2026-04-13T19:51:53.699Z"
+    },
+    "d930fbda-77f4-4a3a-be92-572be4b917ae": {
+      "started_at": "2026-04-13T20:00:29.224Z",
+      "ended_at": "2026-04-13T20:15:35.077Z"
+    },
+    "89cfef24-2d08-4382-86c4-935d627d6a37": {
+      "started_at": "2026-04-13T20:20:35.446Z",
+      "ended_at": "2026-04-13T20:35:29.842Z"
+    }
+  },
+  "events": [
+    {
+      "id": "3a9bb32c-4605-4aba-a965-8f8d321b505e",
+      "chapter_id": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 1: Chapter One has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-04-13T19:23:24.092Z",
+      "updated_at": "2026-04-13T19:23:24.092Z"
+    },
+    {
+      "id": "30f0aa94-890c-4513-a3ff-39d8d0b7f604",
+      "chapter_id": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br\nTeams have a few minutes to review general information about the case. This is a quick orientation chapter before moving right into Chapter 2.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams explore all of the available resources?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-13T19:23:36.059Z",
+      "updated_at": "2026-04-13T19:23:36.062Z"
+    },
+    {
+      "id": "6b4fccec-6a60-4562-84c1-21afc6271680",
+      "chapter_id": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-13T19:24:00.191Z",
+      "updated_at": "2026-04-13T19:24:00.198Z"
+    },
+    {
+      "id": "c82373ab-fb04-4410-a433-eb744319692c",
+      "chapter_id": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Keep going!</b> No need to debrief Chapter 1. Use the slides to introduce Chapter 2 now.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-13T19:28:36.025Z",
+      "updated_at": "2026-04-13T19:28:36.027Z"
+    },
+    {
+      "id": "ee5f591b-4b78-4d42-b1b6-06384b0cca26",
+      "chapter_id": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-04-13T19:35:34.204Z",
+      "updated_at": "2026-04-13T19:35:34.204Z"
+    },
+    {
+      "id": "610ad4d2-150f-471e-bc29-f7a4ac5117db",
+      "chapter_id": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 1 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-04-13T19:35:34.212Z",
+      "updated_at": "2026-04-13T19:35:34.212Z"
+    },
+    {
+      "id": "2bda1c88-185a-4d43-825f-7c2416672878",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 2: Chapter Two has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-04-13T19:35:34.902Z",
+      "updated_at": "2026-04-13T19:35:34.902Z"
+    },
+    {
+      "id": "80a40702-3e0a-4c60-bacc-1cda5f968aca",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams meet with Jordan to align on what success looks like for the upcoming project.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams clearly articulate the objectives and deliverables of the project?\n<li>Do they provide context on how the project aligns with the larger goals of the team or company?\n<li>Do they outline the timeline and how success will be measured?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-13T19:35:48.025Z",
+      "updated_at": "2026-04-13T19:35:48.032Z"
+    },
+    {
+      "id": "ad1443fd-98e2-4256-ac76-eb8cb1ca09c7",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-13T19:37:12.023Z",
+      "updated_at": "2026-04-13T19:37:12.026Z"
+    },
+    {
+      "id": "850caae8-51c6-47b8-ac83-426c4d874ba6",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to remind participants: <br><br>\n<i>Keep going! The more you talk with Jordan, the more you'll learn and the more trust you will develop.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-13T19:44:36.027Z",
+      "updated_at": "2026-04-13T19:44:36.029Z"
+    },
+    {
+      "id": "b690a3c9-fdd3-49f5-9cfd-45aec405c990",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Reminder:</b> Move teams to the Decision now.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-13T19:50:36.022Z",
+      "updated_at": "2026-04-13T19:50:36.024Z"
+    },
+    {
+      "id": "19ae8510-6ffc-4035-a3f8-427686aedc68",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "STARTING_MESSAGE",
+      "content": "Decision phase has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "decision_started"
+      },
+      "created_at": "2026-04-13T19:50:44.691Z",
+      "updated_at": "2026-04-13T19:50:44.691Z"
+    },
+    {
+      "id": "4aa3bafe-0bec-4d82-ac92-b1a2c6a34df2",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Decision Time!</b> Teams must articulate Jordan's goal for the upcoming project. Note that this does not affect the chapter scoring, which is based on whether teams articulated the goals to Jordan during their conversation with him. This extra decision is mostly to push teams to crystalize the goal for themselves.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-13T19:50:48.033Z",
+      "updated_at": "2026-04-13T19:50:48.038Z"
+    },
+    {
+      "id": "8fa52e4a-1770-4a38-a114-2a2046e24c4d",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 2 min 51 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-04-13T19:51:53.692Z",
+      "updated_at": "2026-04-13T19:51:53.692Z"
+    },
+    {
+      "id": "3329ce75-f56c-453a-bd8a-ebca9d8b2802",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 2 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-04-13T19:51:53.699Z",
+      "updated_at": "2026-04-13T19:51:53.699Z"
+    },
+    {
+      "id": "dcc39baa-d17b-49d9-8d02-9551d6bd7cd4",
+      "chapter_id": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 3: Chapter Three has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-04-13T20:00:29.224Z",
+      "updated_at": "2026-04-13T20:00:29.224Z"
+    },
+    {
+      "id": "17663756-01e8-4c8d-b0ae-5100ee1a228a",
+      "chapter_id": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams meet with Jordan to give him feedback on the project so far. \n<br><br>\nNote: based on how clearly teams articulated Jordan's goals, they will either need to deliver either <b><i>urgent</b></i> or only <b><i>slightly corrective</b></i> feedback to Jordan.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams cite clear, concrete examples of where Jordan's presentation caused confusion?\n<li>Do teams communicate the impact of Jordan's actions on the team, and on Jordan's own career?\n<li>Do teams continue to develop trust with Jordan?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-13T20:00:48.036Z",
+      "updated_at": "2026-04-13T20:00:48.040Z"
+    },
+    {
+      "id": "d6091716-67de-4201-a243-4353ae5d0e18",
+      "chapter_id": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-13T20:02:00.108Z",
+      "updated_at": "2026-04-13T20:02:00.113Z"
+    },
+    {
+      "id": "93579f1d-6922-4708-8ba9-5c440f4e510b",
+      "chapter_id": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to give participants a helpful reminder: <br><br>\n<i>Remember: articulate the Situation, Behavior, and Impact.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-13T20:08:00.182Z",
+      "updated_at": "2026-04-13T20:08:00.188Z"
+    },
+    {
+      "id": "3575eed4-cb27-49d0-807d-17e9feb56391",
+      "chapter_id": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-04-13T20:15:35.070Z",
+      "updated_at": "2026-04-13T20:15:35.070Z"
+    },
+    {
+      "id": "212f3e08-3fe7-488e-a11b-f57352090eb2",
+      "chapter_id": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 3 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-04-13T20:15:35.077Z",
+      "updated_at": "2026-04-13T20:15:35.077Z"
+    },
+    {
+      "id": "189f2f2b-3fc6-4ea0-869a-0bfcfb5f2a6e",
+      "chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 4: Chapter Four has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-04-13T20:20:35.446Z",
+      "updated_at": "2026-04-13T20:20:35.446Z"
+    },
+    {
+      "id": "5eee389a-8b30-4c35-bbd4-c438f054e709",
+      "chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 14 min 49 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-04-13T20:20:47.398Z",
+      "updated_at": "2026-04-13T20:20:47.398Z"
+    },
+    {
+      "id": "e60d76b7-8cc4-4521-b33a-bac5b3c0b2c2",
+      "chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams coach Jordan on his overall career development. \n<br><br>\nNote: how well teams gave feedback in the prior chapter will impact Jordan's attitude at the start of the chapter.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams facilitate Jordan's own self-reflection on his career development?\n<li>Do teams encourage Jordan to brainstorm solutions?\n<li>Do teams assist Jordan in committing to a path forward?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-13T20:20:48.025Z",
+      "updated_at": "2026-04-13T20:20:48.032Z"
+    },
+    {
+      "id": "c5371c30-4c24-48a1-b429-029c3360f9c0",
+      "chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "type": "CASE_PROGRESS",
+      "content": "Timer resumed — 14 min 49 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_resumed"
+      },
+      "created_at": "2026-04-13T20:22:43.833Z",
+      "updated_at": "2026-04-13T20:22:43.833Z"
+    },
+    {
+      "id": "020e7b70-56ff-4c7d-bc78-2da13f9a0a48",
+      "chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-13T20:24:12.024Z",
+      "updated_at": "2026-04-13T20:24:12.027Z"
+    },
+    {
+      "id": "07dd1b9b-706e-4f03-b70f-58a402cac822",
+      "chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to give participants a helpful reminder: <br><br>\n<i>Remember to ask probing questions to get Jordan doing most of the thinking here!</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-04-13T20:30:12.025Z",
+      "updated_at": "2026-04-13T20:30:12.028Z"
+    },
+    {
+      "id": "19581307-dc90-4ebf-97bd-037a1080a958",
+      "chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 2 min 3 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-04-13T20:35:29.836Z",
+      "updated_at": "2026-04-13T20:35:29.836Z"
+    },
+    {
+      "id": "6bac5697-0794-424e-beb3-38c97a6c25f5",
+      "chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 4 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-04-13T20:35:29.842Z",
+      "updated_at": "2026-04-13T20:35:29.842Z"
+    },
+    {
+      "id": "bc82ff18-4506-45ad-8104-b40365af4c8d",
+      "chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "type": "ENDING_MESSAGE",
+      "content": "Case completed — all chapters finished.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "case_completed"
+      },
+      "created_at": "2026-04-13T20:35:29.853Z",
+      "updated_at": "2026-04-13T20:35:29.853Z"
+    }
+  ]
+}

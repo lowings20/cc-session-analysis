@@ -1,0 +1,57 @@
+{
+  "session_arrow_id": 13324,
+  "session_cc_uuid": "32f3c5a5-23dd-4982-a5d2-f48246d762d0",
+  "case_challenge": "Influencing Without Authority",
+  "case_challenge_id": "38f208dd-a242-4566-b6d1-1d995f02966c",
+  "viewed_chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+  "extracted_at": "2026-05-20T00:00:00.000Z",
+  "source_url": "https://bectondickinson18.abilitie.com/facilitator/32f3c5a5-23dd-4982-a5d2-f48246d762d0",
+  "tenant_dns": "bectondickinson18.abilitie.com",
+  "chapters": [
+    {
+      "id": "45dd8681-023a-458a-9480-5c699ed76314",
+      "title": "Chapter 1",
+      "order": 1,
+      "duration_min": 3,
+      "blocks": 0
+    },
+    {
+      "id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "title": "Chapter 2",
+      "order": 2,
+      "duration_min": 24,
+      "blocks": 0
+    },
+    {
+      "id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "title": "Chapter 3",
+      "order": 3,
+      "duration_min": 15,
+      "blocks": 0
+    },
+    {
+      "id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "title": "Chapter 4",
+      "order": 4,
+      "duration_min": 12,
+      "blocks": 0
+    }
+  ],
+  "teams": [],
+  "team_results_for_viewed_chapter": {},
+  "team_results_by_chapter": {
+    "45dd8681-023a-458a-9480-5c699ed76314": {},
+    "56540d39-9c35-4083-ab28-6dd78ef4f258": {},
+    "8790fc80-aa22-4d3c-8d7e-00689f05be6f": {},
+    "a563e32f-b2f6-461a-8f8b-57e097c75cbd": {}
+  },
+  "team_analyses_for_viewed_chapter": {},
+  "team_analyses_by_chapter": {
+    "45dd8681-023a-458a-9480-5c699ed76314": {},
+    "56540d39-9c35-4083-ab28-6dd78ef4f258": {},
+    "8790fc80-aa22-4d3c-8d7e-00689f05be6f": {},
+    "a563e32f-b2f6-461a-8f8b-57e097c75cbd": {}
+  },
+  "chapter_timings": {},
+  "events": []
+}

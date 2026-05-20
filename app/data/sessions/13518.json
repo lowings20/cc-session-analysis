@@ -1,0 +1,1423 @@
+{
+  "session_arrow_id": 13518,
+  "session_cc_uuid": "a9dabb46-8808-4f47-9396-fb6e0078b059",
+  "case_challenge": "Managing Profitability",
+  "case_challenge_id": "ae40f5b1-20de-454d-9118-07c387010061",
+  "viewed_chapter_id": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+  "extracted_at": "2026-05-20T00:00:00.000Z",
+  "source_url": "https://bectondickinson24.abilitie.com/facilitator/a9dabb46-8808-4f47-9396-fb6e0078b059",
+  "tenant_dns": "bectondickinson24.abilitie.com",
+  "chapters": [
+    {
+      "id": "cc2abb26-f763-44d9-b197-81b6776e73fb",
+      "title": "The Gelat-oat Opportunity",
+      "order": 1,
+      "duration_min": 12,
+      "blocks": 1
+    },
+    {
+      "id": "66e7aed3-09d7-43f9-922c-2a9f9f45bcad",
+      "title": "Gauging Demand",
+      "order": 2,
+      "duration_min": 16,
+      "blocks": 1
+    },
+    {
+      "id": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+      "title": "The Recommendation",
+      "order": 3,
+      "duration_min": 16,
+      "blocks": 0
+    }
+  ],
+  "teams": [
+    {
+      "id": "e7060b32-2ef9-4640-979a-71e25cd80728",
+      "name": "Group 7",
+      "icon": "💼",
+      "group_letter": "7"
+    },
+    {
+      "id": "d3b8757c-2e32-4d73-9ea8-5742e6645c70",
+      "name": "3 musketeers",
+      "icon": "👑",
+      "group_letter": "2"
+    },
+    {
+      "id": "c6d31e6d-104b-4920-a7ba-a4213fb86308",
+      "name": "Always Win",
+      "icon": "👑",
+      "group_letter": "4"
+    },
+    {
+      "id": "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede",
+      "name": "Rum&Raisin",
+      "icon": "🧁",
+      "group_letter": "1"
+    },
+    {
+      "id": "141c7e7f-c6fb-42d2-87d0-b492664b9c59",
+      "name": "Gelat-Oat",
+      "icon": "🧁",
+      "group_letter": "5"
+    },
+    {
+      "id": "68642c66-300d-46a0-9c4e-adcaa0ee9de8",
+      "name": "Team AVB",
+      "icon": "💎",
+      "group_letter": "8"
+    },
+    {
+      "id": "9cb23583-d5be-4f22-acd6-f1570ceaabe8",
+      "name": "BFF",
+      "icon": "🤝",
+      "group_letter": "6"
+    },
+    {
+      "id": "cea91730-5b5c-4337-ba13-ee0cd49de8f8",
+      "name": "Scoop Dog",
+      "icon": "🍰",
+      "group_letter": "3"
+    }
+  ],
+  "team_results_for_viewed_chapter": {
+    "e7060b32-2ef9-4640-979a-71e25cd80728": {
+      "completed_block_count": 3,
+      "opened_block_count": 10,
+      "score": 0,
+      "narrative_outcome": "Back to the Drawing Board"
+    },
+    "d3b8757c-2e32-4d73-9ea8-5742e6645c70": {
+      "completed_block_count": 5,
+      "opened_block_count": 12,
+      "score": 53,
+      "narrative_outcome": "Finding Our Footing"
+    },
+    "c6d31e6d-104b-4920-a7ba-a4213fb86308": {
+      "completed_block_count": 4,
+      "opened_block_count": 12,
+      "score": 84,
+      "narrative_outcome": "Market Maker"
+    },
+    "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede": {
+      "completed_block_count": 4,
+      "opened_block_count": 12,
+      "score": 93,
+      "narrative_outcome": "Market Maker"
+    },
+    "141c7e7f-c6fb-42d2-87d0-b492664b9c59": {
+      "completed_block_count": 6,
+      "opened_block_count": 12,
+      "score": 68,
+      "narrative_outcome": "Gaining Traction"
+    },
+    "68642c66-300d-46a0-9c4e-adcaa0ee9de8": {
+      "completed_block_count": 6,
+      "opened_block_count": 12,
+      "score": 87,
+      "narrative_outcome": "Market Maker"
+    },
+    "9cb23583-d5be-4f22-acd6-f1570ceaabe8": {
+      "completed_block_count": 6,
+      "opened_block_count": 12,
+      "score": 78,
+      "narrative_outcome": "Gaining Traction"
+    },
+    "cea91730-5b5c-4337-ba13-ee0cd49de8f8": {
+      "completed_block_count": 4,
+      "opened_block_count": 12,
+      "score": 84,
+      "narrative_outcome": "Market Maker"
+    }
+  },
+  "team_results_by_chapter": {
+    "cc2abb26-f763-44d9-b197-81b6776e73fb": {},
+    "66e7aed3-09d7-43f9-922c-2a9f9f45bcad": {},
+    "324e78dc-69d5-4c1a-8f37-3bafaad87cee": {
+      "e7060b32-2ef9-4640-979a-71e25cd80728": {
+        "completed_block_count": 3,
+        "opened_block_count": 10,
+        "score": 0,
+        "narrative_outcome": "Back to the Drawing Board"
+      },
+      "d3b8757c-2e32-4d73-9ea8-5742e6645c70": {
+        "completed_block_count": 5,
+        "opened_block_count": 12,
+        "score": 53,
+        "narrative_outcome": "Finding Our Footing"
+      },
+      "c6d31e6d-104b-4920-a7ba-a4213fb86308": {
+        "completed_block_count": 4,
+        "opened_block_count": 12,
+        "score": 84,
+        "narrative_outcome": "Market Maker"
+      },
+      "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede": {
+        "completed_block_count": 4,
+        "opened_block_count": 12,
+        "score": 93,
+        "narrative_outcome": "Market Maker"
+      },
+      "141c7e7f-c6fb-42d2-87d0-b492664b9c59": {
+        "completed_block_count": 6,
+        "opened_block_count": 12,
+        "score": 68,
+        "narrative_outcome": "Gaining Traction"
+      },
+      "68642c66-300d-46a0-9c4e-adcaa0ee9de8": {
+        "completed_block_count": 6,
+        "opened_block_count": 12,
+        "score": 87,
+        "narrative_outcome": "Market Maker"
+      },
+      "9cb23583-d5be-4f22-acd6-f1570ceaabe8": {
+        "completed_block_count": 6,
+        "opened_block_count": 12,
+        "score": 78,
+        "narrative_outcome": "Gaining Traction"
+      },
+      "cea91730-5b5c-4337-ba13-ee0cd49de8f8": {
+        "completed_block_count": 4,
+        "opened_block_count": 12,
+        "score": 84,
+        "narrative_outcome": "Market Maker"
+      }
+    }
+  },
+  "team_analyses_for_viewed_chapter": {
+    "e7060b32-2ef9-4640-979a-71e25cd80728": {
+      "teamId": "e7060b32-2ef9-4640-979a-71e25cd80728",
+      "teamName": "Group 7",
+      "teamIcon": "💼",
+      "chapterId": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/1774987084607-chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Launch Readiness",
+        "lowThreshold": 45,
+        "mediumThreshold": 75
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Zena Doyle, CEO, Butterfeast",
+        "subject": "Following up "
+      },
+      "generatedAt": "2026-05-06T05:41:03.853Z",
+      "score": 0,
+      "analysis": "**Subject: Re: Gelat-oat Production Decision**\n\nHi, thanks for meeting today.\n\nI'm going to be blunt: I carved out time on my calendar expecting a recommendation, and I didn't get one. You had Carlos's analysis, you had the data, and you had a room with two people ready to listen. What I needed was a clear point of view — which option you're backing, why, what numbers you're watching, and what keeps you up at night about the choice.\n\nI can't greenlight something that wasn't pitched. \n\nTake the weekend. Come back Monday with an actual recommendation. Show me you've wrestled with the numbers, that you know what good and bad look like in the early weeks, and that you've thought past the spreadsheet to what could break. I need conviction backed by rigor, not silence.\n\nWe'll reconvene Monday at 2pm.\n\nZena\n\nP.S. — I'll send you a six-month update on how this all played out.",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/option-3/1775060812466-Back_to_the_drawing_board.webp",
+        "story": "Zena listened, then pressed for the numbers behind our production recommendation. With Carlos in the room, we couldn’t point to clear leading indicators—no active account rate, velocity, or quality signals, and we never stress-tested the 60% adoption assumption. The plan felt more hopeful than engineered. Zena declined to greenlight and sent us back to validate demand, define an early-warning dashboard, and align the team on measurable triggers before Gelat-oat could leave the whiteboard.",
+        "title": "Back to the Drawing Board",
+        "description": "The pitch didn't convince. Launch delayed. Team misaligned."
+      }
+    },
+    "d3b8757c-2e32-4d73-9ea8-5742e6645c70": {
+      "teamId": "d3b8757c-2e32-4d73-9ea8-5742e6645c70",
+      "teamName": "3 musketeers",
+      "teamIcon": "👑",
+      "chapterId": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/1774987084607-chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Launch Readiness",
+        "lowThreshold": 45,
+        "mediumThreshold": 75
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Zena Doyle, CEO, Butterfeast",
+        "subject": "Following up "
+      },
+      "generatedAt": "2026-05-06T05:41:32.909Z",
+      "score": 53,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/option-2/1775060807332-Rough_Start.webp",
+        "story": "Six months after the pitch, Gelat-oat finally came online behind schedule, and the $1.2M fixed-cost clock started ticking before momentum did. We committed to the new plant on a slim base-case lift, but managed the launch through quarterly revenue and profit—rear‑view metrics Zena warned were too slow. As weekly active accounts quietly slipped, no one caught the early erosion until revenue landed 20% under plan, forcing a late scramble in marketing and operations.",
+        "title": "Finding Our Footing",
+        "description": "Delayed timeline. The team was watching lagging indicators instead of leading signals."
+      }
+    },
+    "c6d31e6d-104b-4920-a7ba-a4213fb86308": {
+      "teamId": "c6d31e6d-104b-4920-a7ba-a4213fb86308",
+      "teamName": "Always Win",
+      "teamIcon": "👑",
+      "chapterId": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/1774987084607-chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Launch Readiness",
+        "lowThreshold": 45,
+        "mediumThreshold": 75
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Zena Doyle, CEO, Butterfeast",
+        "subject": "Following up "
+      },
+      "generatedAt": "2026-05-06T05:41:30.163Z",
+      "score": 84,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/option-0/1775060789421-Full_Speed_Ahead.webp",
+        "story": "Six months after the pitch, Gelat-oat is beating the high-case curve—because the team treated demand as a hypothesis, not a hope. Derek and Carlos backed the new plant on fixed-cost leverage, then built an early-warning dashboard tracking adoption pace, active rates, repeat orders, and velocity. When adoption softened in week six, they held operations to one shift, protected margins, and reignited the funnel—then ramped confidently as signals turned green.",
+        "title": "Market Maker",
+        "description": "Gelat-oat is thriving. The right production path, strong execution, aligned team."
+      }
+    },
+    "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede": {
+      "teamId": "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede",
+      "teamName": "Rum&Raisin",
+      "teamIcon": "🧁",
+      "chapterId": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/1774987084607-chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Launch Readiness",
+        "lowThreshold": 45,
+        "mediumThreshold": 75
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Zena Doyle, CEO, Butterfeast",
+        "subject": "Following up "
+      },
+      "generatedAt": "2026-05-06T05:41:37.528Z",
+      "score": 93,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/option-0/1775060789421-Full_Speed_Ahead.webp",
+        "story": "Six months after Zena approved the new plant, Gelat-oat is beating the base case and running with consistent quality. Sophie anchored the risk at a 414K breakeven, then set daily leading indicators—adoption, reorder rate, and volume per customer—to steer decisions in real time. Early segmentation reads guided targeted promotions, smoothing velocity and protecting margin. Carlos, energized by the clarity, kept operations tight and capacity flexible as demand surged beyond plan.",
+        "title": "Market Maker",
+        "description": "Gelat-oat is thriving. The right production path, strong execution, aligned team."
+      }
+    },
+    "141c7e7f-c6fb-42d2-87d0-b492664b9c59": {
+      "teamId": "141c7e7f-c6fb-42d2-87d0-b492664b9c59",
+      "teamName": "Gelat-Oat",
+      "teamIcon": "🧁",
+      "chapterId": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/1774987084607-chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Launch Readiness",
+        "lowThreshold": 45,
+        "mediumThreshold": 75
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Zena Doyle, CEO, Butterfeast",
+        "subject": "Following up "
+      },
+      "generatedAt": "2026-05-06T05:41:38.646Z",
+      "score": 68,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/option-1/1775060797265-Gaining_Traction.webp",
+        "story": "Six months after the pitch, Gelat-oat is on menus—and momentum is real—but the rollout came with scars. The team committed to the new plant and managed cash tightly, tracking weekly active rate and velocity across the 24 pilot restaurants. Yet they didn’t challenge the 60% adoption assumption early enough; when adoption landed closer to 48%, it took weeks to surface. Carlos regrouped, sharpened the account-by-account plan, and demand is climbing again.",
+        "title": "Gaining Traction",
+        "description": "Promising launch with growing pains. Demand is building but not without challenges."
+      }
+    },
+    "68642c66-300d-46a0-9c4e-adcaa0ee9de8": {
+      "teamId": "68642c66-300d-46a0-9c4e-adcaa0ee9de8",
+      "teamName": "Team AVB",
+      "teamIcon": "💎",
+      "chapterId": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/1774987084607-chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Launch Readiness",
+        "lowThreshold": 45,
+        "mediumThreshold": 75
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Zena Doyle, CEO, Butterfeast",
+        "subject": "Following up "
+      },
+      "generatedAt": "2026-05-06T05:41:37.784Z",
+      "score": 87,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/option-0/1775060789421-Full_Speed_Ahead.webp",
+        "story": "Six months after Zena’s pitch, Gelat-oat is a standing menu item across the region—and the new plant is humming. We didn’t treat 60% adoption as destiny; we built an early-warning dashboard tracking weekly active accounts, velocity, reorders, and adoption. When adoption landed at 52%, the week‑6 truth moment triggered targeted chef outreach and account sequencing, protecting throughput. Carlos stayed energized, and the plant-scale bet became a controlled win.",
+        "title": "Market Maker",
+        "description": "Gelat-oat is thriving. The right production path, strong execution, aligned team."
+      }
+    },
+    "9cb23583-d5be-4f22-acd6-f1570ceaabe8": {
+      "teamId": "9cb23583-d5be-4f22-acd6-f1570ceaabe8",
+      "teamName": "BFF",
+      "teamIcon": "🤝",
+      "chapterId": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/1774987084607-chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Launch Readiness",
+        "lowThreshold": 45,
+        "mediumThreshold": 75
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Zena Doyle, CEO, Butterfeast",
+        "subject": "Following up "
+      },
+      "generatedAt": "2026-05-06T05:41:33.186Z",
+      "score": 78,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/option-1/1775060797265-Gaining_Traction.webp",
+        "story": "Six months after the retrofit go‑live, Gelat-oat is on shelves and in more kitchens—but the ride hasn’t been smooth. We bet on 60% adoption with a 55% break-even cushion and tracked active accounts and weekly velocity, yet we didn’t challenge the adoption assumption early enough. Actual adoption settled near 48%, and it took weeks to register the gap. Now we’re tightening targeting, reinforcing sales discipline, and rebuilding the forecast with clearer triggers.",
+        "title": "Gaining Traction",
+        "description": "Promising launch with growing pains. Demand is building but not without challenges."
+      }
+    },
+    "cea91730-5b5c-4337-ba13-ee0cd49de8f8": {
+      "teamId": "cea91730-5b5c-4337-ba13-ee0cd49de8f8",
+      "teamName": "Scoop Dog",
+      "teamIcon": "🍰",
+      "chapterId": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/1774987084607-chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Launch Readiness",
+        "lowThreshold": 45,
+        "mediumThreshold": 75
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Zena Doyle, CEO, Butterfeast",
+        "subject": "Following up "
+      },
+      "generatedAt": "2026-05-06T05:41:20.442Z",
+      "score": 84,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/option-0/1775060789421-Full_Speed_Ahead.webp",
+        "story": "Six months after the pitch, Gelat-oat is on more menus than planned and holding strong. You backed the new plant for upside, but governed the launch with disciplined triggers: weekly active account rate and a hard “<1% texture complaints” standard. When quality monitoring surfaced an early co-packer texture drift, the team quarantined batches, corrected specs, and protected reorder momentum. With active accounts sustaining 75%, Carlos ramped supply confidently—and the market rewarded it.",
+        "title": "Market Maker",
+        "description": "Gelat-oat is thriving. The right production path, strong execution, aligned team."
+      }
+    }
+  },
+  "team_analyses_by_chapter": {
+    "cc2abb26-f763-44d9-b197-81b6776e73fb": {
+      "e7060b32-2ef9-4640-979a-71e25cd80728": {
+        "teamId": "e7060b32-2ef9-4640-979a-71e25cd80728",
+        "teamName": "Group 7",
+        "teamIcon": "💼",
+        "chapterId": "cc2abb26-f763-44d9-b197-81b6776e73fb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-cc2abb26-f763-44d9-b197-81b6776e73fb/1774987072568-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Orienting to the opportunity"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Strategy & Insights Team, Butterfeast",
+          "subject": "Quick Check-In "
+        },
+        "generatedAt": "2026-05-06T04:38:12.812Z",
+        "score": 5,
+        "analysis": "Hi,\n\nJust reviewed your breakeven work and your call on which option to cut. I need to flag a major concern: your breakeven calculations all show zero, which means the math wasn't completed. These numbers are critical—without them, we can't properly evaluate the options. Also, your rationale suggests the Co-Packer has lower revenue, but all three options generate the same revenue per unit. The real differences are in fixed costs and variable margins. We need to revisit this before moving forward—happy to walk through the analysis together.\n\nNext up, you'll be digging into the demand story with Carlos and running some scenarios. The thinking you've done here is going to set the foundation for that. Ready to support on anything!\n\nBest,  \nStrategy & Insights Team",
+        "narrativeImpact": null
+      },
+      "d3b8757c-2e32-4d73-9ea8-5742e6645c70": {
+        "teamId": "d3b8757c-2e32-4d73-9ea8-5742e6645c70",
+        "teamName": "3 musketeers",
+        "teamIcon": "👑",
+        "chapterId": "cc2abb26-f763-44d9-b197-81b6776e73fb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-cc2abb26-f763-44d9-b197-81b6776e73fb/1774987072568-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Orienting to the opportunity"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Strategy & Insights Team, Butterfeast",
+          "subject": "Quick Check-In "
+        },
+        "generatedAt": "2026-05-06T04:38:18.532Z",
+        "score": 68,
+        "analysis": "Hi,\n\nJust reviewed your breakeven work and your call on which option to cut. Nice work on the math—your breakeven calculations are spot-on! That said, I want to flag something: your rationale mentions targeting volumes beyond 500K, but if that's true, the New Plant actually becomes your best option (lowest per-unit costs at high volume). The Retrofit is typically the weakest choice since it doesn't win at either end of the demand spectrum. Worth revisiting that logic as you move forward.\n\nNext up, you'll be digging into the demand story with Carlos and running some scenarios. The thinking you've done here is going to set the foundation for that. Ready to support on anything!\n\nBest,  \nStrategy & Insights Team",
+        "narrativeImpact": null
+      },
+      "c6d31e6d-104b-4920-a7ba-a4213fb86308": {
+        "teamId": "c6d31e6d-104b-4920-a7ba-a4213fb86308",
+        "teamName": "Always Win",
+        "teamIcon": "👑",
+        "chapterId": "cc2abb26-f763-44d9-b197-81b6776e73fb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-cc2abb26-f763-44d9-b197-81b6776e73fb/1774987072568-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Orienting to the opportunity"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Strategy & Insights Team, Butterfeast",
+          "subject": "Quick Check-In "
+        },
+        "generatedAt": "2026-05-06T04:38:10.055Z",
+        "score": 0,
+        "analysis": "Hi,\n\nJust reviewed your breakeven work and your call on which option to cut. I need to flag this directly: the breakeven calculations are all showing zero, and there's no rationale provided for your elimination choice. It looks like this section wasn't completed, and we can't move forward without this foundation in place. \n\nThe breakeven math is critical for understanding which options make sense at different demand levels, and your reasoning needs to show you've worked through those trade-offs. Can you circle back and complete this before the next phase? Happy to talk through any questions.\n\nNext up, you'll be digging into the demand story with Carlos and running some scenarios. The thinking you've done here is going to set the foundation for that. Ready to support on anything!\n\nBest,  \nStrategy & Insights Team",
+        "narrativeImpact": null
+      },
+      "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede": {
+        "teamId": "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede",
+        "teamName": "Rum&Raisin",
+        "teamIcon": "🧁",
+        "chapterId": "cc2abb26-f763-44d9-b197-81b6776e73fb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-cc2abb26-f763-44d9-b197-81b6776e73fb/1774987072568-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Orienting to the opportunity"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Strategy & Insights Team, Butterfeast",
+          "subject": "Quick Check-In "
+        },
+        "generatedAt": "2026-05-06T04:38:11.987Z",
+        "score": 87,
+        "analysis": "Hi,\n\nJust reviewed your breakeven work and your call on which option to cut. Really strong work here—your numbers are spot-on, and eliminating the Retrofit is exactly the right move. You nailed that it has the highest breakeven, and you're right about those maintenance concerns with older equipment. The key insight is that Retrofit doesn't actually win in any demand scenario (Co-Packer's best at low volumes, New Plant at high), so it's the clear cut. \n\nNext up, you'll be digging into the demand story with Carlos and running some scenarios. The thinking you've done here is going to set the foundation for that. Ready to support on anything!\n\nBest,  \nStrategy & Insights Team",
+        "narrativeImpact": null
+      },
+      "141c7e7f-c6fb-42d2-87d0-b492664b9c59": {
+        "teamId": "141c7e7f-c6fb-42d2-87d0-b492664b9c59",
+        "teamName": "Gelat-Oat",
+        "teamIcon": "🧁",
+        "chapterId": "cc2abb26-f763-44d9-b197-81b6776e73fb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-cc2abb26-f763-44d9-b197-81b6776e73fb/1774987072568-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Orienting to the opportunity"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Strategy & Insights Team, Butterfeast",
+          "subject": "Quick Check-In "
+        },
+        "generatedAt": "2026-05-06T04:38:17.658Z",
+        "score": 73,
+        "analysis": "Hi,\n\nJust reviewed your breakeven work and your call on which option to cut. **Nice work on the math—all three calculations are spot-on.** And you made the right call eliminating Retrofit. Your rationale correctly identifies that Retrofit has the highest breakeven, though you could push the thinking a bit further: Retrofit doesn't actually win in *any* demand scenario (Co-Packer wins low, New Plant wins high). That's the strategic insight that really seals the case against it.\n\nNext up, you'll be digging into the demand story with Carlos and running some scenarios. The thinking you've done here is going to set the foundation for that. Ready to support on anything!\n\nBest,  \nStrategy & Insights Team",
+        "narrativeImpact": null
+      },
+      "68642c66-300d-46a0-9c4e-adcaa0ee9de8": {
+        "teamId": "68642c66-300d-46a0-9c4e-adcaa0ee9de8",
+        "teamName": "Team AVB",
+        "teamIcon": "💎",
+        "chapterId": "cc2abb26-f763-44d9-b197-81b6776e73fb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-cc2abb26-f763-44d9-b197-81b6776e73fb/1774987072568-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Orienting to the opportunity"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Strategy & Insights Team, Butterfeast",
+          "subject": "Quick Check-In "
+        },
+        "generatedAt": "2026-05-06T04:38:44.142Z",
+        "score": 99,
+        "analysis": "Hi,\n\nJust reviewed your breakeven work and your call on which option to cut. Nailed it! Your calculations are spot-on, and eliminating the Retrofit is exactly right—it doesn't win at any volume level. Love that you caught the strategic angle too: capital exposure with mediocre margins and no upside. That's the kind of thinking that matters.\n\nNext up, you'll be digging into the demand story with Carlos and running some scenarios. The thinking you've done here is going to set the foundation for that.\n\nReady to support on anything!\n\nBest,\nStrategy & Insights Team",
+        "narrativeImpact": null
+      },
+      "9cb23583-d5be-4f22-acd6-f1570ceaabe8": {
+        "teamId": "9cb23583-d5be-4f22-acd6-f1570ceaabe8",
+        "teamName": "BFF",
+        "teamIcon": "🤝",
+        "chapterId": "cc2abb26-f763-44d9-b197-81b6776e73fb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-cc2abb26-f763-44d9-b197-81b6776e73fb/1774987072568-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Orienting to the opportunity"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Strategy & Insights Team, Butterfeast",
+          "subject": "Quick Check-In "
+        },
+        "generatedAt": "2026-05-06T04:38:20.506Z",
+        "score": 13,
+        "analysis": "Hi,\n\nJust reviewed your breakeven work and your call on which option to cut. I need to flag something important: you submitted zeros for all three breakeven calculations, which means the core math didn't get done. That's a significant gap. \n\nYour choice to eliminate Retrofit is actually the right strategic call—it doesn't win in any demand scenario. However, your rationale was incomplete and hard to follow. Without the breakeven numbers worked out, it's tough to build a solid case for why.\n\nNext up, you'll be digging into the demand story with Carlos and running some scenarios. The thinking you've done here is going to set the foundation for that. Let's make sure the fundamentals are locked in first.\n\nReady to support on anything!\n\nBest,  \nStrategy & Insights Team",
+        "narrativeImpact": null
+      },
+      "cea91730-5b5c-4337-ba13-ee0cd49de8f8": {
+        "teamId": "cea91730-5b5c-4337-ba13-ee0cd49de8f8",
+        "teamName": "Scoop Dog",
+        "teamIcon": "🍰",
+        "chapterId": "cc2abb26-f763-44d9-b197-81b6776e73fb",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-cc2abb26-f763-44d9-b197-81b6776e73fb/1774987072568-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Orienting to the opportunity"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Strategy & Insights Team, Butterfeast",
+          "subject": "Quick Check-In "
+        },
+        "generatedAt": "2026-05-06T04:38:18.489Z",
+        "score": 90,
+        "analysis": "Hi,\n\nJust reviewed your breakeven work and your call on which option to cut. Really solid analysis! Your breakeven calculations are spot-on across all three options, and you nailed the elimination decision—Retrofit is the right call. You clearly see that it has the highest breakeven AND underperforms even at higher volumes. That's exactly the kind of trade-off thinking we need.\n\nNext up, you'll be digging into the demand story with Carlos and running some scenarios. The thinking you've done here is going to set the foundation for that. Ready to support on anything!\n\nBest,\nStrategy & Insights Team",
+        "narrativeImpact": null
+      }
+    },
+    "66e7aed3-09d7-43f9-922c-2a9f9f45bcad": {
+      "e7060b32-2ef9-4640-979a-71e25cd80728": {
+        "teamId": "e7060b32-2ef9-4640-979a-71e25cd80728",
+        "teamName": "Group 7",
+        "teamIcon": "💼",
+        "chapterId": "66e7aed3-09d7-43f9-922c-2a9f9f45bcad",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-66e7aed3-09d7-43f9-922c-2a9f9f45bcad/1774986749537-chapter_2.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Depth of Analysis"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Strategy & Insights Team, Butterfeast",
+          "subject": "Hypothesis Check-In "
+        },
+        "generatedAt": "2026-05-06T05:07:58.184Z",
+        "score": 0,
+        "analysis": "Hi,\n\nJust reviewed your initial recommendation. **I don't see a path choice or rationale here** — looks like this didn't get submitted. We really need you to complete this before moving forward. \n\nPick a production path (Agile, Moderate, or Committed), and back it up with scenario analysis from the data. Think about what Carlos shared on balancing risk and opportunity cost. Which demand scenario feels most likely, and what does that mean for capacity?\n\nNext up, you'll be pitching your recommendation to Zena. She's going to want to know how you'd read the early signals — which numbers from the pilot tell you whether the demand story is holding. Start thinking about that now.\n\nReady to support on anything!\n\nBest,  \nStrategy & Insights Team",
+        "narrativeImpact": null
+      },
+      "d3b8757c-2e32-4d73-9ea8-5742e6645c70": {
+        "teamId": "d3b8757c-2e32-4d73-9ea8-5742e6645c70",
+        "teamName": "3 musketeers",
+        "teamIcon": "👑",
+        "chapterId": "66e7aed3-09d7-43f9-922c-2a9f9f45bcad",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-66e7aed3-09d7-43f9-922c-2a9f9f45bcad/1774986749537-chapter_2.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Depth of Analysis"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Strategy & Insights Team, Butterfeast",
+          "subject": "Hypothesis Check-In "
+        },
+        "generatedAt": "2026-05-06T05:08:07.589Z",
+        "score": 82,
+        "analysis": "Hi,\n\nJust reviewed your initial recommendation. **Nice work!** You clearly chose the New Plant path and backed it up with solid data — OPEX advantage, revenue potential, and Carlos's confidence on adoption rates. The 82 reflects strong analysis grounded in the scenario.\n\nOne thing to sharpen before Zena: **which pilot metrics will confirm you're on track for that 500K base case vs. sliding toward 350K or surging to 650K?** She'll want to know exactly what numbers you'll be watching in those early weeks to validate (or pivot from) your forecast.\n\nReady to support on anything!\n\nBest,  \nStrategy & Insights Team",
+        "narrativeImpact": null
+      },
+      "c6d31e6d-104b-4920-a7ba-a4213fb86308": {
+        "teamId": "c6d31e6d-104b-4920-a7ba-a4213fb86308",
+        "teamName": "Always Win",
+        "teamIcon": "👑",
+        "chapterId": "66e7aed3-09d7-43f9-922c-2a9f9f45bcad",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-66e7aed3-09d7-43f9-922c-2a9f9f45bcad/1774986749537-chapter_2.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Depth of Analysis"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Strategy & Insights Team, Butterfeast",
+          "subject": "Hypothesis Check-In "
+        },
+        "generatedAt": "2026-05-06T05:08:12.912Z",
+        "score": 90,
+        "analysis": "Hi,\n\nJust reviewed your initial recommendation. Nice work—90 points! You made a clear call on high case + new plant, and your logic on texture control and co-packer risk is spot-on. The pilot chef feedback (2 out of 24) is exactly the kind of early signal that matters at scale.\n\nOne thing to tighten before Zena: you've connected pilot insights to *quality*, but which pilot metrics are telling you the *500K base case* is real—and what would those numbers look like if we're actually tracking low or high? Zena will press you on this.\n\nYou've made your case for a path. Next up, you'll be pitching your recommendation to Zena. She's going to want to know how you'd read the early signals—which numbers from the pilot tell you whether the demand story is holding. Start thinking about that now.\n\nReady to support on anything!\n\nBest,  \nStrategy & Insights Team",
+        "narrativeImpact": null
+      },
+      "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede": {
+        "teamId": "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede",
+        "teamName": "Rum&Raisin",
+        "teamIcon": "🧁",
+        "chapterId": "66e7aed3-09d7-43f9-922c-2a9f9f45bcad",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-66e7aed3-09d7-43f9-922c-2a9f9f45bcad/1774986749537-chapter_2.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Depth of Analysis"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Strategy & Insights Team, Butterfeast",
+          "subject": "Hypothesis Check-In "
+        },
+        "generatedAt": "2026-05-06T05:08:09.771Z",
+        "score": 60,
+        "analysis": "Hi,\n\nJust reviewed your initial recommendation. You've made your case for a path — quality control is important, for sure. That said, your rationale leans heavily on gut feel rather than the demand scenarios or pilot data you analyzed. Zena's going to press you on *why* Option 3 makes sense given the numbers, not just the operational benefits. Also, I don't see any reflection on what Carlos shared about risk and flexibility.\n\nNext up, you'll be pitching your recommendation to Zena. She's going to want to know how you'd read the early signals — which numbers from the pilot tell you whether the demand story is holding. Start thinking about that now.\n\nReady to support on anything!\n\nBest,  \nStrategy & Insights Team",
+        "narrativeImpact": null
+      },
+      "141c7e7f-c6fb-42d2-87d0-b492664b9c59": {
+        "teamId": "141c7e7f-c6fb-42d2-87d0-b492664b9c59",
+        "teamName": "Gelat-Oat",
+        "teamIcon": "🧁",
+        "chapterId": "66e7aed3-09d7-43f9-922c-2a9f9f45bcad",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-66e7aed3-09d7-43f9-922c-2a9f9f45bcad/1774986749537-chapter_2.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Depth of Analysis"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Strategy & Insights Team, Butterfeast",
+          "subject": "Hypothesis Check-In "
+        },
+        "generatedAt": "2026-05-06T05:08:34.070Z",
+        "score": 89,
+        "analysis": "Hi,\n\nJust reviewed your initial recommendation. Really strong work here! You've clearly chosen the new plant path and backed it up with solid data — the demand forecast from Carlos, breakeven analysis, and quality considerations all line up. Nice connection between capacity needs and cost structure.\n\nOne thing to think through before Zena: you've made your case for a path. Next up, you'll be pitching your recommendation to Zena. She's going to want to know how you'd read the early signals — which numbers from the pilot tell you whether the demand story is holding. Start thinking about that now.\n\nReady to support on anything!\n\nBest,  \nStrategy & Insights Team",
+        "narrativeImpact": null
+      },
+      "68642c66-300d-46a0-9c4e-adcaa0ee9de8": {
+        "teamId": "68642c66-300d-46a0-9c4e-adcaa0ee9de8",
+        "teamName": "Team AVB",
+        "teamIcon": "💎",
+        "chapterId": "66e7aed3-09d7-43f9-922c-2a9f9f45bcad",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-66e7aed3-09d7-43f9-922c-2a9f9f45bcad/1774986749537-chapter_2.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Depth of Analysis"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Strategy & Insights Team, Butterfeast",
+          "subject": "Hypothesis Check-In "
+        },
+        "generatedAt": "2026-05-06T05:08:11.126Z",
+        "score": 86,
+        "analysis": "Hi,\n\nJust reviewed your initial recommendation. Nice work — 86/100! You've clearly landed on New Plant with solid strategic thinking around quality control, margins, and long-term positioning. I can see Carlos's influence in your focus on standardization and repeatability.\n\nOne thing to tighten before Zena: your rationale is strong directionally, but she's going to push on *which specific pilot metrics* support the 500K base case. What retention rate? What repeat purchase behavior? And what would those numbers look like if we're actually tracking toward the 300K or 800K scenarios instead? Connect those dots now.\n\nReady to support on anything!\n\nBest,  \nStrategy & Insights Team",
+        "narrativeImpact": null
+      },
+      "9cb23583-d5be-4f22-acd6-f1570ceaabe8": {
+        "teamId": "9cb23583-d5be-4f22-acd6-f1570ceaabe8",
+        "teamName": "BFF",
+        "teamIcon": "🤝",
+        "chapterId": "66e7aed3-09d7-43f9-922c-2a9f9f45bcad",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-66e7aed3-09d7-43f9-922c-2a9f9f45bcad/1774986749537-chapter_2.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Depth of Analysis"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Strategy & Insights Team, Butterfeast",
+          "subject": "Hypothesis Check-In "
+        },
+        "generatedAt": "2026-05-06T05:08:11.395Z",
+        "score": 72,
+        "analysis": "Hi,\n\nJust reviewed your initial recommendation. You've made your case for a path — retrofit with flexibility to scale later makes sense as a risk-hedging strategy. That said, your rationale feels more directional than data-driven. The quality concern is valid, but it's not fully fleshed out. What I'm not seeing: *which specific numbers* from the pilot or scenario analysis led you to land on the 500K base case, and how Carlos's approach to signal-reading factors in.\n\nYou've made your case for a path. Next up, you'll be pitching your recommendation to Zena. She's going to want to know how you'd read the early signals — which numbers from the pilot tell you whether the demand story is holding. Start thinking about that now.\n\nReady to support on anything!\n\nBest,  \nStrategy & Insights Team",
+        "narrativeImpact": null
+      },
+      "cea91730-5b5c-4337-ba13-ee0cd49de8f8": {
+        "teamId": "cea91730-5b5c-4337-ba13-ee0cd49de8f8",
+        "teamName": "Scoop Dog",
+        "teamIcon": "🍰",
+        "chapterId": "66e7aed3-09d7-43f9-922c-2a9f9f45bcad",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-66e7aed3-09d7-43f9-922c-2a9f9f45bcad/1774986749537-chapter_2.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Depth of Analysis"
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Strategy & Insights Team, Butterfeast",
+          "subject": "Hypothesis Check-In "
+        },
+        "generatedAt": "2026-05-06T05:08:12.645Z",
+        "score": 28,
+        "analysis": "Hi,\n\nJust reviewed your initial recommendation. You've made your case for a path, but I'm concerned the rationale needs more depth. You're citing pilot numbers (80% activation, 13 pints/week) but not connecting them to *why* those justify the Higher Case over Base. What did Carlos actually find that moves the needle? Most importantly, how do these pilot metrics translate to the 500K base forecast—or signal we're tracking higher or lower? \n\nNext up, you'll be pitching your recommendation to Zena. She's going to want to know how you'd read the early signals — which numbers from the pilot tell you whether the demand story is holding. Start thinking about that now.\n\nReady to support on anything!\n\nBest,  \nStrategy & Insights Team",
+        "narrativeImpact": null
+      }
+    },
+    "324e78dc-69d5-4c1a-8f37-3bafaad87cee": {
+      "e7060b32-2ef9-4640-979a-71e25cd80728": {
+        "teamId": "e7060b32-2ef9-4640-979a-71e25cd80728",
+        "teamName": "Group 7",
+        "teamIcon": "💼",
+        "chapterId": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/1774987084607-chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Launch Readiness",
+          "lowThreshold": 45,
+          "mediumThreshold": 75
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Zena Doyle, CEO, Butterfeast",
+          "subject": "Following up "
+        },
+        "generatedAt": "2026-05-06T05:41:03.853Z",
+        "score": 0,
+        "analysis": "**Subject: Re: Gelat-oat Production Decision**\n\nHi, thanks for meeting today.\n\nI'm going to be blunt: I carved out time on my calendar expecting a recommendation, and I didn't get one. You had Carlos's analysis, you had the data, and you had a room with two people ready to listen. What I needed was a clear point of view — which option you're backing, why, what numbers you're watching, and what keeps you up at night about the choice.\n\nI can't greenlight something that wasn't pitched. \n\nTake the weekend. Come back Monday with an actual recommendation. Show me you've wrestled with the numbers, that you know what good and bad look like in the early weeks, and that you've thought past the spreadsheet to what could break. I need conviction backed by rigor, not silence.\n\nWe'll reconvene Monday at 2pm.\n\nZena\n\nP.S. — I'll send you a six-month update on how this all played out.",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/option-3/1775060812466-Back_to_the_drawing_board.webp",
+          "story": "Zena listened, then pressed for the numbers behind our production recommendation. With Carlos in the room, we couldn’t point to clear leading indicators—no active account rate, velocity, or quality signals, and we never stress-tested the 60% adoption assumption. The plan felt more hopeful than engineered. Zena declined to greenlight and sent us back to validate demand, define an early-warning dashboard, and align the team on measurable triggers before Gelat-oat could leave the whiteboard.",
+          "title": "Back to the Drawing Board",
+          "description": "The pitch didn't convince. Launch delayed. Team misaligned."
+        }
+      },
+      "d3b8757c-2e32-4d73-9ea8-5742e6645c70": {
+        "teamId": "d3b8757c-2e32-4d73-9ea8-5742e6645c70",
+        "teamName": "3 musketeers",
+        "teamIcon": "👑",
+        "chapterId": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/1774987084607-chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Launch Readiness",
+          "lowThreshold": 45,
+          "mediumThreshold": 75
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Zena Doyle, CEO, Butterfeast",
+          "subject": "Following up "
+        },
+        "generatedAt": "2026-05-06T05:41:32.909Z",
+        "score": 53,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/option-2/1775060807332-Rough_Start.webp",
+          "story": "Six months after the pitch, Gelat-oat finally came online behind schedule, and the $1.2M fixed-cost clock started ticking before momentum did. We committed to the new plant on a slim base-case lift, but managed the launch through quarterly revenue and profit—rear‑view metrics Zena warned were too slow. As weekly active accounts quietly slipped, no one caught the early erosion until revenue landed 20% under plan, forcing a late scramble in marketing and operations.",
+          "title": "Finding Our Footing",
+          "description": "Delayed timeline. The team was watching lagging indicators instead of leading signals."
+        }
+      },
+      "c6d31e6d-104b-4920-a7ba-a4213fb86308": {
+        "teamId": "c6d31e6d-104b-4920-a7ba-a4213fb86308",
+        "teamName": "Always Win",
+        "teamIcon": "👑",
+        "chapterId": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/1774987084607-chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Launch Readiness",
+          "lowThreshold": 45,
+          "mediumThreshold": 75
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Zena Doyle, CEO, Butterfeast",
+          "subject": "Following up "
+        },
+        "generatedAt": "2026-05-06T05:41:30.163Z",
+        "score": 84,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/option-0/1775060789421-Full_Speed_Ahead.webp",
+          "story": "Six months after the pitch, Gelat-oat is beating the high-case curve—because the team treated demand as a hypothesis, not a hope. Derek and Carlos backed the new plant on fixed-cost leverage, then built an early-warning dashboard tracking adoption pace, active rates, repeat orders, and velocity. When adoption softened in week six, they held operations to one shift, protected margins, and reignited the funnel—then ramped confidently as signals turned green.",
+          "title": "Market Maker",
+          "description": "Gelat-oat is thriving. The right production path, strong execution, aligned team."
+        }
+      },
+      "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede": {
+        "teamId": "8b1c746b-b1a8-4cb8-8aeb-2d5a6cb33ede",
+        "teamName": "Rum&Raisin",
+        "teamIcon": "🧁",
+        "chapterId": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/1774987084607-chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Launch Readiness",
+          "lowThreshold": 45,
+          "mediumThreshold": 75
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Zena Doyle, CEO, Butterfeast",
+          "subject": "Following up "
+        },
+        "generatedAt": "2026-05-06T05:41:37.528Z",
+        "score": 93,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/option-0/1775060789421-Full_Speed_Ahead.webp",
+          "story": "Six months after Zena approved the new plant, Gelat-oat is beating the base case and running with consistent quality. Sophie anchored the risk at a 414K breakeven, then set daily leading indicators—adoption, reorder rate, and volume per customer—to steer decisions in real time. Early segmentation reads guided targeted promotions, smoothing velocity and protecting margin. Carlos, energized by the clarity, kept operations tight and capacity flexible as demand surged beyond plan.",
+          "title": "Market Maker",
+          "description": "Gelat-oat is thriving. The right production path, strong execution, aligned team."
+        }
+      },
+      "141c7e7f-c6fb-42d2-87d0-b492664b9c59": {
+        "teamId": "141c7e7f-c6fb-42d2-87d0-b492664b9c59",
+        "teamName": "Gelat-Oat",
+        "teamIcon": "🧁",
+        "chapterId": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/1774987084607-chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Launch Readiness",
+          "lowThreshold": 45,
+          "mediumThreshold": 75
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Zena Doyle, CEO, Butterfeast",
+          "subject": "Following up "
+        },
+        "generatedAt": "2026-05-06T05:41:38.646Z",
+        "score": 68,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/option-1/1775060797265-Gaining_Traction.webp",
+          "story": "Six months after the pitch, Gelat-oat is on menus—and momentum is real—but the rollout came with scars. The team committed to the new plant and managed cash tightly, tracking weekly active rate and velocity across the 24 pilot restaurants. Yet they didn’t challenge the 60% adoption assumption early enough; when adoption landed closer to 48%, it took weeks to surface. Carlos regrouped, sharpened the account-by-account plan, and demand is climbing again.",
+          "title": "Gaining Traction",
+          "description": "Promising launch with growing pains. Demand is building but not without challenges."
+        }
+      },
+      "68642c66-300d-46a0-9c4e-adcaa0ee9de8": {
+        "teamId": "68642c66-300d-46a0-9c4e-adcaa0ee9de8",
+        "teamName": "Team AVB",
+        "teamIcon": "💎",
+        "chapterId": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/1774987084607-chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Launch Readiness",
+          "lowThreshold": 45,
+          "mediumThreshold": 75
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Zena Doyle, CEO, Butterfeast",
+          "subject": "Following up "
+        },
+        "generatedAt": "2026-05-06T05:41:37.784Z",
+        "score": 87,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/option-0/1775060789421-Full_Speed_Ahead.webp",
+          "story": "Six months after Zena’s pitch, Gelat-oat is a standing menu item across the region—and the new plant is humming. We didn’t treat 60% adoption as destiny; we built an early-warning dashboard tracking weekly active accounts, velocity, reorders, and adoption. When adoption landed at 52%, the week‑6 truth moment triggered targeted chef outreach and account sequencing, protecting throughput. Carlos stayed energized, and the plant-scale bet became a controlled win.",
+          "title": "Market Maker",
+          "description": "Gelat-oat is thriving. The right production path, strong execution, aligned team."
+        }
+      },
+      "9cb23583-d5be-4f22-acd6-f1570ceaabe8": {
+        "teamId": "9cb23583-d5be-4f22-acd6-f1570ceaabe8",
+        "teamName": "BFF",
+        "teamIcon": "🤝",
+        "chapterId": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/1774987084607-chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Launch Readiness",
+          "lowThreshold": 45,
+          "mediumThreshold": 75
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Zena Doyle, CEO, Butterfeast",
+          "subject": "Following up "
+        },
+        "generatedAt": "2026-05-06T05:41:33.186Z",
+        "score": 78,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/option-1/1775060797265-Gaining_Traction.webp",
+          "story": "Six months after the retrofit go‑live, Gelat-oat is on shelves and in more kitchens—but the ride hasn’t been smooth. We bet on 60% adoption with a 55% break-even cushion and tracked active accounts and weekly velocity, yet we didn’t challenge the adoption assumption early enough. Actual adoption settled near 48%, and it took weeks to register the gap. Now we’re tightening targeting, reinforcing sales discipline, and rebuilding the forecast with clearer triggers.",
+          "title": "Gaining Traction",
+          "description": "Promising launch with growing pains. Demand is building but not without challenges."
+        }
+      },
+      "cea91730-5b5c-4337-ba13-ee0cd49de8f8": {
+        "teamId": "cea91730-5b5c-4337-ba13-ee0cd49de8f8",
+        "teamName": "Scoop Dog",
+        "teamIcon": "🍰",
+        "chapterId": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/1774987084607-chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Launch Readiness",
+          "lowThreshold": 45,
+          "mediumThreshold": 75
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Zena Doyle, CEO, Butterfeast",
+          "subject": "Following up "
+        },
+        "generatedAt": "2026-05-06T05:41:20.442Z",
+        "score": 84,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-324e78dc-69d5-4c1a-8f37-3bafaad87cee/option-0/1775060789421-Full_Speed_Ahead.webp",
+          "story": "Six months after the pitch, Gelat-oat is on more menus than planned and holding strong. You backed the new plant for upside, but governed the launch with disciplined triggers: weekly active account rate and a hard “<1% texture complaints” standard. When quality monitoring surfaced an early co-packer texture drift, the team quarantined batches, corrected specs, and protected reorder momentum. With active accounts sustaining 75%, Carlos ramped supply confidently—and the market rewarded it.",
+          "title": "Market Maker",
+          "description": "Gelat-oat is thriving. The right production path, strong execution, aligned team."
+        }
+      }
+    }
+  },
+  "chapter_timings": {
+    "cc2abb26-f763-44d9-b197-81b6776e73fb": {
+      "started_at": "2026-05-06T04:21:33.971Z",
+      "ended_at": "2026-05-06T04:37:46.877Z"
+    },
+    "66e7aed3-09d7-43f9-922c-2a9f9f45bcad": {
+      "started_at": "2026-05-06T04:47:11.821Z",
+      "ended_at": "2026-05-06T05:07:43.463Z"
+    },
+    "324e78dc-69d5-4c1a-8f37-3bafaad87cee": {
+      "started_at": "2026-05-06T05:22:27.408Z",
+      "ended_at": "2026-05-06T05:40:43.531Z"
+    }
+  },
+  "events": [
+    {
+      "id": "5831ba0a-d43c-4bb8-ae55-058525547d10",
+      "chapter_id": "cc2abb26-f763-44d9-b197-81b6776e73fb",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 1: The Gelat-oat Opportunity has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-06T04:21:33.971Z",
+      "updated_at": "2026-05-06T04:21:33.971Z"
+    },
+    {
+      "id": "9d2cb202-d9d0-479d-a321-4ba048a987af",
+      "chapter_id": "cc2abb26-f763-44d9-b197-81b6776e73fb",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams learn more about the new product they are rolling out for Butterfeast, as well as the different production paths they might use to make the product. They use two financial tools, a Scenario Planner and a Breakeven Calculator, to develop an initial hypothesis as to which production path they might want to support.\n<br><br>\n<b>What to look for:</b><ul>\n<li> Do teams explore all of the resources?\n<li> Do they use each of the financial tools? \n<li> Do they calculate each of the breakeven points correctly?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-06T04:21:48.062Z",
+      "updated_at": "2026-05-06T04:21:48.069Z"
+    },
+    {
+      "id": "449d8c42-e897-4b5a-bd2d-97693df9ba9f",
+      "chapter_id": "cc2abb26-f763-44d9-b197-81b6776e73fb",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-06T04:22:48.058Z",
+      "updated_at": "2026-05-06T04:22:48.062Z"
+    },
+    {
+      "id": "7a2bf942-4480-4d6c-80b1-ce34dde03a76",
+      "chapter_id": "cc2abb26-f763-44d9-b197-81b6776e73fb",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to remind participants: <br><br>\n<i>Make sure to calculate the Breakeven for each of the three Production Paths.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-06T04:27:36.053Z",
+      "updated_at": "2026-05-06T04:27:36.057Z"
+    },
+    {
+      "id": "269664ef-84d7-48c5-a29a-3a7c3d7226ea",
+      "chapter_id": "cc2abb26-f763-44d9-b197-81b6776e73fb",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Reminder:</b> Move teams to the Decision now.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-06T04:33:36.051Z",
+      "updated_at": "2026-05-06T04:33:36.053Z"
+    },
+    {
+      "id": "ac2abf80-f5d9-45bc-a3f2-c6acbef564db",
+      "chapter_id": "cc2abb26-f763-44d9-b197-81b6776e73fb",
+      "type": "STARTING_MESSAGE",
+      "content": "Decision phase has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "decision_started"
+      },
+      "created_at": "2026-05-06T04:33:44.155Z",
+      "updated_at": "2026-05-06T04:33:44.155Z"
+    },
+    {
+      "id": "042d3d64-5873-41ac-9346-0bf85fab324b",
+      "chapter_id": "cc2abb26-f763-44d9-b197-81b6776e73fb",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Decision Time!</b> Teams must enter their initial reflections on the three production paths. The question asks: \"Are there any options that you would take off the table? Share your reasoning in a sentence.\" Their answers should provide some insight into their level of understanding of what they just reviewed.\n\n",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-06T04:33:48.063Z",
+      "updated_at": "2026-05-06T04:33:48.069Z"
+    },
+    {
+      "id": "026011b7-934d-4743-a8c2-9b5f81dbd639",
+      "chapter_id": "cc2abb26-f763-44d9-b197-81b6776e73fb",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>Moving to decision</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "41f602c8-bd43-48f9-a16e-ce40fe2e2822"
+      },
+      "created_at": "2026-05-06T04:34:04.640Z",
+      "updated_at": "2026-05-06T04:34:04.640Z"
+    },
+    {
+      "id": "2a2eb555-c998-4856-8862-6a1958e64cd7",
+      "chapter_id": "cc2abb26-f763-44d9-b197-81b6776e73fb",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-06T04:37:46.873Z",
+      "updated_at": "2026-05-06T04:37:46.873Z"
+    },
+    {
+      "id": "6452aeda-0cfc-4e21-8c00-55b260f1418e",
+      "chapter_id": "cc2abb26-f763-44d9-b197-81b6776e73fb",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 1 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-06T04:37:46.877Z",
+      "updated_at": "2026-05-06T04:37:46.877Z"
+    },
+    {
+      "id": "2dbbbb40-17c5-4609-803d-e9500896283f",
+      "chapter_id": "cc2abb26-f763-44d9-b197-81b6776e73fb",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>Review Feedback</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "20867173-b152-41f8-9b12-13a57232daf7"
+      },
+      "created_at": "2026-05-06T04:38:10.195Z",
+      "updated_at": "2026-05-06T04:38:10.195Z"
+    },
+    {
+      "id": "e56b93e8-5aff-4ba3-aafb-513fe50f860f",
+      "chapter_id": "cc2abb26-f763-44d9-b197-81b6776e73fb",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>closing breakouts now</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "b824aa09-818c-4844-bb72-448125d94b41"
+      },
+      "created_at": "2026-05-06T04:40:20.881Z",
+      "updated_at": "2026-05-06T04:40:20.881Z"
+    },
+    {
+      "id": "6166fa61-744a-4ce6-97c5-b4254f1cbfa7",
+      "chapter_id": "66e7aed3-09d7-43f9-922c-2a9f9f45bcad",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 2: Gauging Demand has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-06T04:47:11.821Z",
+      "updated_at": "2026-05-06T04:47:11.821Z"
+    },
+    {
+      "id": "934be21d-a7dd-4ae2-8555-1b3792f47f50",
+      "chapter_id": "66e7aed3-09d7-43f9-922c-2a9f9f45bcad",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams now try to get a better understanding of the true demand for Gelat-oat. They have been given an initial Market Opportunity Brief by their colleague Carlos. They then interview Carlos to learn more. \n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams explore all of the resources quickly?\n<li>Do they explore the different scenarios in the Demand Signal Explorer?\n<li>Do they ask Carlos questions to get a better understanding of how solid his initial projections are?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-06T04:47:24.032Z",
+      "updated_at": "2026-05-06T04:47:24.037Z"
+    },
+    {
+      "id": "a358639f-d7d1-4d29-aa1a-c04bacfa1585",
+      "chapter_id": "66e7aed3-09d7-43f9-922c-2a9f9f45bcad",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-06T04:48:48.036Z",
+      "updated_at": "2026-05-06T04:48:48.040Z"
+    },
+    {
+      "id": "a646d5ac-4dd0-4a2e-882c-c9c038299f67",
+      "chapter_id": "66e7aed3-09d7-43f9-922c-2a9f9f45bcad",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to remind participants: <br><br>\n<i>Keep chatting with Carlos. Probe into any assumptions being made in his initial assessment.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-06T04:55:12.034Z",
+      "updated_at": "2026-05-06T04:55:12.039Z"
+    },
+    {
+      "id": "0dab79ed-d64c-48a3-afc4-dd0f616e9fdf",
+      "chapter_id": "66e7aed3-09d7-43f9-922c-2a9f9f45bcad",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Reminder:</b> Move teams to the Decision now.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-06T05:03:12.023Z",
+      "updated_at": "2026-05-06T05:03:12.025Z"
+    },
+    {
+      "id": "28bba22e-09d5-47ef-8549-8213798b9fdf",
+      "chapter_id": "66e7aed3-09d7-43f9-922c-2a9f9f45bcad",
+      "type": "STARTING_MESSAGE",
+      "content": "Decision phase has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "decision_started"
+      },
+      "created_at": "2026-05-06T05:03:14.644Z",
+      "updated_at": "2026-05-06T05:03:14.644Z"
+    },
+    {
+      "id": "db248bc1-a32b-4c58-95fa-c98c26918563",
+      "chapter_id": "66e7aed3-09d7-43f9-922c-2a9f9f45bcad",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Decision Time!</b> Teams state their current hypothesis for which production path they support. Their answers may also shed light on how well they've understood the information thus far.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-06T05:03:24.025Z",
+      "updated_at": "2026-05-06T05:03:24.027Z"
+    },
+    {
+      "id": "edeb1105-246e-4237-8981-3840bf108a42",
+      "chapter_id": "66e7aed3-09d7-43f9-922c-2a9f9f45bcad",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-06T05:07:43.455Z",
+      "updated_at": "2026-05-06T05:07:43.455Z"
+    },
+    {
+      "id": "29aec6fc-93f8-4193-82ef-d1bd34210016",
+      "chapter_id": "66e7aed3-09d7-43f9-922c-2a9f9f45bcad",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 2 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-06T05:07:43.463Z",
+      "updated_at": "2026-05-06T05:07:43.463Z"
+    },
+    {
+      "id": "f3ee3db6-b582-4e42-8d11-4e1ee842effd",
+      "chapter_id": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 3: The Recommendation has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-06T05:22:27.408Z",
+      "updated_at": "2026-05-06T05:22:27.408Z"
+    },
+    {
+      "id": "a0007287-fbcd-4882-9bb6-98d3c180ebd2",
+      "chapter_id": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams make their pitch to Zena, saying which production path they recommend using and why. Carlos will also be in the meeting, and teams can call on him to answer specific questions. Zena will push not just for the recommendation, but for the underlying reasoning. <br><br>\n<b>What to look for:</b><ul>\n<li> What do teams recommend?\n<li> How well do they defend their recommendation?\n<li> Are the able to convince Zena and earn her trust?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-06T05:22:48.022Z",
+      "updated_at": "2026-05-06T05:22:48.030Z"
+    },
+    {
+      "id": "0d4e7935-4240-4fdb-bcde-bf6d18f2ff98",
+      "chapter_id": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by +1 min — 15 min 30 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": 60
+      },
+      "created_at": "2026-05-06T05:23:57.441Z",
+      "updated_at": "2026-05-06T05:23:57.441Z"
+    },
+    {
+      "id": "7ab07ef0-0551-46ce-ab84-08e7510768dc",
+      "chapter_id": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-06T05:24:12.022Z",
+      "updated_at": "2026-05-06T05:24:12.025Z"
+    },
+    {
+      "id": "06939d6b-3476-471b-afec-3e3659a1a8ba",
+      "chapter_id": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to remind participants: <br><br>\n<i>As you talk with Zena, try to articulate the assumptions in your model and what you will watch for as the rollout begins.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-06T05:31:00.128Z",
+      "updated_at": "2026-05-06T05:31:00.177Z"
+    },
+    {
+      "id": "c5f5d9f0-faeb-4b50-90c2-6959fca339e9",
+      "chapter_id": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by +1 min — 3 min 36 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": 60
+      },
+      "created_at": "2026-05-06T05:36:51.528Z",
+      "updated_at": "2026-05-06T05:36:51.528Z"
+    },
+    {
+      "id": "2b5d7647-faa3-445a-98d7-707785e6d9d0",
+      "chapter_id": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Debrief Reminder:</b> Now it's time to bring it all together in the final debrief! <ul>\n<li> Show <b><i>Snapshot</b></i> in the Debrief tools to show what happened next. If any teams earned \"Market Maker,\" ask them how they achieved that.\n<li> Show <b><i>Approaches</b></i> or use the examples in the slides to show how teams supported their recommendation with additional context and judgment.\n<li> Finally, use <b><i>Reflections</b></i> to ask any additional questions that seem helpful for your audience to carry this learning forward with them.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-06T05:40:36.022Z",
+      "updated_at": "2026-05-06T05:40:36.026Z"
+    },
+    {
+      "id": "e5c464cc-2c35-40f7-80f4-c00330c2edc9",
+      "chapter_id": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-06T05:40:43.523Z",
+      "updated_at": "2026-05-06T05:40:43.523Z"
+    },
+    {
+      "id": "73fa2165-6bcc-4244-b108-71df99a0ba16",
+      "chapter_id": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 3 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-06T05:40:43.531Z",
+      "updated_at": "2026-05-06T05:40:43.531Z"
+    },
+    {
+      "id": "fe216001-dab6-441f-b0ee-b5e3d1e67999",
+      "chapter_id": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+      "type": "ENDING_MESSAGE",
+      "content": "Case completed — all chapters finished.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "case_completed"
+      },
+      "created_at": "2026-05-06T05:40:43.613Z",
+      "updated_at": "2026-05-06T05:40:43.613Z"
+    },
+    {
+      "id": "7bf272eb-fd3a-4ca1-93f8-fdf21362ac94",
+      "chapter_id": "324e78dc-69d5-4c1a-8f37-3bafaad87cee",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>Moving to decision</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "1e777e6e-c069-4d51-9600-c53815bd0f11"
+      },
+      "created_at": "2026-05-06T05:40:58.252Z",
+      "updated_at": "2026-05-06T05:40:58.252Z"
+    }
+  ]
+}

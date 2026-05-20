@@ -355,83 +355,90 @@ function TimingInsightBlock({ ccData, runsheetSegments }: { ccData: CcSessionDat
 }
 
 function ScoringBlock({ ccData }: { ccData: CcSessionData | null }) {
-  const [expandedTeam, setExpandedTeam] = useState<string | null>(null)
+  const [expandedKey, setExpandedKey] = useState<string | null>(null)
   if (!ccData) {
     return <div className="text-sm text-[#94a3b8]">Needs activity feed data.</div>
   }
   const teams = ccData.teams
-  const results = ccData.team_results_for_viewed_chapter
-  const analyses = ccData.team_analyses_for_viewed_chapter ?? {}
-  const teamRows = teams
-    .map((t) => ({ team: t, result: results[t.id] as CcTeamResult | undefined, analysis: analyses[t.id] as CcTeamAnalysis | undefined }))
-    .filter((r) => r.result)
-    .sort((a, b) => (b.result?.score ?? 0) - (a.result?.score ?? 0))
+  const resultsByChapter = ccData.team_results_by_chapter ?? { [ccData.viewed_chapter_id]: ccData.team_results_for_viewed_chapter }
+  const analysesByChapter = ccData.team_analyses_by_chapter ?? (ccData.team_analyses_for_viewed_chapter ? { [ccData.viewed_chapter_id]: ccData.team_analyses_for_viewed_chapter } : {})
+  const orderedChapters = [...ccData.chapters].sort((a, b) => a.order - b.order)
+  // Only chapters that have any results
+  const chaptersWithData = orderedChapters.filter((c) => Object.keys(resultsByChapter[c.id] ?? {}).length > 0)
 
-  if (teamRows.length === 0) return <div className="text-sm text-[#94a3b8]">No team scoring data captured.</div>
-
-  const outcomes = new Map<string, number>()
-  for (const r of Object.values(results)) outcomes.set(r.narrative_outcome, (outcomes.get(r.narrative_outcome) ?? 0) + 1)
-
-  const viewedChapter = ccData.chapters.find((c) => c.id === ccData.viewed_chapter_id)
+  if (chaptersWithData.length === 0) return <div className="text-sm text-[#94a3b8]">No team scoring data captured.</div>
 
   return (
-    <div className="space-y-3">
-      <div className="text-[10px] text-[#475569]">
-        Showing {viewedChapter?.title ?? 'one chapter'} only — per-chapter scoring needs a URL per chapter.
-      </div>
-
-      <div className="flex flex-wrap gap-2">
-        {Array.from(outcomes.entries()).map(([o, n]) => (
-          <span key={o} className="px-2 py-0.5 rounded bg-[#1e293b] border border-[#334155] text-[11px] text-[#cbd5e1]">
-            {o} <span className="text-[#94a3b8]">× {n}</span>
-          </span>
-        ))}
-      </div>
-
-      <div className="space-y-1.5">
-        {teamRows.map(({ team, result, analysis }) => {
-          if (!result) return null
-          const open = expandedTeam === team.id
-          return (
-            <div key={team.id}>
-              <button
-                type="button"
-                onClick={() => setExpandedTeam(open ? null : team.id)}
-                className="w-full flex items-center gap-3 text-xs hover:bg-[#131e2e] rounded px-2 py-1 -mx-2"
-              >
-                <span className="text-[#475569] w-3">{open ? '▼' : '▶'}</span>
-                <span className="text-base w-6">{team.icon}</span>
-                <span className="text-[#cbd5e1] w-44 truncate text-left" title={team.name}>{team.name}</span>
-                <div className="flex-1 h-4 bg-[#1e293b] rounded relative overflow-hidden">
-                  <div className={`absolute inset-y-0 left-0 ${scoreColor(result.score)}`} style={{ width: `${result.score}%` }} />
-                  <span className="absolute inset-0 px-2 flex items-center text-[10px] font-medium text-white">{result.score}</span>
-                </div>
-                <span className="text-[10px] text-[#94a3b8] w-32 text-right truncate">{result.narrative_outcome}</span>
-              </button>
-              {open && analysis && (
-                <div className="ml-8 mt-2 mb-3 p-3 rounded border border-[#1e293b] bg-[#0a121f] text-xs space-y-3">
-                  {analysis.narrativeImpact && (
-                    <div>
-                      <div className="text-[10px] uppercase tracking-wider text-[#475569] mb-1">Narrative impact — {analysis.narrativeImpact.title}</div>
-                      <div className="text-[#cbd5e1] italic">{analysis.narrativeImpact.description}</div>
-                    </div>
-                  )}
-                  {analysis.analysis && (
-                    <div>
-                      <div className="text-[10px] uppercase tracking-wider text-[#475569] mb-1">
-                        {analysis.analysisType === 'EMAIL' && analysis.analysisOptions?.from
-                          ? `Email from ${analysis.analysisOptions.from}`
-                          : 'Detailed feedback'}
-                      </div>
-                      <div className="text-[#cbd5e1] whitespace-pre-line leading-relaxed">{analysis.analysis}</div>
-                    </div>
-                  )}
-                </div>
-              )}
+    <div className="space-y-5">
+      {chaptersWithData.map((chap) => {
+        const results = resultsByChapter[chap.id]
+        const analyses = analysesByChapter[chap.id] ?? {}
+        const teamRows = teams
+          .map((t) => ({ team: t, result: results[t.id] as CcTeamResult | undefined, analysis: analyses[t.id] as CcTeamAnalysis | undefined }))
+          .filter((r) => r.result)
+          .sort((a, b) => (b.result?.score ?? 0) - (a.result?.score ?? 0))
+        const outcomes = new Map<string, number>()
+        for (const r of Object.values(results)) outcomes.set(r.narrative_outcome, (outcomes.get(r.narrative_outcome) ?? 0) + 1)
+        return (
+          <div key={chap.id}>
+            <div className="flex items-center gap-3 mb-2">
+              <span className="text-[11px] font-semibold text-[#e2e8f0] uppercase tracking-wider">{chap.title}</span>
+              <div className="flex flex-wrap gap-1.5">
+                {Array.from(outcomes.entries()).map(([o, n]) => (
+                  <span key={o} className="px-1.5 py-0.5 rounded bg-[#1e293b] border border-[#334155] text-[10px] text-[#cbd5e1]">
+                    {o} <span className="text-[#94a3b8]">× {n}</span>
+                  </span>
+                ))}
+              </div>
             </div>
-          )
-        })}
-      </div>
+            <div className="space-y-1">
+              {teamRows.map(({ team, result, analysis }) => {
+                if (!result) return null
+                const key = `${chap.id}:${team.id}`
+                const open = expandedKey === key
+                return (
+                  <div key={key}>
+                    <button
+                      type="button"
+                      onClick={() => setExpandedKey(open ? null : key)}
+                      className="w-full flex items-center gap-3 text-xs hover:bg-[#131e2e] rounded px-2 py-1 -mx-2"
+                    >
+                      <span className="text-[#475569] w-3">{open ? '▼' : '▶'}</span>
+                      <span className="text-base w-6">{team.icon}</span>
+                      <span className="text-[#cbd5e1] w-44 truncate text-left" title={team.name}>{team.name}</span>
+                      <div className="flex-1 h-4 bg-[#1e293b] rounded relative overflow-hidden">
+                        <div className={`absolute inset-y-0 left-0 ${scoreColor(result.score)}`} style={{ width: `${result.score}%` }} />
+                        <span className="absolute inset-0 px-2 flex items-center text-[10px] font-medium text-white">{result.score}</span>
+                      </div>
+                      <span className="text-[10px] text-[#94a3b8] w-32 text-right truncate">{result.narrative_outcome}</span>
+                    </button>
+                    {open && analysis && (
+                      <div className="ml-8 mt-2 mb-3 p-3 rounded border border-[#1e293b] bg-[#0a121f] text-xs space-y-3">
+                        {analysis.narrativeImpact && (
+                          <div>
+                            <div className="text-[10px] uppercase tracking-wider text-[#475569] mb-1">Narrative impact — {analysis.narrativeImpact.title}</div>
+                            <div className="text-[#cbd5e1] italic">{analysis.narrativeImpact.description}</div>
+                          </div>
+                        )}
+                        {analysis.analysis && (
+                          <div>
+                            <div className="text-[10px] uppercase tracking-wider text-[#475569] mb-1">
+                              {analysis.analysisType === 'EMAIL' && analysis.analysisOptions?.from
+                                ? `Email from ${analysis.analysisOptions.from}`
+                                : 'Detailed feedback'}
+                            </div>
+                            <div className="text-[#cbd5e1] whitespace-pre-line leading-relaxed">{analysis.analysis}</div>
+                          </div>
+                        )}
+                      </div>
+                    )}
+                  </div>
+                )
+              })}
+            </div>
+          </div>
+        )
+      })}
     </div>
   )
 }
@@ -452,13 +459,34 @@ function RubricHeatmapBlock({ ccData }: { ccData: CcSessionData | null }) {
   if (!ccData) {
     return <div className="text-sm text-[#94a3b8]">Needs per-team conversation analysis URLs.</div>
   }
-  if (!ccData.rubric || ccData.teams.length === 0) {
-    return <div className="text-sm text-[#94a3b8]">Rubric not extracted for this chapter.</div>
+  if (ccData.teams.length === 0) {
+    return <div className="text-sm text-[#94a3b8]">No teams.</div>
   }
-  const teams = ccData.teams
-  const rows = ccData.rubric.team_cells
 
-  // Per-criterion summary % of teams with full credit
+  const orderedChapters = [...ccData.chapters].sort((a, b) => a.order - b.order)
+  const rubricByChapter = ccData.rubric_by_chapter
+  // Fallback: if no per-chapter, use legacy single rubric on the last chapter
+  const chaptersWithRubric: { chapId: string; chapTitle: string; rubric: NonNullable<CcSessionData['rubric']> }[] = []
+  if (rubricByChapter) {
+    for (const chap of orderedChapters) {
+      const r = rubricByChapter[chap.id]
+      if (r) chaptersWithRubric.push({ chapId: chap.id, chapTitle: chap.title, rubric: r })
+    }
+  } else if (ccData.rubric) {
+    const chap = orderedChapters.find((c) => c.id === ccData.viewed_chapter_id) ?? orderedChapters[orderedChapters.length - 1]
+    chaptersWithRubric.push({ chapId: chap?.id ?? 'legacy', chapTitle: chap?.title ?? 'Chapter', rubric: ccData.rubric })
+  }
+
+  if (chaptersWithRubric.length === 0) {
+    return (
+      <div className="text-sm text-[#94a3b8]">
+        Rubric not extracted yet. Run <code className="text-[#cbd5e1] bg-[#1e293b] px-1 rounded">scripts/extract_rubric.py {ccData.session_arrow_id}</code> (needs ANTHROPIC_API_KEY).
+      </div>
+    )
+  }
+
+  const teams = ccData.teams
+
   function pctFull(rowCells: Record<string, RubricCell>): number {
     const total = Object.keys(rowCells).length
     if (total === 0) return 0
@@ -467,52 +495,56 @@ function RubricHeatmapBlock({ ccData }: { ccData: CcSessionData | null }) {
   }
 
   return (
-    <div className="space-y-3">
-      <div className="text-[10px] text-[#475569]">
-        {ccData.rubric.method}
-      </div>
-
+    <div className="space-y-6">
       <div className="flex flex-wrap gap-3 text-[10px] text-[#94a3b8]">
         <span className="flex items-center gap-1.5"><span className={`inline-block w-3 h-3 rounded ${CELL_COLOR.full}`} /> full credit</span>
         <span className="flex items-center gap-1.5"><span className={`inline-block w-3 h-3 rounded ${CELL_COLOR.partial}`} /> mentioned as improvement</span>
         <span className="flex items-center gap-1.5"><span className={`inline-block w-3 h-3 rounded ${CELL_COLOR.missing}`} /> not mentioned</span>
       </div>
 
-      <div className="overflow-x-auto">
-        <table className="text-[11px] border-separate border-spacing-0">
-          <thead>
-            <tr>
-              <th className="text-left text-[#94a3b8] font-medium px-2 py-1 sticky left-0 bg-[#0f172a] z-10 min-w-[260px]">Criterion</th>
-              <th className="text-right text-[#475569] font-medium px-2 py-1 w-12">% full</th>
-              {teams.map((t) => (
-                <th key={t.id} title={t.name} className="text-center text-[#94a3b8] font-medium px-1 py-1 w-7">
-                  <span className="text-sm">{t.icon}</span>
-                </th>
-              ))}
-            </tr>
-          </thead>
-          <tbody>
-            {rows.map((row) => (
-              <tr key={row.id}>
-                <td className="text-[#cbd5e1] px-2 py-1 sticky left-0 bg-[#0f172a] z-10">{row.label}</td>
-                <td className="text-right text-[#94a3b8] tabular-nums px-2">{pctFull(row.cells)}%</td>
-                {teams.map((t) => {
-                  const cell = row.cells[t.id] ?? 'missing'
-                  return (
-                    <td
-                      key={t.id}
-                      title={`${t.name}: ${cell}`}
-                      className={`text-center text-[10px] text-white/90 ${CELL_COLOR[cell]} border border-[#0f172a]`}
-                    >
-                      {CELL_GLYPH[cell]}
-                    </td>
-                  )
-                })}
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
+      {chaptersWithRubric.map(({ chapId, chapTitle, rubric }) => (
+        <div key={chapId}>
+          <div className="flex items-center gap-3 mb-2">
+            <span className="text-[11px] font-semibold text-[#e2e8f0] uppercase tracking-wider">{chapTitle}</span>
+            <span className="text-[10px] text-[#475569] truncate">{rubric.method}</span>
+          </div>
+          <div className="overflow-x-auto">
+            <table className="text-[11px] border-separate border-spacing-0">
+              <thead>
+                <tr>
+                  <th className="text-left text-[#94a3b8] font-medium px-2 py-1 sticky left-0 bg-[#0f172a] z-10 min-w-[260px]">Criterion</th>
+                  <th className="text-right text-[#475569] font-medium px-2 py-1 w-12">% full</th>
+                  {teams.map((t) => (
+                    <th key={t.id} title={t.name} className="text-center text-[#94a3b8] font-medium px-1 py-1 w-7">
+                      <span className="text-sm">{t.icon}</span>
+                    </th>
+                  ))}
+                </tr>
+              </thead>
+              <tbody>
+                {rubric.team_cells.map((row) => (
+                  <tr key={row.id}>
+                    <td className="text-[#cbd5e1] px-2 py-1 sticky left-0 bg-[#0f172a] z-10">{row.label}</td>
+                    <td className="text-right text-[#94a3b8] tabular-nums px-2">{pctFull(row.cells)}%</td>
+                    {teams.map((t) => {
+                      const cell = row.cells[t.id] ?? 'missing'
+                      return (
+                        <td
+                          key={t.id}
+                          title={`${t.name}: ${cell}`}
+                          className={`text-center text-[10px] text-white/90 ${CELL_COLOR[cell]} border border-[#0f172a]`}
+                        >
+                          {CELL_GLYPH[cell]}
+                        </td>
+                      )
+                    })}
+                  </tr>
+                ))}
+              </tbody>
+            </table>
+          </div>
+        </div>
+      ))}
     </div>
   )
 }

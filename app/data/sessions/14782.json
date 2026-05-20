@@ -1,0 +1,1134 @@
+{
+  "session_arrow_id": 14782,
+  "session_cc_uuid": "2325c5ca-b46a-44a4-a2a0-16633d33087e",
+  "case_challenge": "Kickoff: Shelf Awareness",
+  "case_challenge_id": "a4295b2a-f11c-41bb-bd2c-366bee1cc317",
+  "viewed_chapter_id": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+  "extracted_at": "2026-05-20T00:00:00.000Z",
+  "source_url": "https://dubaichambers2.abilitie.com/facilitator/2325c5ca-b46a-44a4-a2a0-16633d33087e",
+  "tenant_dns": "dubaichambers2.abilitie.com",
+  "chapters": [
+    {
+      "id": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+      "title": "Shelf Awareness",
+      "order": 1,
+      "duration_min": 20,
+      "blocks": 1
+    }
+  ],
+  "teams": [
+    {
+      "id": "9d5c2585-44b3-4aab-9130-ab42a356e94d",
+      "name": "Group 1",
+      "icon": "🦒",
+      "group_letter": "1"
+    },
+    {
+      "id": "3c487265-c5d2-4160-983b-9bc78bacaaf8",
+      "name": "Group 2",
+      "icon": "📠",
+      "group_letter": "2"
+    },
+    {
+      "id": "18e153b7-02ad-4a92-bfbc-0e309f136e6f",
+      "name": "Group 3",
+      "icon": "♟️",
+      "group_letter": "3"
+    },
+    {
+      "id": "f1cef00d-1947-42da-ae6f-83ababe112df",
+      "name": "Group 6",
+      "icon": "🖊️",
+      "group_letter": "6"
+    },
+    {
+      "id": "8f831e58-efcc-45bc-b70c-19b9dfc0443b",
+      "name": "Group 7",
+      "icon": "🔒",
+      "group_letter": "7"
+    },
+    {
+      "id": "1814c6c1-a6ba-4bc6-9d4d-372a8c129808",
+      "name": "Group 10",
+      "icon": "🐢",
+      "group_letter": "10"
+    },
+    {
+      "id": "1d5241c6-5474-4a77-9ad2-94bdfb19df10",
+      "name": "Group 11",
+      "icon": "🗺️",
+      "group_letter": "11"
+    },
+    {
+      "id": "45cb99dc-7355-4f34-90ad-9bfd31ac0e7c",
+      "name": "Group 12",
+      "icon": "📝",
+      "group_letter": "12"
+    },
+    {
+      "id": "8ade7045-15d2-463a-985b-65b32458659c",
+      "name": "SN",
+      "icon": "⭐",
+      "group_letter": "5"
+    },
+    {
+      "id": "844e3134-3956-470d-a23c-e06e183956dd",
+      "name": "Wa7sh",
+      "icon": "🐲",
+      "group_letter": "9"
+    },
+    {
+      "id": "0f10cab5-9490-4331-88ec-38e9329128b8",
+      "name": "Dynamic Duo",
+      "icon": "⚡",
+      "group_letter": "8"
+    },
+    {
+      "id": "2639406c-c937-4739-81fb-7aee13f6b77a",
+      "name": "DREAM TEAM",
+      "icon": "💫",
+      "group_letter": "4"
+    }
+  ],
+  "team_results_for_viewed_chapter": {
+    "9d5c2585-44b3-4aab-9130-ab42a356e94d": {
+      "completed_block_count": 2,
+      "opened_block_count": 4,
+      "score": 24,
+      "narrative_outcome": "Store Issues Persist"
+    },
+    "3c487265-c5d2-4160-983b-9bc78bacaaf8": {
+      "completed_block_count": 2,
+      "opened_block_count": 5,
+      "score": 53,
+      "narrative_outcome": "Modest Growth"
+    },
+    "18e153b7-02ad-4a92-bfbc-0e309f136e6f": {
+      "completed_block_count": 2,
+      "opened_block_count": 5,
+      "score": 11,
+      "narrative_outcome": "Store Issues Persist"
+    },
+    "f1cef00d-1947-42da-ae6f-83ababe112df": {
+      "completed_block_count": 2,
+      "opened_block_count": 6,
+      "score": 39,
+      "narrative_outcome": "Store Issues Persist"
+    },
+    "8f831e58-efcc-45bc-b70c-19b9dfc0443b": {
+      "completed_block_count": 2,
+      "opened_block_count": 5,
+      "score": 35,
+      "narrative_outcome": "Store Issues Persist"
+    },
+    "1814c6c1-a6ba-4bc6-9d4d-372a8c129808": {
+      "completed_block_count": 2,
+      "opened_block_count": 5,
+      "score": 47,
+      "narrative_outcome": "Store Issues Persist"
+    },
+    "1d5241c6-5474-4a77-9ad2-94bdfb19df10": {
+      "completed_block_count": 2,
+      "opened_block_count": 4,
+      "score": 19,
+      "narrative_outcome": "Store Issues Persist"
+    },
+    "45cb99dc-7355-4f34-90ad-9bfd31ac0e7c": {
+      "completed_block_count": 2,
+      "opened_block_count": 4,
+      "score": 35,
+      "narrative_outcome": "Store Issues Persist"
+    },
+    "8ade7045-15d2-463a-985b-65b32458659c": {
+      "completed_block_count": 2,
+      "opened_block_count": 5,
+      "score": 55,
+      "narrative_outcome": "Modest Growth"
+    },
+    "844e3134-3956-470d-a23c-e06e183956dd": {
+      "completed_block_count": 2,
+      "opened_block_count": 6,
+      "score": 54,
+      "narrative_outcome": "Modest Growth"
+    },
+    "0f10cab5-9490-4331-88ec-38e9329128b8": {
+      "completed_block_count": 2,
+      "opened_block_count": 6,
+      "score": 62,
+      "narrative_outcome": "Modest Growth"
+    },
+    "2639406c-c937-4739-81fb-7aee13f6b77a": {
+      "completed_block_count": 2,
+      "opened_block_count": 5,
+      "score": 63,
+      "narrative_outcome": "Modest Growth"
+    }
+  },
+  "team_results_by_chapter": {
+    "92f9af6f-71fb-4e35-8d62-fe09fc2f0351": {
+      "9d5c2585-44b3-4aab-9130-ab42a356e94d": {
+        "completed_block_count": 2,
+        "opened_block_count": 4,
+        "score": 24,
+        "narrative_outcome": "Store Issues Persist"
+      },
+      "3c487265-c5d2-4160-983b-9bc78bacaaf8": {
+        "completed_block_count": 2,
+        "opened_block_count": 5,
+        "score": 53,
+        "narrative_outcome": "Modest Growth"
+      },
+      "18e153b7-02ad-4a92-bfbc-0e309f136e6f": {
+        "completed_block_count": 2,
+        "opened_block_count": 5,
+        "score": 11,
+        "narrative_outcome": "Store Issues Persist"
+      },
+      "f1cef00d-1947-42da-ae6f-83ababe112df": {
+        "completed_block_count": 2,
+        "opened_block_count": 6,
+        "score": 39,
+        "narrative_outcome": "Store Issues Persist"
+      },
+      "8f831e58-efcc-45bc-b70c-19b9dfc0443b": {
+        "completed_block_count": 2,
+        "opened_block_count": 5,
+        "score": 35,
+        "narrative_outcome": "Store Issues Persist"
+      },
+      "1814c6c1-a6ba-4bc6-9d4d-372a8c129808": {
+        "completed_block_count": 2,
+        "opened_block_count": 5,
+        "score": 47,
+        "narrative_outcome": "Store Issues Persist"
+      },
+      "1d5241c6-5474-4a77-9ad2-94bdfb19df10": {
+        "completed_block_count": 2,
+        "opened_block_count": 4,
+        "score": 19,
+        "narrative_outcome": "Store Issues Persist"
+      },
+      "45cb99dc-7355-4f34-90ad-9bfd31ac0e7c": {
+        "completed_block_count": 2,
+        "opened_block_count": 4,
+        "score": 35,
+        "narrative_outcome": "Store Issues Persist"
+      },
+      "8ade7045-15d2-463a-985b-65b32458659c": {
+        "completed_block_count": 2,
+        "opened_block_count": 5,
+        "score": 55,
+        "narrative_outcome": "Modest Growth"
+      },
+      "844e3134-3956-470d-a23c-e06e183956dd": {
+        "completed_block_count": 2,
+        "opened_block_count": 6,
+        "score": 54,
+        "narrative_outcome": "Modest Growth"
+      },
+      "0f10cab5-9490-4331-88ec-38e9329128b8": {
+        "completed_block_count": 2,
+        "opened_block_count": 6,
+        "score": 62,
+        "narrative_outcome": "Modest Growth"
+      },
+      "2639406c-c937-4739-81fb-7aee13f6b77a": {
+        "completed_block_count": 2,
+        "opened_block_count": 5,
+        "score": 63,
+        "narrative_outcome": "Modest Growth"
+      }
+    }
+  },
+  "team_analyses_for_viewed_chapter": {
+    "9d5c2585-44b3-4aab-9130-ab42a356e94d": {
+      "teamId": "9d5c2585-44b3-4aab-9130-ab42a356e94d",
+      "teamName": "Group 1",
+      "teamIcon": "🦒",
+      "chapterId": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/1773421683993-chapter_1.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "max": 10,
+        "lowLabel": "LOW",
+        "highLabel": "HIGH",
+        "mediumLabel": "MEDIUM",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": true,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Louis Durand, CEO, Durand's Market",
+        "subject": "Following up on our conversation"
+      },
+      "generatedAt": "2026-05-05T05:26:31.854Z",
+      "score": 24,
+      "analysis": "Hi,\n\nI've reflected on our conversation and your recommendation, and I'll be honest—I'm concerned we didn't get to the heart of what's happening across my stores. You asked many questions, but we never really dug into the performance metrics themselves: Oakridge's 8.1% profit margin and 91% customer satisfaction versus Maplecrest at 3.2% and 74%, or why Briarwood's labor cost is 27% of revenue compared to Oakridge's 18%. Without anchoring in those numbers, it's hard to diagnose the real problems.\n\nYour recommendation to rotate leadership worries me. Clara has built stability at Oakridge—28-month average tenure, 15% turnover—and moving her could destabilize our one strong store. I needed help prioritizing where to invest my time and resources, but the guidance felt scattered: parking, more employees, rotation. I'm still not clear on what to do first or why.\n\nI appreciate your time, but I need a clearer path forward before I can move confidently.\n\nBest,  \nLouis Durand  \nCEO, Durand's Market",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/option-0/1774888451910-Epilogue.webp",
+        "story": "Two years later... you rotated leaders across Oakridge, Maplecrest, and Briarwood, appointing Clara as mentor and proposing paid overflow parking and added staffing. The swap disrupted Oakridge’s stable warmth, while Maplecrest’s tight parking and turnover still broke coverage. Briarwood stayed fast but impersonal, and delivery never expanded there. Without fixing in-store execution—freshness at 6pm, shelf facing, and service energy—basket size and loyalty kept slipping.",
+        "title": "Store Issues Persist",
+        "description": "The performance gaps at Durand's Market continue to widen as root causes go unaddressed."
+      }
+    },
+    "3c487265-c5d2-4160-983b-9bc78bacaaf8": {
+      "teamId": "3c487265-c5d2-4160-983b-9bc78bacaaf8",
+      "teamName": "Group 2",
+      "teamIcon": "📠",
+      "chapterId": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/1773421683993-chapter_1.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "max": 10,
+        "lowLabel": "LOW",
+        "highLabel": "HIGH",
+        "mediumLabel": "MEDIUM",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": true,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Louis Durand, CEO, Durand's Market",
+        "subject": "Following up on our conversation"
+      },
+      "generatedAt": "2026-05-05T05:26:35.793Z",
+      "score": 53,
+      "analysis": "Hi,\n\nThanks for taking the time to dig into the stores with me. I appreciate that you picked up on the turnover issues at Maplecrest (38%) and Briarwood (42%) and connected those to customer satisfaction scores. You also asked good questions about what's working at Oakridge with Clara's leadership.\n\nThat said, I'm not entirely clear on the path forward. The recommendation about store layout didn't come up much in our conversation, and I'm not sure how that connects to the labor cost challenges (27% at Briarwood, 22% at Maplecrest vs. 18% at Oakridge). I was hoping for a sharper prioritization—what's the *one* thing I should tackle first to move the needle?\n\nBest,  \nLouis Durand  \nCEO, Durand's Market",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/option-1/1774888464327-Epilogue-1.webp",
+        "story": "Two years later... you standardized store layouts across Maplecrest, Briarwood, and Oakridge, giving shoppers a familiar flow and slightly smoother stocking. You also added training for Derek and Helen, which reduced last‑minute schedule changes and improved basic coaching. Yet the deeper culture gaps—tense “too many rules,” impersonal checkout, and weak listening loops—lingered, keeping turnover and shrink higher than Oakridge. Results rose modestly, not decisively.",
+        "title": "Modest Growth",
+        "description": "Durand's Market makes some improvements but struggles to fully address the underlying issues."
+      }
+    },
+    "18e153b7-02ad-4a92-bfbc-0e309f136e6f": {
+      "teamId": "18e153b7-02ad-4a92-bfbc-0e309f136e6f",
+      "teamName": "Group 3",
+      "teamIcon": "♟️",
+      "chapterId": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/1773421683993-chapter_1.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "max": 10,
+        "lowLabel": "LOW",
+        "highLabel": "HIGH",
+        "mediumLabel": "MEDIUM",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": true,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Louis Durand, CEO, Durand's Market",
+        "subject": "Following up on our conversation"
+      },
+      "generatedAt": "2026-05-05T05:26:38.306Z",
+      "score": 11,
+      "analysis": "Hi,\n\nI appreciate you taking the time to meet with me, but I need to be candid: I'm concerned we didn't get to the real issues. We talked about milk pairings and store layout, but we never discussed why Maplecrest has 38% turnover, a 9-month average tenure, or how Derek's leadership factors in. We also skipped Briarwood entirely—which has 42% turnover, 68% satisfaction, and 27% labor costs eating our margins. The data points to people problems first, basket size second, yet we focused on signage and cereal displays.\n\nI need a partner who can look at all three stores, connect the dots between turnover, leadership, and performance, and help me prioritize ruthlessly. Right now, I'm not confident we're tackling root causes. Can we regroup and take a more rigorous approach?\n\nBest,  \nLouis Durand  \nCEO, Durand's Market",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/option-0/1774888451910-Epilogue.webp",
+        "story": "Two years later... you launched Maplecrest’s “kitchen-style” customer journey, adding milk-and-cereal and bread-and-healthy-spread pairings with simple signage. But the rollout focused on ambiance over execution: aisles congested, in-stocks slipped, and the utilitarian shopper still rushed through basics. Basket size barely moved, while Oakridge stayed steady and Briarwood’s labor mismatch lingered. Without tighter pilots and operational fixes, store gaps widened and issues persisted.",
+        "title": "Store Issues Persist",
+        "description": "The performance gaps at Durand's Market continue to widen as root causes go unaddressed."
+      }
+    },
+    "f1cef00d-1947-42da-ae6f-83ababe112df": {
+      "teamId": "f1cef00d-1947-42da-ae6f-83ababe112df",
+      "teamName": "Group 6",
+      "teamIcon": "🖊️",
+      "chapterId": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/1773421683993-chapter_1.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "max": 10,
+        "lowLabel": "LOW",
+        "highLabel": "HIGH",
+        "mediumLabel": "MEDIUM",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": true,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Louis Durand, CEO, Durand's Market",
+        "subject": "Following up on our conversation"
+      },
+      "generatedAt": "2026-05-05T05:26:35.958Z",
+      "score": 39,
+      "analysis": "Hi,\n\nI appreciate you taking the time to meet, but I have to be honest—I'm concerned about where we landed. I was hoping you'd help me diagnose the root causes using the data, but most of the analysis came from my side while you asked me to share what I thought. The ideas you raised—geography, demographics, community events, layout—are all valid, but we never prioritized or built a sequenced plan. Your recommendation to change managers and standardize layout feels directionally right, but without specifics on which manager, which design elements, or how to phase the work, I'm not confident we can execute this well.\n\nI need a partner who will challenge my thinking and guide me toward focused action. Can we regroup?\n\nBest,  \nLouis Durand  \nCEO, Durand's Market",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/option-0/1774888451910-Epilogue.webp",
+        "story": "Two years later... you replaced underperforming store managers and pushed a standardized layout to mirror Oakridge’s “market walk” and tasting station. The rollout, however, outpaced training and operational audits, and employee redistribution thinned Oakridge’s bench. Maplecrest’s baskets stayed low, and Briarwood’s labor and turnover remained stubbornly high. With inconsistent execution and weak satisfaction KPIs, the brand felt uneven—and store issues persisted.",
+        "title": "Store Issues Persist",
+        "description": "The performance gaps at Durand's Market continue to widen as root causes go unaddressed."
+      }
+    },
+    "8f831e58-efcc-45bc-b70c-19b9dfc0443b": {
+      "teamId": "8f831e58-efcc-45bc-b70c-19b9dfc0443b",
+      "teamName": "Group 7",
+      "teamIcon": "🔒",
+      "chapterId": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/1773421683993-chapter_1.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "max": 10,
+        "lowLabel": "LOW",
+        "highLabel": "HIGH",
+        "mediumLabel": "MEDIUM",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": true,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Louis Durand, CEO, Durand's Market",
+        "subject": "Following up on our conversation"
+      },
+      "generatedAt": "2026-05-05T05:26:32.324Z",
+      "score": 35,
+      "analysis": "Hi Hiba,\n\nI've had time to reflect on our conversation, and I'm concerned we didn't get the traction I was hoping for. You acknowledged the turnover problem at Maplecrest (38%) and Briarwood (42%), but we never explored *why* those numbers are so different from Oakridge's 15%, or what Derek and Helen are actually doing differently from Clara. Your recommendation to focus on \"team skills & capabilities\" feels too broad—I need to know which store to prioritize, and what specific actions to take Monday morning. I was looking for sharper diagnosis and a clearer path forward, not confirmation of what I already suspected.\n\nI'm open to continuing if you can bring more analytical depth to the next conversation.\n\nBest,  \nLouis Durand  \nCEO, Durand's Market",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/option-0/1774888451910-Epilogue.webp",
+        "story": "Two years later... you focused on upgrading store leadership skills and drafted unified Durand standards, but implementation lagged. Oakridge kept its 8.1% margin and 91% satisfaction, while Maplecrest and Briarwood churned through staff at 38–42% turnover. Inconsistent coaching left training uneven, aisles less predictable, and service slipping. The unreinforced playbook became optional, and the margin gap widened as customer loyalty drifted to competitors.",
+        "title": "Store Issues Persist",
+        "description": "The performance gaps at Durand's Market continue to widen as root causes go unaddressed."
+      }
+    },
+    "1814c6c1-a6ba-4bc6-9d4d-372a8c129808": {
+      "teamId": "1814c6c1-a6ba-4bc6-9d4d-372a8c129808",
+      "teamName": "Group 10",
+      "teamIcon": "🐢",
+      "chapterId": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/1773421683993-chapter_1.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "max": 10,
+        "lowLabel": "LOW",
+        "highLabel": "HIGH",
+        "mediumLabel": "MEDIUM",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": true,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Louis Durand, CEO, Durand's Market",
+        "subject": "Following up on our conversation"
+      },
+      "generatedAt": "2026-05-05T05:26:42.069Z",
+      "score": 47,
+      "analysis": "Hi,\n\nThanks for taking the time to work through this with me. I've been reflecting on our conversation, and I appreciate that you zeroed in on Derek and Helen's leadership styles—that's a real issue, and coaching could help. However, I'm concerned we didn't actually dig into the numbers systematically. We talked about Briarwood's 27% labor cost and 42% turnover, but we never compared it side-by-side with Oakridge's 18% labor cost and 15% turnover to understand the full scale of the gap, or what's driving Maplecrest's struggles. Leadership matters, but without diagnosing whether it's hiring, training systems, operational inefficiencies, or product mix, I'm worried coaching alone might not move the needle enough.\n\nI'd value a follow-up where we look at all three stores together, prioritize based on where we'll get the fastest return, and build a more specific action plan with milestones. Let me know your thoughts.\n\nBest,  \nLouis Durand  \nCEO, Durand's Market",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/option-0/1774888451910-Epilogue.webp",
+        "story": "Two years later... you pushed coaching and training to fix Helen and Derek’s leadership, but the plan stayed generic and inconsistent. Briarwood’s efficiency-first culture kept driving 40%+ turnover, labor costs remained inflated, and customer satisfaction never recovered from strained service. Maplecrest followed the same pattern as write-ups replaced coaching. Oakridge stayed steady, yet the gap widened as competitors captured value shoppers and Durand’s brand promise felt uneven.",
+        "title": "Store Issues Persist",
+        "description": "The performance gaps at Durand's Market continue to widen as root causes go unaddressed."
+      }
+    },
+    "1d5241c6-5474-4a77-9ad2-94bdfb19df10": {
+      "teamId": "1d5241c6-5474-4a77-9ad2-94bdfb19df10",
+      "teamName": "Group 11",
+      "teamIcon": "🗺️",
+      "chapterId": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/1773421683993-chapter_1.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "max": 10,
+        "lowLabel": "LOW",
+        "highLabel": "HIGH",
+        "mediumLabel": "MEDIUM",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": true,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Louis Durand, CEO, Durand's Market",
+        "subject": "Following up on our conversation"
+      },
+      "generatedAt": "2026-05-05T05:26:30.013Z",
+      "score": 19,
+      "analysis": "Hi,\n\nI've had some time to reflect on our conversation, and I have to be honest—I'm concerned we didn't get to the heart of what's happening at Maplecrest and Briarwood. While I appreciate the thought about adapting our model to different demographics, we never actually looked at the numbers together. Briarwood's labor cost is 27% of revenue and Maplecrest is at 22%—compared to Oakridge's 18%. Both new stores have turnover above 38% and managers who've barely been there six months. Those aren't strategy problems; those are execution and leadership breakdowns that are bleeding us dry. I needed you to help me diagnose why operations are failing before we talk about changing the entire concept. I'm worried we're chasing the wrong problem here.\n\nI'm hoping we can regroup and take a more data-driven look at what's actually broken before we make any major pivots.\n\nBest,  \nLouis Durand  \nCEO, Durand's Market",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/option-0/1774888451910-Epilogue.webp",
+        "story": "Two years later... you urged Louis to stop copying Oakridge and tailor each new store to its neighborhood. But execution stalled: Maplecrest kept a mismatched assortment and prices drifted upward, while Briarwood’s grab-and-go reset never fixed checkout bottlenecks. Foot traffic stayed high yet baskets stayed small, and staff churn climbed as days grew chaotic. Oakridge remained steady, but the performance gaps widened and store issues persisted.",
+        "title": "Store Issues Persist",
+        "description": "The performance gaps at Durand's Market continue to widen as root causes go unaddressed."
+      }
+    },
+    "45cb99dc-7355-4f34-90ad-9bfd31ac0e7c": {
+      "teamId": "45cb99dc-7355-4f34-90ad-9bfd31ac0e7c",
+      "teamName": "Group 12",
+      "teamIcon": "📝",
+      "chapterId": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/1773421683993-chapter_1.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "max": 10,
+        "lowLabel": "LOW",
+        "highLabel": "HIGH",
+        "mediumLabel": "MEDIUM",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": true,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Louis Durand, CEO, Durand's Market",
+        "subject": "Following up on our conversation"
+      },
+      "generatedAt": "2026-05-05T05:26:42.768Z",
+      "score": 35,
+      "analysis": "Hi,\n\nI've had time to reflect on our conversation, and I need to be honest—I'm concerned we didn't get to the diagnostic rigor I was hoping for. You asked good exploratory questions, but we never dug into what the actual numbers are telling us. Briarwood's 27% labor cost and 42% turnover versus Oakridge's 18% and 15% aren't just metrics—they're symptoms of deeper leadership and culture problems. Jumping to layout redesign feels premature when we haven't diagnosed why one manager builds teams that stay (28-month average tenure) and two others can't (6 and 9 months). \n\nI need help connecting the dots between people, systems, and results—not just identifying that gaps exist. Layout matters, but if Helen and Derek don't fundamentally shift how they lead, I'm not confident a floor redesign will move customer satisfaction from 68% and 74% to anywhere near Oakridge's 91%. Can we regroup with a sharper focus on root causes and priorities?\n\nBest,  \nLouis Durand  \nCEO, Durand's Market",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/option-0/1774888451910-Epilogue.webp",
+        "story": "Two years later... you pushed to standardize store layouts to mirror Oakridge’s warm “journey,” and Louis held alignment sessions with Derek and Helen. But the effort stayed surface-level—fixtures moved while leadership routines and service behaviors didn’t. Maplecrest’s tight grid still discouraged discovery, and Briarwood’s self-checkout warehouse feel remained cold. Traffic held, yet basket size, morale, and turnover lagged, leaving the gaps unresolved.",
+        "title": "Store Issues Persist",
+        "description": "The performance gaps at Durand's Market continue to widen as root causes go unaddressed."
+      }
+    },
+    "8ade7045-15d2-463a-985b-65b32458659c": {
+      "teamId": "8ade7045-15d2-463a-985b-65b32458659c",
+      "teamName": "SN",
+      "teamIcon": "⭐",
+      "chapterId": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/1773421683993-chapter_1.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "max": 10,
+        "lowLabel": "LOW",
+        "highLabel": "HIGH",
+        "mediumLabel": "MEDIUM",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": true,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Louis Durand, CEO, Durand's Market",
+        "subject": "Following up on our conversation"
+      },
+      "generatedAt": "2026-05-05T05:26:36.147Z",
+      "score": 55,
+      "analysis": "Hi,\n\nThanks for taking the time to dig into our store challenges. You clearly identified that leadership is driving our turnover problem, and I appreciate that you connected the dots between Derek's micromanagement style and Maplecrest's struggles. Your recommendation to invest in manager training is directionally right.\n\nThat said, I was hoping for more specificity. What *exact* leadership behaviors should we coach? Which store should I tackle first—Briarwood with 27% labor costs and 42% turnover, or Maplecrest? Your advice felt a bit general when I need a clear action sequence. Still, you've pointed me toward the real issue, and that's valuable.\n\nBest,  \nLouis Durand  \nCEO, Durand's Market",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/option-1/1774888464327-Epilogue-1.webp",
+        "story": "Two years later... you pushed Louis to train Derek and Helen in leadership, replacing write-ups for tiny delays with coaching, clearer expectations, and regular staff check-ins. Turnover eased, shrinking onboarding churn and overtime, and Briarwood’s service thawed enough to lift basket size. Yet labor discipline lagged and satisfaction gains plateaued, keeping margins uneven. Oakridge stayed steady while Maplecrest improved only incrementally—modest growth, not a breakthrough.",
+        "title": "Modest Growth",
+        "description": "Durand's Market makes some improvements but struggles to fully address the underlying issues."
+      }
+    },
+    "844e3134-3956-470d-a23c-e06e183956dd": {
+      "teamId": "844e3134-3956-470d-a23c-e06e183956dd",
+      "teamName": "Wa7sh",
+      "teamIcon": "🐲",
+      "chapterId": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/1773421683993-chapter_1.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "max": 10,
+        "lowLabel": "LOW",
+        "highLabel": "HIGH",
+        "mediumLabel": "MEDIUM",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": true,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Louis Durand, CEO, Durand's Market",
+        "subject": "Following up on our conversation"
+      },
+      "generatedAt": "2026-05-05T05:26:40.076Z",
+      "score": 54,
+      "analysis": "Hi,\n\nI've had time to reflect on our conversation and your recommendation. You're right that Briarwood's cultural and leadership issues are real problems—the 42% turnover and 68% satisfaction tell that story clearly. Pairing Helen with Clara makes sense directionally. That said, I felt your questions jumped around quite a bit rather than building a systematic diagnosis. We explored symptoms but didn't fully compare what's driving the gap between all three stores or why Briarwood should be the priority over Maplecrest's struggles. Your recommendation also needs more teeth: what exactly should Helen learn from Clara, over what timeline, and what should change as a result?\n\nI appreciate that you zeroed in on the people dimension—that's often where the real work is. I'd just encourage you to anchor more tightly in the data upfront, compare the full picture across stores, and then give me a recommendation I can act on Monday morning with confidence.\n\nBest,  \nLouis Durand  \nCEO, Durand's Market",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/option-1/1774888464327-Epilogue-1.webp",
+        "story": "Two years later... you paired Oakridge leaders with Helen Olson to mentor a shift from “all metrics, no care” toward steadier staffing and clearer kiosk coverage. Turnover eased, training hours fell, and self-checkout outages no longer froze the front end. Customer satisfaction in Briarwood inched up, lifting baskets modestly. Yet Maplecrest’s leadership gap and competitive pressure still dulled momentum, leaving Durand’s Market improved—but short of a breakthrough.",
+        "title": "Modest Growth",
+        "description": "Durand's Market makes some improvements but struggles to fully address the underlying issues."
+      }
+    },
+    "0f10cab5-9490-4331-88ec-38e9329128b8": {
+      "teamId": "0f10cab5-9490-4331-88ec-38e9329128b8",
+      "teamName": "Dynamic Duo",
+      "teamIcon": "⚡",
+      "chapterId": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/1773421683993-chapter_1.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "max": 10,
+        "lowLabel": "LOW",
+        "highLabel": "HIGH",
+        "mediumLabel": "MEDIUM",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": true,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Louis Durand, CEO, Durand's Market",
+        "subject": "Following up on our conversation"
+      },
+      "generatedAt": "2026-05-05T05:26:48.697Z",
+      "score": 62,
+      "analysis": "Hi,\n\nThanks for taking time to talk through the stores with me. I appreciate that you zeroed in on leadership and the Oakridge model—there's truth there. That said, I left our conversation wishing we'd dug deeper into *why* the numbers tell different stories. Maplecrest's 3.2% margin and $22.10 basket versus Briarwood's 27% labor cost and 68% satisfaction suggest different root causes, not just \"do what Clara does.\" \n\nYour recommendation to train both managers and redesign both layouts feels broad. I was hoping you'd help me sequence: which store first, which lever matters most, and what success looks like in 90 days. Let's regroup soon and sharpen the plan together.\n\nBest,  \nLouis Durand  \nCEO, Durand's Market",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/option-1/1774888464327-Epilogue-1.webp",
+        "story": "Two years later... you guided Durand’s Market to borrow Oakridge’s “human” formula—training Derek and Helen, refreshing layouts to invite browsing, and tightening coaching and recognition to curb churn. Maplecrest’s basket size edged up, and Briarwood’s service recoveries improved as self-checkout was balanced with staffed support. Yet inconsistent manager follow-through and uneven cultural adoption kept turnover elevated and margins uneven, delivering modest growth rather than a full turnaround.",
+        "title": "Modest Growth",
+        "description": "Durand's Market makes some improvements but struggles to fully address the underlying issues."
+      }
+    },
+    "2639406c-c937-4739-81fb-7aee13f6b77a": {
+      "teamId": "2639406c-c937-4739-81fb-7aee13f6b77a",
+      "teamName": "DREAM TEAM",
+      "teamIcon": "💫",
+      "chapterId": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/1773421683993-chapter_1.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "max": 10,
+        "lowLabel": "LOW",
+        "highLabel": "HIGH",
+        "mediumLabel": "MEDIUM",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": true,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Louis Durand, CEO, Durand's Market",
+        "subject": "Following up on our conversation"
+      },
+      "generatedAt": "2026-05-05T05:26:48.623Z",
+      "score": 63,
+      "analysis": "Hi,\n\nThanks for the conversation yesterday. I appreciate you zeroing in on employee wellbeing, the customer journey, and manager development—those are the right themes. Clara's leadership at Oakridge (91% satisfaction, 15% turnover) versus the struggles at Maplecrest and Briarwood really do tell the story, and your pilot approach feels practical.\n\nThat said, I was hoping you'd lead the diagnosis more actively. You agreed with most of my observations rather than challenging me with sharper prioritization or connecting the dots between the metrics—like why Briarwood's 27% labor cost and 42% turnover are bleeding margin, or how Maplecrest's $22.10 basket reflects a broken discovery experience. The path forward is solid, but I need you to help me choose *what not to do* as much as what to tackle first.\n\nLet's regroup in a week and tighten the plan.\n\nBest,  \nLouis Durand  \nCEO, Durand's Market",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/option-1/1774888464327-Epilogue-1.webp",
+        "story": "Two years later... you had pushed employee wellbeing, manager shadowing at Oakridge, and a warmer customer journey in Maplecrest and Briarwood. HR rolled out buddy onboarding, pulse checks, and steadier schedules, while pilots added seasonal tables and staffed checkout lanes. Satisfaction and basket size inched up and labor costs eased, but inconsistent coaching and partial layout fixes kept turnover stubborn. Durand’s gained stability—yet never matched Oakridge’s spark.",
+        "title": "Modest Growth",
+        "description": "Durand's Market makes some improvements but struggles to fully address the underlying issues."
+      }
+    }
+  },
+  "team_analyses_by_chapter": {
+    "92f9af6f-71fb-4e35-8d62-fe09fc2f0351": {
+      "9d5c2585-44b3-4aab-9130-ab42a356e94d": {
+        "teamId": "9d5c2585-44b3-4aab-9130-ab42a356e94d",
+        "teamName": "Group 1",
+        "teamIcon": "🦒",
+        "chapterId": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/1773421683993-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "max": 10,
+          "lowLabel": "LOW",
+          "highLabel": "HIGH",
+          "mediumLabel": "MEDIUM",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": true,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Louis Durand, CEO, Durand's Market",
+          "subject": "Following up on our conversation"
+        },
+        "generatedAt": "2026-05-05T05:26:31.854Z",
+        "score": 24,
+        "analysis": "Hi,\n\nI've reflected on our conversation and your recommendation, and I'll be honest—I'm concerned we didn't get to the heart of what's happening across my stores. You asked many questions, but we never really dug into the performance metrics themselves: Oakridge's 8.1% profit margin and 91% customer satisfaction versus Maplecrest at 3.2% and 74%, or why Briarwood's labor cost is 27% of revenue compared to Oakridge's 18%. Without anchoring in those numbers, it's hard to diagnose the real problems.\n\nYour recommendation to rotate leadership worries me. Clara has built stability at Oakridge—28-month average tenure, 15% turnover—and moving her could destabilize our one strong store. I needed help prioritizing where to invest my time and resources, but the guidance felt scattered: parking, more employees, rotation. I'm still not clear on what to do first or why.\n\nI appreciate your time, but I need a clearer path forward before I can move confidently.\n\nBest,  \nLouis Durand  \nCEO, Durand's Market",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/option-0/1774888451910-Epilogue.webp",
+          "story": "Two years later... you rotated leaders across Oakridge, Maplecrest, and Briarwood, appointing Clara as mentor and proposing paid overflow parking and added staffing. The swap disrupted Oakridge’s stable warmth, while Maplecrest’s tight parking and turnover still broke coverage. Briarwood stayed fast but impersonal, and delivery never expanded there. Without fixing in-store execution—freshness at 6pm, shelf facing, and service energy—basket size and loyalty kept slipping.",
+          "title": "Store Issues Persist",
+          "description": "The performance gaps at Durand's Market continue to widen as root causes go unaddressed."
+        }
+      },
+      "3c487265-c5d2-4160-983b-9bc78bacaaf8": {
+        "teamId": "3c487265-c5d2-4160-983b-9bc78bacaaf8",
+        "teamName": "Group 2",
+        "teamIcon": "📠",
+        "chapterId": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/1773421683993-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "max": 10,
+          "lowLabel": "LOW",
+          "highLabel": "HIGH",
+          "mediumLabel": "MEDIUM",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": true,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Louis Durand, CEO, Durand's Market",
+          "subject": "Following up on our conversation"
+        },
+        "generatedAt": "2026-05-05T05:26:35.793Z",
+        "score": 53,
+        "analysis": "Hi,\n\nThanks for taking the time to dig into the stores with me. I appreciate that you picked up on the turnover issues at Maplecrest (38%) and Briarwood (42%) and connected those to customer satisfaction scores. You also asked good questions about what's working at Oakridge with Clara's leadership.\n\nThat said, I'm not entirely clear on the path forward. The recommendation about store layout didn't come up much in our conversation, and I'm not sure how that connects to the labor cost challenges (27% at Briarwood, 22% at Maplecrest vs. 18% at Oakridge). I was hoping for a sharper prioritization—what's the *one* thing I should tackle first to move the needle?\n\nBest,  \nLouis Durand  \nCEO, Durand's Market",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/option-1/1774888464327-Epilogue-1.webp",
+          "story": "Two years later... you standardized store layouts across Maplecrest, Briarwood, and Oakridge, giving shoppers a familiar flow and slightly smoother stocking. You also added training for Derek and Helen, which reduced last‑minute schedule changes and improved basic coaching. Yet the deeper culture gaps—tense “too many rules,” impersonal checkout, and weak listening loops—lingered, keeping turnover and shrink higher than Oakridge. Results rose modestly, not decisively.",
+          "title": "Modest Growth",
+          "description": "Durand's Market makes some improvements but struggles to fully address the underlying issues."
+        }
+      },
+      "18e153b7-02ad-4a92-bfbc-0e309f136e6f": {
+        "teamId": "18e153b7-02ad-4a92-bfbc-0e309f136e6f",
+        "teamName": "Group 3",
+        "teamIcon": "♟️",
+        "chapterId": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/1773421683993-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "max": 10,
+          "lowLabel": "LOW",
+          "highLabel": "HIGH",
+          "mediumLabel": "MEDIUM",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": true,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Louis Durand, CEO, Durand's Market",
+          "subject": "Following up on our conversation"
+        },
+        "generatedAt": "2026-05-05T05:26:38.306Z",
+        "score": 11,
+        "analysis": "Hi,\n\nI appreciate you taking the time to meet with me, but I need to be candid: I'm concerned we didn't get to the real issues. We talked about milk pairings and store layout, but we never discussed why Maplecrest has 38% turnover, a 9-month average tenure, or how Derek's leadership factors in. We also skipped Briarwood entirely—which has 42% turnover, 68% satisfaction, and 27% labor costs eating our margins. The data points to people problems first, basket size second, yet we focused on signage and cereal displays.\n\nI need a partner who can look at all three stores, connect the dots between turnover, leadership, and performance, and help me prioritize ruthlessly. Right now, I'm not confident we're tackling root causes. Can we regroup and take a more rigorous approach?\n\nBest,  \nLouis Durand  \nCEO, Durand's Market",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/option-0/1774888451910-Epilogue.webp",
+          "story": "Two years later... you launched Maplecrest’s “kitchen-style” customer journey, adding milk-and-cereal and bread-and-healthy-spread pairings with simple signage. But the rollout focused on ambiance over execution: aisles congested, in-stocks slipped, and the utilitarian shopper still rushed through basics. Basket size barely moved, while Oakridge stayed steady and Briarwood’s labor mismatch lingered. Without tighter pilots and operational fixes, store gaps widened and issues persisted.",
+          "title": "Store Issues Persist",
+          "description": "The performance gaps at Durand's Market continue to widen as root causes go unaddressed."
+        }
+      },
+      "f1cef00d-1947-42da-ae6f-83ababe112df": {
+        "teamId": "f1cef00d-1947-42da-ae6f-83ababe112df",
+        "teamName": "Group 6",
+        "teamIcon": "🖊️",
+        "chapterId": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/1773421683993-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "max": 10,
+          "lowLabel": "LOW",
+          "highLabel": "HIGH",
+          "mediumLabel": "MEDIUM",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": true,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Louis Durand, CEO, Durand's Market",
+          "subject": "Following up on our conversation"
+        },
+        "generatedAt": "2026-05-05T05:26:35.958Z",
+        "score": 39,
+        "analysis": "Hi,\n\nI appreciate you taking the time to meet, but I have to be honest—I'm concerned about where we landed. I was hoping you'd help me diagnose the root causes using the data, but most of the analysis came from my side while you asked me to share what I thought. The ideas you raised—geography, demographics, community events, layout—are all valid, but we never prioritized or built a sequenced plan. Your recommendation to change managers and standardize layout feels directionally right, but without specifics on which manager, which design elements, or how to phase the work, I'm not confident we can execute this well.\n\nI need a partner who will challenge my thinking and guide me toward focused action. Can we regroup?\n\nBest,  \nLouis Durand  \nCEO, Durand's Market",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/option-0/1774888451910-Epilogue.webp",
+          "story": "Two years later... you replaced underperforming store managers and pushed a standardized layout to mirror Oakridge’s “market walk” and tasting station. The rollout, however, outpaced training and operational audits, and employee redistribution thinned Oakridge’s bench. Maplecrest’s baskets stayed low, and Briarwood’s labor and turnover remained stubbornly high. With inconsistent execution and weak satisfaction KPIs, the brand felt uneven—and store issues persisted.",
+          "title": "Store Issues Persist",
+          "description": "The performance gaps at Durand's Market continue to widen as root causes go unaddressed."
+        }
+      },
+      "8f831e58-efcc-45bc-b70c-19b9dfc0443b": {
+        "teamId": "8f831e58-efcc-45bc-b70c-19b9dfc0443b",
+        "teamName": "Group 7",
+        "teamIcon": "🔒",
+        "chapterId": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/1773421683993-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "max": 10,
+          "lowLabel": "LOW",
+          "highLabel": "HIGH",
+          "mediumLabel": "MEDIUM",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": true,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Louis Durand, CEO, Durand's Market",
+          "subject": "Following up on our conversation"
+        },
+        "generatedAt": "2026-05-05T05:26:32.324Z",
+        "score": 35,
+        "analysis": "Hi Hiba,\n\nI've had time to reflect on our conversation, and I'm concerned we didn't get the traction I was hoping for. You acknowledged the turnover problem at Maplecrest (38%) and Briarwood (42%), but we never explored *why* those numbers are so different from Oakridge's 15%, or what Derek and Helen are actually doing differently from Clara. Your recommendation to focus on \"team skills & capabilities\" feels too broad—I need to know which store to prioritize, and what specific actions to take Monday morning. I was looking for sharper diagnosis and a clearer path forward, not confirmation of what I already suspected.\n\nI'm open to continuing if you can bring more analytical depth to the next conversation.\n\nBest,  \nLouis Durand  \nCEO, Durand's Market",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/option-0/1774888451910-Epilogue.webp",
+          "story": "Two years later... you focused on upgrading store leadership skills and drafted unified Durand standards, but implementation lagged. Oakridge kept its 8.1% margin and 91% satisfaction, while Maplecrest and Briarwood churned through staff at 38–42% turnover. Inconsistent coaching left training uneven, aisles less predictable, and service slipping. The unreinforced playbook became optional, and the margin gap widened as customer loyalty drifted to competitors.",
+          "title": "Store Issues Persist",
+          "description": "The performance gaps at Durand's Market continue to widen as root causes go unaddressed."
+        }
+      },
+      "1814c6c1-a6ba-4bc6-9d4d-372a8c129808": {
+        "teamId": "1814c6c1-a6ba-4bc6-9d4d-372a8c129808",
+        "teamName": "Group 10",
+        "teamIcon": "🐢",
+        "chapterId": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/1773421683993-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "max": 10,
+          "lowLabel": "LOW",
+          "highLabel": "HIGH",
+          "mediumLabel": "MEDIUM",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": true,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Louis Durand, CEO, Durand's Market",
+          "subject": "Following up on our conversation"
+        },
+        "generatedAt": "2026-05-05T05:26:42.069Z",
+        "score": 47,
+        "analysis": "Hi,\n\nThanks for taking the time to work through this with me. I've been reflecting on our conversation, and I appreciate that you zeroed in on Derek and Helen's leadership styles—that's a real issue, and coaching could help. However, I'm concerned we didn't actually dig into the numbers systematically. We talked about Briarwood's 27% labor cost and 42% turnover, but we never compared it side-by-side with Oakridge's 18% labor cost and 15% turnover to understand the full scale of the gap, or what's driving Maplecrest's struggles. Leadership matters, but without diagnosing whether it's hiring, training systems, operational inefficiencies, or product mix, I'm worried coaching alone might not move the needle enough.\n\nI'd value a follow-up where we look at all three stores together, prioritize based on where we'll get the fastest return, and build a more specific action plan with milestones. Let me know your thoughts.\n\nBest,  \nLouis Durand  \nCEO, Durand's Market",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/option-0/1774888451910-Epilogue.webp",
+          "story": "Two years later... you pushed coaching and training to fix Helen and Derek’s leadership, but the plan stayed generic and inconsistent. Briarwood’s efficiency-first culture kept driving 40%+ turnover, labor costs remained inflated, and customer satisfaction never recovered from strained service. Maplecrest followed the same pattern as write-ups replaced coaching. Oakridge stayed steady, yet the gap widened as competitors captured value shoppers and Durand’s brand promise felt uneven.",
+          "title": "Store Issues Persist",
+          "description": "The performance gaps at Durand's Market continue to widen as root causes go unaddressed."
+        }
+      },
+      "1d5241c6-5474-4a77-9ad2-94bdfb19df10": {
+        "teamId": "1d5241c6-5474-4a77-9ad2-94bdfb19df10",
+        "teamName": "Group 11",
+        "teamIcon": "🗺️",
+        "chapterId": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/1773421683993-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "max": 10,
+          "lowLabel": "LOW",
+          "highLabel": "HIGH",
+          "mediumLabel": "MEDIUM",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": true,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Louis Durand, CEO, Durand's Market",
+          "subject": "Following up on our conversation"
+        },
+        "generatedAt": "2026-05-05T05:26:30.013Z",
+        "score": 19,
+        "analysis": "Hi,\n\nI've had some time to reflect on our conversation, and I have to be honest—I'm concerned we didn't get to the heart of what's happening at Maplecrest and Briarwood. While I appreciate the thought about adapting our model to different demographics, we never actually looked at the numbers together. Briarwood's labor cost is 27% of revenue and Maplecrest is at 22%—compared to Oakridge's 18%. Both new stores have turnover above 38% and managers who've barely been there six months. Those aren't strategy problems; those are execution and leadership breakdowns that are bleeding us dry. I needed you to help me diagnose why operations are failing before we talk about changing the entire concept. I'm worried we're chasing the wrong problem here.\n\nI'm hoping we can regroup and take a more data-driven look at what's actually broken before we make any major pivots.\n\nBest,  \nLouis Durand  \nCEO, Durand's Market",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/option-0/1774888451910-Epilogue.webp",
+          "story": "Two years later... you urged Louis to stop copying Oakridge and tailor each new store to its neighborhood. But execution stalled: Maplecrest kept a mismatched assortment and prices drifted upward, while Briarwood’s grab-and-go reset never fixed checkout bottlenecks. Foot traffic stayed high yet baskets stayed small, and staff churn climbed as days grew chaotic. Oakridge remained steady, but the performance gaps widened and store issues persisted.",
+          "title": "Store Issues Persist",
+          "description": "The performance gaps at Durand's Market continue to widen as root causes go unaddressed."
+        }
+      },
+      "45cb99dc-7355-4f34-90ad-9bfd31ac0e7c": {
+        "teamId": "45cb99dc-7355-4f34-90ad-9bfd31ac0e7c",
+        "teamName": "Group 12",
+        "teamIcon": "📝",
+        "chapterId": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/1773421683993-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "max": 10,
+          "lowLabel": "LOW",
+          "highLabel": "HIGH",
+          "mediumLabel": "MEDIUM",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": true,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Louis Durand, CEO, Durand's Market",
+          "subject": "Following up on our conversation"
+        },
+        "generatedAt": "2026-05-05T05:26:42.768Z",
+        "score": 35,
+        "analysis": "Hi,\n\nI've had time to reflect on our conversation, and I need to be honest—I'm concerned we didn't get to the diagnostic rigor I was hoping for. You asked good exploratory questions, but we never dug into what the actual numbers are telling us. Briarwood's 27% labor cost and 42% turnover versus Oakridge's 18% and 15% aren't just metrics—they're symptoms of deeper leadership and culture problems. Jumping to layout redesign feels premature when we haven't diagnosed why one manager builds teams that stay (28-month average tenure) and two others can't (6 and 9 months). \n\nI need help connecting the dots between people, systems, and results—not just identifying that gaps exist. Layout matters, but if Helen and Derek don't fundamentally shift how they lead, I'm not confident a floor redesign will move customer satisfaction from 68% and 74% to anywhere near Oakridge's 91%. Can we regroup with a sharper focus on root causes and priorities?\n\nBest,  \nLouis Durand  \nCEO, Durand's Market",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/option-0/1774888451910-Epilogue.webp",
+          "story": "Two years later... you pushed to standardize store layouts to mirror Oakridge’s warm “journey,” and Louis held alignment sessions with Derek and Helen. But the effort stayed surface-level—fixtures moved while leadership routines and service behaviors didn’t. Maplecrest’s tight grid still discouraged discovery, and Briarwood’s self-checkout warehouse feel remained cold. Traffic held, yet basket size, morale, and turnover lagged, leaving the gaps unresolved.",
+          "title": "Store Issues Persist",
+          "description": "The performance gaps at Durand's Market continue to widen as root causes go unaddressed."
+        }
+      },
+      "8ade7045-15d2-463a-985b-65b32458659c": {
+        "teamId": "8ade7045-15d2-463a-985b-65b32458659c",
+        "teamName": "SN",
+        "teamIcon": "⭐",
+        "chapterId": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/1773421683993-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "max": 10,
+          "lowLabel": "LOW",
+          "highLabel": "HIGH",
+          "mediumLabel": "MEDIUM",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": true,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Louis Durand, CEO, Durand's Market",
+          "subject": "Following up on our conversation"
+        },
+        "generatedAt": "2026-05-05T05:26:36.147Z",
+        "score": 55,
+        "analysis": "Hi,\n\nThanks for taking the time to dig into our store challenges. You clearly identified that leadership is driving our turnover problem, and I appreciate that you connected the dots between Derek's micromanagement style and Maplecrest's struggles. Your recommendation to invest in manager training is directionally right.\n\nThat said, I was hoping for more specificity. What *exact* leadership behaviors should we coach? Which store should I tackle first—Briarwood with 27% labor costs and 42% turnover, or Maplecrest? Your advice felt a bit general when I need a clear action sequence. Still, you've pointed me toward the real issue, and that's valuable.\n\nBest,  \nLouis Durand  \nCEO, Durand's Market",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/option-1/1774888464327-Epilogue-1.webp",
+          "story": "Two years later... you pushed Louis to train Derek and Helen in leadership, replacing write-ups for tiny delays with coaching, clearer expectations, and regular staff check-ins. Turnover eased, shrinking onboarding churn and overtime, and Briarwood’s service thawed enough to lift basket size. Yet labor discipline lagged and satisfaction gains plateaued, keeping margins uneven. Oakridge stayed steady while Maplecrest improved only incrementally—modest growth, not a breakthrough.",
+          "title": "Modest Growth",
+          "description": "Durand's Market makes some improvements but struggles to fully address the underlying issues."
+        }
+      },
+      "844e3134-3956-470d-a23c-e06e183956dd": {
+        "teamId": "844e3134-3956-470d-a23c-e06e183956dd",
+        "teamName": "Wa7sh",
+        "teamIcon": "🐲",
+        "chapterId": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/1773421683993-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "max": 10,
+          "lowLabel": "LOW",
+          "highLabel": "HIGH",
+          "mediumLabel": "MEDIUM",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": true,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Louis Durand, CEO, Durand's Market",
+          "subject": "Following up on our conversation"
+        },
+        "generatedAt": "2026-05-05T05:26:40.076Z",
+        "score": 54,
+        "analysis": "Hi,\n\nI've had time to reflect on our conversation and your recommendation. You're right that Briarwood's cultural and leadership issues are real problems—the 42% turnover and 68% satisfaction tell that story clearly. Pairing Helen with Clara makes sense directionally. That said, I felt your questions jumped around quite a bit rather than building a systematic diagnosis. We explored symptoms but didn't fully compare what's driving the gap between all three stores or why Briarwood should be the priority over Maplecrest's struggles. Your recommendation also needs more teeth: what exactly should Helen learn from Clara, over what timeline, and what should change as a result?\n\nI appreciate that you zeroed in on the people dimension—that's often where the real work is. I'd just encourage you to anchor more tightly in the data upfront, compare the full picture across stores, and then give me a recommendation I can act on Monday morning with confidence.\n\nBest,  \nLouis Durand  \nCEO, Durand's Market",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/option-1/1774888464327-Epilogue-1.webp",
+          "story": "Two years later... you paired Oakridge leaders with Helen Olson to mentor a shift from “all metrics, no care” toward steadier staffing and clearer kiosk coverage. Turnover eased, training hours fell, and self-checkout outages no longer froze the front end. Customer satisfaction in Briarwood inched up, lifting baskets modestly. Yet Maplecrest’s leadership gap and competitive pressure still dulled momentum, leaving Durand’s Market improved—but short of a breakthrough.",
+          "title": "Modest Growth",
+          "description": "Durand's Market makes some improvements but struggles to fully address the underlying issues."
+        }
+      },
+      "0f10cab5-9490-4331-88ec-38e9329128b8": {
+        "teamId": "0f10cab5-9490-4331-88ec-38e9329128b8",
+        "teamName": "Dynamic Duo",
+        "teamIcon": "⚡",
+        "chapterId": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/1773421683993-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "max": 10,
+          "lowLabel": "LOW",
+          "highLabel": "HIGH",
+          "mediumLabel": "MEDIUM",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": true,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Louis Durand, CEO, Durand's Market",
+          "subject": "Following up on our conversation"
+        },
+        "generatedAt": "2026-05-05T05:26:48.697Z",
+        "score": 62,
+        "analysis": "Hi,\n\nThanks for taking time to talk through the stores with me. I appreciate that you zeroed in on leadership and the Oakridge model—there's truth there. That said, I left our conversation wishing we'd dug deeper into *why* the numbers tell different stories. Maplecrest's 3.2% margin and $22.10 basket versus Briarwood's 27% labor cost and 68% satisfaction suggest different root causes, not just \"do what Clara does.\" \n\nYour recommendation to train both managers and redesign both layouts feels broad. I was hoping you'd help me sequence: which store first, which lever matters most, and what success looks like in 90 days. Let's regroup soon and sharpen the plan together.\n\nBest,  \nLouis Durand  \nCEO, Durand's Market",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/option-1/1774888464327-Epilogue-1.webp",
+          "story": "Two years later... you guided Durand’s Market to borrow Oakridge’s “human” formula—training Derek and Helen, refreshing layouts to invite browsing, and tightening coaching and recognition to curb churn. Maplecrest’s basket size edged up, and Briarwood’s service recoveries improved as self-checkout was balanced with staffed support. Yet inconsistent manager follow-through and uneven cultural adoption kept turnover elevated and margins uneven, delivering modest growth rather than a full turnaround.",
+          "title": "Modest Growth",
+          "description": "Durand's Market makes some improvements but struggles to fully address the underlying issues."
+        }
+      },
+      "2639406c-c937-4739-81fb-7aee13f6b77a": {
+        "teamId": "2639406c-c937-4739-81fb-7aee13f6b77a",
+        "teamName": "DREAM TEAM",
+        "teamIcon": "💫",
+        "chapterId": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/1773421683993-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "max": 10,
+          "lowLabel": "LOW",
+          "highLabel": "HIGH",
+          "mediumLabel": "MEDIUM",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": true,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Louis Durand, CEO, Durand's Market",
+          "subject": "Following up on our conversation"
+        },
+        "generatedAt": "2026-05-05T05:26:48.623Z",
+        "score": 63,
+        "analysis": "Hi,\n\nThanks for the conversation yesterday. I appreciate you zeroing in on employee wellbeing, the customer journey, and manager development—those are the right themes. Clara's leadership at Oakridge (91% satisfaction, 15% turnover) versus the struggles at Maplecrest and Briarwood really do tell the story, and your pilot approach feels practical.\n\nThat said, I was hoping you'd lead the diagnosis more actively. You agreed with most of my observations rather than challenging me with sharper prioritization or connecting the dots between the metrics—like why Briarwood's 27% labor cost and 42% turnover are bleeding margin, or how Maplecrest's $22.10 basket reflects a broken discovery experience. The path forward is solid, but I need you to help me choose *what not to do* as much as what to tackle first.\n\nLet's regroup in a week and tighten the plan.\n\nBest,  \nLouis Durand  \nCEO, Durand's Market",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-92f9af6f-71fb-4e35-8d62-fe09fc2f0351/option-1/1774888464327-Epilogue-1.webp",
+          "story": "Two years later... you had pushed employee wellbeing, manager shadowing at Oakridge, and a warmer customer journey in Maplecrest and Briarwood. HR rolled out buddy onboarding, pulse checks, and steadier schedules, while pilots added seasonal tables and staffed checkout lanes. Satisfaction and basket size inched up and labor costs eased, but inconsistent coaching and partial layout fixes kept turnover stubborn. Durand’s gained stability—yet never matched Oakridge’s spark.",
+          "title": "Modest Growth",
+          "description": "Durand's Market makes some improvements but struggles to fully address the underlying issues."
+        }
+      }
+    }
+  },
+  "chapter_timings": {
+    "92f9af6f-71fb-4e35-8d62-fe09fc2f0351": {
+      "started_at": "2026-05-05T05:01:50.551Z",
+      "ended_at": "2026-05-05T05:25:55.996Z"
+    }
+  },
+  "events": [
+    {
+      "id": "7fc01b5e-d9ea-4ad3-893b-cea13a830a74",
+      "chapter_id": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 1: Shelf Awareness has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-05T05:01:50.551Z",
+      "updated_at": "2026-05-05T05:01:50.551Z"
+    },
+    {
+      "id": "2fe83a35-4e7a-4a32-a205-2a3f7a916860",
+      "chapter_id": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams interview Louis to probe into different areas of his grocery business, which has uneven performance across three locations. Teams then recommend what Louis should focus on to improve performance across his three stores.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams explore the numbers side of the business?\n<li>Do teams explore the people side of the business? \n<li>Do any teams explore <b><i>both</b></i> the numbers <b><i>and</b></i> the people sides of the business?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-05T05:02:12.024Z",
+      "updated_at": "2026-05-05T05:02:12.028Z"
+    },
+    {
+      "id": "e5601385-ffec-48ff-a3af-0e1188a1b4d4",
+      "chapter_id": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-05T05:04:00.126Z",
+      "updated_at": "2026-05-05T05:04:00.134Z"
+    },
+    {
+      "id": "25077d16-8849-42f4-8cf3-1c1b7e033915",
+      "chapter_id": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to remind participants: <br><br>\n<i>Keep exploring! The more you ask Louis, the more he'll tell you.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-05T05:14:00.214Z",
+      "updated_at": "2026-05-05T05:14:00.225Z"
+    },
+    {
+      "id": "7a8856b8-590d-4945-b0ff-26bc55e548eb",
+      "chapter_id": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+      "type": "STARTING_MESSAGE",
+      "content": "Decision phase has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "decision_started"
+      },
+      "created_at": "2026-05-05T05:21:53.561Z",
+      "updated_at": "2026-05-05T05:21:53.561Z"
+    },
+    {
+      "id": "b0ccb611-cd84-41e7-b6d9-c385c71072f5",
+      "chapter_id": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Decision Time!</b> Teams must say what they think Louis should focus on next. Note that there is not a \"right\" answer. Instead, what teams see as a priority here probably says more about the teams than it does about Durand's Market.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-05T05:22:00.166Z",
+      "updated_at": "2026-05-05T05:22:00.172Z"
+    },
+    {
+      "id": "1b5b5c88-bdaa-4c48-8ab4-3a02523e696d",
+      "chapter_id": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-05T05:25:55.988Z",
+      "updated_at": "2026-05-05T05:25:55.988Z"
+    },
+    {
+      "id": "af7635b2-e2fd-4612-b3c2-bf35e166eba0",
+      "chapter_id": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 1 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-05T05:25:55.996Z",
+      "updated_at": "2026-05-05T05:25:55.996Z"
+    },
+    {
+      "id": "6bd98a8e-58eb-4f3c-a1ce-b444741e7007",
+      "chapter_id": "92f9af6f-71fb-4e35-8d62-fe09fc2f0351",
+      "type": "ENDING_MESSAGE",
+      "content": "Case completed — all chapters finished.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "case_completed"
+      },
+      "created_at": "2026-05-05T05:25:56.120Z",
+      "updated_at": "2026-05-05T05:25:56.120Z"
+    }
+  ]
+}

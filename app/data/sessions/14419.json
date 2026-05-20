@@ -1,0 +1,109 @@
+{
+  "session_arrow_id": 14419,
+  "session_cc_uuid": "fcb0a849-3446-44f4-b72f-462f7161d659",
+  "case_challenge": "Shifting Mindsets and Behaviors",
+  "case_challenge_id": "25b3ea0c-f5c9-46a8-9a8d-a8c9cd083572",
+  "viewed_chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+  "extracted_at": "2026-05-20T00:00:00.000Z",
+  "source_url": "https://rxo8.abilitie.com/facilitator/fcb0a849-3446-44f4-b72f-462f7161d659",
+  "tenant_dns": "rxo8.abilitie.com",
+  "chapters": [
+    {
+      "id": "82919bde-7e61-4994-8a41-e0266b38618c",
+      "title": "Chapter 1",
+      "order": 1,
+      "duration_min": 6,
+      "blocks": 1
+    },
+    {
+      "id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "title": "Chapter 2",
+      "order": 2,
+      "duration_min": 20,
+      "blocks": 0
+    },
+    {
+      "id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "title": "Chapter 3",
+      "order": 3,
+      "duration_min": 20,
+      "blocks": 0
+    }
+  ],
+  "teams": [
+    {
+      "id": "ab74bc44-9798-453a-b7c5-a107b291e7cb",
+      "name": "Group 1",
+      "icon": "📝",
+      "group_letter": "1"
+    },
+    {
+      "id": "619824fc-eb73-4c77-bb13-42792651cc2c",
+      "name": "Group 2",
+      "icon": "🧮",
+      "group_letter": "2"
+    },
+    {
+      "id": "6a4b8177-3c63-4ac4-8420-c39fe614ec7a",
+      "name": "Group 3",
+      "icon": "🗝️",
+      "group_letter": "3"
+    },
+    {
+      "id": "feffd1f8-90ec-4cc2-a6d8-5794162078e2",
+      "name": "Group 4",
+      "icon": "🗓️",
+      "group_letter": "4"
+    },
+    {
+      "id": "2ff43f2b-f994-48aa-bb03-9d092748b8dc",
+      "name": "Group 5",
+      "icon": "⏰",
+      "group_letter": "5"
+    },
+    {
+      "id": "9113be40-2ffc-423f-a520-513cae5ca529",
+      "name": "Group 6",
+      "icon": "🎲",
+      "group_letter": "6"
+    },
+    {
+      "id": "b4aa07da-406e-49af-b958-89b444e27e92",
+      "name": "Group 7",
+      "icon": "👬",
+      "group_letter": "7"
+    },
+    {
+      "id": "338df87e-b48a-4cb4-b3f2-c1936af5c8a3",
+      "name": "Group 8",
+      "icon": "🔐",
+      "group_letter": "8"
+    },
+    {
+      "id": "d520b0ec-d651-4cd9-8324-8bcdeba6b410",
+      "name": "Group 9",
+      "icon": "🛰️",
+      "group_letter": "9"
+    },
+    {
+      "id": "658b1451-9128-474a-88f8-6829a13736c4",
+      "name": "Group 10",
+      "icon": "🖲️",
+      "group_letter": "10"
+    }
+  ],
+  "team_results_for_viewed_chapter": {},
+  "team_results_by_chapter": {
+    "82919bde-7e61-4994-8a41-e0266b38618c": {},
+    "ad460970-2521-46ec-b8f1-a38b84ad2a0c": {},
+    "79f1e087-7861-439a-ad08-64f6b5700672": {}
+  },
+  "team_analyses_for_viewed_chapter": {},
+  "team_analyses_by_chapter": {
+    "82919bde-7e61-4994-8a41-e0266b38618c": {},
+    "ad460970-2521-46ec-b8f1-a38b84ad2a0c": {},
+    "79f1e087-7861-439a-ad08-64f6b5700672": {}
+  },
+  "chapter_timings": {},
+  "events": []
+}

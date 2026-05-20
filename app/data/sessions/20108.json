@@ -1,0 +1,1409 @@
+{
+  "session_arrow_id": 20108,
+  "session_cc_uuid": "77d9e89d-927f-447e-9a01-11f0faa35d6a",
+  "case_challenge": "Creating Strategic Alignment",
+  "case_challenge_id": "33c56395-c2f2-42df-b205-ae55957cf7aa",
+  "viewed_chapter_id": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+  "extracted_at": "2026-05-20T00:00:00.000Z",
+  "source_url": "https://openlawenrollment.abilitie.com/facilitator/77d9e89d-927f-447e-9a01-11f0faa35d6a",
+  "tenant_dns": "openlawenrollment.abilitie.com",
+  "chapters": [
+    {
+      "id": "1d91f2b3-2520-4c63-8150-76430f7a2303",
+      "title": "Chapter 1",
+      "order": 1,
+      "duration_min": 17,
+      "blocks": 0
+    },
+    {
+      "id": "cac0a96c-6187-4e9c-82d9-7c5cb3d99374",
+      "title": "Chapter 2",
+      "order": 2,
+      "duration_min": 17,
+      "blocks": 0
+    },
+    {
+      "id": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+      "title": "Chapter 3",
+      "order": 3,
+      "duration_min": 17,
+      "blocks": 0
+    }
+  ],
+  "teams": [
+    {
+      "id": "da6c8ac1-b059-40b2-9254-b11c24f26fc1",
+      "name": "Group 1",
+      "icon": "🌷",
+      "group_letter": "1"
+    },
+    {
+      "id": "7c434c33-23d8-436b-aa09-11d0f7a5f8f8",
+      "name": "Upper Echelon",
+      "icon": "🔝",
+      "group_letter": "3"
+    },
+    {
+      "id": "694da0ea-afdd-490e-9111-25129a69d2e2",
+      "name": "The Overpackers",
+      "icon": "🧳",
+      "group_letter": "6"
+    },
+    {
+      "id": "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc",
+      "name": "Strategic Synergy",
+      "icon": "🤝",
+      "group_letter": "5"
+    },
+    {
+      "id": "60c83467-0223-4098-a28c-dd89978af39b",
+      "name": "Suitcaseous",
+      "icon": "🧭",
+      "group_letter": "2"
+    },
+    {
+      "id": "e74d2042-7ff9-4649-9fce-391450262489",
+      "name": "Ropengineers",
+      "icon": "🛠️",
+      "group_letter": "7"
+    },
+    {
+      "id": "3d96295a-eee4-479b-9afe-e28a54f8d26d",
+      "name": "Onwards & Upwards",
+      "icon": "🏆",
+      "group_letter": "8"
+    },
+    {
+      "id": "20fad543-22c4-452b-9fc5-437e34763d99",
+      "name": "Group 4",
+      "icon": "⭐",
+      "group_letter": "4"
+    }
+  ],
+  "team_results_for_viewed_chapter": {
+    "da6c8ac1-b059-40b2-9254-b11c24f26fc1": {
+      "completed_block_count": 4,
+      "opened_block_count": 12,
+      "score": 96,
+      "narrative_outcome": "A Promising Direction"
+    },
+    "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": {
+      "completed_block_count": 3,
+      "opened_block_count": 13,
+      "score": 93,
+      "narrative_outcome": "A Promising Direction"
+    },
+    "694da0ea-afdd-490e-9111-25129a69d2e2": {
+      "completed_block_count": 3,
+      "opened_block_count": 12,
+      "score": 75,
+      "narrative_outcome": "A Bumpy Start"
+    },
+    "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": {
+      "completed_block_count": 4,
+      "opened_block_count": 12,
+      "score": 56,
+      "narrative_outcome": "A Bumpy Start"
+    },
+    "60c83467-0223-4098-a28c-dd89978af39b": {
+      "completed_block_count": 4,
+      "opened_block_count": 13,
+      "score": 95,
+      "narrative_outcome": "A Promising Direction"
+    },
+    "e74d2042-7ff9-4649-9fce-391450262489": {
+      "completed_block_count": 3,
+      "opened_block_count": 12,
+      "score": 95,
+      "narrative_outcome": "A Promising Direction"
+    },
+    "3d96295a-eee4-479b-9afe-e28a54f8d26d": {
+      "completed_block_count": 5,
+      "opened_block_count": 13,
+      "score": 52,
+      "narrative_outcome": "A Bumpy Start"
+    },
+    "20fad543-22c4-452b-9fc5-437e34763d99": {
+      "completed_block_count": 4,
+      "opened_block_count": 12,
+      "score": 90,
+      "narrative_outcome": "A Promising Direction"
+    }
+  },
+  "team_results_by_chapter": {
+    "1d91f2b3-2520-4c63-8150-76430f7a2303": {},
+    "cac0a96c-6187-4e9c-82d9-7c5cb3d99374": {},
+    "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8": {
+      "da6c8ac1-b059-40b2-9254-b11c24f26fc1": {
+        "completed_block_count": 4,
+        "opened_block_count": 12,
+        "score": 96,
+        "narrative_outcome": "A Promising Direction"
+      },
+      "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": {
+        "completed_block_count": 3,
+        "opened_block_count": 13,
+        "score": 93,
+        "narrative_outcome": "A Promising Direction"
+      },
+      "694da0ea-afdd-490e-9111-25129a69d2e2": {
+        "completed_block_count": 3,
+        "opened_block_count": 12,
+        "score": 75,
+        "narrative_outcome": "A Bumpy Start"
+      },
+      "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": {
+        "completed_block_count": 4,
+        "opened_block_count": 12,
+        "score": 56,
+        "narrative_outcome": "A Bumpy Start"
+      },
+      "60c83467-0223-4098-a28c-dd89978af39b": {
+        "completed_block_count": 4,
+        "opened_block_count": 13,
+        "score": 95,
+        "narrative_outcome": "A Promising Direction"
+      },
+      "e74d2042-7ff9-4649-9fce-391450262489": {
+        "completed_block_count": 3,
+        "opened_block_count": 12,
+        "score": 95,
+        "narrative_outcome": "A Promising Direction"
+      },
+      "3d96295a-eee4-479b-9afe-e28a54f8d26d": {
+        "completed_block_count": 5,
+        "opened_block_count": 13,
+        "score": 52,
+        "narrative_outcome": "A Bumpy Start"
+      },
+      "20fad543-22c4-452b-9fc5-437e34763d99": {
+        "completed_block_count": 4,
+        "opened_block_count": 12,
+        "score": 90,
+        "narrative_outcome": "A Promising Direction"
+      }
+    }
+  },
+  "team_analyses_for_viewed_chapter": {
+    "da6c8ac1-b059-40b2-9254-b11c24f26fc1": {
+      "teamId": "da6c8ac1-b059-40b2-9254-b11c24f26fc1",
+      "teamName": "Group 1",
+      "teamIcon": "🌷",
+      "chapterId": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/1770925226075-background_chapter3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Organizational Support",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+        "subject": "Following up on Echelon"
+      },
+      "generatedAt": "2026-05-06T17:24:01.076Z",
+      "score": 96,
+      "analysis": "Hi,\n\nJust reviewed your notes from the Echelon call—really well done. You guided the team to a clear, shared vision: adjacent travel as the near-term play, anchored by specific metrics (run-rate, returns, time-to-market) and a 6-month gate. That's exactly what Earl needed. Your questions helped them articulate their core competencies around molding and materials, plus how the \"composure system\" positioning can expand coherently. One stretch opportunity: you could lean in with stronger recommendations earlier, not just facilitate. But you got them aligned and actionable—excellent work.\n\nBest,  \nLindsay",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/option-3/1774537201761-epilogue-3__1_.webp",
+        "story": "Two months later, Echelon’s adjacent-travel push had shape: three hero SKUs—hard toiletry case, personal item, and tech case—built on shared latches, handles, and thin-wall molding. Kartik’s stage-gate locked two core factories and tightened QC to keep warranty risk in check, while Andrea launched the “composure system” framing across rituals like boarding and unpacking. Earl enforced run-rate, returns, and time-to-market targets, keeping a parallel non-travel bet in motion.",
+        "title": "A Promising Direction",
+        "description": "Echelon has created prototypes for a new product line, and the internal team is excited about it. "
+      }
+    },
+    "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": {
+      "teamId": "7c434c33-23d8-436b-aa09-11d0f7a5f8f8",
+      "teamName": "Upper Echelon",
+      "teamIcon": "🔝",
+      "chapterId": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/1770925226075-background_chapter3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Organizational Support",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+        "subject": "Following up on Echelon"
+      },
+      "generatedAt": "2026-05-06T17:24:04.836Z",
+      "score": 93,
+      "analysis": "Hi,\n\nJust reviewed your Echelon notes—really strong work. You facilitated beautifully, drawing out each executive's perspective and weaving them into a cohesive strategy. I especially appreciated how you kept the team grounded in their core competencies (engineered protection, quality systems) while helping them think through brand positioning challenges. Asking Andrea directly about maintaining \"composed\" identity was smart, and you responded well when Earl pushed on revenue scale—guiding them to backpacks as the anchor without forcing it. The team left aligned on vision, sequencing, and next steps. Well done.\n\nBest,\nLindsay",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/option-3/1774537201761-epilogue-3__1_.webp",
+        "story": "Two months later... you returned to Echelon’s studio to find a single, iconic commuter backpack prototype anchoring the “composed mobility” line. Earl aligned leadership on backpacks as the scale pillar, while Andrea codified “quiet architecture” in materials, silhouette, and restrained branding. Kartik drove shell-versus-exoskeleton trials, supplier onboarding, and new abrasion and hardware life-cycle QC gates. The result: launch-ready confidence and clear sequencing into tech, wellness, and parent cases.",
+        "title": "A Promising Direction",
+        "description": "Echelon has created prototypes for a new product line, and the internal team is excited about it. "
+      }
+    },
+    "694da0ea-afdd-490e-9111-25129a69d2e2": {
+      "teamId": "694da0ea-afdd-490e-9111-25129a69d2e2",
+      "teamName": "The Overpackers",
+      "teamIcon": "🧳",
+      "chapterId": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/1770925226075-background_chapter3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Organizational Support",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+        "subject": "Following up on Echelon"
+      },
+      "generatedAt": "2026-05-06T17:23:54.687Z",
+      "score": 75,
+      "analysis": "Hi,\n\nI reviewed your notes from the Echelon call—nice work navigating a tough room. You showed real responsiveness when Kartik pushed back on SKU sprawl, and pivoting to the modular platform was smart. You clearly understood their core competencies (hard-shell, polymers, hardware) and kept the recommendation aligned with \"travel composure\" rather than wandering into unfamiliar territory.\n\nThe one gap: Andrea's final question about the customer promise went unanswered. You had them leaning in, but didn't close with a crisp articulation of *why* this makes Echelon the definitive brand for organized travel. Next time, anchor your pivot with that promise statement early—it'll make the whole conversation feel inevitable rather than reactive. Solid foundation to build on.\n\nBest,\nLindsay",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/option-3/1774537175851-epilogue_2__1_.webp",
+        "story": "Two months later, you return to find Echelon’s modular hard-shell tech case on the prototype table, built from the same polymers, textures, and hardware language as the luggage line. Operations pushes a single platform with swappable interiors to avoid SKU sprawl, while Marketing argues over whether the promise is “calm control for travel” or broader daily carry. The team greenlights a limited launch, but alignment wavers and forecasts stay contested.",
+        "title": "A Bumpy Start",
+        "description": "Echelon has created prototypes for a new product line, but there is internal disagreement about whether it will be successful."
+      }
+    },
+    "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": {
+      "teamId": "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc",
+      "teamName": "Strategic Synergy",
+      "teamIcon": "🤝",
+      "chapterId": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/1770925226075-background_chapter3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Organizational Support",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+        "subject": "Following up on Echelon"
+      },
+      "generatedAt": "2026-05-06T17:24:03.781Z",
+      "score": 56,
+      "analysis": "Hi,\n\nI reviewed your notes from the Echelon call. I appreciate that you engaged with the team and explored the accessories direction, but I want to be direct: at a 56, this fell short of the strategic leadership Earl needed. You shifted between day bags, duffels, and accessories without anchoring to a clear vision, and when the executives pressed you on specifics—which stress moments you'd solve, how you'd double revenue, operational trade-offs—the responses stayed surface-level. They were asking you to lead, and you were still exploring.\n\nFor next time: come in with a specific recommendation tied to their core competencies and backed by clear logic on how it scales. When you're challenged, dig deeper rather than pivot. You've got the instincts—now build the conviction.\n\nBest,  \nLindsay",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/option-3/1774537175851-epilogue_2__1_.webp",
+        "story": "Two months later... you watched Echelon race from “calm confidence” rhetoric to prototypes: molded tech organizers, spill-proof toiletry kits, and a luggage refresh designed as a platform. Kartik pushed durability testing and supplier audits; Andrea demanded a cohesive travel-system story and clear stress moments solved; Earl kept pressing for a path to doubling revenue. The line showed promise, but debates over ecosystem scale versus incremental add-ons slowed final alignment and launch timing.",
+        "title": "A Bumpy Start",
+        "description": "Echelon has created prototypes for a new product line, but there is internal disagreement about whether it will be successful."
+      }
+    },
+    "60c83467-0223-4098-a28c-dd89978af39b": {
+      "teamId": "60c83467-0223-4098-a28c-dd89978af39b",
+      "teamName": "Suitcaseous",
+      "teamIcon": "🧭",
+      "chapterId": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/1770925226075-background_chapter3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Organizational Support",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+        "subject": "Following up on Echelon"
+      },
+      "generatedAt": "2026-05-06T17:23:53.582Z",
+      "score": 95,
+      "analysis": "Hi,\n\nJust reviewed your notes from the Echelon call—really impressive work. You successfully navigated the team from open exploration to clear alignment on personal storage as Horizon 1, and you did it by grounding the conversation in both their core competencies (polymer advantage, QC) and brand positioning (travel-first confidence). Your pivot from structural transport showed good judgment: you read the room, understood Earl's identity concerns, and steered toward the path that doubles revenue without diluting the brand. The team left energized and aligned, which is exactly what we needed. Well done.\n\nBest,\nLindsay",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/option-3/1774537201761-epilogue-3__1_.webp",
+        "story": "Two months later... you watched Echelon move fast on “premium travel storage” as a Horizon 1 bet. Kartik’s team translated polymer performance and thin-wall molding into modular organizers and trunk inserts, keeping SKUs tight and QC simple. Andrea built the “trusted to protect what matters” narrative without diluting calm travel confidence. Earl greenlit a focused first-year scope and a clean channel test, aligning leaders behind a scalable launch.",
+        "title": "A Promising Direction",
+        "description": "Echelon has created prototypes for a new product line, and the internal team is excited about it. "
+      }
+    },
+    "e74d2042-7ff9-4649-9fce-391450262489": {
+      "teamId": "e74d2042-7ff9-4649-9fce-391450262489",
+      "teamName": "Ropengineers",
+      "teamIcon": "🛠️",
+      "chapterId": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/1770925226075-background_chapter3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Organizational Support",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+        "subject": "Following up on Echelon"
+      },
+      "generatedAt": "2026-05-06T17:24:02.667Z",
+      "score": 95,
+      "analysis": "Hi,\n\nJust reviewed your notes—really impressive work! You navigated a tough room beautifully. After that rocky start with the scrap-resale idea, you listened carefully, adapted quickly, and by the end had all three executives genuinely aligned around a premium closed-loop tier and selective corporate strategy. Your understanding of their brand positioning (performance without guilt, invitation-only) and core manufacturing competencies came through clearly. One coaching note: next time, come in with a sharper initial thesis so you're leading the discussion from the start, not finding it together. But this was a strategic win—well done!\n\nBest,  \nLindsay",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/option-3/1774537201761-epilogue-3__1_.webp",
+        "story": "Two months later... Echelon’s leaders rallied around a premium closed-loop luggage tier, keeping performance and finish as the headline and sustainability as proof of excellence. You helped translate the idea into a pilot plan: selective corporate travel partners, dedicated SKUs, and tight QA with end-to-end traceability. Prototypes cleared cosmetic and impact bars, and take-back logistics were scoped for a 6–9 month launch window, maintaining luxury while opening a credible growth wedge.",
+        "title": "A Promising Direction",
+        "description": "Echelon has created prototypes for a new product line, and the internal team is excited about it. "
+      }
+    },
+    "3d96295a-eee4-479b-9afe-e28a54f8d26d": {
+      "teamId": "3d96295a-eee4-479b-9afe-e28a54f8d26d",
+      "teamName": "Onwards & Upwards",
+      "teamIcon": "🏆",
+      "chapterId": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/1770925226075-background_chapter3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Organizational Support",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+        "subject": "Following up on Echelon"
+      },
+      "generatedAt": "2026-05-06T17:24:06.802Z",
+      "score": 52,
+      "analysis": "Hi,\n\nI reviewed your notes from the Echelon call. I appreciate that you engaged with the team and showed good instincts about leveraging brand reputation and phasing the rollout. However, the conversation revealed a key gap: you didn't arrive with a crisp, specific recommendation. When Earl and Kartik pressed for clarity—hero product, operational implications, what \"winning\" looks like—your answers remained vague, and the call ended with them still confused about what you were actually proposing.\n\nFor next time: prepare a clear point of view before you walk in. The executives want to react to something concrete, not build the strategy with you in real time. You're close—just need sharper preparation.\n\nBest,\nLindsay",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/option-3/1774537175851-epilogue_2__1_.webp",
+        "story": "Two months later, you delivered early prototypes for a hard-case travel system built around “protection without fuss”—vanity and tech modules designed to pair with Echelon’s suitcases. Kartik pushed to stay in thin-wall, scuff-resistant strengths, while Andrea argued the hero line needed a clearer promise than “another luggage set.” Earl demanded new-customer pull, not accessories. The team moved forward, but mismatched definitions of the hero product stalled launch planning.",
+        "title": "A Bumpy Start",
+        "description": "Echelon has created prototypes for a new product line, but there is internal disagreement about whether it will be successful."
+      }
+    },
+    "20fad543-22c4-452b-9fc5-437e34763d99": {
+      "teamId": "20fad543-22c4-452b-9fc5-437e34763d99",
+      "teamName": "Group 4",
+      "teamIcon": "⭐",
+      "chapterId": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/1770925226075-background_chapter3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Organizational Support",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+        "subject": "Following up on Echelon"
+      },
+      "generatedAt": "2026-05-06T17:23:59.487Z",
+      "score": 90,
+      "analysis": "Hi,\n\nJust reviewed your notes from the Echelon pitch—really impressive work navigating three skeptical executives with different priorities. You landed them on a concrete wedge (imaging subsystems via OEM partnerships) that leverages their core protection capabilities while respecting brand boundaries. The Induron framing was smart. \n\nOne thought: next time, come in with that level of specificity from the start. You had to iterate through \"untapped market\" and \"no competition\" before Earl felt conviction. But you listened well, adapted quickly, and ultimately got everyone aligned around a real bet. Strong performance.\n\nBest,\nLindsay",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/option-3/1774537201761-epilogue-3__1_.webp",
+        "story": "Two months later... Echelon’s leaders rallied around imaging subsystems as the wedge, pursuing a handful of high-value OEM shipping programs instead of diffuse hospital sales. You helped translate “trusted protection” into requirements: lightweight polymer shells, validated drop testing, custom foam, and traceability. Andrea advanced a separate Induron brand to preserve travel equity, while Kartik kept operations tight by reusing core molds. Early prototypes impressed OEM evaluators, and the pipeline signaled scalable growth.",
+        "title": "A Promising Direction",
+        "description": "Echelon has created prototypes for a new product line, and the internal team is excited about it. "
+      }
+    }
+  },
+  "team_analyses_by_chapter": {
+    "1d91f2b3-2520-4c63-8150-76430f7a2303": {
+      "da6c8ac1-b059-40b2-9254-b11c24f26fc1": {
+        "teamId": "da6c8ac1-b059-40b2-9254-b11c24f26fc1",
+        "teamName": "Group 1",
+        "teamIcon": "🌷",
+        "chapterId": "1d91f2b3-2520-4c63-8150-76430f7a2303",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-1d91f2b3-2520-4c63-8150-76430f7a2303/1775155828311-chapter-1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "max": 10,
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+          "subject": "Core Competencies"
+        },
+        "generatedAt": "2026-05-06T16:38:24.457Z",
+        "score": 68,
+        "analysis": "Hi,\n\nI just reviewed your call notes and your list of core competencies. \n\nNice work asking follow-ups about competitive advantage and financial impact—you pressed on whether competitors could replicate their materials, which is exactly the kind of validation we need. That said, \"durable plastics\" is too narrow. Kartik gave you a goldmine: process control, tooling expertise, manufacturing partnerships, the Cordon's relationship, thin-wall molding capabilities. These are all competencies that could unlock new markets. Also, you didn't explore patents, employee skills, R&D, or design capabilities—dig into those areas next time.\n\nOur next step is to review how Echelon is perceived in the marketplace.\n\nBest,\nLindsay",
+        "narrativeImpact": null
+      },
+      "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": {
+        "teamId": "7c434c33-23d8-436b-aa09-11d0f7a5f8f8",
+        "teamName": "Upper Echelon",
+        "teamIcon": "🔝",
+        "chapterId": "1d91f2b3-2520-4c63-8150-76430f7a2303",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-1d91f2b3-2520-4c63-8150-76430f7a2303/1775155828311-chapter-1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "max": 10,
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+          "subject": "Core Competencies"
+        },
+        "generatedAt": "2026-05-06T16:38:30.420Z",
+        "score": 70,
+        "analysis": "Hi,\n\nI just reviewed your call notes and your list of core competencies. \n\nYou were professional with Kartik and gathered solid information about Echelon's channels and operations. However, I think you left some value on the table—Kartik literally told you their secret sauce is in polymer formulation, thin-wall molding, structural design, and rigorous QC, but your competency list landed on \"focused product line\" and \"product quality.\" Those are outcomes, not the underlying capabilities that will help us identify adjacent markets. Next time, press deeper on what makes those competencies defensible and transferable. You're on the right track, though!\n\nOur next step is to review how Echelon is perceived in the marketplace.\n\nBest,  \nLindsay",
+        "narrativeImpact": null
+      },
+      "694da0ea-afdd-490e-9111-25129a69d2e2": {
+        "teamId": "694da0ea-afdd-490e-9111-25129a69d2e2",
+        "teamName": "The Overpackers",
+        "teamIcon": "🧳",
+        "chapterId": "1d91f2b3-2520-4c63-8150-76430f7a2303",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-1d91f2b3-2520-4c63-8150-76430f7a2303/1775155828311-chapter-1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "max": 10,
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+          "subject": "Core Competencies"
+        },
+        "generatedAt": "2026-05-06T16:38:29.743Z",
+        "score": 75,
+        "analysis": "Hi,\n\nI just reviewed your call notes and your list of core competencies. \n\nNice work building rapport with Kartik and exploring the medical device opportunity—you asked smart strategic questions. However, your core competency list misses the mark. \"Increase Revenue/Decrease Costs\" is an outcome, not a competency, and \"Quality\" is too vague. Kartik handed you gold: polymer formulation, thin-wall molding, disciplined QC systems. Those are the real differentiators. You got him talking but didn't capture what makes Echelon hard to copy. Next time, listen for the technical and operational capabilities that competitors can't easily replicate.\n\nOur next step is to review how Echelon is perceived in the marketplace.\n\nBest,\nLindsay",
+        "narrativeImpact": null
+      },
+      "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": {
+        "teamId": "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc",
+        "teamName": "Strategic Synergy",
+        "teamIcon": "🤝",
+        "chapterId": "1d91f2b3-2520-4c63-8150-76430f7a2303",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-1d91f2b3-2520-4c63-8150-76430f7a2303/1775155828311-chapter-1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "max": 10,
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+          "subject": "Core Competencies"
+        },
+        "generatedAt": "2026-05-06T16:38:43.703Z",
+        "score": 87,
+        "analysis": "Hi,\n\nI just reviewed your call notes and your list of core competencies. \n\nNice work! You asked a really strong question about competitive replication—that gave us valuable insight into their manufacturing edge. Your list captures some key themes, though \"innovation\" and \"company culture\" feel a bit broad for our purposes. I'd love to have seen you dig into their retail partnerships, supply chain advantages, IP/patents, or design capabilities—those could unlock different product categories. Also, next time try probing whether these competencies actually drive revenue or could translate to adjacent markets. But solid foundation—you got Kartik talking about what makes them special.\n\nOur next step is to review how Echelon is perceived in the marketplace.\n\nBest,\nLindsay",
+        "narrativeImpact": null
+      },
+      "60c83467-0223-4098-a28c-dd89978af39b": {
+        "teamId": "60c83467-0223-4098-a28c-dd89978af39b",
+        "teamName": "Suitcaseous",
+        "teamIcon": "🧭",
+        "chapterId": "1d91f2b3-2520-4c63-8150-76430f7a2303",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-1d91f2b3-2520-4c63-8150-76430f7a2303/1775155828311-chapter-1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "max": 10,
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+          "subject": "Core Competencies"
+        },
+        "generatedAt": "2026-05-06T16:38:33.080Z",
+        "score": 80,
+        "analysis": "Hi,\n\nI just reviewed your call notes and your list of core competencies.\n\nNice work staying professional and getting Kartik to open up about operations and market positioning. Your list captures some important strengths. For next time, push deeper on what makes them *uniquely* hard to replicate—you touched on molding expertise but could have probed their R&D process, design capabilities, or employee skill sets more. Also, test whether each competency truly drives financial results or unlocks new markets with a follow-up question or two. But solid foundation—80 is good progress.\n\nOur next step is to review how Echelon is perceived in the marketplace.\n\nBest,\nLindsay",
+        "narrativeImpact": null
+      },
+      "e74d2042-7ff9-4649-9fce-391450262489": {
+        "teamId": "e74d2042-7ff9-4649-9fce-391450262489",
+        "teamName": "Ropengineers",
+        "teamIcon": "🛠️",
+        "chapterId": "1d91f2b3-2520-4c63-8150-76430f7a2303",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-1d91f2b3-2520-4c63-8150-76430f7a2303/1775155828311-chapter-1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "max": 10,
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+          "subject": "Core Competencies"
+        },
+        "generatedAt": "2026-05-06T16:38:35.643Z",
+        "score": 58,
+        "analysis": "Hi,\n\nI just reviewed your call notes and your list of core competencies. \n\nYou did solid work asking Kartik about operations and innovation—good detail there. The issue is that your final list misses what Kartik spent most of the call explaining: Echelon's **manufacturing excellence** (injection molding, polymer formulation, quality control). That's their real competitive moat, not just \"product design.\" Also, you pivoted to solutions (three colors, engineers) before fully exploring whether their competencies are defensible or could unlock adjacent markets. Next time, stay in discovery mode longer and probe what makes capabilities hard to replicate.\n\nOur next step is to review how Echelon is perceived in the marketplace.\n\nBest,  \nLindsay",
+        "narrativeImpact": null
+      },
+      "3d96295a-eee4-479b-9afe-e28a54f8d26d": {
+        "teamId": "3d96295a-eee4-479b-9afe-e28a54f8d26d",
+        "teamName": "Onwards & Upwards",
+        "teamIcon": "🏆",
+        "chapterId": "1d91f2b3-2520-4c63-8150-76430f7a2303",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-1d91f2b3-2520-4c63-8150-76430f7a2303/1775155828311-chapter-1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "max": 10,
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+          "subject": "Core Competencies"
+        },
+        "generatedAt": "2026-05-06T16:38:32.397Z",
+        "score": 100,
+        "analysis": "Hi,\n\nI just reviewed your call notes and your list of core competencies. \n\nReally strong work here! You systematically tested each capability against our framework—asking about financial impact, competitive moat, and market entry potential—and that discipline paid off. The three competencies you identified are specific, defensible, and clearly tied to what makes Echelon differentiated. Your follow-ups on Cordon's and the retail footprint were smart too; understanding those partnerships will matter as we evaluate adjacencies. Nice job staying structured while keeping Kartik engaged.\n\nOur next step is to review how Echelon is perceived in the marketplace.\n\nBest,\nLindsay",
+        "narrativeImpact": null
+      },
+      "20fad543-22c4-452b-9fc5-437e34763d99": {
+        "teamId": "20fad543-22c4-452b-9fc5-437e34763d99",
+        "teamName": "Group 4",
+        "teamIcon": "⭐",
+        "chapterId": "1d91f2b3-2520-4c63-8150-76430f7a2303",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-1d91f2b3-2520-4c63-8150-76430f7a2303/1775155828311-chapter-1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": {
+          "max": 10,
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+          "subject": "Core Competencies"
+        },
+        "generatedAt": "2026-05-06T16:38:27.837Z",
+        "score": 85,
+        "analysis": "Hi,\n\nI just reviewed your call notes and your list of core competencies. \n\nNice work—you were professional throughout and asked smart questions that surfaced their materials expertise, manufacturing discipline, and supply chain strengths. I especially liked how you pushed into B2B opportunities and margin economics. That said, you left some runway on the table: we didn't hear much about patents, unique employee capabilities, or their R&D/design functions, which could reveal additional defendable advantages. Still, you've given us a solid foundation to build on.\n\nOur next step is to review how Echelon is perceived in the marketplace.\n\nBest,\nLindsay",
+        "narrativeImpact": null
+      }
+    },
+    "cac0a96c-6187-4e9c-82d9-7c5cb3d99374": {
+      "da6c8ac1-b059-40b2-9254-b11c24f26fc1": {
+        "teamId": "da6c8ac1-b059-40b2-9254-b11c24f26fc1",
+        "teamName": "Group 1",
+        "teamIcon": "🌷",
+        "chapterId": "cac0a96c-6187-4e9c-82d9-7c5cb3d99374",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-cac0a96c-6187-4e9c-82d9-7c5cb3d99374/1775069766390-Chapter_2.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+          "subject": "Brand Positioning"
+        },
+        "generatedAt": "2026-05-06T17:00:36.277Z",
+        "score": 88,
+        "analysis": "Hi,\n\nJust reviewed your notes and brand positioning—really strong work. You covered all the essential ground with Andrea: target audience, competitive set, value proposition, and how they deliver on the promise. Your positioning statement captures Echelon's essence beautifully and will be incredibly useful as we move into product ideation.\n\nOne small note: in future client conversations, don't be afraid to dig a bit deeper with follow-up questions when something interesting surfaces. Andrea gave you rich material—probing further on tradeoffs or tensions could uncover even more strategic insights.\n\nThat said, this is excellent progress. You're clearly building the right foundation for our recommendation.\n\nI look forward to seeing how you pull all of this together.\n\nBest,\nLindsay",
+        "narrativeImpact": null
+      },
+      "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": {
+        "teamId": "7c434c33-23d8-436b-aa09-11d0f7a5f8f8",
+        "teamName": "Upper Echelon",
+        "teamIcon": "🔝",
+        "chapterId": "cac0a96c-6187-4e9c-82d9-7c5cb3d99374",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-cac0a96c-6187-4e9c-82d9-7c5cb3d99374/1775069766390-Chapter_2.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+          "subject": "Brand Positioning"
+        },
+        "generatedAt": "2026-05-06T17:00:46.447Z",
+        "score": 88,
+        "analysis": "Hi,\n\nJust reviewed your notes from the Andrea call—really excellent work. You asked thoughtful follow-ups that got beneath the surface (loved how you pressed on the initial purchase driver vs. emotional loyalty), and you methodically covered audience, competitive set, and proof points. Your positioning statement captures the emotional core beautifully and that tagline is perfect.\n\nIf I'm being picky, you could have pushed slightly harder on *who* the target traveler is beyond behavior (demographics? psychographics?), but honestly, this is strong strategic work. You clearly earned that 88.\n\nI look forward to seeing how you pull all of this together.\n\nBest,\nLindsay",
+        "narrativeImpact": null
+      },
+      "694da0ea-afdd-490e-9111-25129a69d2e2": {
+        "teamId": "694da0ea-afdd-490e-9111-25129a69d2e2",
+        "teamName": "The Overpackers",
+        "teamIcon": "🧳",
+        "chapterId": "cac0a96c-6187-4e9c-82d9-7c5cb3d99374",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-cac0a96c-6187-4e9c-82d9-7c5cb3d99374/1775069766390-Chapter_2.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+          "subject": "Brand Positioning"
+        },
+        "generatedAt": "2026-05-06T17:00:32.266Z",
+        "score": 91,
+        "analysis": "Hi,\n\nJust reviewed your notes from the Andrea call—really strong work. You asked smart, probing questions that hit all the right areas: target customer, competitive set, value prop, and those brand guardrails. I especially liked how you followed up on nuances (the logo recognition question, the \"marketing nos,\" how they'll bring in younger customers without losing the core identity).\n\nYour positioning statement captures the essence—calm confidence, intentional design, premium without flash—but it feels a bit unfinished. Tighten it into one clear narrative before we move forward.\n\nOverall, excellent instincts. You're setting us up well for the product ideation phase.\n\nI look forward to seeing how you pull all of this together.\n\nBest,\nLindsay",
+        "narrativeImpact": null
+      },
+      "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": {
+        "teamId": "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc",
+        "teamName": "Strategic Synergy",
+        "teamIcon": "🤝",
+        "chapterId": "cac0a96c-6187-4e9c-82d9-7c5cb3d99374",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-cac0a96c-6187-4e9c-82d9-7c5cb3d99374/1775069766390-Chapter_2.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+          "subject": "Brand Positioning"
+        },
+        "generatedAt": "2026-05-06T17:00:52.009Z",
+        "score": 95,
+        "analysis": "Hi,\n\nJust reviewed your Andrea conversation—really impressive work. You asked smart follow-up questions (especially the probing on \"sets\" vs. core brand promise) and showed great instincts on when to push deeper vs. when to synthesize. The positioning statement you landed on is tight and actionable: it captures the emotional payoff (\"calm, confident travel\"), anchors the functional benefits, and that tagline is perfect. You clearly listened well and knew when to challenge assumptions. This gives us exactly what we need to start ideating on adjacent product categories.\n\nI look forward to seeing how you pull all of this together.\n\nBest,\nLindsay",
+        "narrativeImpact": null
+      },
+      "60c83467-0223-4098-a28c-dd89978af39b": {
+        "teamId": "60c83467-0223-4098-a28c-dd89978af39b",
+        "teamName": "Suitcaseous",
+        "teamIcon": "🧭",
+        "chapterId": "cac0a96c-6187-4e9c-82d9-7c5cb3d99374",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-cac0a96c-6187-4e9c-82d9-7c5cb3d99374/1775069766390-Chapter_2.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+          "subject": "Brand Positioning"
+        },
+        "generatedAt": "2026-05-06T17:00:31.273Z",
+        "score": 72,
+        "analysis": "Hi,\n\nNice work covering the fundamentals—you hit all the key topics (audience, competition, value prop, and proof points) and kept things professional. Andrea gave you rich material to work with.\n\nThat said, I noticed you didn't ask any follow-ups to dig deeper. When she mentioned competing on \"trust and taste\" or that viral baggage-handler video, those were chances to understand what really differentiates Echelon. Your brand positioning captures the worry-free promise, but it's missing the specific target (that 35-65 affluent traveler) and feels a bit generic. \"World's leading\" is also a claim we'd need to validate. Try to make positioning statements more precise and strategic—they should guide product decisions, not just sound good.\n\nYou're on the right track. Just push yourself to probe more and translate insights into sharper strategic statements.\n\nI look forward to seeing how you pull all of this together.\n\nBest,\nLindsay",
+        "narrativeImpact": null
+      },
+      "e74d2042-7ff9-4649-9fce-391450262489": {
+        "teamId": "e74d2042-7ff9-4649-9fce-391450262489",
+        "teamName": "Ropengineers",
+        "teamIcon": "🛠️",
+        "chapterId": "cac0a96c-6187-4e9c-82d9-7c5cb3d99374",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-cac0a96c-6187-4e9c-82d9-7c5cb3d99374/1775069766390-Chapter_2.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+          "subject": "Brand Positioning"
+        },
+        "generatedAt": "2026-05-06T17:00:34.884Z",
+        "score": 45,
+        "analysis": "Hi,\n\nI reviewed your notes from the Andrea call. You were courteous throughout, which matters. That said, I need you to push deeper next time. Your questions were quite generic—Andrea gave you gold about \"earned equity\" and cultural fluency, but you didn't follow up to understand what those mean for expansion constraints. And your brand positioning statement is incomplete; it doesn't clearly define who we're targeting, what category we're in, or why customers should believe the promise. \n\nBefore our next client interaction, let's talk through how to ask layered questions and structure a positioning framework. You're building the foundation for our product recommendations—it needs to be crisp and complete.\n\nI look forward to seeing how you pull all of this together.\n\nBest,\nLindsay",
+        "narrativeImpact": null
+      },
+      "3d96295a-eee4-479b-9afe-e28a54f8d26d": {
+        "teamId": "3d96295a-eee4-479b-9afe-e28a54f8d26d",
+        "teamName": "Onwards & Upwards",
+        "teamIcon": "🏆",
+        "chapterId": "cac0a96c-6187-4e9c-82d9-7c5cb3d99374",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-cac0a96c-6187-4e9c-82d9-7c5cb3d99374/1775069766390-Chapter_2.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+          "subject": "Brand Positioning"
+        },
+        "generatedAt": "2026-05-06T17:00:44.698Z",
+        "score": 98,
+        "analysis": "Hi,\n\nJust finished reviewing your notes from the Andrea call—really excellent work. You were professional throughout, asked smart follow-ups (the theft question was interesting, and I liked how you pushed on B2B vs. premium positioning), and you clearly surfaced the key brand dimensions: target customer mindset, premium category positioning, emotional value prop, and quality credentials. \n\nMost importantly, you didn't settle on your first draft of the brand statement—you listened and iterated with Andrea until you landed something crisp and flexible: \"Worry-free travel, beautifully built.\" That's going to be incredibly useful as we move into product ideation.\n\nI look forward to seeing how you pull all of this together.\n\nBest,\nLindsay",
+        "narrativeImpact": null
+      },
+      "20fad543-22c4-452b-9fc5-437e34763d99": {
+        "teamId": "20fad543-22c4-452b-9fc5-437e34763d99",
+        "teamName": "Group 4",
+        "teamIcon": "⭐",
+        "chapterId": "cac0a96c-6187-4e9c-82d9-7c5cb3d99374",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-cac0a96c-6187-4e9c-82d9-7c5cb3d99374/1775069766390-Chapter_2.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+          "subject": "Brand Positioning"
+        },
+        "generatedAt": "2026-05-06T17:00:41.902Z",
+        "score": 95,
+        "analysis": "Hi,\n\nJust reviewed your Andrea call notes—really strong work here. You were professional, asked excellent follow-ups (loved the \"protection\" angle you teased out), and clearly surfaced the core brand elements: who they serve, what makes them different, and why customers believe them. Your positioning statement captures \"composure you can carry\" beautifully and gives us a clear foundation for product expansion thinking. One tiny note: the \"custom hard-polymer\" phrasing locks us into luggage specs—might keep it a bit more flexible since we're looking beyond that category. But honestly, this is very solid strategic work.\n\nI look forward to seeing how you pull all of this together.\n\nBest,\nLindsay",
+        "narrativeImpact": null
+      }
+    },
+    "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8": {
+      "da6c8ac1-b059-40b2-9254-b11c24f26fc1": {
+        "teamId": "da6c8ac1-b059-40b2-9254-b11c24f26fc1",
+        "teamName": "Group 1",
+        "teamIcon": "🌷",
+        "chapterId": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/1770925226075-background_chapter3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Organizational Support",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+          "subject": "Following up on Echelon"
+        },
+        "generatedAt": "2026-05-06T17:24:01.076Z",
+        "score": 96,
+        "analysis": "Hi,\n\nJust reviewed your notes from the Echelon call—really well done. You guided the team to a clear, shared vision: adjacent travel as the near-term play, anchored by specific metrics (run-rate, returns, time-to-market) and a 6-month gate. That's exactly what Earl needed. Your questions helped them articulate their core competencies around molding and materials, plus how the \"composure system\" positioning can expand coherently. One stretch opportunity: you could lean in with stronger recommendations earlier, not just facilitate. But you got them aligned and actionable—excellent work.\n\nBest,  \nLindsay",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/option-3/1774537201761-epilogue-3__1_.webp",
+          "story": "Two months later, Echelon’s adjacent-travel push had shape: three hero SKUs—hard toiletry case, personal item, and tech case—built on shared latches, handles, and thin-wall molding. Kartik’s stage-gate locked two core factories and tightened QC to keep warranty risk in check, while Andrea launched the “composure system” framing across rituals like boarding and unpacking. Earl enforced run-rate, returns, and time-to-market targets, keeping a parallel non-travel bet in motion.",
+          "title": "A Promising Direction",
+          "description": "Echelon has created prototypes for a new product line, and the internal team is excited about it. "
+        }
+      },
+      "7c434c33-23d8-436b-aa09-11d0f7a5f8f8": {
+        "teamId": "7c434c33-23d8-436b-aa09-11d0f7a5f8f8",
+        "teamName": "Upper Echelon",
+        "teamIcon": "🔝",
+        "chapterId": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/1770925226075-background_chapter3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Organizational Support",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+          "subject": "Following up on Echelon"
+        },
+        "generatedAt": "2026-05-06T17:24:04.836Z",
+        "score": 93,
+        "analysis": "Hi,\n\nJust reviewed your Echelon notes—really strong work. You facilitated beautifully, drawing out each executive's perspective and weaving them into a cohesive strategy. I especially appreciated how you kept the team grounded in their core competencies (engineered protection, quality systems) while helping them think through brand positioning challenges. Asking Andrea directly about maintaining \"composed\" identity was smart, and you responded well when Earl pushed on revenue scale—guiding them to backpacks as the anchor without forcing it. The team left aligned on vision, sequencing, and next steps. Well done.\n\nBest,\nLindsay",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/option-3/1774537201761-epilogue-3__1_.webp",
+          "story": "Two months later... you returned to Echelon’s studio to find a single, iconic commuter backpack prototype anchoring the “composed mobility” line. Earl aligned leadership on backpacks as the scale pillar, while Andrea codified “quiet architecture” in materials, silhouette, and restrained branding. Kartik drove shell-versus-exoskeleton trials, supplier onboarding, and new abrasion and hardware life-cycle QC gates. The result: launch-ready confidence and clear sequencing into tech, wellness, and parent cases.",
+          "title": "A Promising Direction",
+          "description": "Echelon has created prototypes for a new product line, and the internal team is excited about it. "
+        }
+      },
+      "694da0ea-afdd-490e-9111-25129a69d2e2": {
+        "teamId": "694da0ea-afdd-490e-9111-25129a69d2e2",
+        "teamName": "The Overpackers",
+        "teamIcon": "🧳",
+        "chapterId": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/1770925226075-background_chapter3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Organizational Support",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+          "subject": "Following up on Echelon"
+        },
+        "generatedAt": "2026-05-06T17:23:54.687Z",
+        "score": 75,
+        "analysis": "Hi,\n\nI reviewed your notes from the Echelon call—nice work navigating a tough room. You showed real responsiveness when Kartik pushed back on SKU sprawl, and pivoting to the modular platform was smart. You clearly understood their core competencies (hard-shell, polymers, hardware) and kept the recommendation aligned with \"travel composure\" rather than wandering into unfamiliar territory.\n\nThe one gap: Andrea's final question about the customer promise went unanswered. You had them leaning in, but didn't close with a crisp articulation of *why* this makes Echelon the definitive brand for organized travel. Next time, anchor your pivot with that promise statement early—it'll make the whole conversation feel inevitable rather than reactive. Solid foundation to build on.\n\nBest,\nLindsay",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/option-3/1774537175851-epilogue_2__1_.webp",
+          "story": "Two months later, you return to find Echelon’s modular hard-shell tech case on the prototype table, built from the same polymers, textures, and hardware language as the luggage line. Operations pushes a single platform with swappable interiors to avoid SKU sprawl, while Marketing argues over whether the promise is “calm control for travel” or broader daily carry. The team greenlights a limited launch, but alignment wavers and forecasts stay contested.",
+          "title": "A Bumpy Start",
+          "description": "Echelon has created prototypes for a new product line, but there is internal disagreement about whether it will be successful."
+        }
+      },
+      "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc": {
+        "teamId": "8c7d55d7-495c-43ba-8cb5-5ddcafe2a8fc",
+        "teamName": "Strategic Synergy",
+        "teamIcon": "🤝",
+        "chapterId": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/1770925226075-background_chapter3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Organizational Support",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+          "subject": "Following up on Echelon"
+        },
+        "generatedAt": "2026-05-06T17:24:03.781Z",
+        "score": 56,
+        "analysis": "Hi,\n\nI reviewed your notes from the Echelon call. I appreciate that you engaged with the team and explored the accessories direction, but I want to be direct: at a 56, this fell short of the strategic leadership Earl needed. You shifted between day bags, duffels, and accessories without anchoring to a clear vision, and when the executives pressed you on specifics—which stress moments you'd solve, how you'd double revenue, operational trade-offs—the responses stayed surface-level. They were asking you to lead, and you were still exploring.\n\nFor next time: come in with a specific recommendation tied to their core competencies and backed by clear logic on how it scales. When you're challenged, dig deeper rather than pivot. You've got the instincts—now build the conviction.\n\nBest,  \nLindsay",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/option-3/1774537175851-epilogue_2__1_.webp",
+          "story": "Two months later... you watched Echelon race from “calm confidence” rhetoric to prototypes: molded tech organizers, spill-proof toiletry kits, and a luggage refresh designed as a platform. Kartik pushed durability testing and supplier audits; Andrea demanded a cohesive travel-system story and clear stress moments solved; Earl kept pressing for a path to doubling revenue. The line showed promise, but debates over ecosystem scale versus incremental add-ons slowed final alignment and launch timing.",
+          "title": "A Bumpy Start",
+          "description": "Echelon has created prototypes for a new product line, but there is internal disagreement about whether it will be successful."
+        }
+      },
+      "60c83467-0223-4098-a28c-dd89978af39b": {
+        "teamId": "60c83467-0223-4098-a28c-dd89978af39b",
+        "teamName": "Suitcaseous",
+        "teamIcon": "🧭",
+        "chapterId": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/1770925226075-background_chapter3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Organizational Support",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+          "subject": "Following up on Echelon"
+        },
+        "generatedAt": "2026-05-06T17:23:53.582Z",
+        "score": 95,
+        "analysis": "Hi,\n\nJust reviewed your notes from the Echelon call—really impressive work. You successfully navigated the team from open exploration to clear alignment on personal storage as Horizon 1, and you did it by grounding the conversation in both their core competencies (polymer advantage, QC) and brand positioning (travel-first confidence). Your pivot from structural transport showed good judgment: you read the room, understood Earl's identity concerns, and steered toward the path that doubles revenue without diluting the brand. The team left energized and aligned, which is exactly what we needed. Well done.\n\nBest,\nLindsay",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/option-3/1774537201761-epilogue-3__1_.webp",
+          "story": "Two months later... you watched Echelon move fast on “premium travel storage” as a Horizon 1 bet. Kartik’s team translated polymer performance and thin-wall molding into modular organizers and trunk inserts, keeping SKUs tight and QC simple. Andrea built the “trusted to protect what matters” narrative without diluting calm travel confidence. Earl greenlit a focused first-year scope and a clean channel test, aligning leaders behind a scalable launch.",
+          "title": "A Promising Direction",
+          "description": "Echelon has created prototypes for a new product line, and the internal team is excited about it. "
+        }
+      },
+      "e74d2042-7ff9-4649-9fce-391450262489": {
+        "teamId": "e74d2042-7ff9-4649-9fce-391450262489",
+        "teamName": "Ropengineers",
+        "teamIcon": "🛠️",
+        "chapterId": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/1770925226075-background_chapter3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Organizational Support",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+          "subject": "Following up on Echelon"
+        },
+        "generatedAt": "2026-05-06T17:24:02.667Z",
+        "score": 95,
+        "analysis": "Hi,\n\nJust reviewed your notes—really impressive work! You navigated a tough room beautifully. After that rocky start with the scrap-resale idea, you listened carefully, adapted quickly, and by the end had all three executives genuinely aligned around a premium closed-loop tier and selective corporate strategy. Your understanding of their brand positioning (performance without guilt, invitation-only) and core manufacturing competencies came through clearly. One coaching note: next time, come in with a sharper initial thesis so you're leading the discussion from the start, not finding it together. But this was a strategic win—well done!\n\nBest,  \nLindsay",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/option-3/1774537201761-epilogue-3__1_.webp",
+          "story": "Two months later... Echelon’s leaders rallied around a premium closed-loop luggage tier, keeping performance and finish as the headline and sustainability as proof of excellence. You helped translate the idea into a pilot plan: selective corporate travel partners, dedicated SKUs, and tight QA with end-to-end traceability. Prototypes cleared cosmetic and impact bars, and take-back logistics were scoped for a 6–9 month launch window, maintaining luxury while opening a credible growth wedge.",
+          "title": "A Promising Direction",
+          "description": "Echelon has created prototypes for a new product line, and the internal team is excited about it. "
+        }
+      },
+      "3d96295a-eee4-479b-9afe-e28a54f8d26d": {
+        "teamId": "3d96295a-eee4-479b-9afe-e28a54f8d26d",
+        "teamName": "Onwards & Upwards",
+        "teamIcon": "🏆",
+        "chapterId": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/1770925226075-background_chapter3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Organizational Support",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+          "subject": "Following up on Echelon"
+        },
+        "generatedAt": "2026-05-06T17:24:06.802Z",
+        "score": 52,
+        "analysis": "Hi,\n\nI reviewed your notes from the Echelon call. I appreciate that you engaged with the team and showed good instincts about leveraging brand reputation and phasing the rollout. However, the conversation revealed a key gap: you didn't arrive with a crisp, specific recommendation. When Earl and Kartik pressed for clarity—hero product, operational implications, what \"winning\" looks like—your answers remained vague, and the call ended with them still confused about what you were actually proposing.\n\nFor next time: prepare a clear point of view before you walk in. The executives want to react to something concrete, not build the strategy with you in real time. You're close—just need sharper preparation.\n\nBest,\nLindsay",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/option-3/1774537175851-epilogue_2__1_.webp",
+          "story": "Two months later, you delivered early prototypes for a hard-case travel system built around “protection without fuss”—vanity and tech modules designed to pair with Echelon’s suitcases. Kartik pushed to stay in thin-wall, scuff-resistant strengths, while Andrea argued the hero line needed a clearer promise than “another luggage set.” Earl demanded new-customer pull, not accessories. The team moved forward, but mismatched definitions of the hero product stalled launch planning.",
+          "title": "A Bumpy Start",
+          "description": "Echelon has created prototypes for a new product line, but there is internal disagreement about whether it will be successful."
+        }
+      },
+      "20fad543-22c4-452b-9fc5-437e34763d99": {
+        "teamId": "20fad543-22c4-452b-9fc5-437e34763d99",
+        "teamName": "Group 4",
+        "teamIcon": "⭐",
+        "chapterId": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/1770925226075-background_chapter3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "scoreLabel": "Organizational Support",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "EMAIL",
+        "analysisOptions": {
+          "from": "Lindsay Hayes, Hamilton/Russo Consulting",
+          "subject": "Following up on Echelon"
+        },
+        "generatedAt": "2026-05-06T17:23:59.487Z",
+        "score": 90,
+        "analysis": "Hi,\n\nJust reviewed your notes from the Echelon pitch—really impressive work navigating three skeptical executives with different priorities. You landed them on a concrete wedge (imaging subsystems via OEM partnerships) that leverages their core protection capabilities while respecting brand boundaries. The Induron framing was smart. \n\nOne thought: next time, come in with that level of specificity from the start. You had to iterate through \"untapped market\" and \"no competition\" before Earl felt conviction. But you listened well, adapted quickly, and ultimately got everyone aligned around a real bet. Strong performance.\n\nBest,\nLindsay",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8/option-3/1774537201761-epilogue-3__1_.webp",
+          "story": "Two months later... Echelon’s leaders rallied around imaging subsystems as the wedge, pursuing a handful of high-value OEM shipping programs instead of diffuse hospital sales. You helped translate “trusted protection” into requirements: lightweight polymer shells, validated drop testing, custom foam, and traceability. Andrea advanced a separate Induron brand to preserve travel equity, while Kartik kept operations tight by reusing core molds. Early prototypes impressed OEM evaluators, and the pipeline signaled scalable growth.",
+          "title": "A Promising Direction",
+          "description": "Echelon has created prototypes for a new product line, and the internal team is excited about it. "
+        }
+      }
+    }
+  },
+  "chapter_timings": {
+    "1d91f2b3-2520-4c63-8150-76430f7a2303": {
+      "started_at": "2026-05-06T16:19:43.215Z",
+      "ended_at": "2026-05-06T16:37:44.513Z"
+    },
+    "cac0a96c-6187-4e9c-82d9-7c5cb3d99374": {
+      "started_at": "2026-05-06T16:44:46.389Z",
+      "ended_at": "2026-05-06T16:59:54.206Z"
+    },
+    "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8": {
+      "started_at": "2026-05-06T17:06:18.200Z",
+      "ended_at": "2026-05-06T17:23:19.147Z"
+    }
+  },
+  "events": [
+    {
+      "id": "dd821a4c-0391-456e-ae61-bfa95b2f9f3b",
+      "chapter_id": "1d91f2b3-2520-4c63-8150-76430f7a2303",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 1: Chapter 1 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-06T16:19:43.215Z",
+      "updated_at": "2026-05-06T16:19:43.215Z"
+    },
+    {
+      "id": "4ecf3bd9-d202-42f0-88f4-3efd75be4aaa",
+      "chapter_id": "1d91f2b3-2520-4c63-8150-76430f7a2303",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams interview Kartik, the COO of Echelon, to understand Echelon's core competencies.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams explore multiple aspects of the Echelon business?\n<li>Do they \"stress-test\" possible strength areas by asking whether they meet the full criteria of a core competency?\n<li>Do teams enter at least 2 core competencies in the included tool?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-06T16:20:00.218Z",
+      "updated_at": "2026-05-06T16:20:00.233Z"
+    },
+    {
+      "id": "311998cb-8c6c-4869-8f12-c8d79278cf9b",
+      "chapter_id": "1d91f2b3-2520-4c63-8150-76430f7a2303",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-06T16:21:36.019Z",
+      "updated_at": "2026-05-06T16:21:36.021Z"
+    },
+    {
+      "id": "4feaa44e-6386-4f8c-a2f8-741929d8d4cd",
+      "chapter_id": "1d91f2b3-2520-4c63-8150-76430f7a2303",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>Make sure you have your conversation with Kartik to surface core competencies.</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "c13f9fa0-93b9-43de-bc08-25acedfe878c"
+      },
+      "created_at": "2026-05-06T16:25:42.808Z",
+      "updated_at": "2026-05-06T16:25:42.808Z"
+    },
+    {
+      "id": "060b2dc3-fb71-4c49-a2fa-03dbd8d0e5ea",
+      "chapter_id": "1d91f2b3-2520-4c63-8150-76430f7a2303",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to remind participants: <br><br>\n<i>Keep asking questions. The more you ask Kartik, the more he'll tell you.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-06T16:30:00.360Z",
+      "updated_at": "2026-05-06T16:30:00.371Z"
+    },
+    {
+      "id": "ccfe538f-9a65-4a23-a742-36ca29a17e83",
+      "chapter_id": "1d91f2b3-2520-4c63-8150-76430f7a2303",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by +1 min — 6 min 32 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": 60
+      },
+      "created_at": "2026-05-06T16:31:11.677Z",
+      "updated_at": "2026-05-06T16:31:11.677Z"
+    },
+    {
+      "id": "c6db98c7-6e3d-459b-a21d-285094240ec5",
+      "chapter_id": "1d91f2b3-2520-4c63-8150-76430f7a2303",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>Try to come up with 3 core competencies and enter them in the Core Competency Assessment tool</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "25f26ca4-dfc7-4918-926b-c7b0fb413507"
+      },
+      "created_at": "2026-05-06T16:31:52.606Z",
+      "updated_at": "2026-05-06T16:31:52.606Z"
+    },
+    {
+      "id": "8b4fff13-9d2c-463d-ba53-dfecee017bd2",
+      "chapter_id": "1d91f2b3-2520-4c63-8150-76430f7a2303",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>One minute remaining</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "4347d4d3-4ba9-4e90-b12f-7736d18423b4"
+      },
+      "created_at": "2026-05-06T16:36:37.904Z",
+      "updated_at": "2026-05-06T16:36:37.904Z"
+    },
+    {
+      "id": "b70b54f7-f4b4-4caa-a4c9-81b4010ee426",
+      "chapter_id": "1d91f2b3-2520-4c63-8150-76430f7a2303",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-06T16:37:44.504Z",
+      "updated_at": "2026-05-06T16:37:44.504Z"
+    },
+    {
+      "id": "15a44fc8-d94e-4f71-b663-1bc622e51354",
+      "chapter_id": "1d91f2b3-2520-4c63-8150-76430f7a2303",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 1 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-06T16:37:44.513Z",
+      "updated_at": "2026-05-06T16:37:44.513Z"
+    },
+    {
+      "id": "e6decea0-d42e-46be-869b-0f7831909b04",
+      "chapter_id": "1d91f2b3-2520-4c63-8150-76430f7a2303",
+      "type": "CASE_PROGRESS",
+      "content": "Timer resumed — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_resumed"
+      },
+      "created_at": "2026-05-06T16:38:04.557Z",
+      "updated_at": "2026-05-06T16:38:04.557Z"
+    },
+    {
+      "id": "07b151d7-8058-4579-909b-61a9d2483aa7",
+      "chapter_id": "1d91f2b3-2520-4c63-8150-76430f7a2303",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-06T16:38:09.488Z",
+      "updated_at": "2026-05-06T16:38:09.488Z"
+    },
+    {
+      "id": "9ceade42-2b6d-430c-af66-2820259002c6",
+      "chapter_id": "1d91f2b3-2520-4c63-8150-76430f7a2303",
+      "type": "CASE_PROGRESS",
+      "content": "Timer resumed — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_resumed"
+      },
+      "created_at": "2026-05-06T16:38:18.468Z",
+      "updated_at": "2026-05-06T16:38:18.468Z"
+    },
+    {
+      "id": "f651ee88-21b4-4bc5-bceb-a012f59bdf4e",
+      "chapter_id": "cac0a96c-6187-4e9c-82d9-7c5cb3d99374",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 2: Chapter 2 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-06T16:44:46.389Z",
+      "updated_at": "2026-05-06T16:44:46.389Z"
+    },
+    {
+      "id": "df9fb31e-c81b-42a6-9d61-2743c18de85a",
+      "chapter_id": "cac0a96c-6187-4e9c-82d9-7c5cb3d99374",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams interview Andrea, the CMO of Echelon, to define Echelon's brand positioning.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams explore multiple aspects of the Echelon brand positioning, such as target audience, category, and value proposition?\n<li>Do they ask follow-up questions to better understand the nuances or tradeoffs in how the statement is composed?\n<li>Do teams enter a brand positioning statement in the included tool?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-06T16:45:00.245Z",
+      "updated_at": "2026-05-06T16:45:00.259Z"
+    },
+    {
+      "id": "72e5615c-7ab0-4e41-8f40-2d98119f3bc2",
+      "chapter_id": "cac0a96c-6187-4e9c-82d9-7c5cb3d99374",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-06T16:46:36.021Z",
+      "updated_at": "2026-05-06T16:46:36.024Z"
+    },
+    {
+      "id": "146ad763-29a5-41b4-a386-f84ef3657e4d",
+      "chapter_id": "cac0a96c-6187-4e9c-82d9-7c5cb3d99374",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to remind participants: <br><br>\n<i>Keep asking questions. The more you ask Andrea, the more she'll tell you.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-06T16:55:00.088Z",
+      "updated_at": "2026-05-06T16:55:00.100Z"
+    },
+    {
+      "id": "3a8bbbda-4b01-4b16-9eb9-789fba9a2028",
+      "chapter_id": "cac0a96c-6187-4e9c-82d9-7c5cb3d99374",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 1 min 53 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-06T16:59:54.194Z",
+      "updated_at": "2026-05-06T16:59:54.194Z"
+    },
+    {
+      "id": "3461ad0e-6f47-45bf-b314-84ac0d7abd5f",
+      "chapter_id": "cac0a96c-6187-4e9c-82d9-7c5cb3d99374",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 2 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-06T16:59:54.206Z",
+      "updated_at": "2026-05-06T16:59:54.206Z"
+    },
+    {
+      "id": "b8a3f215-4c68-4724-97ef-a804633c1fa7",
+      "chapter_id": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 3: Chapter 3 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-06T17:06:18.200Z",
+      "updated_at": "2026-05-06T17:06:18.200Z"
+    },
+    {
+      "id": "b5e9b048-0182-4ca1-b7e2-8bdabb3fec82",
+      "chapter_id": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by -1 min — 15 min 58 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": -60
+      },
+      "created_at": "2026-05-06T17:06:20.217Z",
+      "updated_at": "2026-05-06T17:06:20.217Z"
+    },
+    {
+      "id": "d57654b2-d161-4d5e-b764-bde396b05d2a",
+      "chapter_id": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by -1 min — 14 min 55 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": -60
+      },
+      "created_at": "2026-05-06T17:06:23.239Z",
+      "updated_at": "2026-05-06T17:06:23.239Z"
+    },
+    {
+      "id": "bd09c433-ccc9-4a76-8eec-89d134f7142d",
+      "chapter_id": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams pitch the Echelon executive team (Earl, Kartik, and Andrea) on a new business stategy.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams state the strategic direction that Echelon should explore?\n<li>Do teams articulate how this new direction aligns with Echelon's core competencies and brand?\n<li>Do teams acknowledge what new competencies or what change in brand positioning will be necessary?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-06T17:06:36.025Z",
+      "updated_at": "2026-05-06T17:06:36.029Z"
+    },
+    {
+      "id": "51b48265-266b-4567-93e9-75d831a6efec",
+      "chapter_id": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by +1 min — 14 min 32 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": 60
+      },
+      "created_at": "2026-05-06T17:07:46.827Z",
+      "updated_at": "2026-05-06T17:07:46.827Z"
+    },
+    {
+      "id": "dfa8ae8d-ff0f-4284-adda-843ad04cb8ee",
+      "chapter_id": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-06T17:08:00.094Z",
+      "updated_at": "2026-05-06T17:08:00.111Z"
+    },
+    {
+      "id": "2be3d8c1-bdc7-4fe4-9897-4308e1e58b99",
+      "chapter_id": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to encourage participants: <br><br>\n<i>You're doing great. Keep going!</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-06T17:16:00.243Z",
+      "updated_at": "2026-05-06T17:16:00.255Z"
+    },
+    {
+      "id": "31aca579-141f-494f-bffc-fa56d7af8e55",
+      "chapter_id": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by +1 min — 5 min 31 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": 60
+      },
+      "created_at": "2026-05-06T17:17:47.449Z",
+      "updated_at": "2026-05-06T17:17:47.449Z"
+    },
+    {
+      "id": "9929197d-cd73-4e03-a595-478343531349",
+      "chapter_id": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-06T17:23:19.132Z",
+      "updated_at": "2026-05-06T17:23:19.132Z"
+    },
+    {
+      "id": "b833bd25-ed60-4377-80d1-fc8229040546",
+      "chapter_id": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 3 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-06T17:23:19.147Z",
+      "updated_at": "2026-05-06T17:23:19.147Z"
+    },
+    {
+      "id": "a5bc9d8f-434e-42e0-bb5e-3b2ca473937f",
+      "chapter_id": "5c2b88fd-cfd7-4db0-b0a8-c95d7589e6a8",
+      "type": "ENDING_MESSAGE",
+      "content": "Case completed — all chapters finished.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "case_completed"
+      },
+      "created_at": "2026-05-06T17:23:19.369Z",
+      "updated_at": "2026-05-06T17:23:19.369Z"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "session_arrow_id": 18921,
+  "session_cc_uuid": "f42f312f-7755-4fc3-b657-cf52ad9e3046",
+  "case_challenge": "Enabling Peak Performance",
+  "case_challenge_id": "0d5ca77e-bfc0-4abe-8c05-fb9ac38f5264",
+  "viewed_chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+  "extracted_at": "2026-05-20T00:00:00.000Z",
+  "source_url": "https://dollargeneral.abilitie.com/facilitator/f42f312f-7755-4fc3-b657-cf52ad9e3046",
+  "tenant_dns": "dollargeneral.abilitie.com",
+  "chapters": [
+    {
+      "id": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+      "title": "Chapter One",
+      "order": 1,
+      "duration_min": 5,
+      "blocks": 0
+    },
+    {
+      "id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "title": "Chapter Two",
+      "order": 2,
+      "duration_min": 15,
+      "blocks": 1
+    },
+    {
+      "id": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+      "title": "Chapter Three",
+      "order": 3,
+      "duration_min": 15,
+      "blocks": 0
+    },
+    {
+      "id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "title": "Chapter Four",
+      "order": 4,
+      "duration_min": 15,
+      "blocks": 0
+    }
+  ],
+  "teams": [],
+  "team_results_for_viewed_chapter": {},
+  "team_results_by_chapter": {
+    "ad0c31b7-84cf-4a36-b448-1e2849011f32": {},
+    "b7a71160-9f6d-4067-93a7-f1e6cc876a76": {},
+    "d930fbda-77f4-4a3a-be92-572be4b917ae": {},
+    "89cfef24-2d08-4382-86c4-935d627d6a37": {}
+  },
+  "team_analyses_for_viewed_chapter": {},
+  "team_analyses_by_chapter": {
+    "ad0c31b7-84cf-4a36-b448-1e2849011f32": {},
+    "b7a71160-9f6d-4067-93a7-f1e6cc876a76": {},
+    "d930fbda-77f4-4a3a-be92-572be4b917ae": {},
+    "89cfef24-2d08-4382-86c4-935d627d6a37": {}
+  },
+  "chapter_timings": {},
+  "events": []
+}
