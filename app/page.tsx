@@ -1,35 +1,36 @@
-import { Suspense } from 'react'
-import { getDashboard } from '@/lib/data'
-import DashboardView from '@/components/DashboardView'
-import staffMappingsRaw from '@/app/data/staff-mappings.json'
-import type { StaffMap } from '@/lib/insights'
+import Link from 'next/link'
+import { getSessions, formatSnapshotDate } from '@/lib/sessions'
 
-function getSnapshotDate(dashboard: Awaited<ReturnType<typeof getDashboard>>): string {
-  let latest: Date | null = null
-  for (const caseData of Object.values(dashboard.cases)) {
-    for (const session of caseData.sessions) {
-      const m = session.session_start_display.match(/^(\w+\s+\d+),/)
-      if (m) {
-        const d = new Date(`${m[1]} 2026`)
-        if (!latest || d > latest) latest = d
-      }
-    }
-  }
-  if (!latest) return ''
-  return latest.toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })
-}
+const BUTTONS = [
+  { href: '/case-challenges', title: 'Explore a Case Challenge', subtitle: 'Browse case challenges by name' },
+  { href: '/facilitators', title: 'See a Facilitator', subtitle: 'View facilitators and the sessions they lead' },
+  { href: '/sessions', title: 'See the Sessions we’re pulling from', subtitle: 'Full sessions table with filters and search' },
+]
 
-export default async function Page() {
-  const dashboard = await getDashboard()
-  const snapshotDate = getSnapshotDate(dashboard)
-  const staffMap = staffMappingsRaw as unknown as StaffMap
+export default function Home() {
+  const data = getSessions()
 
   return (
-    <Suspense fallback={<div className="p-8 text-[#94a3b8]">Loading…</div>}>
-      <div className="bg-emerald-500 text-white text-center py-2 font-semibold">
-        this worked
+    <div className="min-h-screen px-6 py-16 max-w-3xl mx-auto">
+      <header className="mb-10 text-center">
+        <h1 className="text-3xl font-semibold text-[#e2e8f0]">Case Challenge Sessions</h1>
+        <p className="text-sm text-[#94a3b8] mt-2">
+          Snapshot from {formatSnapshotDate(data.generated_at)} · {data.rows.length} sessions
+        </p>
+      </header>
+
+      <div className="flex flex-col gap-4">
+        {BUTTONS.map((b) => (
+          <Link
+            key={b.href}
+            href={b.href}
+            className="block rounded-lg border border-[#1e293b] bg-[#0f172a] hover:bg-[#131e2e] hover:border-[#334155] transition-colors px-6 py-5"
+          >
+            <div className="text-xl font-medium text-[#e2e8f0]">{b.title}</div>
+            <div className="text-sm text-[#94a3b8] mt-1">{b.subtitle}</div>
+          </Link>
+        ))}
       </div>
-      <DashboardView dashboard={dashboard} snapshotDate={snapshotDate} staffMap={staffMap} />
-    </Suspense>
+    </div>
   )
 }
