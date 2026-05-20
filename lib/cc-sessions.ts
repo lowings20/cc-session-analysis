@@ -32,6 +32,27 @@ export interface CcTeamResult {
   narrative_outcome: string
 }
 
+export interface CcTeamAnalysis {
+  teamId: string
+  teamName: string
+  teamIcon: string
+  chapterId: string
+  score: number
+  analysisType: string
+  analysisOptions?: { from?: string; subject?: string }
+  analysis: string
+  narrativeImpact?: { title: string; story: string; description: string; image?: string }
+  generatedAt?: string
+}
+
+export type RubricCell = 'full' | 'partial' | 'missing'
+
+export interface CcSessionRubric {
+  criteria: { id: string; label: string }[]
+  team_cells: { id: string; label: string; cells: Record<string, RubricCell> }[]
+  method: string
+}
+
 export interface CcSessionData {
   session_arrow_id: number
   session_cc_uuid: string
@@ -43,6 +64,8 @@ export interface CcSessionData {
   chapters: CcSessionChapter[]
   teams: CcSessionTeam[]
   team_results_for_viewed_chapter: Record<string, CcTeamResult>
+  team_analyses_for_viewed_chapter?: Record<string, CcTeamAnalysis>
+  rubric?: CcSessionRubric
   chapter_timings: Record<string, { started_at?: string; ended_at?: string }>
   events: CcSessionEvent[]
 }

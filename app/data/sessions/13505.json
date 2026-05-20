@@ -701,5 +701,470 @@
       "started_at": "2026-04-15T16:28:55.870Z",
       "ended_at": "2026-04-15T16:41:14.439Z"
     }
+  },
+  "team_analyses_for_viewed_chapter": {
+    "b58c8833-367e-4229-a0ef-1ae324fda9bf": {
+      "teamId": "b58c8833-367e-4229-a0ef-1ae324fda9bf",
+      "teamName": "Team Pink",
+      "teamIcon": "🦩",
+      "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Score:"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Mei Nguyen",
+        "subject": "Re: SmartSense Influence Strategy"
+      },
+      "generatedAt": "2026-04-15T16:41:56.439Z",
+      "score": 95,
+      "analysis": "Hi,\n\nReally strong work on this analysis. You've accurately mapped the power dynamics—correctly identifying Dana and Grace as our key blockers, understanding Marvin's hidden influence through Grace, and recognizing Blaine as our natural ally. \n\nYour coalition-building sequence is excellent: starting with Blaine, leveraging Raj to de-risk Marvin's concerns, then using that momentum to address Grace before the final push with Dana. The focus on data-driven persuasion for both Dana and Marvin shows you understand what moves them.\n\nLet's move forward with SmartSense. Schedule time with Blaine this week to kick things off, and keep me updated on your progress.\n\nBest,\nMei",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540760077-cold_as_ice.webp",
+        "story": "One month later, the SmartSense enhancement soared as your strategic foresight paid off. By rallying Blaine’s support and coordinating with Raj’s resource assurance, you deftly mitigated Marvin’s and Dana’s concerns. Data insights from Sales fortified your case, convincing key stakeholders. Mei, impressed by your precision and influence, championed your proposal to the executive board. Your adept leadership positioned ForgePro at the forefront of innovation, solidifying your status as a visionary leader.",
+        "title": "Cold as Ice",
+        "description": "Your influence strategy is clear, disciplined, and politically astute. You’ve accurately identified the true centers of power, accounted for hidden risks, and sequenced your engagement thoughtfully. Mei endorses your approach and advances it to executive review with confidence."
+      }
+    },
+    "4701260c-46dc-4af5-aa9c-76c2a2ee16d4": {
+      "teamId": "4701260c-46dc-4af5-aa9c-76c2a2ee16d4",
+      "teamName": "Team \"Get It Done\"",
+      "teamIcon": "⚡",
+      "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Score:"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Mei Nguyen",
+        "subject": "Re: SmartSense Influence Strategy"
+      },
+      "generatedAt": "2026-04-15T16:42:12.748Z",
+      "score": 85,
+      "analysis": "Hi Alex,\n\nThanks for the thorough analysis. You've done solid work identifying the key players and their concerns—particularly recognizing Dana's financial gatekeeping role and Blaine's enthusiasm as an asset.\n\nHowever, I'd encourage you to reconsider your sequencing. Grace is our critical first mover here, not Dana. Given her expert power on manufacturing feasibility and the tight timeline to design freeze, we need her on board before we pursue budget. Also consider Marvin's influence on Grace—his quality assessment could be the key to unlocking her support. Starting with operations, then finance, will give us a much stronger foundation.\n\nLet's refine the approach with Grace as step one, and I think we'll have a winning strategy. Strong effort overall.\n\nBest,\nMei",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540760077-cold_as_ice.webp",
+        "story": "One month later, the SmartSense integration strategy you architected has propelled ForgePro into a new era of innovation. By deftly aligning with key players like Dana and leveraging Blaine’s market insights, you overcame financial and operational hurdles. Your strategic foresight, acknowledging Grace's risk alerts and bridging R&D with production, earned executive endorsement. Your clear, disciplined influence ensured the project’s successful advancement, reinforcing your leadership at ForgePro.",
+        "title": "Cold as Ice",
+        "description": "Your influence strategy is clear, disciplined, and politically astute. You’ve accurately identified the true centers of power, accounted for hidden risks, and sequenced your engagement thoughtfully. Mei endorses your approach and advances it to executive review with confidence."
+      }
+    },
+    "eb6eba36-8ebd-42ef-aa83-3b82298b301d": {
+      "teamId": "eb6eba36-8ebd-42ef-aa83-3b82298b301d",
+      "teamName": "CP Politics",
+      "teamIcon": "🤝",
+      "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Score:"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Mei Nguyen",
+        "subject": "Re: SmartSense Influence Strategy"
+      },
+      "generatedAt": "2026-04-15T16:41:52.780Z",
+      "score": 90,
+      "analysis": "Hi,\n\nExcellent work on this analysis. You've clearly identified the key power dynamics—particularly the relationship between Marvin and Grace, which is critical to our success. Your sequencing makes strategic sense: leveraging Blaine's enthusiasm, addressing Marvin's quality concerns early to neutralize Grace's resistance, and securing Dana's financial buy-in. You also appropriately calibrated Raj's role in the decision.\n\nI'm confident in your approach. Let's move forward with SmartSense. Schedule a kickoff meeting with Blaine first, then work on that quality plan for Marvin. Keep me posted on progress.\n\nBest,\nMei",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540760077-cold_as_ice.webp",
+        "story": "One month later, your strategic insights reshaped ForgePro's SmartSense launch. By prioritizing Dana's approval and addressing Grace's concerns, you ensured operational alignment. Collaborating with Blaine sparked enthusiasm, while a direct plan for Marvin secured vital support. Mei's confidence in your structured engagement propelled the project to executive review with ease. Your disciplined approach and political acumen solidified your influence at ForgePro, achieving a seamless transition from concept to execution.",
+        "title": "Cold as Ice",
+        "description": "Your influence strategy is clear, disciplined, and politically astute. You’ve accurately identified the true centers of power, accounted for hidden risks, and sequenced your engagement thoughtfully. Mei endorses your approach and advances it to executive review with confidence."
+      }
+    },
+    "40347058-176e-445a-ba37-5d1ebda9aee9": {
+      "teamId": "40347058-176e-445a-ba37-5d1ebda9aee9",
+      "teamName": "NE warm weather lovers",
+      "teamIcon": "☀️",
+      "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Score:"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Mei Nguyen",
+        "subject": "Re: SmartSense Influence Strategy"
+      },
+      "generatedAt": "2026-04-15T16:41:55.479Z",
+      "score": 92,
+      "analysis": "Hi,\n\nI just reviewed your influence strategy—really impressive work. You correctly identified Blaine as our champion and understood the critical importance of addressing Grace and Marvin's operational concerns early. Your sequencing shows strong political instincts: building momentum with supporters before tackling potential resistance.\n\nOne small note: keep a close eye on Dana. Finance can quietly block initiatives even when everyone else is aligned, so we may want to engage her earlier than your plan suggests.\n\nOverall, this is solid strategic thinking. Let's move forward with SmartSense using this approach. Nice job.\n\nBest,\nMei",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540760077-cold_as_ice.webp",
+        "story": "One month later, your strategic finesse has propelled the SmartSense enhancement at ForgePro. By gaining Blaine’s influential support first, you orchestrated a seamless buy-in from Grace, Marvin, and eventually Raj. This calculated alignment quelled resistance and fortified internal support. Mei’s endorsement amplified your strategic blueprint, driving the initiative to executive review with precision. Your adept leadership and keen political insight have positioned SmartSense for impactful success, leaving no room for doubt.",
+        "title": "Cold as Ice",
+        "description": "Your influence strategy is clear, disciplined, and politically astute. You’ve accurately identified the true centers of power, accounted for hidden risks, and sequenced your engagement thoughtfully. Mei endorses your approach and advances it to executive review with confidence."
+      }
+    },
+    "fe526ec7-8944-4c66-aaf5-fddd2fbd4409": {
+      "teamId": "fe526ec7-8944-4c66-aaf5-fddd2fbd4409",
+      "teamName": "BDX Execs",
+      "teamIcon": "👑",
+      "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Score:"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Mei Nguyen",
+        "subject": "Re: SmartSense Influence Strategy"
+      },
+      "generatedAt": "2026-04-15T16:41:59.409Z",
+      "score": 81,
+      "analysis": "Hi,\n\nThanks for this—you've identified some important stakeholders and I appreciate the thought you put into sequencing the approach. Your mitigation strategies for Raj and Dana show good tactical thinking.\n\nHowever, I'm concerned we're missing a critical voice here: Grace in Manufacturing. Given how close we are to design freeze, her assessment of production risk will be make-or-break. We also need to better understand how Marvin's technical opinion might influence her perspective, and we should be leveraging Blaine's commercial enthusiasm more strategically.\n\nLet's regroup before proceeding. Can you revise the stakeholder map to include Grace and adjust the sequencing accordingly? Once we have that locked down, we can move forward with more confidence.\n\nBest,\nMei",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540742292-calm_and_collected.webp",
+        "story": "One month later, your team showcased a structured strategy, prioritizing stakeholder engagement starting with Raj. By addressing technical alignment and quality concerns, you gained Marvin's confidence. With Dana, you crafted conservative financial projections, engaging Grace and Blane to refine assumptions. Weekly checkpoints ensured cohesive progress. This methodical approach earned you conditional support from Mei, highlighting the necessity for further refinement, yet promising growth for SmartSense at ForgePro.",
+        "title": "Cool and Collected",
+        "description": "Your strategy shows strong judgment and promising structure, but a few gaps remain. Mei sees real potential in your approach, yet flags specific risks or stakeholders that will need further attention before moving forward. You receive conditional support."
+      }
+    },
+    "faee6b09-4d89-4fdb-9569-911a9f1b3486": {
+      "teamId": "faee6b09-4d89-4fdb-9569-911a9f1b3486",
+      "teamName": "Catalyst Crew",
+      "teamIcon": "🔥",
+      "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Score:"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Mei Nguyen",
+        "subject": "Re: SmartSense Influence Strategy"
+      },
+      "generatedAt": "2026-04-15T16:42:16.922Z",
+      "score": 87,
+      "analysis": "Hi,\n\nThanks for this—I'm impressed with your stakeholder analysis. You correctly identified Blaine as our champion and recognized the second-tier players. Strong instincts on questioning Raj's actual influence.\n\nOne refinement: Grace and Dana are our primary blockers, not just influencers. Grace holds the keys on manufacturability, and Marvin is her trusted advisor—win him first to move her. Your sequencing is good, but I'd prioritize neutralizing these blockers before leveraging Blaine's enthusiasm.\n\nLet's refine the approach with this lens, then move forward. Great work overall.\n\nBest,\nMei",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540760077-cold_as_ice.webp",
+        "story": "One month later, your strategic prowess at ForgePro shines as the SmartSense enhancement rolls out seamlessly. By deftly navigating power dynamics, you align key players—Dana, Grace, and Marvin—through thoughtful engagement and coalition-building. You counter resistance with sound rationale, securing Raj's critical buy-in. Mei's endorsement propels your plan to an executive review. Your disciplined influence strategy decisively steers the enhancements to success, marking you as a leader in precision and cool-headed diplomacy.",
+        "title": "Cold as Ice",
+        "description": "Your influence strategy is clear, disciplined, and politically astute. You’ve accurately identified the true centers of power, accounted for hidden risks, and sequenced your engagement thoughtfully. Mei endorses your approach and advances it to executive review with confidence."
+      }
+    },
+    "edb18006-e1dd-446f-bafa-6cbdbc139dd4": {
+      "teamId": "edb18006-e1dd-446f-bafa-6cbdbc139dd4",
+      "teamName": "Group 4 - Lions",
+      "teamIcon": "🔥",
+      "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Score:"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Mei Nguyen",
+        "subject": "Re: SmartSense Influence Strategy"
+      },
+      "generatedAt": "2026-04-15T16:41:56.453Z",
+      "score": 86,
+      "analysis": "Hi,\n\nGreat work on this influence strategy—I'm impressed by your analysis. You correctly identified the critical path through Finance and the importance of building strong sales projections with Blaine first. Your insight about keeping the supply chain simple to address Grace and Marvin's operational concerns is exactly the kind of practical thinking we need.\n\nYour understanding of the coalition dynamics is solid, though I'd encourage you to dig a bit deeper into *why* Grace might be hesitant and how Marvin's technical assessment could shape her position. That said, your overall sequencing and risk mitigation approach give me confidence.\n\nLet's move forward with SmartSense. I'll need you to start with Blaine on those projections this week.\n\nBest,\nMei",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540760077-cold_as_ice.webp",
+        "story": "One month later, your strategic decision to fully implement SmartSense paid off. Aligning with Finance, you collaborated with Blaine for optimistic sales projections. Your coalition with Grace and Marvin streamlined the supply chain, minimizing complexity and risk. This disciplined approach mitigated resistance and showcased your political acumen. Mei, impressed by your leadership, pushed the proposal forward with confidence, cementing your influence at ForgePro.",
+        "title": "Cold as Ice",
+        "description": "Your influence strategy is clear, disciplined, and politically astute. You’ve accurately identified the true centers of power, accounted for hidden risks, and sequenced your engagement thoughtfully. Mei endorses your approach and advances it to executive review with confidence."
+      }
+    },
+    "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6": {
+      "teamId": "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6",
+      "teamName": "Forging Ahead",
+      "teamIcon": "📈",
+      "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Score:"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Mei Nguyen",
+        "subject": "Re: SmartSense Influence Strategy"
+      },
+      "generatedAt": "2026-04-15T16:41:57.718Z",
+      "score": 79,
+      "analysis": "Hi,\n\nThanks for putting this together. You've correctly identified Grace and Dana as critical decision-makers and spotted the Marvin-Grace coalition—that's essential. However, I'm concerned you may be overestimating Raj's influence in this process. His technical input matters, but he's not a primary power player here. You also didn't mention Blaine, who could be a valuable early supporter given his commercial enthusiasm.\n\nBefore we proceed, let's refine your sequencing. I'd like you to think about starting with natural supporters and hidden influencers before approaching the potential blockers. Can we connect tomorrow to discuss?\n\nBest,\nMei",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540742292-calm_and_collected.webp",
+        "story": "One month later, your strategic influence at ForgePro began to take shape. By targeting Marvin first, you deftly navigated coalition dynamics, gaining the tentative support of Grace and Dana. Careful alignment with stakeholders' needs through a robust product management plan built credibility. However, lingering concerns in finance and engineering required further diligences. This calculated approach resulted in conditional support, recognizing your poised leadership, yet highlighting areas needing refinement for full endorsement.",
+        "title": "Cool and Collected",
+        "description": "Your strategy shows strong judgment and promising structure, but a few gaps remain. Mei sees real potential in your approach, yet flags specific risks or stakeholders that will need further attention before moving forward. You receive conditional support."
+      }
+    },
+    "1d24980f-6b79-4101-a244-85a31e38a06c": {
+      "teamId": "1d24980f-6b79-4101-a244-85a31e38a06c",
+      "teamName": "Coyotes",
+      "teamIcon": "🦊",
+      "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Score:"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Mei Nguyen",
+        "subject": "Re: SmartSense Influence Strategy"
+      },
+      "generatedAt": "2026-04-15T16:41:52.034Z",
+      "score": 91,
+      "analysis": "Hi,\n\nReally strong work mapping the power landscape—you nailed the key influencers and spotted Marvin's indirect influence on Grace, which many miss. I'm impressed by how thoroughly you identified resistance points.\n\nOne refinement on sequencing: approaching Grace and Dana (both potential blockers) first is risky. Consider building momentum with supporters like Blaine before engaging blockers. Also, you listed Dana as both part of your coalition *and* a resistance source—clarify which she is before proceeding.\n\nLet's schedule time to discuss adjusting the approach, then I'm comfortable greenlighting SmartSense.\n\nBest,\nMei",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540760077-cold_as_ice.webp",
+        "story": "One month later, your strategic foresight on the SmartSense enhancement proved pivotal. By aligning with key players like Dana and Grace, you expertly navigated ForgePro's complex political landscape. Your coalition, including Raj and Marvin, bridged gaps, overcoming resistance with calculated precision. Mei championed your approach, propelling it to executive review. Your disciplined influence and strategic acumen secured SmartSense's advancement, solidifying your leadership stature in the organization as both astute and impactful.",
+        "title": "Cold as Ice",
+        "description": "Your influence strategy is clear, disciplined, and politically astute. You’ve accurately identified the true centers of power, accounted for hidden risks, and sequenced your engagement thoughtfully. Mei endorses your approach and advances it to executive review with confidence."
+      }
+    },
+    "2f901bf5-b048-45da-b103-7ee51993f754": {
+      "teamId": "2f901bf5-b048-45da-b103-7ee51993f754",
+      "teamName": "NextGen Cooling",
+      "teamIcon": "❄️",
+      "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Score:"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Mei Nguyen",
+        "subject": "Re: SmartSense Influence Strategy"
+      },
+      "generatedAt": "2026-04-15T16:41:56.449Z",
+      "score": 52,
+      "analysis": "Hi,\n\nThanks for getting this to me. I've reviewed your influence plan, and I have some concerns about moving forward at this time.\n\nYour approach misses critical power dynamics—particularly Grace's position as a potential blocker given her expert power on manufacturing feasibility, and Dana's ability to quietly halt this through budget control. Saying \"the team will follow without resistance\" suggests we're not fully accounting for where resistance will actually come from. We also need a strategy for leveraging Marvin's influence on Grace's position, which isn't reflected here.\n\nLet's regroup early next week to map the stakeholder landscape more carefully before we proceed. This needs a more sophisticated sequencing strategy.\n\nBest,\nMei",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540706766-warming_up.webp",
+        "story": "One month later, the plan to incorporate SmartSense stalled. Despite efforts to craft a compelling business case, the team struggled with aligning cross-department insights into a cohesive strategy. Key decisions on cost-to-serve and reliability assumptions lacked timely coordination, revealing gaps in influence. While Mei recognized the initiative, she identified crucial missteps in understanding power dynamics. Consequently, the strategy paused for adjustments, signaling a need for refined leadership and clearer communication.",
+        "title": "Sweating It Out",
+        "description": "You’ve done some of the work, but important power dynamics are only partially understood. Mei acknowledges your effort but notes that misread influence or weak sequencing could create downstream issues. The strategy is paused pending revisions."
+      }
+    },
+    "2dfe0726-9b7b-41fb-8303-a6734911675b": {
+      "teamId": "2dfe0726-9b7b-41fb-8303-a6734911675b",
+      "teamName": "MKT X R&D",
+      "teamIcon": "🎯",
+      "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Score:"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Mei Nguyen",
+        "subject": "Re: SmartSense Influence Strategy"
+      },
+      "generatedAt": "2026-04-15T16:41:57.779Z",
+      "score": 96,
+      "analysis": "Hi,\n\nReally impressive work on this. Your diagnosis of the power landscape is spot-on—you clearly understand where the real influence sits and how Grace and Marvin's relationship shapes the approval path. I particularly like how you've sequenced this: getting early alignment with Marvin to unlock Grace's support is exactly right, and you're appropriately recognizing the hidden landmines (prior warranty issues, Dana's financial gatekeeping).\n\nThis is a solid strategy. Let's move forward with SmartSense. Start with Marvin—get him comfortable first, then bring Grace along. Keep me posted on progress.\n\nBest,\nMei",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540760077-cold_as_ice.webp",
+        "story": "One month later, your strategic finesse shines as Mei drives the SmartSense enhancement into executive review with enthusiasm. By securing early buy-in from Grace and Marvin, and aligning with Raj for data-driven support, you navigated potential pitfalls. Your collaboration with Blaine cemented the business case, ensuring Dana saw the value at launch. This orchestrated influence, grounded in astute power dynamics, led to the project's seamless advancement, showcasing your leadership acumen at ForgePro.",
+        "title": "Cold as Ice",
+        "description": "Your influence strategy is clear, disciplined, and politically astute. You’ve accurately identified the true centers of power, accounted for hidden risks, and sequenced your engagement thoughtfully. Mei endorses your approach and advances it to executive review with confidence."
+      }
+    },
+    "d17395f5-6578-447f-a52c-3effdd3ca599": {
+      "teamId": "d17395f5-6578-447f-a52c-3effdd3ca599",
+      "teamName": "THE NUMBER 1",
+      "teamIcon": "🥇",
+      "chapterId": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/1774649393664-chapter_3.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": {
+        "scoreLabel": "Score:"
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "EMAIL",
+      "analysisOptions": {
+        "from": "Mei Nguyen",
+        "subject": "Re: SmartSense Influence Strategy"
+      },
+      "generatedAt": "2026-04-15T16:41:50.345Z",
+      "score": 74,
+      "analysis": "Hi,\n\nThanks for pulling this together. You've identified some important dynamics—especially recognizing Grace's concerns and Marvin's role in influencing her position. I also appreciate that you see Blaine as an ally we can leverage.\n\nHowever, I'm hesitant to move forward just yet. Your analysis missed Dana entirely, and she controls the budget strings—that's a significant blind spot. Your sequencing makes sense in terms of engaging Grace early, but without addressing Finance's potential objections or having a clearer roadmap for building cross-functional alignment, we could hit walls we didn't anticipate.\n\nLet's regroup. Take another pass at mapping all key stakeholders and their power sources, then we can discuss next steps.\n\nBest,\nMei",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-a563e32f-b2f6-461a-8f8b-57e097c75cbd/option-3/1774540742292-calm_and_collected.webp",
+        "story": "One month later, your strategic vision at ForgePro took shape as the team convened to refine SmartSense's launch plan. Leveraging Blaine's confidence and Grace's cautious insights, you aligned Marvin's expertise to address quality concerns. Engaging stakeholders, you navigated potential risks, securing conditional support. Your methodical approach earned commendation, yet underscored the need for ongoing vigilance. The team's collaborative spirit laid a solid foundation, poised for future refinement.",
+        "title": "Cool and Collected",
+        "description": "Your strategy shows strong judgment and promising structure, but a few gaps remain. Mei sees real potential in your approach, yet flags specific risks or stakeholders that will need further attention before moving forward. You receive conditional support."
+      }
+    }
+  },
+  "rubric": {
+    "criteria": [
+      {
+        "id": "grace_first_mover",
+        "label": "Identifies Grace as critical first mover (manufacturing / expert power)"
+      },
+      {
+        "id": "marvin_influence_on_grace",
+        "label": "Recognizes Marvin's influence on Grace (technical leverage)"
+      },
+      {
+        "id": "dana_financial_gatekeeper",
+        "label": "Identifies Dana's financial gatekeeping (budget control)"
+      },
+      {
+        "id": "blaine_as_ally",
+        "label": "Recognizes Blaine as natural ally / champion (commercial enthusiasm)"
+      },
+      {
+        "id": "correct_sequencing",
+        "label": "Sequences engagement strategically (supporters first, blockers last)"
+      },
+      {
+        "id": "raj_calibrated",
+        "label": "Calibrates Raj's actual influence (not overestimating)"
+      }
+    ],
+    "team_cells": [
+      {
+        "id": "grace_first_mover",
+        "label": "Identifies Grace as critical first mover (manufacturing / expert power)",
+        "cells": {
+          "b58c8833-367e-4229-a0ef-1ae324fda9bf": "full",
+          "4701260c-46dc-4af5-aa9c-76c2a2ee16d4": "partial",
+          "eb6eba36-8ebd-42ef-aa83-3b82298b301d": "full",
+          "40347058-176e-445a-ba37-5d1ebda9aee9": "missing",
+          "fe526ec7-8944-4c66-aaf5-fddd2fbd4409": "partial",
+          "faee6b09-4d89-4fdb-9569-911a9f1b3486": "partial",
+          "edb18006-e1dd-446f-bafa-6cbdbc139dd4": "missing",
+          "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6": "full",
+          "1d24980f-6b79-4101-a244-85a31e38a06c": "partial",
+          "2f901bf5-b048-45da-b103-7ee51993f754": "full",
+          "2dfe0726-9b7b-41fb-8303-a6734911675b": "missing",
+          "d17395f5-6578-447f-a52c-3effdd3ca599": "missing"
+        }
+      },
+      {
+        "id": "marvin_influence_on_grace",
+        "label": "Recognizes Marvin's influence on Grace (technical leverage)",
+        "cells": {
+          "b58c8833-367e-4229-a0ef-1ae324fda9bf": "full",
+          "4701260c-46dc-4af5-aa9c-76c2a2ee16d4": "partial",
+          "eb6eba36-8ebd-42ef-aa83-3b82298b301d": "full",
+          "40347058-176e-445a-ba37-5d1ebda9aee9": "full",
+          "fe526ec7-8944-4c66-aaf5-fddd2fbd4409": "missing",
+          "faee6b09-4d89-4fdb-9569-911a9f1b3486": "partial",
+          "edb18006-e1dd-446f-bafa-6cbdbc139dd4": "full",
+          "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6": "full",
+          "1d24980f-6b79-4101-a244-85a31e38a06c": "full",
+          "2f901bf5-b048-45da-b103-7ee51993f754": "full",
+          "2dfe0726-9b7b-41fb-8303-a6734911675b": "full",
+          "d17395f5-6578-447f-a52c-3effdd3ca599": "full"
+        }
+      },
+      {
+        "id": "dana_financial_gatekeeper",
+        "label": "Identifies Dana's financial gatekeeping (budget control)",
+        "cells": {
+          "b58c8833-367e-4229-a0ef-1ae324fda9bf": "missing",
+          "4701260c-46dc-4af5-aa9c-76c2a2ee16d4": "full",
+          "eb6eba36-8ebd-42ef-aa83-3b82298b301d": "full",
+          "40347058-176e-445a-ba37-5d1ebda9aee9": "partial",
+          "fe526ec7-8944-4c66-aaf5-fddd2fbd4409": "missing",
+          "faee6b09-4d89-4fdb-9569-911a9f1b3486": "missing",
+          "edb18006-e1dd-446f-bafa-6cbdbc139dd4": "missing",
+          "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6": "missing",
+          "1d24980f-6b79-4101-a244-85a31e38a06c": "missing",
+          "2f901bf5-b048-45da-b103-7ee51993f754": "full",
+          "2dfe0726-9b7b-41fb-8303-a6734911675b": "full",
+          "d17395f5-6578-447f-a52c-3effdd3ca599": "partial"
+        }
+      },
+      {
+        "id": "blaine_as_ally",
+        "label": "Recognizes Blaine as natural ally / champion (commercial enthusiasm)",
+        "cells": {
+          "b58c8833-367e-4229-a0ef-1ae324fda9bf": "full",
+          "4701260c-46dc-4af5-aa9c-76c2a2ee16d4": "full",
+          "eb6eba36-8ebd-42ef-aa83-3b82298b301d": "full",
+          "40347058-176e-445a-ba37-5d1ebda9aee9": "full",
+          "fe526ec7-8944-4c66-aaf5-fddd2fbd4409": "partial",
+          "faee6b09-4d89-4fdb-9569-911a9f1b3486": "full",
+          "edb18006-e1dd-446f-bafa-6cbdbc139dd4": "missing",
+          "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6": "partial",
+          "1d24980f-6b79-4101-a244-85a31e38a06c": "missing",
+          "2f901bf5-b048-45da-b103-7ee51993f754": "missing",
+          "2dfe0726-9b7b-41fb-8303-a6734911675b": "missing",
+          "d17395f5-6578-447f-a52c-3effdd3ca599": "full"
+        }
+      },
+      {
+        "id": "correct_sequencing",
+        "label": "Sequences engagement strategically (supporters first, blockers last)",
+        "cells": {
+          "b58c8833-367e-4229-a0ef-1ae324fda9bf": "full",
+          "4701260c-46dc-4af5-aa9c-76c2a2ee16d4": "partial",
+          "eb6eba36-8ebd-42ef-aa83-3b82298b301d": "full",
+          "40347058-176e-445a-ba37-5d1ebda9aee9": "full",
+          "fe526ec7-8944-4c66-aaf5-fddd2fbd4409": "missing",
+          "faee6b09-4d89-4fdb-9569-911a9f1b3486": "missing",
+          "edb18006-e1dd-446f-bafa-6cbdbc139dd4": "missing",
+          "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6": "partial",
+          "1d24980f-6b79-4101-a244-85a31e38a06c": "partial",
+          "2f901bf5-b048-45da-b103-7ee51993f754": "missing",
+          "2dfe0726-9b7b-41fb-8303-a6734911675b": "missing",
+          "d17395f5-6578-447f-a52c-3effdd3ca599": "missing"
+        }
+      },
+      {
+        "id": "raj_calibrated",
+        "label": "Calibrates Raj's actual influence (not overestimating)",
+        "cells": {
+          "b58c8833-367e-4229-a0ef-1ae324fda9bf": "full",
+          "4701260c-46dc-4af5-aa9c-76c2a2ee16d4": "missing",
+          "eb6eba36-8ebd-42ef-aa83-3b82298b301d": "full",
+          "40347058-176e-445a-ba37-5d1ebda9aee9": "missing",
+          "fe526ec7-8944-4c66-aaf5-fddd2fbd4409": "missing",
+          "faee6b09-4d89-4fdb-9569-911a9f1b3486": "full",
+          "edb18006-e1dd-446f-bafa-6cbdbc139dd4": "missing",
+          "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6": "partial",
+          "1d24980f-6b79-4101-a244-85a31e38a06c": "missing",
+          "2f901bf5-b048-45da-b103-7ee51993f754": "missing",
+          "2dfe0726-9b7b-41fb-8303-a6734911675b": "missing",
+          "d17395f5-6578-447f-a52c-3effdd3ca599": "missing"
+        }
+      }
+    ],
+    "method": "Heuristic regex over per-team analysis letters. Full=mentioned positively, Partial=mentioned as improvement, Missing=not mentioned."
   }
 }
