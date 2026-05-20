@@ -120,9 +120,39 @@
         }
       ],
       "magic_moments": [],
-      "strengths": [],
-      "learn_from": [],
-      "strengths_method": null
+      "strengths": [
+        {
+          "title": "Consistent Delivery Across Diverse Content",
+          "evidence": "Paul successfully delivered 8 sessions spanning 4 distinct case challenges (Enabling Peak Performance, Kickoff: Shelf Awareness, Leading in Times of Change, Navigating Critical Conversations), demonstrating versatility in facilitating varied organizational topics."
+        },
+        {
+          "title": "Strong Positive Momentum Building",
+          "evidence": "Across 40 team-chapters, Paul's sessions generated 12 positive narrative outcomes (6 Back on Course + 6 Full Speed Ahead), representing the strongest combined category and indicating ability to shift teams toward constructive momentum."
+        },
+        {
+          "title": "High Individual Empowerment Impact",
+          "evidence": "The 'Jordan Steps Up' outcome (14 instances) is the single most prevalent narrative result across Paul's sessions, suggesting particular strength in catalyzing individual confidence and leadership growth within team contexts."
+        },
+        {
+          "title": "Above-Average Team Performance",
+          "evidence": "Paul's facilitated teams achieved an average score of 71 across 40 team-chapters, indicating consistent delivery of sessions that move teams toward measurable performance benchmarks."
+        }
+      ],
+      "learn_from": [
+        {
+          "peer_name": "Tamara Nolte",
+          "area": "Psychological Safety & Concept Translation",
+          "why": "While Paul excels at momentum and empowerment, Tamara's strength in creating psychologically safe environments and translating abstract concepts to practice would deepen Paul's facilitation toolkit. Her versatility across complex leadership topics also complements Paul's consistent but potentially narrower content depth.",
+          "peer_slug": "tamara-nolte"
+        },
+        {
+          "peer_name": "Nick White",
+          "area": "Participant Engagement & Real-World Application",
+          "why": "Paul has strong individual impact but thin survey data on engagement quality. Nick's exceptional participant engagement and real-world business application skills would help Paul strengthen the experiential and practical dimensions of his facilitation.",
+          "peer_slug": "nick-white"
+        }
+      ],
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
     },
     {
       "name": "Tamara Nolte",
@@ -261,9 +291,39 @@
           "case_challenge": "Managing Profitability"
         }
       ],
-      "strengths": [],
-      "learn_from": [],
-      "strengths_method": null
+      "strengths": [
+        {
+          "title": "Translates Abstract Concepts to Practical Application",
+          "evidence": "Magic moment on AI and financial modeling demonstrates ability to connect theoretical concepts (AI capabilities) to human judgment and decision-making. This aligns with their stated job of providing 'seeds for you to extrapolate and pull back into your world,' showing intentional design for real-world transfer."
+        },
+        {
+          "title": "Creates Psychologically Safe Learning Environments",
+          "evidence": "Magic moment emphasizing 'failure actually is the goal here in order to learn and grow' signals deliberate cultivation of safe-to-fail spaces. Supported by 4.48/5.0 average survey score across 4 sessions, indicating participants feel trusted and supported."
+        },
+        {
+          "title": "Generates Balanced Outcome Distribution Across Diverse Teams",
+          "evidence": "Across 40 team-chapters, outcomes span all five narrative categories with notable representation in both high-impact (Market Maker: 14, Cool and Collected: 7) and developmental (Back to the Drawing Board: 2, Gaining Traction: 2) outcomes, suggesting facilitation that stretches teams while maintaining psychological safety."
+        },
+        {
+          "title": "Versatility Across Multiple Complex Leadership Topics",
+          "evidence": "Delivered 7 sessions spanning 5 distinct case challenges (Influencing Without Authority, Kickoff: Shelf Awareness, Leading in Times of Change, Managing Profitability, Navigating Critical Conversations) while maintaining consistent 82-point team performance average, demonstrating adaptability across varied content domains."
+        }
+      ],
+      "learn_from": [
+        {
+          "peer_name": "Nick White",
+          "area": "Participant Engagement",
+          "why": "Nick excels at Exceptional Participant Engagement and Reframing Risk as Strategic Opportunity, areas where Tamara has limited data. This would strengthen Tamara's already strong psychological safety work with deeper engagement tactics.",
+          "peer_slug": "nick-white"
+        },
+        {
+          "peer_name": "Francois-Alexandre Leonard",
+          "area": "Survey Performance Consistency",
+          "why": "Francois-Alexandre demonstrates Consistent High Survey Performance across distinct case challenges, complementing Tamara's solid 4.48 average with proven strategies for sustaining excellence across varied content.",
+          "peer_slug": "francois-alexandre-leonard"
+        }
+      ],
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
     },
     {
       "name": "Nick White",
@@ -366,9 +426,39 @@
           "case_challenge": "Kickoff: Shelf Awareness"
         }
       ],
-      "strengths": [],
-      "learn_from": [],
-      "strengths_method": null
+      "strengths": [
+        {
+          "title": "Exceptional Participant Engagement",
+          "evidence": "Achieved an average survey score of 4.66/5.0 across 4 sessions, indicating consistently high satisfaction and engagement from participants in both Influencing Without Authority and Managing Profitability challenges."
+        },
+        {
+          "title": "Strong Facilitation of Positive Outcomes",
+          "evidence": "Guided 11 teams to 'Market Maker' status (the most positive narrative outcome) and 19 total teams to positive outcomes (Market Maker + Gaining Traction + Cool and Collected), demonstrating capability to help teams achieve strong results across 28 team-chapters."
+        },
+        {
+          "title": "Reframing Risk as Strategic Opportunity",
+          "evidence": "Explicitly articulates the connection between risk tolerance and business rewards in his magic moment quote, positioning risk discussion as integral to strategy rather than obstacle—a sophisticated facilitator perspective for commercial training contexts."
+        },
+        {
+          "title": "Real-World Business Application",
+          "evidence": "Demonstrates intentional methodology to anchor learning to actual business contexts (specifically Business Development), recognizing this 'challenging way of learning' as 'really quite powerful'—evidence of pedagogical sophistication in translating case-based learning to participant practice."
+        }
+      ],
+      "learn_from": [
+        {
+          "peer_name": "Tamara Nolte",
+          "area": "Psychological Safety & Versatility",
+          "why": "While Nick excels at engagement and reframing risk, Tamara's strength in creating psychologically safe learning environments and versatility across complex topics would deepen Nick's ability to support diverse learner needs. Her proven track record translating abstract concepts complements Nick's real-world application focus.",
+          "peer_slug": "tamara-nolte"
+        },
+        {
+          "peer_name": "Francois-Alexandre Leonard",
+          "area": "Consistent Survey Performance",
+          "why": "Francois demonstrates sustained high survey performance and versatility across distinct case challenges, providing Nick with insights on consistency and scaling excellence. This addresses the limited data set (only 4 sessions) by learning from someone with proven ability to maintain quality across varied contexts.",
+          "peer_slug": "francois-alexandre-leonard"
+        }
+      ],
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
     },
     {
       "name": "Francois-Alexandre Leonard",
@@ -429,9 +519,35 @@
         }
       ],
       "magic_moments": [],
-      "strengths": [],
-      "learn_from": [],
-      "strengths_method": null
+      "strengths": [
+        {
+          "title": "Balanced Outcome Distribution",
+          "evidence": "Across 19 team-chapters, Francois-Alexandre distributed outcomes across the full spectrum without clustering in extreme categories, with notably strong representation in positive states (Market Maker: 4, Cool and Collected: 4) while maintaining realistic developmental outcomes (Finding Our Footing: 1, Back to the Drawing Board: 1). This suggests skillful calibration of challenge difficulty and team support."
+        },
+        {
+          "title": "Consistent High Survey Performance",
+          "evidence": "Achieved an average survey score of 4.43 out of 5 across 2 sessions, demonstrating strong participant satisfaction and perceived value delivery despite working across diverse case challenges including complex topics like Influencing Without Authority and Managing Profitability."
+        },
+        {
+          "title": "Versatility Across Distinct Case Challenges",
+          "evidence": "Successfully delivered sessions across three substantively different case challenges (Influencing Without Authority, Kickoff: Shelf Awareness, Managing Profitability), indicating ability to adapt facilitation approach and content expertise across varied business scenarios and learning objectives."
+        }
+      ],
+      "learn_from": [
+        {
+          "peer_name": "Nick White",
+          "area": "Participant Engagement & Risk Reframing",
+          "why": "Nick excels in exceptional participant engagement and reframing risk strategically—areas with thin data for Francois-Alexandre. This would deepen Francois-Alexandre's facilitation toolkit beyond his current balanced outcome focus.",
+          "peer_slug": "nick-white"
+        },
+        {
+          "peer_name": "Tamara Nolte",
+          "area": "Psychological Safety & Concept Translation",
+          "why": "Tamara's strength in creating psychologically safe environments and translating abstract concepts to practical application complements Francois-Alexandre's versatility, helping him develop deeper facilitation dimensions beyond balanced outcomes.",
+          "peer_slug": "tamara-nolte"
+        }
+      ],
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
     },
     {
       "name": "Valérie Scheer",
@@ -490,9 +606,35 @@
         }
       ],
       "magic_moments": [],
-      "strengths": [],
-      "learn_from": [],
-      "strengths_method": null
+      "strengths": [
+        {
+          "title": "Effective Individual Development Facilitation",
+          "evidence": "Across 17 team-chapters, Valérie generated 6 outcomes focused on individual growth (Jordan Steps Up: 4, Jordan Regains Confidence: 2), demonstrating consistent ability to create conditions where team members experience personal breakthroughs and restored confidence."
+        },
+        {
+          "title": "Balanced Outcomes Across Diverse Challenges",
+          "evidence": "Delivered 3 sessions across distinctly different case challenges (Enabling Peak Performance, Kickoff: Shelf Awareness, Navigating Critical Conversations) with a narrative outcome distribution showing no single dominant pattern, indicating adaptability across varied facilitation contexts."
+        },
+        {
+          "title": "Sustained Positive Momentum Generation",
+          "evidence": "Produced 6 forward-momentum outcomes (Full Speed Ahead: 3, Back on Course: 3) out of 17 team-chapters, representing 35% of teams experiencing directional progress or recovery, with only 1 team showing persistent challenges."
+        }
+      ],
+      "learn_from": [
+        {
+          "peer_name": "Tamara Nolte",
+          "area": "Learning Environment Design",
+          "why": "Tamara excels at creating psychologically safe environments and translating abstract concepts to practical application—complementary skills that could enhance Valérie's individual development facilitation approach. Her demonstrated versatility across complex topics could also help Valérie strengthen her facilitation consistency.",
+          "peer_slug": "tamara-nolte"
+        },
+        {
+          "peer_name": "Nick White",
+          "area": "Participant Engagement",
+          "why": "Nick's exceptional participant engagement and strength in reframing challenges as opportunities could deepen Valérie's momentum-building effectiveness. With no survey data for Valérie, learning from Nick's documented engagement mastery would provide valuable insight into participant satisfaction.",
+          "peer_slug": "nick-white"
+        }
+      ],
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
     },
     {
       "name": "Kristen Kramer",
@@ -533,8 +675,21 @@
       ],
       "magic_moments": [],
       "strengths": [],
-      "learn_from": [],
-      "strengths_method": null
+      "learn_from": [
+        {
+          "peer_name": "Tamara Nolte",
+          "area": "Learning Environment & Concept Translation",
+          "why": "With only 2 sessions, Kristen lacks data on creating psychologically safe environments and translating abstract concepts—both core facilitation strengths. Tamara's proven versatility across complex topics would help Kristen develop foundational facilitation competencies.",
+          "peer_slug": "tamara-nolte"
+        },
+        {
+          "peer_name": "Nick White",
+          "area": "Participant Engagement & Real-World Application",
+          "why": "Kristen's thin data (2 sessions, no survey scores) means gaps in engagement tactics and business relevance are unknown. Nick's exceptional engagement skills and real-world application focus would help Kristen build concrete facilitation techniques.",
+          "peer_slug": "nick-white"
+        }
+      ],
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
     },
     {
       "name": "Amy Drozd",
@@ -582,8 +737,21 @@
       ],
       "magic_moments": [],
       "strengths": [],
-      "learn_from": [],
-      "strengths_method": null
+      "learn_from": [
+        {
+          "peer_name": "Tamara Nolte",
+          "area": "Practical Application & Psychological Safety",
+          "why": "With only 2 sessions across case challenges, Amy lacks demonstrated strengths in translating concepts or creating safe learning environments. Tamara excels at both, offering mentorship on engagement depth and versatility across complex topics.",
+          "peer_slug": "tamara-nolte"
+        },
+        {
+          "peer_name": "Francois-Alexandre Leonard",
+          "area": "Consistent Performance & Versatility",
+          "why": "Amy has no survey data and limited session history. Francois-Alexandre demonstrates consistent high performance and versatility across distinct case challenges, providing a model for building reliable facilitation practices.",
+          "peer_slug": "francois-alexandre-leonard"
+        }
+      ],
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
     },
     {
       "name": "Monika Sauer",
@@ -631,8 +799,21 @@
       ],
       "magic_moments": [],
       "strengths": [],
-      "learn_from": [],
-      "strengths_method": null
+      "learn_from": [
+        {
+          "peer_name": "Tamara Nolte",
+          "area": "Learning Environment & Concept Translation",
+          "why": "With only 2 sessions, Monika lacks demonstrated strength data across diverse content and psychological safety creation. Tamara excels at translating abstract concepts and building safe learning environments—foundational skills for developing facilitator versatility.",
+          "peer_slug": "tamara-nolte"
+        },
+        {
+          "peer_name": "Francois-Alexandre Leonard",
+          "area": "Consistent Performance & Survey Credibility",
+          "why": "Monika has no survey data yet; Francois-Alexandre demonstrates consistent high survey performance and versatility across distinct case challenges, providing a model for building credibility and reliability across varied facilitation contexts.",
+          "peer_slug": "francois-alexandre-leonard"
+        }
+      ],
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
     },
     {
       "name": "Tara Layne",
@@ -678,8 +859,21 @@
       ],
       "magic_moments": [],
       "strengths": [],
-      "learn_from": [],
-      "strengths_method": null
+      "learn_from": [
+        {
+          "peer_name": "Tamara Nolte",
+          "area": "Learning Environment & Versatility",
+          "why": "With only 2 sessions across case challenges, Tara Layne needs exposure to facilitators who excel at creating psychologically safe environments and demonstrating versatility across complex topics. Tamara's strength in translating abstract concepts and working across diverse leadership topics provides a strong mentoring model.",
+          "peer_slug": "tamara-nolte"
+        },
+        {
+          "peer_name": "Nick White",
+          "area": "Participant Engagement & Application",
+          "why": "Tara Layne's thin data on engagement impact and real-world application makes Nick White an ideal peer to learn from, given his exceptional participant engagement and strength in reframing challenges as strategic opportunities.",
+          "peer_slug": "nick-white"
+        }
+      ],
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
     },
     {
       "name": "Sara Amighi",
@@ -726,8 +920,21 @@
       ],
       "magic_moments": [],
       "strengths": [],
-      "learn_from": [],
-      "strengths_method": null
+      "learn_from": [
+        {
+          "peer_name": "Tamara Nolte",
+          "area": "Psychological Safety & Concept Translation",
+          "why": "With only 2 sessions and no survey data, Sara lacks demonstrated strength in creating safe learning environments and translating complex ideas—areas where Tamara excels across diverse topics. This pairing would help Sara build foundational facilitation skills.",
+          "peer_slug": "tamara-nolte"
+        },
+        {
+          "peer_name": "Francois-Alexandre Leonard",
+          "area": "Survey Performance & Consistency",
+          "why": "Sara has no survey data yet; Francois-Alexandre shows consistent high survey performance and versatility across distinct case challenges, making him an ideal mentor for establishing strong participant feedback patterns early in Sara's facilitator journey.",
+          "peer_slug": "francois-alexandre-leonard"
+        }
+      ],
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
     },
     {
       "name": "Jonathan Schneider",
@@ -769,8 +976,21 @@
       ],
       "magic_moments": [],
       "strengths": [],
-      "learn_from": [],
-      "strengths_method": null
+      "learn_from": [
+        {
+          "peer_name": "Tamara Nolte",
+          "area": "Practical Application & Psychological Safety",
+          "why": "With only 2 sessions across 1 case challenge, Jonathan lacks demonstrated versatility and depth. Tamara excels at translating abstract concepts into practice and creating safe learning environments—foundational skills that would help Jonathan expand his facilitation toolkit across diverse content and build participant confidence.",
+          "peer_slug": "tamara-nolte"
+        },
+        {
+          "peer_name": "Nick White",
+          "area": "Participant Engagement & Real-World Framing",
+          "why": "Jonathan has minimal survey data and no identified strengths yet. Nick's exceptional engagement skills and ability to reframe risk strategically would provide Jonathan with concrete techniques for building participant buy-in and connecting case challenges to business reality.",
+          "peer_slug": "nick-white"
+        }
+      ],
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
     },
     {
       "name": "Luke Owings",
@@ -819,8 +1039,21 @@
       ],
       "magic_moments": [],
       "strengths": [],
-      "learn_from": [],
-      "strengths_method": null
+      "learn_from": [
+        {
+          "peer_name": "Tamara Nolte",
+          "area": "Learning Environment Design",
+          "why": "With only 2 sessions, Luke lacks demonstrated strength data across diverse content and psychological safety creation. Tamara excels at translating abstract concepts and creating safe learning environments—foundational skills that would help Luke develop more consistent facilitation across varied case challenges.",
+          "peer_slug": "tamara-nolte"
+        },
+        {
+          "peer_name": "Nick White",
+          "area": "Participant Engagement",
+          "why": "Luke has minimal survey feedback to assess engagement quality. Nick's demonstrated exceptional participant engagement and ability to reframe risk strategically would provide Luke with concrete techniques for building momentum and deepening participant investment early in his facilitation journey.",
+          "peer_slug": "nick-white"
+        }
+      ],
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
     },
     {
       "name": "Nelson Gayton",
@@ -849,8 +1082,21 @@
       ],
       "magic_moments": [],
       "strengths": [],
-      "learn_from": [],
-      "strengths_method": null
+      "learn_from": [
+        {
+          "peer_name": "Tamara Nolte",
+          "area": "Practical Application & Psychological Safety",
+          "why": "With only 1 session, Nelson lacks demonstrated strength in translating concepts or building safe learning environments. Tamara excels at both, providing complementary expertise in foundational facilitation skills.",
+          "peer_slug": "tamara-nolte"
+        },
+        {
+          "peer_name": "Nick White",
+          "area": "Participant Engagement & Real-World Relevance",
+          "why": "Nelson's thin data on engagement and business application can be offset by Nick's exceptional track record in participant engagement and reframing challenges as strategic opportunities.",
+          "peer_slug": "nick-white"
+        }
+      ],
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
     },
     {
       "name": "Rohit Shyam",
@@ -879,8 +1125,21 @@
       ],
       "magic_moments": [],
       "strengths": [],
-      "learn_from": [],
-      "strengths_method": null
+      "learn_from": [
+        {
+          "peer_name": "Tamara Nolte",
+          "area": "Practical Application & Psychological Safety",
+          "why": "With only 1 session, Rohit lacks demonstrated strengths in translating concepts or creating safe learning environments. Tamara excels at both, offering mentorship on foundational facilitation skills that enable participant engagement.",
+          "peer_slug": "tamara-nolte"
+        },
+        {
+          "peer_name": "Nick White",
+          "area": "Participant Engagement & Real-World Framing",
+          "why": "Rohit has no survey data or documented strengths yet. Nick's proven ability to drive exceptional engagement and reframe challenges strategically would provide Rohit with observable facilitation techniques to develop early momentum.",
+          "peer_slug": "nick-white"
+        }
+      ],
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
     },
     {
       "name": "Angie Bealko",
@@ -909,8 +1168,21 @@
       ],
       "magic_moments": [],
       "strengths": [],
-      "learn_from": [],
-      "strengths_method": null
+      "learn_from": [
+        {
+          "peer_name": "Tamara Nolte",
+          "area": "Learning Environment & Versatility",
+          "why": "With only 1 session, Angie lacks demonstrated versatility across case challenges and data on her ability to create psychologically safe environments. Tamara excels in both areas and can model how to translate concepts practically while building trust across diverse learner groups.",
+          "peer_slug": "tamara-nolte"
+        },
+        {
+          "peer_name": "Nick White",
+          "area": "Participant Engagement",
+          "why": "Angie has no survey data yet to assess satisfaction or engagement impact. Nick's exceptional participant engagement and real-world business application skills can help Angie develop techniques to strengthen participant buy-in and outcomes early in her facilitation journey.",
+          "peer_slug": "nick-white"
+        }
+      ],
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
     },
     {
       "name": "Rebecca Kaloo",
@@ -942,8 +1214,21 @@
       ],
       "magic_moments": [],
       "strengths": [],
-      "learn_from": [],
-      "strengths_method": null
+      "learn_from": [
+        {
+          "peer_name": "Tamara Nolte",
+          "area": "Learning Environment & Versatility",
+          "why": "With only 1 session, Rebecca lacks data on her ability to create psychologically safe spaces and handle diverse topics. Tamara excels in both areas and can model how to translate abstract concepts into practical application across multiple case challenges.",
+          "peer_slug": "tamara-nolte"
+        },
+        {
+          "peer_name": "Nick White",
+          "area": "Participant Engagement",
+          "why": "Rebecca has no survey data to assess her engagement impact. Nick's exceptional participant engagement and real-world application skills can provide Rebecca with concrete facilitation techniques to build confidence and gather stronger feedback.",
+          "peer_slug": "nick-white"
+        }
+      ],
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
     },
     {
       "name": "Diana Pavlovská",
@@ -977,8 +1262,21 @@
       ],
       "magic_moments": [],
       "strengths": [],
-      "learn_from": [],
-      "strengths_method": null
+      "learn_from": [
+        {
+          "peer_name": "Tamara Nolte",
+          "area": "Practical Application & Safety",
+          "why": "With only 1 session, Diana lacks demonstrated strength in translating concepts to practice or creating psychologically safe environments. Tamara excels in both areas and spans multiple complex topics, making her ideal for broadening Diana's facilitation toolkit.",
+          "peer_slug": "tamara-nolte"
+        },
+        {
+          "peer_name": "Nick White",
+          "area": "Participant Engagement",
+          "why": "Diana has no survey data or engagement metrics yet. Nick's exceptional participant engagement and real-world business application skills would help Diana develop the participant connection and practical grounding that are critical for early-stage facilitator growth.",
+          "peer_slug": "nick-white"
+        }
+      ],
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
     },
     {
       "name": "Matt Rubins",
@@ -1009,9 +1307,31 @@
         }
       ],
       "magic_moments": [],
-      "strengths": [],
-      "learn_from": [],
-      "strengths_method": null
+      "strengths": [
+        {
+          "title": "Strong Participant Engagement and Satisfaction",
+          "evidence": "Achieved an average survey score of 4.50/5.0 across sessions, indicating participants found the facilitation highly valuable and engaging."
+        },
+        {
+          "title": "Solid Team Learning Outcomes",
+          "evidence": "Teams averaged a score of 82 across 8 team-chapters, with a majority of narrative outcomes (5 out of 8) rated as 'A Promising Direction,' demonstrating effective knowledge transfer and positive team progression."
+        }
+      ],
+      "learn_from": [
+        {
+          "peer_name": "Nick White",
+          "area": "Engagement & Real-World Application",
+          "why": "Nick excels in exceptional participant engagement (matching Matt's strength) while adding expertise in reframing risk and real-world business application—areas where Matt's thin data (1 session) leaves room to deepen facilitation toolkit.",
+          "peer_slug": "nick-white"
+        },
+        {
+          "peer_name": "Tamara Nolte",
+          "area": "Psychological Safety & Versatility",
+          "why": "Tamara's strength in creating psychologically safe learning environments and translating abstract concepts complements Matt's engagement focus, while her versatility across complex leadership topics addresses gaps in Matt's limited case challenge exposure.",
+          "peer_slug": "tamara-nolte"
+        }
+      ],
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
     },
     {
       "name": "Melissa Chan",
@@ -1044,9 +1364,31 @@
         }
       ],
       "magic_moments": [],
-      "strengths": [],
-      "learn_from": [],
-      "strengths_method": null
+      "strengths": [
+        {
+          "title": "Strong Participant Satisfaction",
+          "evidence": "Achieved an average survey score of 4.50/5.0 across sessions, indicating consistently high satisfaction with facilitation quality and delivery."
+        },
+        {
+          "title": "Effective Team Performance in Business Simulation",
+          "evidence": "6 out of 8 teams (75%) under Melissa's facilitation reached Market Maker or Gaining Traction outcomes, demonstrating strong capability to guide teams toward successful profitability management and business growth."
+        }
+      ],
+      "learn_from": [
+        {
+          "peer_name": "Tamara Nolte",
+          "area": "Learning Environment & Versatility",
+          "why": "Tamara excels at creating psychologically safe environments and demonstrates versatility across complex leadership topics, which would help Melissa expand beyond her single case challenge and deepen facilitation depth.",
+          "peer_slug": "tamara-nolte"
+        },
+        {
+          "peer_name": "Nick White",
+          "area": "Participant Engagement",
+          "why": "Nick's exceptional participant engagement and real-world business application skills complement Melissa's satisfaction strength, offering techniques to deepen participant involvement in business simulations.",
+          "peer_slug": "nick-white"
+        }
+      ],
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments."
     }
   ]
 }
