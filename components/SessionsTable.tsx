@@ -16,6 +16,9 @@ export interface SessionRow {
   players_per_team: number | null
   facilitators: string | null
   producers: string | null
+  has_runsheet?: boolean
+  has_survey?: boolean
+  has_transcript?: boolean
 }
 
 type SortKey =
@@ -26,6 +29,9 @@ type SortKey =
   | 'program_name'
   | 'facilitators'
   | 'producers'
+  | 'has_runsheet'
+  | 'has_survey'
+  | 'has_transcript'
 
 type SortDir = 'asc' | 'desc'
 
@@ -66,12 +72,19 @@ function compare(a: SessionRow, b: SessionRow, key: SortKey, dir: SortDir): numb
     const bv = b.start_date ? new Date(b.start_date).getTime() : -Infinity
     return (av - bv) * mult
   }
+  if (key === 'has_runsheet' || key === 'has_survey' || key === 'has_transcript') {
+    const av = a[key] ? 1 : 0
+    const bv = b[key] ? 1 : 0
+    return (av - bv) * mult
+  }
   const av = (a[key] ?? '') as string
   const bv = (b[key] ?? '') as string
   return av.localeCompare(bv) * mult
 }
 
-const COLUMNS: { key: SortKey; label: string; align?: 'right' }[] = [
+type Align = 'right' | 'center'
+
+const COLUMNS: { key: SortKey; label: string; align?: Align }[] = [
   { key: 'case_challenge', label: 'Case Challenge' },
   { key: 'session_name', label: 'Session' },
   { key: 'start_date', label: 'Date' },
@@ -79,7 +92,15 @@ const COLUMNS: { key: SortKey; label: string; align?: 'right' }[] = [
   { key: 'program_name', label: 'Program' },
   { key: 'facilitators', label: 'Facilitator' },
   { key: 'producers', label: 'Producer' },
+  { key: 'has_runsheet', label: 'Runsheet', align: 'center' },
+  { key: 'has_survey', label: 'Survey', align: 'center' },
+  { key: 'has_transcript', label: 'Transcript', align: 'center' },
 ]
+
+function YesNo({ value }: { value: boolean | undefined }) {
+  if (value) return <span className="text-[#34d399] text-base leading-none">✓</span>
+  return <span className="text-[#475569]">—</span>
+}
 
 export default function SessionsTable({ rows }: { rows: SessionRow[] }) {
   const [search, setSearch] = useState('')
@@ -211,7 +232,7 @@ export default function SessionsTable({ rows }: { rows: SessionRow[] }) {
                     key={col.key}
                     onClick={() => toggleSort(col.key)}
                     className={`font-medium px-4 py-3 cursor-pointer hover:text-[#e2e8f0] ${
-                      col.align === 'right' ? 'text-right' : 'text-left'
+                      col.align === 'right' ? 'text-right' : col.align === 'center' ? 'text-center' : 'text-left'
                     }`}
                   >
                     <span className="inline-flex items-center gap-1">
@@ -242,6 +263,9 @@ export default function SessionsTable({ rows }: { rows: SessionRow[] }) {
                 </td>
                 <td className="px-4 py-3 text-[#cbd5e1]">{r.facilitators ?? '—'}</td>
                 <td className="px-4 py-3 text-[#94a3b8]">{r.producers ?? '—'}</td>
+                <td className="px-4 py-3 text-center"><YesNo value={r.has_runsheet} /></td>
+                <td className="px-4 py-3 text-center"><YesNo value={r.has_survey} /></td>
+                <td className="px-4 py-3 text-center"><YesNo value={r.has_transcript} /></td>
               </tr>
             ))}
             {sorted.length === 0 && (
