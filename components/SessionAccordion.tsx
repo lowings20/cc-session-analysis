@@ -74,15 +74,24 @@ function SessionItem({ session, ccData, runsheetSegments }: ItemProps) {
   const hasActivity = !!ccData
   const hasScoring = !!ccData && Object.keys(ccData.team_results_for_viewed_chapter).length > 0
 
+  // Is this session in the future?
+  const isFuture = (() => {
+    if (!session.start_date) return false
+    return new Date(session.start_date).getTime() > Date.now()
+  })()
+
   return (
-    <div className="rounded-lg border border-[#1e293b] bg-[#0f172a] overflow-hidden">
+    <div className={`rounded-lg border border-[#1e293b] overflow-hidden ${isFuture ? 'bg-[#0a121f] opacity-70' : 'bg-[#0f172a]'}`}>
       <button
         type="button"
-        onClick={() => setOpen((v) => !v)}
-        className="w-full flex items-center justify-between gap-4 px-5 py-4 hover:bg-[#131e2e] transition-colors text-left"
+        onClick={() => !isFuture && setOpen((v) => !v)}
+        disabled={isFuture}
+        className={`w-full flex items-center justify-between gap-4 px-5 py-4 text-left ${
+          isFuture ? 'cursor-not-allowed' : 'hover:bg-[#131e2e] transition-colors'
+        }`}
       >
         <div className="flex items-center gap-3 min-w-0">
-          <span className="text-[#475569] text-xs">{open ? '▼' : '▶'}</span>
+          <span className="text-[#475569] text-xs">{isFuture ? '·' : open ? '▼' : '▶'}</span>
           <div className="min-w-0">
             <div className="text-sm font-medium text-[#e2e8f0] truncate">{session.program_name}</div>
             <div className="text-[11px] text-[#94a3b8] mt-0.5 flex flex-wrap items-center gap-x-3">
@@ -101,13 +110,21 @@ function SessionItem({ session, ccData, runsheetSegments }: ItemProps) {
           </div>
         </div>
         <div className="flex items-center gap-2 flex-shrink-0">
-          <StatusPill ok={hasSurvey} label="Survey" />
-          <StatusPill ok={hasActivity} label="Activity" />
-          <StatusPill ok={hasScoring} label="Scoring" />
+          {isFuture ? (
+            <span className="text-[9px] px-2 py-0.5 rounded uppercase tracking-wider bg-[#1e293b] text-[#94a3b8] border border-[#334155]">
+              Scheduled
+            </span>
+          ) : (
+            <>
+              <StatusPill ok={hasSurvey} label="Survey" />
+              <StatusPill ok={hasActivity} label="Activity" />
+              <StatusPill ok={hasScoring} label="Scoring" />
+            </>
+          )}
         </div>
       </button>
 
-      {open && (
+      {open && !isFuture && (
         <div className="border-t border-[#1e293b] px-5 py-5 space-y-1">
           <SectionDivider label="Survey" />
           <SurveyBlock session={session} />
