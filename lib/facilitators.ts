@@ -40,6 +40,7 @@ export interface FacilitatorArrowData {
 export interface FacilitatorProfile {
   name: string
   slug: string
+  has_transcripts?: boolean
   session_count: number
   case_challenges: string[]
   avg_survey_score: number | null

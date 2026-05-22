@@ -1,10 +1,12 @@
 import Link from 'next/link'
 import { getSessions, formatSnapshotDate } from '@/lib/sessions'
 import { getCaseChallenges } from '@/lib/case-challenges'
+import { getAllMagicMoments } from '@/lib/magic-moments'
 
 export default function CaseChallengesPage() {
   const data = getSessions()
   const cases = getCaseChallenges().cases
+  const magicByCase = getAllMagicMoments().by_case_challenge
 
   const tiles = cases.map((c) => ({
     name: c.case_challenge,
@@ -12,6 +14,7 @@ export default function CaseChallengesPage() {
     urlKey: c.url_key,
     imageUrl: c.imageUrl,
     count: c.session_count,
+    magicCount: (magicByCase[c.case_challenge] ?? []).length,
   }))
 
   return (
@@ -36,6 +39,15 @@ export default function CaseChallengesPage() {
             className="relative rounded-lg border border-[#1e293b] bg-[#0f172a] hover:border-[#334155] hover:bg-[#131e2e] transition-colors px-5 py-6 min-h-[120px] block"
           >
             <div className="text-base font-medium text-[#e2e8f0] pr-12">{t.displayName}</div>
+            {t.magicCount > 0 && (
+              <div
+                title={`${t.magicCount} magic moment${t.magicCount === 1 ? '' : 's'}`}
+                className="absolute top-3 right-4 text-[#a78bfa] text-sm leading-none"
+              >
+                ✨
+                <span className="ml-1 text-[10px] text-[#94a3b8] tabular-nums align-middle">{t.magicCount}</span>
+              </div>
+            )}
             <div className="absolute bottom-3 right-4 text-3xl font-semibold text-[#a78bfa] tabular-nums leading-none">
               {t.count}
             </div>

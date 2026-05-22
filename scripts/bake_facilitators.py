@@ -22,6 +22,20 @@ def split_names(s):
 sessions = json.load(open("app/data/sessions.json"))["rows"]
 magic = json.load(open("app/data/magic-moments.json"))["by_case_challenge"]
 
+# Preserve previously-baked Arrow data + LLM strengths/learn_from
+prev_by_slug = {}
+prev_path = Path("app/data/facilitators.json")
+if prev_path.exists():
+    prev = json.load(open(prev_path))
+    for f in prev.get("facilitators", []):
+        prev_by_slug[f["slug"]] = f
+
+# Facilitators known to have at least one Zoom transcript in /0_Sessions/
+FACILITATORS_WITH_TRANSCRIPTS = {
+    "Nick White", "Tamara Nolte", "Tara Layne", "Rebecca Kaloo",
+    "Angie Bealko", "Luke Owings",
+}
+
 # Load cc session JSONs to get team-level data
 cc_data_by_session_id = {}
 for f in glob.glob("app/data/sessions/*.json"):
@@ -79,9 +93,11 @@ for cc_name, moments in magic.items():
 out = []
 for name, d in sorted(facs.items(), key=lambda x: -len(x[1]["sessions"])):
     d["sessions"].sort(key=lambda s: (s["start_date"] or ""), reverse=True)
+    prev = prev_by_slug.get(d["slug"], {})
     out.append({
         "name": name,
         "slug": d["slug"],
+        "has_transcripts": name in FACILITATORS_WITH_TRANSCRIPTS,
         "session_count": len(d["sessions"]),
         "case_challenges": sorted(d["cases"]),
         "avg_survey_score": (sum(d["survey_scores"])/len(d["survey_scores"])) if d["survey_scores"] else None,
@@ -91,9 +107,10 @@ for name, d in sorted(facs.items(), key=lambda x: -len(x[1]["sessions"])):
         "narrative_outcomes": dict(d["narrative_outcomes"]),
         "sessions": d["sessions"],
         "magic_moments": d["magic_moments"],
-        "strengths": [],          # LLM-filled
-        "learn_from": [],         # LLM-filled
-        "strengths_method": None, # LLM-filled
+        "strengths": prev.get("strengths") or [],          # preserve LLM output
+        "learn_from": prev.get("learn_from") or [],        # preserve LLM output
+        "strengths_method": prev.get("strengths_method"),
+        "arrow": prev.get("arrow"),                        # preserve Arrow aggregates
     })
 
 payload = {

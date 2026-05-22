@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T00:00:00.000Z",
+  "generated_at": "2026-05-21T00:00:00.000Z",
   "source": "Hand-curated from Zoom transcripts in /Users/lukeowings/Desktop/0_Sessions. Each moment was selected from a facilitator's spoken cues by reading candidate excerpts surfaced by scripts/find_magic_candidates.py.",
   "by_case_challenge": {
     "Managing Profitability": [
@@ -60,10 +60,106 @@
         "facilitator": "Nick White",
         "session_label": "BD EMEA LEAPI · April 1, 2026",
         "timestamp": "00:11:55",
-        "transcript_path": "Kickoff/Kickoff_Louis-04.01.26-Nick/GMT20260401-080436_Recording.transcript (2).vtt",
+        "transcript_path": "Kickoff - Shelf Awareness/Kickoff_Louis-04.01.26-Nick/GMT20260401-080436_Recording.transcript (2).vtt",
         "context": "Opening of the kickoff program",
         "quote": "We believe in bringing the real world in. So, we're gonna try and bring in as much of the real world as possible. Relate what we're learning back to BD. This is actually quite a challenging way of learning. It's actually a really powerful way of learning, because…",
         "why_magic": "Right at the start of the program, Nick sets the contract: the cases will feel uncomfortable because they're trying to mirror BD's real complexity, and that discomfort is the point. Participants who buy into that contract in minute 11 engage differently for the rest of the journey."
+      }
+    ],
+    "Kickoff: Get the Message?": [
+      {
+        "id": "tara-may5-thinking-partner",
+        "facilitator": "Tara Layne",
+        "session_label": "Kickoff Get the Message? · May 5, 2026",
+        "timestamp": "00:03:28",
+        "transcript_path": "Kickoff - Get the Message/05.05.26 - Kickoff GTM - Tara/GMT20260505-151546_Recording.transcript.vtt",
+        "context": "Setting up Jamie, the first AI character participants will meet",
+        "quote": "Your interaction is going to be your live conversation with Jamie. You'll be able to ask questions, explore what's really going on, and help her think through the options. So, in this opportunity to learn, it is thinking alongside a peer around how to approach this problem of a culture of always-on.",
+        "why_magic": "Tara frames the AI character as a thinking partner, not a chatbot to interrogate. That micro-reframe — peer vs. quiz — sets a different tone for the whole conversation that follows."
+      },
+      {
+        "id": "tara-may5-instincts-and-lessons",
+        "facilitator": "Tara Layne",
+        "session_label": "Kickoff Get the Message? · May 5, 2026",
+        "timestamp": "00:04:20",
+        "transcript_path": "Kickoff - Get the Message/05.05.26 - Kickoff GTM - Tara/GMT20260505-151546_Recording.transcript.vtt",
+        "context": "Briefing teams just before they go into the breakout",
+        "quote": "What you're gonna do in this conversation is pull on your natural instincts, your experiences as a leader, but then also draw from some of your learning from Leading with Impact.",
+        "why_magic": "She links the AI conversation to two anchors at once: lived experience and prior program content. Participants who hold both at the same time give Jamie better counsel — and they discover something about their own decision-making in the process."
+      }
+    ],
+    "Leading in Times of Change": [
+      {
+        "id": "luke-apr30-staying-authentic",
+        "facilitator": "Luke Owings",
+        "session_label": "Thrive Brands · April 30, 2026",
+        "timestamp": "00:01:47",
+        "transcript_path": "LITOC/LITOC-04.30.26-Paul/GMT20260430-151446_Recording.transcript.vtt",
+        "context": "Just after the opening question to participants about authenticity during change",
+        "quote": "I see a lot of nods from around the room, so it sounds like it resonates. It's a really hard situation, and it's very hard to stay authentic, to stay clear as things are changing around us. So we're gonna try to get some tools around that, we're gonna get some practice around it, and get some conversation around that.",
+        "why_magic": "Luke validates a shared hard truth before introducing any framework. Participants feel seen first; then the tools land on a primed audience instead of a defensive one."
+      },
+      {
+        "id": "tara-may12-loss-of-boss",
+        "facilitator": "Tara Layne",
+        "session_label": "LITOC · May 12, 2026",
+        "timestamp": "00:18:14",
+        "transcript_path": "LITOC/LITOC - 05.12.26 - Tara/GMT20260512-145908_Recording.transcript.vtt",
+        "context": "Sharing a personal leadership story during the framing chapter",
+        "quote": "The abrupt loss of a boss was more deeply emotional than I initially anticipated, and so I took a moment, and just sat with everybody, one-on-one, and heard them. And that was the most important thing to do.",
+        "why_magic": "Tara models the move she's asking participants to practice — slow down, sit with people, lead emotionally — by telling on herself first. Vulnerability from the facilitator earns vulnerability from the room."
+      },
+      {
+        "id": "tara-may12-strategic-and-human",
+        "facilitator": "Tara Layne",
+        "session_label": "LITOC · May 12, 2026",
+        "timestamp": "01:59:21",
+        "transcript_path": "LITOC/LITOC - 05.12.26 - Tara/GMT20260512-145908_Recording.transcript.vtt",
+        "context": "Closing debrief reflection",
+        "quote": "The real human component of this is difficult to bring into play when you're dealing with non-humans. A huge strength across the board was you all were really being strategic around the additional capabilities that were possible through this reorg, and really being able to connect and align the operations.",
+        "why_magic": "She holds two truths together: the AI conversation is necessarily limited on human-ness, AND the participants were strategic in spite of that. The debrief gives credit and surfaces the limit of the modality in the same breath."
+      },
+      {
+        "id": "rebecca-may14-why-leadership-matters",
+        "facilitator": "Rebecca Kaloo",
+        "session_label": "RBI DC 2026 C1 · May 14, 2026",
+        "timestamp": "00:00:49",
+        "transcript_path": "LITOC/LITOC - 05.14-26 - Rebecca Kaloo/GMT20260514-141059_Recording.transcript.vtt",
+        "context": "Opening minute of the session",
+        "quote": "What absolutely fascinates me is that, despite having fantastic strategies, despite having really great grip on the numbers, actually, for organisations to do their really best work — to be able to grow in the ambitious way that you want to be growing — requires fantastic leadership skills.",
+        "why_magic": "Rebecca opens with curiosity rather than authority — \"what fascinates me\" — and lands the case for leadership as the limiting reagent. She makes the rest of the session feel like an exploration she's hosting, not a lecture she's delivering."
+      },
+      {
+        "id": "rebecca-may14-perspective-exchange",
+        "facilitator": "Rebecca Kaloo",
+        "session_label": "RBI DC 2026 C1 · May 14, 2026",
+        "timestamp": "00:46:55",
+        "transcript_path": "LITOC/LITOC - 05.14-26 - Rebecca Kaloo/GMT20260514-141059_Recording.transcript.vtt",
+        "context": "Debrief after the second breakout — calling out peer learning",
+        "quote": "That idea of exchanging perspectives, and just how powerful and really useful it is to get those different perspectives and have that challenge as well. Leslie, I can see you were nodding along there, so I'm gonna drag you in…",
+        "why_magic": "Rebecca catches a moment of peer learning happening in real time and elevates it as the lesson. The drag-Leslie-in move is what separates a facilitator from a presenter — she runs toward the energy in the room."
+      }
+    ],
+    "Shifting Mindsets and Behaviors": [
+      {
+        "id": "angie-may21-your-world",
+        "facilitator": "Angie Bealko",
+        "session_label": "Kraft Heinz WE Network · May 21, 2026",
+        "timestamp": "00:09:25",
+        "transcript_path": "SMB/05.21.2026 - SMB - Angie/GMT20260521-130032_Recording.transcript.vtt",
+        "context": "Opening framing, after participants introduce themselves",
+        "quote": "We're trying to relate to your world, right? I have not been in capabilities and learning, your team, but I'm really excited to have you here. My goal is to help you think about how you're influencing others as well.",
+        "why_magic": "Angie names the gap — she's not from their function — and turns it into a contract. Her job isn't to teach their domain back to them; it's to help them notice their own influence patterns. That clarity changes how participants engage with the case content."
+      },
+      {
+        "id": "angie-may21-real-life",
+        "facilitator": "Angie Bealko",
+        "session_label": "Kraft Heinz WE Network · May 21, 2026",
+        "timestamp": "00:22:23",
+        "transcript_path": "SMB/05.21.2026 - SMB - Angie/GMT20260521-130032_Recording.transcript.vtt",
+        "context": "Just before launching the first breakout",
+        "quote": "Think about the resistance you might be feeling … and in real life, think about the situations you've dealt with.",
+        "why_magic": "She bridges the simulated resistance to their lived experience in a single line. Participants who anchor the case in real situations from their job give better counsel inside the case and walk away with more transferable insight."
       }
     ]
   }
