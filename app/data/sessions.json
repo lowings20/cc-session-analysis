@@ -123,6 +123,26 @@
       "survey_response_count": null
     },
     {
+      "session_id": 22509,
+      "session_uuid": "94310ef1-42e4-4d16-ad98-cd48473df252",
+      "session_name": "Case Challenge: Shifting Mindsets and Behaviors",
+      "start_date": "2026-05-21T13:00:00.000Z",
+      "program_id": 10479,
+      "program_name": "KraftHeinz:CC_PlaySession_May26",
+      "program_uuid": "f2f69b52-e238-4cd6-88b8-0b040d12e577",
+      "case_challenge": "Shifting Mindsets and Behaviors",
+      "number_of_teams": 10,
+      "players_per_team": 2,
+      "facilitators": "Angie Bealko",
+      "producers": "Trazana Bush",
+      "has_survey": false,
+      "has_transcript": false,
+      "runsheet_version": "v26.03.05",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
+    },
+    {
       "session_id": 14363,
       "session_uuid": "422a6498-ba5d-4197-8e74-b56f60054a03",
       "session_name": "Case Challenge: Influencing Without Authority",

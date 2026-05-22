@@ -39,4 +39,5 @@ export const SESSION_REGISTRY: Record<number, () => Promise<{ default: CcSession
   19704: () => import('@/app/data/sessions/19704.json') as unknown as Promise<{ default: CcSessionData }>,
   20108: () => import('@/app/data/sessions/20108.json') as unknown as Promise<{ default: CcSessionData }>,
   22047: () => import('@/app/data/sessions/22047.json') as unknown as Promise<{ default: CcSessionData }>,
+  22509: () => import('@/app/data/sessions/22509.json') as unknown as Promise<{ default: CcSessionData }>,
 }

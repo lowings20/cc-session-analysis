@@ -1,0 +1,1746 @@
+{
+  "session_arrow_id": 22509,
+  "session_cc_uuid": "514c90a9-7a44-4a6a-bd0f-7e519901bb3c",
+  "case_challenge": "Shifting Mindsets and Behaviors",
+  "case_challenge_id": "25b3ea0c-f5c9-46a8-9a8d-a8c9cd083572",
+  "viewed_chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+  "extracted_at": "2026-05-20T00:00:00.000Z",
+  "source_url": "https://kraftheinz3.abilitie.com/facilitator/514c90a9-7a44-4a6a-bd0f-7e519901bb3c",
+  "tenant_dns": "kraftheinz3.abilitie.com",
+  "chapters": [
+    {
+      "id": "82919bde-7e61-4994-8a41-e0266b38618c",
+      "title": "Chapter 1",
+      "order": 1,
+      "duration_min": 6,
+      "blocks": 1
+    },
+    {
+      "id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "title": "Chapter 2",
+      "order": 2,
+      "duration_min": 20,
+      "blocks": 0
+    },
+    {
+      "id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "title": "Chapter 3",
+      "order": 3,
+      "duration_min": 20,
+      "blocks": 0
+    }
+  ],
+  "teams": [
+    {
+      "id": "d8fe659c-5d35-4816-80d6-ed55ae32a9df",
+      "name": "XRY6292",
+      "icon": "⚡",
+      "group_letter": "3"
+    },
+    {
+      "id": "2b697fee-9f5c-4ea0-9eb8-981c23d6b2b5",
+      "name": "Ketch us if you can!",
+      "icon": "🦈",
+      "group_letter": "5"
+    },
+    {
+      "id": "7ede1907-40f9-4655-83a6-c17166b01d7f",
+      "name": "Lumen Leaders",
+      "icon": "🏆",
+      "group_letter": "4"
+    },
+    {
+      "id": "dd56fe9b-0faa-4f41-8ddd-db25283dd9c1",
+      "name": "Tastemakers",
+      "icon": "🍜",
+      "group_letter": "2"
+    },
+    {
+      "id": "92637b21-6b9a-4c64-93df-eaa83da95651",
+      "name": "The Redhead Roundtable",
+      "icon": "🔥",
+      "group_letter": "6"
+    },
+    {
+      "id": "5e10071a-3ab0-4919-a79d-1939790c91e8",
+      "name": "Team XRY6291",
+      "icon": "🚀",
+      "group_letter": "1"
+    },
+    {
+      "id": "d1c419c9-89bf-4bf8-bae6-7f3c97a987eb",
+      "name": "KH Winners",
+      "icon": "🏆",
+      "group_letter": "7"
+    }
+  ],
+  "team_results_for_viewed_chapter": {
+    "d8fe659c-5d35-4816-80d6-ed55ae32a9df": {
+      "completed_block_count": 3,
+      "opened_block_count": 14,
+      "score": 58,
+      "narrative_outcome": "Signs of Strain"
+    },
+    "2b697fee-9f5c-4ea0-9eb8-981c23d6b2b5": {
+      "completed_block_count": 3,
+      "opened_block_count": 13,
+      "score": 54,
+      "narrative_outcome": "Signs of Strain"
+    },
+    "7ede1907-40f9-4655-83a6-c17166b01d7f": {
+      "completed_block_count": 3,
+      "opened_block_count": 14,
+      "score": 67,
+      "narrative_outcome": "Signs of Strain"
+    },
+    "dd56fe9b-0faa-4f41-8ddd-db25283dd9c1": {
+      "completed_block_count": 3,
+      "opened_block_count": 12,
+      "score": 53,
+      "narrative_outcome": "Signs of Strain"
+    },
+    "92637b21-6b9a-4c64-93df-eaa83da95651": {
+      "completed_block_count": 3,
+      "opened_block_count": 12,
+      "score": 46,
+      "narrative_outcome": "Crash Out"
+    },
+    "5e10071a-3ab0-4919-a79d-1939790c91e8": {
+      "completed_block_count": 3,
+      "opened_block_count": 14,
+      "score": 62,
+      "narrative_outcome": "Signs of Strain"
+    },
+    "d1c419c9-89bf-4bf8-bae6-7f3c97a987eb": {
+      "completed_block_count": 3,
+      "opened_block_count": 14,
+      "score": 55,
+      "narrative_outcome": "Signs of Strain"
+    }
+  },
+  "team_results_by_chapter": {
+    "82919bde-7e61-4994-8a41-e0266b38618c": {},
+    "ad460970-2521-46ec-b8f1-a38b84ad2a0c": {},
+    "79f1e087-7861-439a-ad08-64f6b5700672": {
+      "d8fe659c-5d35-4816-80d6-ed55ae32a9df": {
+        "completed_block_count": 3,
+        "opened_block_count": 14,
+        "score": 58,
+        "narrative_outcome": "Signs of Strain"
+      },
+      "2b697fee-9f5c-4ea0-9eb8-981c23d6b2b5": {
+        "completed_block_count": 3,
+        "opened_block_count": 13,
+        "score": 54,
+        "narrative_outcome": "Signs of Strain"
+      },
+      "7ede1907-40f9-4655-83a6-c17166b01d7f": {
+        "completed_block_count": 3,
+        "opened_block_count": 14,
+        "score": 67,
+        "narrative_outcome": "Signs of Strain"
+      },
+      "dd56fe9b-0faa-4f41-8ddd-db25283dd9c1": {
+        "completed_block_count": 3,
+        "opened_block_count": 12,
+        "score": 53,
+        "narrative_outcome": "Signs of Strain"
+      },
+      "92637b21-6b9a-4c64-93df-eaa83da95651": {
+        "completed_block_count": 3,
+        "opened_block_count": 12,
+        "score": 46,
+        "narrative_outcome": "Crash Out"
+      },
+      "5e10071a-3ab0-4919-a79d-1939790c91e8": {
+        "completed_block_count": 3,
+        "opened_block_count": 14,
+        "score": 62,
+        "narrative_outcome": "Signs of Strain"
+      },
+      "d1c419c9-89bf-4bf8-bae6-7f3c97a987eb": {
+        "completed_block_count": 3,
+        "opened_block_count": 14,
+        "score": 55,
+        "narrative_outcome": "Signs of Strain"
+      }
+    }
+  },
+  "team_analyses_for_viewed_chapter": {
+    "d8fe659c-5d35-4816-80d6-ed55ae32a9df": {
+      "teamId": "d8fe659c-5d35-4816-80d6-ed55ae32a9df",
+      "teamName": "XRY6292",
+      "teamIcon": "⚡",
+      "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "lowLabel": "FRAGILE",
+        "highLabel": "STRONG",
+        "scoreLabel": "Team Alignment",
+        "mediumLabel": "EMERGING",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-21T14:42:41.352Z",
+      "score": 58,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540966757-Signs_of_Strain.webp",
+        "story": "One month later... you run two pilots: Marcela rebuilds the Erika pipeline attribution pull in InsightFlow, timing cycle-time deltas, while Sam drafts success metrics and decision gates and pauses one roadmap deliverable. Parallel reporting drops, but templates still feel heavy and edge-case accuracy remains uneven. Adoption rises in pockets, yet trust stays conditional. August sees progress, but notes influence that launches change faster than it stabilizes it.",
+        "title": "Signs of Strain",
+        "description": "InsightFlow technically rolls out, but adoption across the company is uneven. Marcela complies with the new workflow without fully embracing it, while Sam’s concerns are never fully resolved, quietly limiting how much confidence others place in the outputs. August views your leadership as capable but incomplete—effective at launching initiatives, yet less successful at addressing the deeper dynamics that determine long-term health."
+      }
+    },
+    "2b697fee-9f5c-4ea0-9eb8-981c23d6b2b5": {
+      "teamId": "2b697fee-9f5c-4ea0-9eb8-981c23d6b2b5",
+      "teamName": "Ketch us if you can!",
+      "teamIcon": "🦈",
+      "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "lowLabel": "FRAGILE",
+        "highLabel": "STRONG",
+        "scoreLabel": "Team Alignment",
+        "mediumLabel": "EMERGING",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-21T14:42:40.941Z",
+      "score": 54,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540966757-Signs_of_Strain.webp",
+        "story": "One month later... InsightFlow is live, but adoption is uneven. You secure a sandbox and UAT coverage, and some low-risk outputs auto-advance under new SLAs. Still, stage-gated mandatory fields and schema updates lag, so Marcela complies while keeping parallel notes and workarounds. Sam participates in testing yet flags unresolved lineage and validation gaps. August sees progress, but confidence in the system remains conditional and fragile.",
+        "title": "Signs of Strain",
+        "description": "InsightFlow technically rolls out, but adoption across the company is uneven. Marcela complies with the new workflow without fully embracing it, while Sam’s concerns are never fully resolved, quietly limiting how much confidence others place in the outputs. August views your leadership as capable but incomplete—effective at launching initiatives, yet less successful at addressing the deeper dynamics that determine long-term health."
+      }
+    },
+    "7ede1907-40f9-4655-83a6-c17166b01d7f": {
+      "teamId": "7ede1907-40f9-4655-83a6-c17166b01d7f",
+      "teamName": "Lumen Leaders",
+      "teamIcon": "🏆",
+      "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "lowLabel": "FRAGILE",
+        "highLabel": "STRONG",
+        "scoreLabel": "Team Alignment",
+        "mediumLabel": "EMERGING",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-21T14:42:44.399Z",
+      "score": 67,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540966757-Signs_of_Strain.webp",
+        "story": "One month later... you hold the line on “no validation, no source of truth,” but scope freezes slip as other teams push “quick tweaks” back in. Marcela converts two deliverables into InsightFlow yet keeps parallel artifacts when handoffs stay messy. Sam ships a validation gate, though exceptions pile up without clear pipeline ownership. August sees progress, but uneven adoption and lingering ambiguity limit your influence beyond the pilot.",
+        "title": "Signs of Strain",
+        "description": "InsightFlow technically rolls out, but adoption across the company is uneven. Marcela complies with the new workflow without fully embracing it, while Sam’s concerns are never fully resolved, quietly limiting how much confidence others place in the outputs. August views your leadership as capable but incomplete—effective at launching initiatives, yet less successful at addressing the deeper dynamics that determine long-term health."
+      }
+    },
+    "dd56fe9b-0faa-4f41-8ddd-db25283dd9c1": {
+      "teamId": "dd56fe9b-0faa-4f41-8ddd-db25283dd9c1",
+      "teamName": "Tastemakers",
+      "teamIcon": "🍜",
+      "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "lowLabel": "FRAGILE",
+        "highLabel": "STRONG",
+        "scoreLabel": "Team Alignment",
+        "mediumLabel": "EMERGING",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-21T14:42:44.737Z",
+      "score": 53,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540966757-Signs_of_Strain.webp",
+        "story": "One month later... you’ve set weekly check-ins and kept the focus on progress, with Roderick allocated for field mapping and one end-to-end insight handoff. The pilot runs, but duplicate entry persists and cleanup remains higher than promised. Marcela complies within a tight scope and flags the “forever tax” risk. Sam contributes metrics on error rates and cycle time, but continues to caution against scaling before integrations stabilize. August sees partial traction, not durable alignment.",
+        "title": "Signs of Strain",
+        "description": "InsightFlow technically rolls out, but adoption across the company is uneven. Marcela complies with the new workflow without fully embracing it, while Sam’s concerns are never fully resolved, quietly limiting how much confidence others place in the outputs. August views your leadership as capable but incomplete—effective at launching initiatives, yet less successful at addressing the deeper dynamics that determine long-term health."
+      }
+    },
+    "92637b21-6b9a-4c64-93df-eaa83da95651": {
+      "teamId": "92637b21-6b9a-4c64-93df-eaa83da95651",
+      "teamName": "The Redhead Roundtable",
+      "teamIcon": "🔥",
+      "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "lowLabel": "FRAGILE",
+        "highLabel": "STRONG",
+        "scoreLabel": "Team Alignment",
+        "mediumLabel": "EMERGING",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-21T14:42:39.796Z",
+      "score": 46,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1770057159169-Crash_Out.webp",
+        "story": "One month later... you enforce mandatory templates, but teams treat InsightFlow as compliance theater. Marcela logs friction in a shared doc, yet required fields remain bloated and duplicate documentation persists. Sales requests bypass the platform to hit deadlines. You escalate Sam’s concerns, but the definition dictionary and audit trails slip, leaving uneven categorizations and heavy manual cleanup. August sees waning adoption and concludes your rollout lacked influence to stabilize change.",
+        "title": "Crash Out",
+        "description": "InsightFlow loses momentum after the initial rollout, used inconsistently and rarely relied upon for important decisions. Marcela returns to familiar ways of working, reinforcing the perception that the change was optional. Sam’s skepticism goes unaddressed, and never stands fully behind the platform. August concludes that while the initiative had potential, your approach lacked the influence needed to stabilize the system before it stalled."
+      }
+    },
+    "5e10071a-3ab0-4919-a79d-1939790c91e8": {
+      "teamId": "5e10071a-3ab0-4919-a79d-1939790c91e8",
+      "teamName": "Team XRY6291",
+      "teamIcon": "🚀",
+      "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "lowLabel": "FRAGILE",
+        "highLabel": "STRONG",
+        "scoreLabel": "Team Alignment",
+        "mediumLabel": "EMERGING",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-21T14:42:40.210Z",
+      "score": 62,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540966757-Signs_of_Strain.webp",
+        "story": "One month later... you launch a two-week pilot with 30–40% protected time, two check-ins, and a bakeoff scored on time-to-deliver, rework, traceability, and error rates. Marcela runs one project end-to-end and flags double-entry and shifting Sales templates. Sam joins an expert review lane with intake criteria and an SLA, but governance and snapshot/versioning lag, so teams keep parallel reporting. August sees progress, not full alignment.",
+        "title": "Signs of Strain",
+        "description": "InsightFlow technically rolls out, but adoption across the company is uneven. Marcela complies with the new workflow without fully embracing it, while Sam’s concerns are never fully resolved, quietly limiting how much confidence others place in the outputs. August views your leadership as capable but incomplete—effective at launching initiatives, yet less successful at addressing the deeper dynamics that determine long-term health."
+      }
+    },
+    "d1c419c9-89bf-4bf8-bae6-7f3c97a987eb": {
+      "teamId": "d1c419c9-89bf-4bf8-bae6-7f3c97a987eb",
+      "teamName": "KH Winners",
+      "teamIcon": "🏆",
+      "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "lowLabel": "FRAGILE",
+        "highLabel": "STRONG",
+        "scoreLabel": "Team Alignment",
+        "mediumLabel": "EMERGING",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-21T14:42:42.096Z",
+      "score": 55,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540966757-Signs_of_Strain.webp",
+        "story": "One month later... you run the working session and log scenarios, ROI baselines, and a pre-mortem. Marcela delivers a one-pager on canonical schema, versioned transforms, and tight permissions, but several teams keep using their old spreadsheets while waiting for access-control and performance fixes. Sam shares the plan without overselling, so confidence stays cautious. August notes you can launch and coordinate, yet adoption remains uneven and fragile.",
+        "title": "Signs of Strain",
+        "description": "InsightFlow technically rolls out, but adoption across the company is uneven. Marcela complies with the new workflow without fully embracing it, while Sam’s concerns are never fully resolved, quietly limiting how much confidence others place in the outputs. August views your leadership as capable but incomplete—effective at launching initiatives, yet less successful at addressing the deeper dynamics that determine long-term health."
+      }
+    }
+  },
+  "team_analyses_by_chapter": {
+    "82919bde-7e61-4994-8a41-e0266b38618c": {
+      "d8fe659c-5d35-4816-80d6-ed55ae32a9df": {
+        "teamId": "d8fe659c-5d35-4816-80d6-ed55ae32a9df",
+        "teamName": "XRY6292",
+        "teamIcon": "⚡",
+        "chapterId": "82919bde-7e61-4994-8a41-e0266b38618c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-82919bde-7e61-4994-8a41-e0266b38618c/1770734703120-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-21T13:37:08.626Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "2b697fee-9f5c-4ea0-9eb8-981c23d6b2b5": {
+        "teamId": "2b697fee-9f5c-4ea0-9eb8-981c23d6b2b5",
+        "teamName": "Ketch us if you can!",
+        "teamIcon": "🦈",
+        "chapterId": "82919bde-7e61-4994-8a41-e0266b38618c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-82919bde-7e61-4994-8a41-e0266b38618c/1770734703120-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-21T13:37:08.635Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "7ede1907-40f9-4655-83a6-c17166b01d7f": {
+        "teamId": "7ede1907-40f9-4655-83a6-c17166b01d7f",
+        "teamName": "Lumen Leaders",
+        "teamIcon": "🏆",
+        "chapterId": "82919bde-7e61-4994-8a41-e0266b38618c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-82919bde-7e61-4994-8a41-e0266b38618c/1770734703120-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-21T13:37:08.635Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "dd56fe9b-0faa-4f41-8ddd-db25283dd9c1": {
+        "teamId": "dd56fe9b-0faa-4f41-8ddd-db25283dd9c1",
+        "teamName": "Tastemakers",
+        "teamIcon": "🍜",
+        "chapterId": "82919bde-7e61-4994-8a41-e0266b38618c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-82919bde-7e61-4994-8a41-e0266b38618c/1770734703120-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-21T13:37:08.635Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "92637b21-6b9a-4c64-93df-eaa83da95651": {
+        "teamId": "92637b21-6b9a-4c64-93df-eaa83da95651",
+        "teamName": "The Redhead Roundtable",
+        "teamIcon": "🔥",
+        "chapterId": "82919bde-7e61-4994-8a41-e0266b38618c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-82919bde-7e61-4994-8a41-e0266b38618c/1770734703120-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-21T13:37:08.636Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "5e10071a-3ab0-4919-a79d-1939790c91e8": {
+        "teamId": "5e10071a-3ab0-4919-a79d-1939790c91e8",
+        "teamName": "Team XRY6291",
+        "teamIcon": "🚀",
+        "chapterId": "82919bde-7e61-4994-8a41-e0266b38618c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-82919bde-7e61-4994-8a41-e0266b38618c/1770734703120-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-21T13:37:08.636Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "d1c419c9-89bf-4bf8-bae6-7f3c97a987eb": {
+        "teamId": "d1c419c9-89bf-4bf8-bae6-7f3c97a987eb",
+        "teamName": "KH Winners",
+        "teamIcon": "🏆",
+        "chapterId": "82919bde-7e61-4994-8a41-e0266b38618c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-82919bde-7e61-4994-8a41-e0266b38618c/1770734703120-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-21T13:37:08.636Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      }
+    },
+    "ad460970-2521-46ec-b8f1-a38b84ad2a0c": {
+      "d8fe659c-5d35-4816-80d6-ed55ae32a9df": {
+        "teamId": "d8fe659c-5d35-4816-80d6-ed55ae32a9df",
+        "teamName": "XRY6292",
+        "teamIcon": "⚡",
+        "chapterId": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad460970-2521-46ec-b8f1-a38b84ad2a0c/1769632799044-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "UNCLEAR",
+          "highLabel": "EMERGING",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "FRAGILE",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-21T14:02:47.946Z",
+        "score": 64,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "2b697fee-9f5c-4ea0-9eb8-981c23d6b2b5": {
+        "teamId": "2b697fee-9f5c-4ea0-9eb8-981c23d6b2b5",
+        "teamName": "Ketch us if you can!",
+        "teamIcon": "🦈",
+        "chapterId": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad460970-2521-46ec-b8f1-a38b84ad2a0c/1769632799044-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "UNCLEAR",
+          "highLabel": "EMERGING",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "FRAGILE",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-21T14:02:37.099Z",
+        "score": 62,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "7ede1907-40f9-4655-83a6-c17166b01d7f": {
+        "teamId": "7ede1907-40f9-4655-83a6-c17166b01d7f",
+        "teamName": "Lumen Leaders",
+        "teamIcon": "🏆",
+        "chapterId": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad460970-2521-46ec-b8f1-a38b84ad2a0c/1769632799044-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "UNCLEAR",
+          "highLabel": "EMERGING",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "FRAGILE",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-21T14:02:40.854Z",
+        "score": 70,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "dd56fe9b-0faa-4f41-8ddd-db25283dd9c1": {
+        "teamId": "dd56fe9b-0faa-4f41-8ddd-db25283dd9c1",
+        "teamName": "Tastemakers",
+        "teamIcon": "🍜",
+        "chapterId": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad460970-2521-46ec-b8f1-a38b84ad2a0c/1769632799044-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "UNCLEAR",
+          "highLabel": "EMERGING",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "FRAGILE",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-21T14:02:39.491Z",
+        "score": 65,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "92637b21-6b9a-4c64-93df-eaa83da95651": {
+        "teamId": "92637b21-6b9a-4c64-93df-eaa83da95651",
+        "teamName": "The Redhead Roundtable",
+        "teamIcon": "🔥",
+        "chapterId": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad460970-2521-46ec-b8f1-a38b84ad2a0c/1769632799044-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "UNCLEAR",
+          "highLabel": "EMERGING",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "FRAGILE",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-21T14:02:38.992Z",
+        "score": 42,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "5e10071a-3ab0-4919-a79d-1939790c91e8": {
+        "teamId": "5e10071a-3ab0-4919-a79d-1939790c91e8",
+        "teamName": "Team XRY6291",
+        "teamIcon": "🚀",
+        "chapterId": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad460970-2521-46ec-b8f1-a38b84ad2a0c/1769632799044-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "UNCLEAR",
+          "highLabel": "EMERGING",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "FRAGILE",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-21T14:02:34.718Z",
+        "score": 52,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "d1c419c9-89bf-4bf8-bae6-7f3c97a987eb": {
+        "teamId": "d1c419c9-89bf-4bf8-bae6-7f3c97a987eb",
+        "teamName": "KH Winners",
+        "teamIcon": "🏆",
+        "chapterId": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad460970-2521-46ec-b8f1-a38b84ad2a0c/1769632799044-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "UNCLEAR",
+          "highLabel": "EMERGING",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "FRAGILE",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-21T14:02:35.164Z",
+        "score": 62,
+        "analysis": "$18",
+        "narrativeImpact": null
+      }
+    },
+    "79f1e087-7861-439a-ad08-64f6b5700672": {
+      "d8fe659c-5d35-4816-80d6-ed55ae32a9df": {
+        "teamId": "d8fe659c-5d35-4816-80d6-ed55ae32a9df",
+        "teamName": "XRY6292",
+        "teamIcon": "⚡",
+        "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "FRAGILE",
+          "highLabel": "STRONG",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "EMERGING",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-21T14:42:41.352Z",
+        "score": 58,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540966757-Signs_of_Strain.webp",
+          "story": "One month later... you run two pilots: Marcela rebuilds the Erika pipeline attribution pull in InsightFlow, timing cycle-time deltas, while Sam drafts success metrics and decision gates and pauses one roadmap deliverable. Parallel reporting drops, but templates still feel heavy and edge-case accuracy remains uneven. Adoption rises in pockets, yet trust stays conditional. August sees progress, but notes influence that launches change faster than it stabilizes it.",
+          "title": "Signs of Strain",
+          "description": "InsightFlow technically rolls out, but adoption across the company is uneven. Marcela complies with the new workflow without fully embracing it, while Sam’s concerns are never fully resolved, quietly limiting how much confidence others place in the outputs. August views your leadership as capable but incomplete—effective at launching initiatives, yet less successful at addressing the deeper dynamics that determine long-term health."
+        }
+      },
+      "2b697fee-9f5c-4ea0-9eb8-981c23d6b2b5": {
+        "teamId": "2b697fee-9f5c-4ea0-9eb8-981c23d6b2b5",
+        "teamName": "Ketch us if you can!",
+        "teamIcon": "🦈",
+        "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "FRAGILE",
+          "highLabel": "STRONG",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "EMERGING",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-21T14:42:40.941Z",
+        "score": 54,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540966757-Signs_of_Strain.webp",
+          "story": "One month later... InsightFlow is live, but adoption is uneven. You secure a sandbox and UAT coverage, and some low-risk outputs auto-advance under new SLAs. Still, stage-gated mandatory fields and schema updates lag, so Marcela complies while keeping parallel notes and workarounds. Sam participates in testing yet flags unresolved lineage and validation gaps. August sees progress, but confidence in the system remains conditional and fragile.",
+          "title": "Signs of Strain",
+          "description": "InsightFlow technically rolls out, but adoption across the company is uneven. Marcela complies with the new workflow without fully embracing it, while Sam’s concerns are never fully resolved, quietly limiting how much confidence others place in the outputs. August views your leadership as capable but incomplete—effective at launching initiatives, yet less successful at addressing the deeper dynamics that determine long-term health."
+        }
+      },
+      "7ede1907-40f9-4655-83a6-c17166b01d7f": {
+        "teamId": "7ede1907-40f9-4655-83a6-c17166b01d7f",
+        "teamName": "Lumen Leaders",
+        "teamIcon": "🏆",
+        "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "FRAGILE",
+          "highLabel": "STRONG",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "EMERGING",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-21T14:42:44.399Z",
+        "score": 67,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540966757-Signs_of_Strain.webp",
+          "story": "One month later... you hold the line on “no validation, no source of truth,” but scope freezes slip as other teams push “quick tweaks” back in. Marcela converts two deliverables into InsightFlow yet keeps parallel artifacts when handoffs stay messy. Sam ships a validation gate, though exceptions pile up without clear pipeline ownership. August sees progress, but uneven adoption and lingering ambiguity limit your influence beyond the pilot.",
+          "title": "Signs of Strain",
+          "description": "InsightFlow technically rolls out, but adoption across the company is uneven. Marcela complies with the new workflow without fully embracing it, while Sam’s concerns are never fully resolved, quietly limiting how much confidence others place in the outputs. August views your leadership as capable but incomplete—effective at launching initiatives, yet less successful at addressing the deeper dynamics that determine long-term health."
+        }
+      },
+      "dd56fe9b-0faa-4f41-8ddd-db25283dd9c1": {
+        "teamId": "dd56fe9b-0faa-4f41-8ddd-db25283dd9c1",
+        "teamName": "Tastemakers",
+        "teamIcon": "🍜",
+        "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "FRAGILE",
+          "highLabel": "STRONG",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "EMERGING",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-21T14:42:44.737Z",
+        "score": 53,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540966757-Signs_of_Strain.webp",
+          "story": "One month later... you’ve set weekly check-ins and kept the focus on progress, with Roderick allocated for field mapping and one end-to-end insight handoff. The pilot runs, but duplicate entry persists and cleanup remains higher than promised. Marcela complies within a tight scope and flags the “forever tax” risk. Sam contributes metrics on error rates and cycle time, but continues to caution against scaling before integrations stabilize. August sees partial traction, not durable alignment.",
+          "title": "Signs of Strain",
+          "description": "InsightFlow technically rolls out, but adoption across the company is uneven. Marcela complies with the new workflow without fully embracing it, while Sam’s concerns are never fully resolved, quietly limiting how much confidence others place in the outputs. August views your leadership as capable but incomplete—effective at launching initiatives, yet less successful at addressing the deeper dynamics that determine long-term health."
+        }
+      },
+      "92637b21-6b9a-4c64-93df-eaa83da95651": {
+        "teamId": "92637b21-6b9a-4c64-93df-eaa83da95651",
+        "teamName": "The Redhead Roundtable",
+        "teamIcon": "🔥",
+        "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "FRAGILE",
+          "highLabel": "STRONG",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "EMERGING",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-21T14:42:39.796Z",
+        "score": 46,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1770057159169-Crash_Out.webp",
+          "story": "One month later... you enforce mandatory templates, but teams treat InsightFlow as compliance theater. Marcela logs friction in a shared doc, yet required fields remain bloated and duplicate documentation persists. Sales requests bypass the platform to hit deadlines. You escalate Sam’s concerns, but the definition dictionary and audit trails slip, leaving uneven categorizations and heavy manual cleanup. August sees waning adoption and concludes your rollout lacked influence to stabilize change.",
+          "title": "Crash Out",
+          "description": "InsightFlow loses momentum after the initial rollout, used inconsistently and rarely relied upon for important decisions. Marcela returns to familiar ways of working, reinforcing the perception that the change was optional. Sam’s skepticism goes unaddressed, and never stands fully behind the platform. August concludes that while the initiative had potential, your approach lacked the influence needed to stabilize the system before it stalled."
+        }
+      },
+      "5e10071a-3ab0-4919-a79d-1939790c91e8": {
+        "teamId": "5e10071a-3ab0-4919-a79d-1939790c91e8",
+        "teamName": "Team XRY6291",
+        "teamIcon": "🚀",
+        "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "FRAGILE",
+          "highLabel": "STRONG",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "EMERGING",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-21T14:42:40.210Z",
+        "score": 62,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540966757-Signs_of_Strain.webp",
+          "story": "One month later... you launch a two-week pilot with 30–40% protected time, two check-ins, and a bakeoff scored on time-to-deliver, rework, traceability, and error rates. Marcela runs one project end-to-end and flags double-entry and shifting Sales templates. Sam joins an expert review lane with intake criteria and an SLA, but governance and snapshot/versioning lag, so teams keep parallel reporting. August sees progress, not full alignment.",
+          "title": "Signs of Strain",
+          "description": "InsightFlow technically rolls out, but adoption across the company is uneven. Marcela complies with the new workflow without fully embracing it, while Sam’s concerns are never fully resolved, quietly limiting how much confidence others place in the outputs. August views your leadership as capable but incomplete—effective at launching initiatives, yet less successful at addressing the deeper dynamics that determine long-term health."
+        }
+      },
+      "d1c419c9-89bf-4bf8-bae6-7f3c97a987eb": {
+        "teamId": "d1c419c9-89bf-4bf8-bae6-7f3c97a987eb",
+        "teamName": "KH Winners",
+        "teamIcon": "🏆",
+        "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "FRAGILE",
+          "highLabel": "STRONG",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "EMERGING",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-21T14:42:42.096Z",
+        "score": 55,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540966757-Signs_of_Strain.webp",
+          "story": "One month later... you run the working session and log scenarios, ROI baselines, and a pre-mortem. Marcela delivers a one-pager on canonical schema, versioned transforms, and tight permissions, but several teams keep using their old spreadsheets while waiting for access-control and performance fixes. Sam shares the plan without overselling, so confidence stays cautious. August notes you can launch and coordinate, yet adoption remains uneven and fragile.",
+          "title": "Signs of Strain",
+          "description": "InsightFlow technically rolls out, but adoption across the company is uneven. Marcela complies with the new workflow without fully embracing it, while Sam’s concerns are never fully resolved, quietly limiting how much confidence others place in the outputs. August views your leadership as capable but incomplete—effective at launching initiatives, yet less successful at addressing the deeper dynamics that determine long-term health."
+        }
+      }
+    }
+  },
+  "chapter_timings": {
+    "82919bde-7e61-4994-8a41-e0266b38618c": {
+      "started_at": "2026-05-21T13:26:05.564Z",
+      "ended_at": "2026-05-21T13:37:08.610Z"
+    },
+    "ad460970-2521-46ec-b8f1-a38b84ad2a0c": {
+      "started_at": "2026-05-21T13:42:11.153Z",
+      "ended_at": "2026-05-21T14:02:14.478Z"
+    },
+    "79f1e087-7861-439a-ad08-64f6b5700672": {
+      "started_at": "2026-05-21T14:22:18.995Z",
+      "ended_at": "2026-05-21T14:42:20.317Z"
+    }
+  },
+  "events": [
+    {
+      "id": "33ad30b9-4952-4469-b58e-13f6fdc85a46",
+      "chapter_id": "82919bde-7e61-4994-8a41-e0266b38618c",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 1 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-21T13:26:05.564Z",
+      "updated_at": "2026-05-21T13:26:05.564Z"
+    },
+    {
+      "id": "1aa6c861-35b4-4797-8512-c56b79e9bc05",
+      "chapter_id": "82919bde-7e61-4994-8a41-e0266b38618c",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams review the core context around LumenLyte Labs and its current change initiative, a technology platform called InsightFlow. The chapter ends with a decision in which teams will reflect on what difficulties, if any, they anticipate.\n\n<b>What to look for:</b><ul>\n<li>Do teams review all of the materials?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-21T13:26:12.020Z",
+      "updated_at": "2026-05-21T13:26:12.022Z"
+    },
+    {
+      "id": "ca3d0860-0569-42fb-be6d-43319c7c393f",
+      "chapter_id": "82919bde-7e61-4994-8a41-e0266b38618c",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-21T13:26:48.021Z",
+      "updated_at": "2026-05-21T13:26:48.023Z"
+    },
+    {
+      "id": "eee0a1ad-dc35-4894-b676-bbef79135d9f",
+      "chapter_id": "82919bde-7e61-4994-8a41-e0266b38618c",
+      "type": "CASE_PROGRESS",
+      "content": "0 teams have explored all of the available resources.\n<br><br>\nThese teams have not yet explored all of the resources: <b>XRY6292, Ketch us if you can!, Team XRY6291, Lumen Leaders</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$46",
+          "inputTokens": 1391,
+          "rawResponse": "0 teams have explored all of the available resources.\n<br><br>\nThese teams have not yet explored all of the resources: <b>XRY6292, Ketch us if you can!, Team XRY6291, Lumen Leaders</b>.",
+          "outputTokens": 64,
+          "systemPrompt": "$47",
+          "dataContextLength": 2393
+        }
+      },
+      "created_at": "2026-05-21T13:27:24.022Z",
+      "updated_at": "2026-05-21T13:27:26.063Z"
+    },
+    {
+      "id": "2329026b-651d-4a0d-a08a-dad1306b5ee1",
+      "chapter_id": "82919bde-7e61-4994-8a41-e0266b38618c",
+      "type": "CASE_PROGRESS",
+      "content": "1 team has opened all Chapter 1 resources.<br>\nThese teams have not yet opened all resources: <b>XRY6292, Ketch us if you can!, Team XRY6291, Lumen Leaders, Tastemakers, The Redhead Roundtable</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$44",
+          "inputTokens": 1846,
+          "rawResponse": "1 team has opened all Chapter 1 resources.<br>\nThese teams have not yet opened all resources: <b>XRY6292, Ketch us if you can!, Team XRY6291, Lumen Leaders, Tastemakers, The Redhead Roundtable</b>.",
+          "outputTokens": 73,
+          "systemPrompt": "$45",
+          "dataContextLength": 4174
+        }
+      },
+      "created_at": "2026-05-21T13:30:36.020Z",
+      "updated_at": "2026-05-21T13:30:38.834Z"
+    },
+    {
+      "id": "9040e23c-3477-4e8a-b8bb-043125a51516",
+      "chapter_id": "82919bde-7e61-4994-8a41-e0266b38618c",
+      "type": "CASE_PROGRESS",
+      "content": "This chapter does not contain any unlockable resources.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$42",
+          "inputTokens": 1862,
+          "rawResponse": "This chapter does not contain any unlockable resources.",
+          "outputTokens": 14,
+          "systemPrompt": "$43",
+          "dataContextLength": 4170
+        }
+      },
+      "created_at": "2026-05-21T13:31:12.018Z",
+      "updated_at": "2026-05-21T13:31:14.030Z"
+    },
+    {
+      "id": "0d0ef0bf-6eb0-4982-ad6f-1cce9ba7f2e8",
+      "chapter_id": "82919bde-7e61-4994-8a41-e0266b38618c",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by +1 min — 1 min 25 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": 60
+      },
+      "created_at": "2026-05-21T13:31:40.873Z",
+      "updated_at": "2026-05-21T13:31:40.873Z"
+    },
+    {
+      "id": "ba4173c2-c165-4141-851f-3f6134ed3b39",
+      "chapter_id": "82919bde-7e61-4994-8a41-e0266b38618c",
+      "type": "STARTING_MESSAGE",
+      "content": "Decision phase has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "decision_started"
+      },
+      "created_at": "2026-05-21T13:33:05.628Z",
+      "updated_at": "2026-05-21T13:33:05.628Z"
+    },
+    {
+      "id": "d009dee5-ee1c-4451-a2c8-96487c562774",
+      "chapter_id": "82919bde-7e61-4994-8a41-e0266b38618c",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Decision Time!</b> Teams must state where they anticipate ambiguity or tension might show up as Tanya steps into an elevated role. This provides a hint toward what happens in future chapters. It also helps to show you whether any teams are demonstrating keen insight into potential issues with team morale, etc.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-21T13:33:12.018Z",
+      "updated_at": "2026-05-21T13:33:12.021Z"
+    },
+    {
+      "id": "0405cbc2-0741-46ed-a3f0-ee513e1b3ad4",
+      "chapter_id": "82919bde-7e61-4994-8a41-e0266b38618c",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-21T13:37:08.605Z",
+      "updated_at": "2026-05-21T13:37:08.605Z"
+    },
+    {
+      "id": "aeec917e-e50b-4b90-b99a-9c1311c3fd04",
+      "chapter_id": "82919bde-7e61-4994-8a41-e0266b38618c",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 1 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-21T13:37:08.610Z",
+      "updated_at": "2026-05-21T13:37:08.610Z"
+    },
+    {
+      "id": "c4d1194e-1249-4af4-a0e6-93f0a966cf40",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 2: Chapter 2 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-21T13:42:11.153Z",
+      "updated_at": "2026-05-21T13:42:11.153Z"
+    },
+    {
+      "id": "a57fb0ba-cd65-462e-8be5-53b2ef52fc77",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams have a 20-minute conversation with Marcela, a direct report who has been resistant to a new company initiative. The goal is to understand her perspective and shift her mindset.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams open the conversation by listening and asking questions, or do they jump straight into persuasion mode?\n<li>Do teams seek to understand what is behind Marcela's resistance before trying to change her mind?\n<li>Do teams find common ground or connect the initiative to something Marcela personally cares about?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-21T13:42:24.020Z",
+      "updated_at": "2026-05-21T13:42:24.023Z"
+    },
+    {
+      "id": "4ef58f0f-dfc6-4c81-b6f6-878d62a631a4",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-21T13:44:12.024Z",
+      "updated_at": "2026-05-21T13:44:12.026Z"
+    },
+    {
+      "id": "8d121188-af67-44c0-b481-0917360463bc",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>Please make sure you have seen all the resources and start the case</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "1a98b222-bb39-4e7e-b482-33c7b11140e7"
+      },
+      "created_at": "2026-05-21T13:45:42.284Z",
+      "updated_at": "2026-05-21T13:45:42.284Z"
+    },
+    {
+      "id": "d2ea136f-6e73-47e1-bdea-a879e9735439",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "CASE_PROGRESS",
+      "content": "6 teams have explored all of the available resources.\n<br><br>\nThese teams have not yet explored all of the resources: <b>KH Winners</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$40",
+          "inputTokens": 2072,
+          "rawResponse": "6 teams have explored all of the available resources.\n<br><br>\nThese teams have not yet explored all of the resources: <b>KH Winners</b>.",
+          "outputTokens": 42,
+          "systemPrompt": "$41",
+          "dataContextLength": 4666
+        }
+      },
+      "created_at": "2026-05-21T13:46:12.020Z",
+      "updated_at": "2026-05-21T13:46:14.381Z"
+    },
+    {
+      "id": "9ed92728-a657-41fd-b18a-834be81c8066",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "CASE_PROGRESS",
+      "content": "7 teams have started their conversation with Marcela. <br>\nAll teams have begun the conversation—none are pending.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$3e",
+          "inputTokens": 1949,
+          "rawResponse": "7 teams have started their conversation with Marcela. <br>\nAll teams have begun the conversation—none are pending.",
+          "outputTokens": 31,
+          "systemPrompt": "$3f",
+          "dataContextLength": 4664
+        }
+      },
+      "created_at": "2026-05-21T13:48:12.018Z",
+      "updated_at": "2026-05-21T13:48:14.049Z"
+    },
+    {
+      "id": "d1d9f83f-a72f-4edc-a0ac-f85e943d17f8",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Initial Focus of Conversations:</b> Teams are asking Marcela about InsightFlow adoption, template compliance, and workflow changes. Marcela is expressing resistance, citing concerns about overhead, schema constraints, and past platform failures.\n\n<br><br>\n<i>Reviewing 7 active conversations.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$3c",
+          "inputTokens": 4971,
+          "rawResponse": "<b>Initial Focus of Conversations:</b> Teams are asking Marcela about InsightFlow adoption, template compliance, and workflow changes. Marcela is expressing resistance, citing concerns about overhead, schema constraints, and past platform failures.\n\n<br><br>\n<i>Reviewing 7 active conversations.</i>",
+          "outputTokens": 73,
+          "systemPrompt": "$3d",
+          "dataContextLength": 14151
+        }
+      },
+      "created_at": "2026-05-21T13:50:12.019Z",
+      "updated_at": "2026-05-21T13:50:15.484Z"
+    },
+    {
+      "id": "dbdd612b-4912-4d21-8158-8affa964fd49",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to give participants a helpful reminder: <br><br>\n<i>Remember to ask probing questions to understand the source of Marcela's resistance.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-21T13:52:12.023Z",
+      "updated_at": "2026-05-21T13:52:12.025Z"
+    },
+    {
+      "id": "1241c517-f833-4637-8658-b0b5920c21b0",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>You have 5 min let to talk</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "a3a61784-0233-4b1c-8e54-514027b5d22d"
+      },
+      "created_at": "2026-05-21T13:57:08.558Z",
+      "updated_at": "2026-05-21T13:57:08.558Z"
+    },
+    {
+      "id": "9b3ccf8a-598b-4a85-a4a1-c181d5dfaccb",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Shared Interest:</b> 0 teams have connected the initiative to something Marcela personally cares about. \n\n<br><br>\n<i>Reviewing 7 conversations.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$36",
+          "inputTokens": 10018,
+          "rawResponse": "<b>Shared Interest:</b> 0 teams have connected the initiative to something Marcela personally cares about. \n\n<br><br>\n<i>Reviewing 7 conversations.</i>",
+          "outputTokens": 50,
+          "systemPrompt": "$37",
+          "dataContextLength": 31434
+        }
+      },
+      "created_at": "2026-05-21T13:57:12.048Z",
+      "updated_at": "2026-05-21T13:57:16.166Z"
+    },
+    {
+      "id": "5e5baee0-090a-47a3-9153-10a7d453a94f",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Confrontational Tone:</b> 1 team has used a confrontational or authoritative tone with Marcela. Example: <br>\n\n\"Ultimately, the use of templates is not optional it is mandatory and by you not using these, you are causing delays...\" — The Redhead Roundtable\n\n<br><br>\n<i>Reviewing 7 active conversations.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$34",
+          "inputTokens": 10826,
+          "rawResponse": "<b>Confrontational Tone:</b> 1 team has used a confrontational or authoritative tone with Marcela. Example: <br>\n\n\"Ultimately, the use of templates is not optional it is mandatory and by you not using these, you are causing delays...\" — The Redhead Roundtable\n\n<br><br>\n<i>Reviewing 7 active conversations.</i>",
+          "outputTokens": 93,
+          "systemPrompt": "$35",
+          "dataContextLength": 34453
+        }
+      },
+      "created_at": "2026-05-21T13:58:12.025Z",
+      "updated_at": "2026-05-21T13:58:17.133Z"
+    },
+    {
+      "id": "28d51b21-e60d-4c32-9fc0-e74e0d10932d",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "CASE_PROGRESS",
+      "content": "This chapter has unlockable resources. \n\n<ul>\n<li>1 team has unlocked A Post from the Past</li>\n<li>2 teams have unlocked Direct Message from Sam</li>\n</ul>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$32",
+          "inputTokens": 2017,
+          "rawResponse": "This chapter has unlockable resources. \n\n<ul>\n<li>1 team has unlocked A Post from the Past</li>\n<li>2 teams have unlocked Direct Message from Sam</li>\n</ul>",
+          "outputTokens": 55,
+          "systemPrompt": "$33",
+          "dataContextLength": 4671
+        }
+      },
+      "created_at": "2026-05-21T13:59:12.018Z",
+      "updated_at": "2026-05-21T13:59:14.450Z"
+    },
+    {
+      "id": "3272513b-5117-4046-aac4-da1a98f2f2dc",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Conversation Summary:</b> Teams have been focused on process compliance and system adoption, but most conversations miss Marcela's core motivators: protecting deep-work time, reducing rework, and maintaining analytical rigor.\n\n<br><br>\n\n<b>A possible strength is:</b> KH Winners and Ketch explored her concerns systematically and positioned InsightFlow as reducing ad-hoc requests—a genuine pain point for her.\n\n<br><br>\n\n<b>A possible gap is:</b> Most teams led with mandates or vague promises rather than discovering what Marcela values (autonomy, quality, efficiency) and connecting those to concrete InsightFlow benefits.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$30",
+          "inputTokens": 12244,
+          "rawResponse": "<b>Conversation Summary:</b> Teams have been focused on process compliance and system adoption, but most conversations miss Marcela's core motivators: protecting deep-work time, reducing rework, and maintaining analytical rigor.\n\n<br><br>\n\n<b>A possible strength is:</b> KH Winners and Ketch explored her concerns systematically and positioned InsightFlow as reducing ad-hoc requests—a genuine pain point for her.\n\n<br><br>\n\n<b>A possible gap is:</b> Most teams led with mandates or vague promises rather than discovering what Marcela values (autonomy, quality, efficiency) and connecting those to concrete InsightFlow benefits.",
+          "outputTokens": 153,
+          "systemPrompt": "$31",
+          "dataContextLength": 39638
+        }
+      },
+      "created_at": "2026-05-21T14:00:12.017Z",
+      "updated_at": "2026-05-21T14:00:18.085Z"
+    },
+    {
+      "id": "d3bba470-d4f2-4481-8ec6-96773f960fea",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Debrief Reminder:</b> Take time to debrief the chapter together. <ul>\n<li> Show <b><i>Snapshot</b></i> in the Debrief tools to show how teams performed. If any teams earned strong alignment, ask how they achieved that.\n<li> Use the slides to explore WIIFM more deeply.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-21T14:02:12.020Z",
+      "updated_at": "2026-05-21T14:02:12.022Z"
+    },
+    {
+      "id": "c4750767-6156-4ff8-a8e0-b52ac14b839a",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-21T14:02:14.474Z",
+      "updated_at": "2026-05-21T14:02:14.474Z"
+    },
+    {
+      "id": "b23e1cec-97d2-4f1f-903a-55843a97f9f7",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 2 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-21T14:02:14.478Z",
+      "updated_at": "2026-05-21T14:02:14.478Z"
+    },
+    {
+      "id": "ee468d64-b240-45e0-b2d2-84d394c3fd68",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "CASE_PROGRESS",
+      "content": "Timer resumed — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_resumed"
+      },
+      "created_at": "2026-05-21T14:03:47.230Z",
+      "updated_at": "2026-05-21T14:03:47.230Z"
+    },
+    {
+      "id": "4c537bdc-34f6-4206-a633-c1a777f2e8a7",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-21T14:03:53.037Z",
+      "updated_at": "2026-05-21T14:03:53.037Z"
+    },
+    {
+      "id": "da1512d3-6b95-4ee8-80c6-61c6eeba3e7d",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "CASE_PROGRESS",
+      "content": "Timer resumed — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_resumed"
+      },
+      "created_at": "2026-05-21T14:03:54.221Z",
+      "updated_at": "2026-05-21T14:03:54.221Z"
+    },
+    {
+      "id": "c6e3e947-172c-48e7-b30a-ec5795fccdaa",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-21T14:03:57.913Z",
+      "updated_at": "2026-05-21T14:03:57.913Z"
+    },
+    {
+      "id": "7638945b-3ab6-44f2-aa93-533e59de970c",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "CASE_PROGRESS",
+      "content": "Timer resumed — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_resumed"
+      },
+      "created_at": "2026-05-21T14:04:02.733Z",
+      "updated_at": "2026-05-21T14:04:02.733Z"
+    },
+    {
+      "id": "d15b38a0-a48b-4c4f-b200-d7d40ec3ca81",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-21T14:04:11.472Z",
+      "updated_at": "2026-05-21T14:04:11.472Z"
+    },
+    {
+      "id": "b262613a-1989-418d-9dc0-a50bfad75100",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "CASE_PROGRESS",
+      "content": "Timer resumed — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_resumed"
+      },
+      "created_at": "2026-05-21T14:04:12.352Z",
+      "updated_at": "2026-05-21T14:04:12.352Z"
+    },
+    {
+      "id": "ef760229-065e-4fbb-9f20-8276eb61f9f6",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 3: Chapter 3 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-21T14:22:18.995Z",
+      "updated_at": "2026-05-21T14:22:18.995Z"
+    },
+    {
+      "id": "fd547796-0ec2-4d6d-b2d6-632fd6cc4324",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams talk with Sam, an influential leader at the company who has concerns that the change will impact company culture.\n\n<b>What to look for:</b><ul>\n<li>Do teams work to understand Sam's perspective?\n<li>Do teams get below Sam's initial position to understand his true interests?\n<li>Do teams find common ground with Sam based on their shared interests?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-21T14:22:24.026Z",
+      "updated_at": "2026-05-21T14:22:24.029Z"
+    },
+    {
+      "id": "9376727d-f66f-478e-9beb-47be7e98fd58",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by +17 min — 18 min 54 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": 1020
+      },
+      "created_at": "2026-05-21T14:22:25.007Z",
+      "updated_at": "2026-05-21T14:22:25.007Z"
+    },
+    {
+      "id": "eee30e9c-53c3-4a07-bfcd-ef216d4ab473",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by +1 min — 19 min 52 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": 60
+      },
+      "created_at": "2026-05-21T14:22:27.615Z",
+      "updated_at": "2026-05-21T14:22:27.615Z"
+    },
+    {
+      "id": "14692f95-c086-416f-b3f5-2be12fe57a53",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "COHORT_INSIGHTS",
+      "content": "0 teams received a \"strong approach\" resource: <b>None</b> <br>\n7 teams received an \"improvement suggestions\" resource: <b>XRY6292, Ketch us if you can!, Team XRY6291, Lumen Leaders, KH Winners, Tastemakers, The Redhead Roundtable</b>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CUSTOM_VARIABLE",
+          "userPrompt": "$2e",
+          "inputTokens": 883,
+          "rawResponse": "0 teams received a \"strong approach\" resource: <b>None</b> <br>\n7 teams received an \"improvement suggestions\" resource: <b>XRY6292, Ketch us if you can!, Team XRY6291, Lumen Leaders, KH Winners, Tastemakers, The Redhead Roundtable</b>",
+          "outputTokens": 86,
+          "systemPrompt": "$2f",
+          "dataContextLength": 633
+        }
+      },
+      "created_at": "2026-05-21T14:23:24.018Z",
+      "updated_at": "2026-05-21T14:23:26.666Z"
+    },
+    {
+      "id": "1a7c28de-8ee9-417a-a7d0-2cb565b0155f",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-21T14:24:24.019Z",
+      "updated_at": "2026-05-21T14:24:24.021Z"
+    },
+    {
+      "id": "5e2ddd4c-41fd-48a3-b8fb-0f1034ea2a5a",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "CASE_PROGRESS",
+      "content": "1 team has explored all of the available resources.\n<br><br>\nThese teams have not yet explored all of the resources: <b>Ketch us if you can!, Team XRY6291, Lumen Leaders, KH Winners, Tastemakers, The Redhead Roundtable</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$2c",
+          "inputTokens": 2240,
+          "rawResponse": "1 team has explored all of the available resources.\n<br><br>\nThese teams have not yet explored all of the resources: <b>Ketch us if you can!, Team XRY6291, Lumen Leaders, KH Winners, Tastemakers, The Redhead Roundtable</b>.",
+          "outputTokens": 76,
+          "systemPrompt": "$2d",
+          "dataContextLength": 5252
+        }
+      },
+      "created_at": "2026-05-21T14:26:24.018Z",
+      "updated_at": "2026-05-21T14:26:26.619Z"
+    },
+    {
+      "id": "4f985c78-444a-42b1-b287-242c866c41ce",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "CASE_PROGRESS",
+      "content": "<p>7 teams have started their conversation with Sam.</p>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$2a",
+          "inputTokens": 2115,
+          "rawResponse": "<p>7 teams have started their conversation with Sam.</p>",
+          "outputTokens": 18,
+          "systemPrompt": "$2b",
+          "dataContextLength": 5252
+        }
+      },
+      "created_at": "2026-05-21T14:28:24.020Z",
+      "updated_at": "2026-05-21T14:28:25.729Z"
+    },
+    {
+      "id": "fdaad538-2911-445e-8aae-1a63e4cc6d18",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Initial Focus of Conversations:</b> Teams are expressing concerns about InsightFlow's readiness, asking Sam to elaborate on workflow issues, data quality problems, and what changes are needed before scaling the tool.\n\n<br><br>\n<i>7 active conversations reviewed.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$28",
+          "inputTokens": 4753,
+          "rawResponse": "<b>Initial Focus of Conversations:</b> Teams are expressing concerns about InsightFlow's readiness, asking Sam to elaborate on workflow issues, data quality problems, and what changes are needed before scaling the tool.\n\n<br><br>\n<i>7 active conversations reviewed.</i>",
+          "outputTokens": 66,
+          "systemPrompt": "$29",
+          "dataContextLength": 14901
+        }
+      },
+      "created_at": "2026-05-21T14:30:24.020Z",
+      "updated_at": "2026-05-21T14:30:27.112Z"
+    },
+    {
+      "id": "335b49d3-7547-4ce5-841d-2412574b04e2",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to give participants a helpful reminder: <br><br>\n<i>Remember to ask probing questions to get below Sam's initial position. Can you find any shared interests?</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-21T14:32:24.017Z",
+      "updated_at": "2026-05-21T14:32:24.019Z"
+    },
+    {
+      "id": "98cd9edb-6f65-4425-8ee5-271a6eb6328e",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Probing:</b> 0 teams have probed to understand the underlying reasons for Sam's resistance to InsightFlow.\n\n<br><br>\n<i>Reviewing 6 active conversations.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$26",
+          "inputTokens": 8917,
+          "rawResponse": "<b>Probing:</b> 0 teams have probed to understand the underlying reasons for Sam's resistance to InsightFlow.\n\n<br><br>\n<i>Reviewing 6 active conversations.</i>",
+          "outputTokens": 53,
+          "systemPrompt": "$27",
+          "dataContextLength": 29229
+        }
+      },
+      "created_at": "2026-05-21T14:34:24.021Z",
+      "updated_at": "2026-05-21T14:34:27.603Z"
+    },
+    {
+      "id": "4861e586-24db-4543-b407-017138d04eb3",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Shared Interest:</b> 0 teams have expressed a shared interest in maintaining the firm's culture.<br><br>\n\n<i>Reviewing 7 active conversations.</i><br><br>\n\nNo relevant quotes found. Teams focused on technical implementation, data quality, and process concerns rather than organizational culture preservation.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$24",
+          "inputTokens": 10974,
+          "rawResponse": "<b>Shared Interest:</b> 0 teams have expressed a shared interest in maintaining the firm's culture.<br><br>\n\n<i>Reviewing 7 active conversations.</i><br><br>\n\nNo relevant quotes found. Teams focused on technical implementation, data quality, and process concerns rather than organizational culture preservation.",
+          "outputTokens": 74,
+          "systemPrompt": "$25",
+          "dataContextLength": 36538
+        }
+      },
+      "created_at": "2026-05-21T14:36:24.017Z",
+      "updated_at": "2026-05-21T14:36:28.271Z"
+    },
+    {
+      "id": "9142f61a-00c4-4d70-9396-d167aa180651",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Alignment:</b> 0 teams have explained how InsightFlow aligns with and can support the preservation of the firm's culture.\n\n<br><br>\n<i>7 conversations are being reviewed.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$22",
+          "inputTokens": 12758,
+          "rawResponse": "<b>Alignment:</b> 0 teams have explained how InsightFlow aligns with and can support the preservation of the firm's culture.\n\n<br><br>\n<i>7 conversations are being reviewed.</i>",
+          "outputTokens": 54,
+          "systemPrompt": "$23",
+          "dataContextLength": 42635
+        }
+      },
+      "created_at": "2026-05-21T14:38:24.019Z",
+      "updated_at": "2026-05-21T14:38:27.584Z"
+    },
+    {
+      "id": "71dcb05a-3f15-4872-bab8-8523c477677a",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "CASE_PROGRESS",
+      "content": "This chapter has unlockable resources. <ul>\n<li>2 teams have unlocked LumenLyte Values Poster</li>\n</ul>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$20",
+          "inputTokens": 2187,
+          "rawResponse": "This chapter has unlockable resources. <ul>\n<li>2 teams have unlocked LumenLyte Values Poster</li>\n</ul>",
+          "outputTokens": 38,
+          "systemPrompt": "$21",
+          "dataContextLength": 5259
+        }
+      },
+      "created_at": "2026-05-21T14:39:24.019Z",
+      "updated_at": "2026-05-21T14:39:26.748Z"
+    },
+    {
+      "id": "c6218bce-3dbf-4602-99f8-05fd22edacb0",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Conversation Summary:</b> Teams have been focused on understanding Sam's concerns about data quality, process overhead, and validation. Most teams successfully identified shared goals around rigorous pilots, clear metrics, and protecting analyst judgment.\n\n<br><br>\n\n<b>A possible strength is...</b> Teams anchored on concrete next steps—validation gates, parallel runs, frozen scope, and working sessions with real scenarios—showing they probed for solutions rather than dismissing resistance.\n\n<br><br>\n\n<b>A possible gap is...</b> Some teams leaned on reassurance (\"we appreciate you,\" \"count on me\") without fully exploring the root cause of Sam's skepticism or testing whether leadership would truly pause if pilots failed.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$1e",
+          "inputTokens": 13750,
+          "rawResponse": "<b>Conversation Summary:</b> Teams have been focused on understanding Sam's concerns about data quality, process overhead, and validation. Most teams successfully identified shared goals around rigorous pilots, clear metrics, and protecting analyst judgment.\n\n<br><br>\n\n<b>A possible strength is...</b> Teams anchored on concrete next steps—validation gates, parallel runs, frozen scope, and working sessions with real scenarios—showing they probed for solutions rather than dismissing resistance.\n\n<br><br>\n\n<b>A possible gap is...</b> Some teams leaned on reassurance (\"we appreciate you,\" \"count on me\") without fully exploring the root cause of Sam's skepticism or testing whether leadership would truly pause if pilots failed.",
+          "outputTokens": 159,
+          "systemPrompt": "$1f",
+          "dataContextLength": 46547
+        }
+      },
+      "created_at": "2026-05-21T14:40:24.020Z",
+      "updated_at": "2026-05-21T14:40:29.986Z"
+    },
+    {
+      "id": "fcd03f2d-8297-48de-b993-6cc6a90beb6d",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-21T14:42:20.312Z",
+      "updated_at": "2026-05-21T14:42:20.312Z"
+    },
+    {
+      "id": "b669f224-c96b-4345-9724-e53ef18e0df9",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 3 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-21T14:42:20.317Z",
+      "updated_at": "2026-05-21T14:42:20.317Z"
+    },
+    {
+      "id": "f334e53a-a018-4b66-94ad-8fe0c14be308",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "ENDING_MESSAGE",
+      "content": "Case completed — all chapters finished.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "case_completed"
+      },
+      "created_at": "2026-05-21T14:42:20.426Z",
+      "updated_at": "2026-05-21T14:42:20.426Z"
+    },
+    {
+      "id": "ba83020e-b809-44ea-b19b-86d9fa4538e9",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>You have 3 minute to debrief</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "c505fdde-9d4a-4617-8230-bca17f43af12"
+      },
+      "created_at": "2026-05-21T14:43:04.607Z",
+      "updated_at": "2026-05-21T14:43:04.607Z"
+    }
+  ],
+  "rubric_by_chapter": {
+    "82919bde-7e61-4994-8a41-e0266b38618c": {
+      "criteria": [],
+      "team_cells": [],
+      "method": "LLM-derived via claude-haiku-4-5: criteria identified from 7 letters, per-team classification of credit."
+    }
+  },
+  "rubric": {
+    "criteria": [],
+    "team_cells": [],
+    "method": "LLM-derived via claude-haiku-4-5: criteria identified from 7 letters, per-team classification of credit."
+  }
+}

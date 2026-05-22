@@ -776,6 +776,131 @@
       }
     },
     {
+      "name": "Angie Bealko",
+      "slug": "angie-bealko",
+      "has_transcripts": true,
+      "session_count": 2,
+      "case_challenges": [
+        "Enabling Peak Performance",
+        "Shifting Mindsets and Behaviors"
+      ],
+      "avg_survey_score": null,
+      "survey_session_count": 0,
+      "avg_team_score": 56.42857142857143,
+      "team_score_count": 7,
+      "narrative_outcomes": {
+        "Signs of Strain": 6,
+        "Crash Out": 1
+      },
+      "sessions": [
+        {
+          "session_id": 22509,
+          "program_name": "KraftHeinz:CC_PlaySession_May26",
+          "program_uuid": "f2f69b52-e238-4cd6-88b8-0b040d12e577",
+          "session_name": "Case Challenge: Shifting Mindsets and Behaviors",
+          "case_challenge": "Shifting Mindsets and Behaviors",
+          "start_date": "2026-05-21T13:00:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": null,
+          "survey_response_count": null
+        },
+        {
+          "session_id": 18921,
+          "program_name": "DG:CC_Retail_ELP_May26",
+          "program_uuid": "026e24a2-229e-4867-ab0e-42be394df454",
+          "session_name": "Case Challenge: Enabling Peak Performance",
+          "case_challenge": "Enabling Peak Performance",
+          "start_date": "2026-05-20T17:00:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": null,
+          "survey_response_count": null
+        }
+      ],
+      "magic_moments": [
+        {
+          "id": "angie-may21-your-world",
+          "facilitator": "Angie Bealko",
+          "session_label": "Kraft Heinz WE Network · May 21, 2026",
+          "timestamp": "00:09:25",
+          "transcript_path": "SMB/05.21.2026 - SMB - Angie/GMT20260521-130032_Recording.transcript.vtt",
+          "context": "Opening framing, after participants introduce themselves",
+          "quote": "We're trying to relate to your world, right? I have not been in capabilities and learning, your team, but I'm really excited to have you here. My goal is to help you think about how you're influencing others as well.",
+          "why_magic": "Angie names the gap — she's not from their function — and turns it into a contract. Her job isn't to teach their domain back to them; it's to help them notice their own influence patterns. That clarity changes how participants engage with the case content.",
+          "case_challenge": "Shifting Mindsets and Behaviors"
+        },
+        {
+          "id": "angie-may21-real-life",
+          "facilitator": "Angie Bealko",
+          "session_label": "Kraft Heinz WE Network · May 21, 2026",
+          "timestamp": "00:22:23",
+          "transcript_path": "SMB/05.21.2026 - SMB - Angie/GMT20260521-130032_Recording.transcript.vtt",
+          "context": "Just before launching the first breakout",
+          "quote": "Think about the resistance you might be feeling … and in real life, think about the situations you've dealt with.",
+          "why_magic": "She bridges the simulated resistance to their lived experience in a single line. Participants who anchor the case in real situations from their job give better counsel inside the case and walk away with more transferable insight.",
+          "case_challenge": "Shifting Mindsets and Behaviors"
+        }
+      ],
+      "strengths": [
+        {
+          "title": "Consistent High Performance Across Simulation Types",
+          "evidence": "Delivered 262 total sessions across 8 different simulation types with a normalized survey average of 4.55/5.0 (range 3.833–4.894), demonstrating sustained excellence and adaptability across diverse challenge formats."
+        },
+        {
+          "title": "Strong Participant Engagement and Satisfaction",
+          "evidence": "54 sessions surveyed generating 1073 total responses with normalized average of 4.55/5.0, indicating reliable ability to create engaging experiences that resonate consistently with participants across multiple cohorts."
+        },
+        {
+          "title": "Authentic Relationship Building with Participants",
+          "evidence": "Magic moment quote 'I have not been in capabilities and learning, your team, but I'm really excited to have you here' demonstrates genuine vulnerability and authentic connection, positioning herself as a learner alongside participants rather than distant expert."
+        },
+        {
+          "title": "Skilled at Bridging Simulation to Real-World Application",
+          "evidence": "Magic moment quote 'Think about the resistance you might be feeling … and in real life, think about the situations you've dealt with' shows deliberate facilitation technique connecting theoretical concepts to participants' actual workplace challenges."
+        },
+        {
+          "title": "Focused Attention on Influence and Leadership Development",
+          "evidence": "Delivered 18 Influence Challenge sessions and emphasized influence skill-building in magic moments ('My goal is to help you think about how you're influencing others'), indicating specialized strength in developing participant influence capabilities."
+        }
+      ],
+      "learn_from": [
+        {
+          "peer_name": "Nick White",
+          "area": "Survey Performance & Risk Communication",
+          "why": "Nick has demonstrated consistently high engagement across diverse simulation types with expert risk communication and strategic framing skills. With Angie's limited survey data, learning from Nick's pedagogical sophistication in reframing knowledge could strengthen her feedback loops and participant outcome measurement.",
+          "peer_slug": "nick-white"
+        },
+        {
+          "peer_name": "Tara Layne",
+          "area": "Peer Learning & Emotional Intelligence",
+          "why": "Tara excels at facilitating peer learning dynamics and emotional intelligence in high-stakes moments, complementing Angie's authentic relationship-building strengths. Her skill in integrating prior learning could deepen Angie's approach to real-world application bridging across diverse participant backgrounds.",
+          "peer_slug": "tara-layne"
+        }
+      ],
+      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments.",
+      "arrow": {
+        "facilitator_ids": [
+          203
+        ],
+        "all_session_count": 262,
+        "all_survey_session_count": 54,
+        "all_survey_responses": 1073,
+        "all_survey_raw_avg": 4.547,
+        "all_survey_avg_normalized_0_5": 4.547,
+        "all_survey_min_normalized_0_5": 3.833,
+        "all_survey_max_normalized_0_5": 4.894,
+        "simulation_breakdown": {
+          "Enterprise Challenge": 32,
+          "Executive Challenge": 25,
+          "Business Challenge": 22,
+          "Director Challenge": 20,
+          "Influence Challenge": 18,
+          "Finance Challenge": 15,
+          "Management Challenge": 14,
+          "Case Challenge": 1
+        }
+      }
+    },
+    {
       "name": "Kristen Kramer",
       "slug": "kristen-kramer",
       "has_transcripts": false,
@@ -1644,116 +1769,6 @@
           "Director Challenge": 2,
           "Finance Challenge - Consumer Packaged Goods": 1,
           "Business Challenge - Consumer Packaged Goods": 1
-        }
-      }
-    },
-    {
-      "name": "Angie Bealko",
-      "slug": "angie-bealko",
-      "has_transcripts": true,
-      "session_count": 1,
-      "case_challenges": [
-        "Enabling Peak Performance"
-      ],
-      "avg_survey_score": null,
-      "survey_session_count": 0,
-      "avg_team_score": null,
-      "team_score_count": 0,
-      "narrative_outcomes": {},
-      "sessions": [
-        {
-          "session_id": 18921,
-          "program_name": "DG:CC_Retail_ELP_May26",
-          "program_uuid": "026e24a2-229e-4867-ab0e-42be394df454",
-          "session_name": "Case Challenge: Enabling Peak Performance",
-          "case_challenge": "Enabling Peak Performance",
-          "start_date": "2026-05-20T17:00:00.000Z",
-          "number_of_teams": 10,
-          "survey_score": null,
-          "survey_response_count": null
-        }
-      ],
-      "magic_moments": [
-        {
-          "id": "angie-may21-your-world",
-          "facilitator": "Angie Bealko",
-          "session_label": "Kraft Heinz WE Network · May 21, 2026",
-          "timestamp": "00:09:25",
-          "transcript_path": "SMB/05.21.2026 - SMB - Angie/GMT20260521-130032_Recording.transcript.vtt",
-          "context": "Opening framing, after participants introduce themselves",
-          "quote": "We're trying to relate to your world, right? I have not been in capabilities and learning, your team, but I'm really excited to have you here. My goal is to help you think about how you're influencing others as well.",
-          "why_magic": "Angie names the gap — she's not from their function — and turns it into a contract. Her job isn't to teach their domain back to them; it's to help them notice their own influence patterns. That clarity changes how participants engage with the case content.",
-          "case_challenge": "Shifting Mindsets and Behaviors"
-        },
-        {
-          "id": "angie-may21-real-life",
-          "facilitator": "Angie Bealko",
-          "session_label": "Kraft Heinz WE Network · May 21, 2026",
-          "timestamp": "00:22:23",
-          "transcript_path": "SMB/05.21.2026 - SMB - Angie/GMT20260521-130032_Recording.transcript.vtt",
-          "context": "Just before launching the first breakout",
-          "quote": "Think about the resistance you might be feeling … and in real life, think about the situations you've dealt with.",
-          "why_magic": "She bridges the simulated resistance to their lived experience in a single line. Participants who anchor the case in real situations from their job give better counsel inside the case and walk away with more transferable insight.",
-          "case_challenge": "Shifting Mindsets and Behaviors"
-        }
-      ],
-      "strengths": [
-        {
-          "title": "Consistent High Performance Across Simulation Types",
-          "evidence": "Delivered 262 total sessions across 8 different simulation types with a normalized survey average of 4.55/5.0 (range 3.833–4.894), demonstrating sustained excellence and adaptability across diverse challenge formats."
-        },
-        {
-          "title": "Strong Participant Engagement and Satisfaction",
-          "evidence": "54 sessions surveyed generating 1073 total responses with normalized average of 4.55/5.0, indicating reliable ability to create engaging experiences that resonate consistently with participants across multiple cohorts."
-        },
-        {
-          "title": "Authentic Relationship Building with Participants",
-          "evidence": "Magic moment quote 'I have not been in capabilities and learning, your team, but I'm really excited to have you here' demonstrates genuine vulnerability and authentic connection, positioning herself as a learner alongside participants rather than distant expert."
-        },
-        {
-          "title": "Skilled at Bridging Simulation to Real-World Application",
-          "evidence": "Magic moment quote 'Think about the resistance you might be feeling … and in real life, think about the situations you've dealt with' shows deliberate facilitation technique connecting theoretical concepts to participants' actual workplace challenges."
-        },
-        {
-          "title": "Focused Attention on Influence and Leadership Development",
-          "evidence": "Delivered 18 Influence Challenge sessions and emphasized influence skill-building in magic moments ('My goal is to help you think about how you're influencing others'), indicating specialized strength in developing participant influence capabilities."
-        }
-      ],
-      "learn_from": [
-        {
-          "peer_name": "Nick White",
-          "area": "Survey Performance & Risk Communication",
-          "why": "Nick has demonstrated consistently high engagement across diverse simulation types with expert risk communication and strategic framing skills. With Angie's limited survey data, learning from Nick's pedagogical sophistication in reframing knowledge could strengthen her feedback loops and participant outcome measurement.",
-          "peer_slug": "nick-white"
-        },
-        {
-          "peer_name": "Tara Layne",
-          "area": "Peer Learning & Emotional Intelligence",
-          "why": "Tara excels at facilitating peer learning dynamics and emotional intelligence in high-stakes moments, complementing Angie's authentic relationship-building strengths. Her skill in integrating prior learning could deepen Angie's approach to real-world application bridging across diverse participant backgrounds.",
-          "peer_slug": "tara-layne"
-        }
-      ],
-      "strengths_method": "LLM-derived via claude-haiku-4-5 from session aggregates, narrative outcomes, magic moments.",
-      "arrow": {
-        "facilitator_ids": [
-          203
-        ],
-        "all_session_count": 262,
-        "all_survey_session_count": 54,
-        "all_survey_responses": 1073,
-        "all_survey_raw_avg": 4.547,
-        "all_survey_avg_normalized_0_5": 4.547,
-        "all_survey_min_normalized_0_5": 3.833,
-        "all_survey_max_normalized_0_5": 4.894,
-        "simulation_breakdown": {
-          "Enterprise Challenge": 32,
-          "Executive Challenge": 25,
-          "Business Challenge": 22,
-          "Director Challenge": 20,
-          "Influence Challenge": 18,
-          "Finance Challenge": 15,
-          "Management Challenge": 14,
-          "Case Challenge": 1
         }
       }
     },
