@@ -1040,5 +1040,190 @@
       "updated_at": "2026-04-30T16:47:03.754Z"
     }
   ],
-  "rubric_by_chapter": {}
+  "rubric_by_chapter": {},
+  "reflections": [
+    {
+      "id": "62ee8f33-bced-4fdb-bb8e-cac0a193d56c",
+      "question": "What is the most important thing you want to communicate when announcing the reorg to your team?",
+      "chapter_id": null,
+      "chapter_title": null,
+      "created_at": "2026-04-30T16:47:15.962Z",
+      "answers": [
+        {
+          "id": "e114008e-ad3f-45cb-ac9e-8ae370de1505",
+          "answer": "Clarity + Confidence about why the change is happening and how it affects people",
+          "hidden": false,
+          "team": {
+            "id": "d91b5ecd-f356-4ffc-8b06-0a49f9290a4b",
+            "name": "The Wealth Collective",
+            "icon": "💎"
+          },
+          "player": {
+            "id": "937c19c5-21d8-415b-b058-52ab411c3637",
+            "name": "CarolinaG"
+          },
+          "created_at": "2026-04-30T16:49:17.933Z"
+        },
+        {
+          "id": "c89e6097-98f3-4033-aa07-15f814e807ed",
+          "answer": "Communicating the broad scope of the organizational strategy and how that's applied to the specific team structure to win.  Open Door policy to discuss these changes.",
+          "hidden": false,
+          "team": {
+            "id": "bead165a-cf2b-46b6-9247-9f47029da6a4",
+            "name": "LMN Advisors",
+            "icon": "🤝"
+          },
+          "player": {
+            "id": "c700ae3c-9279-45ff-a281-6484034b7f2e",
+            "name": "Nate W"
+          },
+          "created_at": "2026-04-30T16:48:34.526Z"
+        },
+        {
+          "id": "e6394508-12c8-48bd-8ce9-de0dd4c061bb",
+          "answer": "Overall goals of the company and the \"why\" -- and what's changing vs what's staying the same.",
+          "hidden": false,
+          "team": {
+            "id": "d91b5ecd-f356-4ffc-8b06-0a49f9290a4b",
+            "name": "The Wealth Collective",
+            "icon": "💎"
+          },
+          "player": {
+            "id": "9af1058f-dd2d-4742-a404-1607ad636ab6",
+            "name": "CatieH"
+          },
+          "created_at": "2026-04-30T16:48:05.294Z"
+        },
+        {
+          "id": "468e9626-e26a-4ede-9402-3cbf07e509cd",
+          "answer": "Change can be a positive and a growth enabler",
+          "hidden": false,
+          "team": {
+            "id": "c6cede03-296e-4053-8479-56a2e2a0a55e",
+            "name": "Thryve Hive",
+            "icon": "🐝"
+          },
+          "player": {
+            "id": "59c4c8a3-db3c-4734-a403-671d1f73cd99",
+            "name": "MarieK"
+          },
+          "created_at": "2026-04-30T16:47:53.512Z"
+        },
+        {
+          "id": "62c2cc37-4ebc-4c3b-bc6f-dee65f9e459b",
+          "answer": "Honesty and strategy",
+          "hidden": false,
+          "team": {
+            "id": "60c1e53f-c624-4749-bf5b-9f93ced3e89e",
+            "name": "Rons Army",
+            "icon": "🏆"
+          },
+          "player": {
+            "id": "98843844-6847-4f85-93e5-6a647f88ecf9",
+            "name": "BrendonL"
+          },
+          "created_at": "2026-04-30T16:47:40.492Z"
+        }
+      ]
+    },
+    {
+      "id": "e4cf7487-b265-409e-b414-3db90f5a43d6",
+      "question": "What do you hope others say about how you show up as a leader during a time of change?",
+      "chapter_id": null,
+      "chapter_title": null,
+      "created_at": "2026-04-30T15:38:12.641Z",
+      "answers": [
+        {
+          "id": "3e6dca51-910a-42d1-8594-6691944f95e1",
+          "answer": "Transparency, Presence and Confidence.",
+          "hidden": false,
+          "team": {
+            "id": "bead165a-cf2b-46b6-9247-9f47029da6a4",
+            "name": "LMN Advisors",
+            "icon": "🤝"
+          },
+          "player": {
+            "id": "4436f069-9f78-4e5e-959e-66949f5f512d",
+            "name": "Marcus M"
+          },
+          "created_at": "2026-04-30T15:42:47.243Z"
+        },
+        {
+          "id": "5a72f1fa-5d5f-4f93-bf27-033bd308f915",
+          "answer": "I hope others say that I am reliable and flexible.",
+          "hidden": false,
+          "team": {
+            "id": "d91b5ecd-f356-4ffc-8b06-0a49f9290a4b",
+            "name": "The Wealth Collective",
+            "icon": "💎"
+          },
+          "player": {
+            "id": "937c19c5-21d8-415b-b058-52ab411c3637",
+            "name": "CarolinaG"
+          },
+          "created_at": "2026-04-30T15:39:29.715Z"
+        },
+        {
+          "id": "69c3fff3-2b3e-45f1-9c5a-e8e1a7974cab",
+          "answer": "Trustworthy and realiable",
+          "hidden": false,
+          "team": {
+            "id": "60c1e53f-c624-4749-bf5b-9f93ced3e89e",
+            "name": "Rons Army",
+            "icon": "🏆"
+          },
+          "player": {
+            "id": "98843844-6847-4f85-93e5-6a647f88ecf9",
+            "name": "BrendonL"
+          },
+          "created_at": "2026-04-30T15:39:00.407Z"
+        },
+        {
+          "id": "686543f7-8ed1-403d-afe0-cbfce8c70b99",
+          "answer": "That they were transparent, timely, and authentic with their communication",
+          "hidden": false,
+          "team": {
+            "id": "c6cede03-296e-4053-8479-56a2e2a0a55e",
+            "name": "Thryve Hive",
+            "icon": "🐝"
+          },
+          "player": {
+            "id": "59c4c8a3-db3c-4734-a403-671d1f73cd99",
+            "name": "MarieK"
+          },
+          "created_at": "2026-04-30T15:38:51.042Z"
+        },
+        {
+          "id": "2956139e-d379-4f47-b8f7-058817fc192a",
+          "answer": "Transparency, Presence, and Confidence through the change.",
+          "hidden": false,
+          "team": {
+            "id": "bead165a-cf2b-46b6-9247-9f47029da6a4",
+            "name": "LMN Advisors",
+            "icon": "🤝"
+          },
+          "player": {
+            "id": "c700ae3c-9279-45ff-a281-6484034b7f2e",
+            "name": "Nate W"
+          },
+          "created_at": "2026-04-30T15:38:43.699Z"
+        },
+        {
+          "id": "56db91ce-f429-4af6-bea7-1d17447ed67b",
+          "answer": "They were transparent and timely with their communication",
+          "hidden": false,
+          "team": {
+            "id": "c6cede03-296e-4053-8479-56a2e2a0a55e",
+            "name": "Thryve Hive",
+            "icon": "🐝"
+          },
+          "player": {
+            "id": "26265e15-7707-4868-a94c-23cab365fa59",
+            "name": "KelseyH"
+          },
+          "created_at": "2026-04-30T15:38:34.683Z"
+        }
+      ]
+    }
+  ]
 }

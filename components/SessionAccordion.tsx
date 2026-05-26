@@ -141,6 +141,9 @@ function SessionItem({ session, ccData, runsheetSegments }: ItemProps) {
           <SectionDivider label="Rubric heatmap" />
           <RubricHeatmapBlock ccData={ccData} />
 
+          <SectionDivider label="Reflections" />
+          <ReflectionsBlock ccData={ccData} />
+
         </div>
       )}
     </div>
@@ -540,6 +543,45 @@ function RubricHeatmapBlock({ ccData }: { ccData: CcSessionData | null }) {
                 ))}
               </tbody>
             </table>
+          </div>
+        </div>
+      ))}
+    </div>
+  )
+}
+
+function ReflectionsBlock({ ccData }: { ccData: CcSessionData | null }) {
+  if (!ccData) return <div className="text-sm text-[#94a3b8]">Needs activity feed data.</div>
+  const questions = ccData.reflections ?? []
+  const withAnswers = questions.filter((q) => q.answers.length > 0)
+  if (withAnswers.length === 0) {
+    return <div className="text-sm text-[#94a3b8]">No reflections captured for this session.</div>
+  }
+  return (
+    <div className="space-y-5">
+      {withAnswers.map((q) => (
+        <div key={q.id}>
+          <div className="mb-2">
+            <div className="text-sm font-medium text-[#e2e8f0]">{q.question}</div>
+            <div className="text-[10px] text-[#475569] mt-0.5">
+              {q.chapter_title ? `${q.chapter_title} · ` : ''}{q.answers.length} response{q.answers.length === 1 ? '' : 's'}
+            </div>
+          </div>
+          <div className="space-y-1.5">
+            {q.answers.map((a) => (
+              <div key={a.id} className="rounded border border-[#1e293b] bg-[#0a121f] px-3 py-2 text-xs flex items-start gap-3">
+                <div className="flex flex-col gap-0.5 min-w-[140px]">
+                  {a.team && (
+                    <span className="text-[#cbd5e1] truncate">
+                      <span className="mr-1">{a.team.icon}</span>
+                      {a.team.name}
+                    </span>
+                  )}
+                  {a.player && <span className="text-[10px] text-[#94a3b8] truncate">{a.player.name}</span>}
+                </div>
+                <div className="flex-1 text-[#e2e8f0] whitespace-pre-line leading-relaxed">{a.answer}</div>
+              </div>
+            ))}
           </div>
         </div>
       ))}

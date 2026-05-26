@@ -2740,5 +2740,84 @@
       }
     ],
     "method": "LLM-derived via claude-haiku-4-5: criteria identified from 14 letters, per-team classification of credit."
-  }
+  },
+  "reflections": [
+    {
+      "id": "144dbc7b-0833-4057-af8b-6411be1b0565",
+      "question": "What was the most challenging aspect of this scenario?",
+      "chapter_id": null,
+      "chapter_title": null,
+      "created_at": "2026-05-07T15:02:24.727Z",
+      "answers": [
+        {
+          "id": "c7f420a9-fbbc-4c77-a2f8-6480f46a5559",
+          "answer": "understanding the real level of influence of each team member,  to be able to identify the key stakeholders",
+          "hidden": false,
+          "team": {
+            "id": "88163836-a314-4d9d-8cb5-de84236b2eb9",
+            "name": "🧊 AI Fridge 🧊",
+            "icon": "📍"
+          },
+          "player": {
+            "id": "5ceee33d-5491-4a2d-a2b5-8654265e5d90",
+            "name": "Jessica"
+          },
+          "created_at": "2026-05-07T15:05:08.476Z"
+        },
+        {
+          "id": "fb4fdf1e-112a-49a6-ad0d-e96fa3560e2f",
+          "answer": "identify the most relevant question to ask to the stakeholders",
+          "hidden": false,
+          "team": {
+            "id": "7fa3422b-6ee3-41c4-904f-ec4f1e89a396",
+            "name": "SAA Group",
+            "icon": "🚀"
+          },
+          "player": {
+            "id": "19d79050-2aa9-4490-b77d-3d1fce19462c",
+            "name": "StephanieA"
+          },
+          "created_at": "2026-05-07T15:02:41.676Z"
+        },
+        {
+          "id": "95ec6ee8-0b38-4837-a729-57a0424fb886",
+          "answer": "negotiating the type of power",
+          "hidden": false,
+          "team": {
+            "id": "0f13bb80-cf35-4cec-968d-c6009ea79ffc",
+            "name": "Ice Queens",
+            "icon": "⚖️"
+          },
+          "player": {
+            "id": "68ae0303-7367-4764-92af-8b863146879f",
+            "name": "MarisaK"
+          },
+          "created_at": "2026-05-07T15:02:38.415Z"
+        },
+        {
+          "id": "b7eb61c9-ca8a-4964-87e0-4a88fd301c7c",
+          "answer": "Assigning only one source of power",
+          "hidden": false,
+          "team": {
+            "id": "1a73c5e8-20ba-422e-9105-0b57f3d4ce7a",
+            "name": "Ketchup With Us",
+            "icon": "🌭"
+          },
+          "player": {
+            "id": "298e4a63-98e8-4229-b2e4-937f78b48e1e",
+            "name": "CassieS"
+          },
+          "created_at": "2026-05-07T15:02:33.314Z"
+        }
+      ]
+    },
+    {
+      "id": "7e8b4aef-c489-4728-9fdd-cd87046e6d63",
+      "question": "What was the most challenging aspect of this scenario?",
+      "chapter_id": null,
+      "chapter_title": null,
+      "created_at": "2026-05-07T15:01:48.123Z",
+      "answers": []
+    }
+  ]
 }

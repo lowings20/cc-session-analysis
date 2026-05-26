@@ -2058,5 +2058,556 @@
       }
     ],
     "method": "LLM-derived via claude-haiku-4-5: criteria identified from 21 letters, per-team classification of credit."
-  }
+  },
+  "reflections": [
+    {
+      "id": "bb7360fb-81bf-4575-9230-d098dcf27a3d",
+      "question": "Over the next several sessions, what do you INTEND to work on in your own Leadership Skills?",
+      "chapter_id": null,
+      "chapter_title": null,
+      "created_at": "2026-04-08T15:53:20.149Z",
+      "answers": [
+        {
+          "id": "fa3a0457-eb76-4e26-ab41-8cbe87ead1ed",
+          "answer": "Financials",
+          "hidden": false,
+          "team": {
+            "id": "bfcf8512-5efe-47ea-87d5-7431d947e5b0",
+            "name": "Extraordinary",
+            "icon": "🌟"
+          },
+          "player": {
+            "id": "1b62faee-ce6a-4f12-bd89-23d6418a90aa",
+            "name": "Diana Becerra"
+          },
+          "created_at": "2026-04-08T15:58:42.399Z"
+        },
+        {
+          "id": "ed611a08-e68a-458a-96b3-e6c5014ad9a0",
+          "answer": "Strengthen my ability to lead at the enterprise level by shifting from execution to influence, communicating decisions with clarity, empowering others, and showing up with intention during change.",
+          "hidden": false,
+          "team": {
+            "id": "8a9c21d1-b835-4f0c-a951-34bf4e96e1d4",
+            "name": "Team Teddy",
+            "icon": "🐻"
+          },
+          "player": {
+            "id": "e43d3a19-7f6d-4060-93e5-ab4f15a7d9cf",
+            "name": "Luisa Betancourt"
+          },
+          "created_at": "2026-04-08T15:55:38.069Z"
+        },
+        {
+          "id": "ec05345b-de11-4dd5-aee3-7557a022f872",
+          "answer": "Values and KPIs related to them",
+          "hidden": false,
+          "team": {
+            "id": "4afb23f5-839a-40cb-86c9-922fc7c02f0a",
+            "name": "F&M Consulting",
+            "icon": "📈"
+          },
+          "player": {
+            "id": "c95b74af-f74e-4cb1-843a-820ab5d6a20e",
+            "name": "Peter Fayek"
+          },
+          "created_at": "2026-04-08T15:54:38.413Z"
+        },
+        {
+          "id": "aa0902f0-d3a3-48c0-90e4-1199a1ff1c20",
+          "answer": "How to connect culture with business results",
+          "hidden": false,
+          "team": {
+            "id": "1a9b476a-3d3b-42f0-9f05-fd603191f64d",
+            "name": "Messi-Maradona",
+            "icon": "🏆"
+          },
+          "player": {
+            "id": "f3f8e461-4f22-4fff-81cd-40148490facb",
+            "name": "Paula Rao"
+          },
+          "created_at": "2026-04-08T15:54:37.285Z"
+        },
+        {
+          "id": "052d9910-843a-41e4-85dd-6886725604e2",
+          "answer": "Financial Literacy",
+          "hidden": false,
+          "team": {
+            "id": "bddf5ec5-3a87-48f5-aab0-bcfd19c17e19",
+            "name": "Diamond Cutters",
+            "icon": "💎"
+          },
+          "player": {
+            "id": "e5fabd4f-3d96-4169-96c4-1ddafc69d147",
+            "name": "Adam Druga"
+          },
+          "created_at": "2026-04-08T15:54:36.823Z"
+        },
+        {
+          "id": "e356272b-479a-4e82-8d3a-982a2be360d7",
+          "answer": "Connecting people engagement to financial performance",
+          "hidden": false,
+          "team": {
+            "id": "78110542-c94a-4f16-8900-6b525ac384e8",
+            "name": "purple cobras",
+            "icon": "🐲"
+          },
+          "player": {
+            "id": "cbf3cee5-3c63-406c-9a48-77977918f3b6",
+            "name": "Elizabeth Gurin"
+          },
+          "created_at": "2026-04-08T15:54:35.226Z"
+        },
+        {
+          "id": "e0bc52d6-a6e6-40a7-8414-195e8b278ca3",
+          "answer": "Financial acumen",
+          "hidden": false,
+          "team": {
+            "id": "3fa1cfec-e3c2-4f97-88c5-3d85bf13be3f",
+            "name": "Shelf Sensais",
+            "icon": "🦉"
+          },
+          "player": {
+            "id": "5a336dce-b07b-4767-95ef-7cb203fa9d2d",
+            "name": "Shirene Urry"
+          },
+          "created_at": "2026-04-08T15:54:25.410Z"
+        },
+        {
+          "id": "42d24e28-2862-4667-a9d8-64cf615e6385",
+          "answer": "Numbers oriented based decision",
+          "hidden": false,
+          "team": {
+            "id": "f37b0170-3e05-4b53-84b9-ff573a774430",
+            "name": "Spring",
+            "icon": "🍃"
+          },
+          "player": {
+            "id": "c3e62252-ea40-4551-9f90-95ce8e77da20",
+            "name": "Ru Zheng"
+          },
+          "created_at": "2026-04-08T15:54:23.377Z"
+        },
+        {
+          "id": "2e3c115e-b5cf-4631-b0f0-58bf4d65258c",
+          "answer": "Out of the box-thinking and consideration of qualitative factors in solutions",
+          "hidden": false,
+          "team": {
+            "id": "20c60fe6-24e1-4538-98d6-f35b5f3431bf",
+            "name": "Martha Gutierrez",
+            "icon": "✨"
+          },
+          "player": {
+            "id": "30ffd355-8bf5-4e18-a487-a1275883b6e5",
+            "name": "Theodore (TJ) Virtue"
+          },
+          "created_at": "2026-04-08T15:54:23.155Z"
+        },
+        {
+          "id": "5214c388-ba3c-4996-8139-e5e590562fc3",
+          "answer": "Tie financial acumen to make the right decisions to support my team",
+          "hidden": false,
+          "team": {
+            "id": "120d853d-a950-4705-a522-24116d31385c",
+            "name": "BD-licious",
+            "icon": "🍰"
+          },
+          "player": {
+            "id": "97204279-8489-42a6-ac71-608e263d1d49",
+            "name": "Matt McCambridge"
+          },
+          "created_at": "2026-04-08T15:54:19.608Z"
+        },
+        {
+          "id": "194747f4-813e-4cba-9b0a-700ed10e712d",
+          "answer": "Vision and objective; flexing on people development",
+          "hidden": false,
+          "team": {
+            "id": "92d0e6f6-504e-4712-8471-58fe59abdb7e",
+            "name": "Eagle Consultants",
+            "icon": "🦅"
+          },
+          "player": {
+            "id": "950f89f7-0055-47ea-a6b8-5f8d4af5375b",
+            "name": "Daniel Feltyberger"
+          },
+          "created_at": "2026-04-08T15:54:16.672Z"
+        },
+        {
+          "id": "45558607-0d6f-4e34-82bf-4236ab3aecb9",
+          "answer": "Culture building",
+          "hidden": false,
+          "team": {
+            "id": "05cb658c-2912-4379-8395-cdfd1999dc4e",
+            "name": "Rohan Not Solo",
+            "icon": "🦁"
+          },
+          "player": {
+            "id": "39a0f744-1baf-44e4-ba11-7f46eddc4557",
+            "name": "Brooks Baker"
+          },
+          "created_at": "2026-04-08T15:54:13.173Z"
+        },
+        {
+          "id": "abaa908c-fa88-4874-9052-86b9ceb22c5a",
+          "answer": "Become more strategical",
+          "hidden": false,
+          "team": {
+            "id": "69db3fcc-34d1-4d22-85a8-66ccc9fedcaf",
+            "name": "Consultant 11",
+            "icon": "💼"
+          },
+          "player": {
+            "id": "16216deb-dbd7-49d2-aacc-5a6147050b15",
+            "name": "Goretti Sánchez"
+          },
+          "created_at": "2026-04-08T15:54:12.931Z"
+        },
+        {
+          "id": "4d2119c0-dee4-4a0a-bc57-28e73c3883ca",
+          "answer": "People engagement",
+          "hidden": false,
+          "team": {
+            "id": "3fa1cfec-e3c2-4f97-88c5-3d85bf13be3f",
+            "name": "Shelf Sensais",
+            "icon": "🦉"
+          },
+          "player": {
+            "id": "9ea8fb62-cd37-4841-862a-38d3f80b875d",
+            "name": "Liza Casiano"
+          },
+          "created_at": "2026-04-08T15:54:11.318Z"
+        },
+        {
+          "id": "c8fa98dc-2eac-4bfe-9b6a-ad3ada710e34",
+          "answer": "Business acumen",
+          "hidden": false,
+          "team": {
+            "id": "e95172b4-8ac1-455e-b8b2-84796f27fa80",
+            "name": "Shelf Smart",
+            "icon": "🎸"
+          },
+          "player": {
+            "id": "115b1742-4c58-4ea9-b3c8-2223c1faf88c",
+            "name": "Jessica Hoye"
+          },
+          "created_at": "2026-04-08T15:54:10.709Z"
+        },
+        {
+          "id": "ea85d30e-9e9b-469d-9bfe-72e9e4f6b709",
+          "answer": "Financials",
+          "hidden": false,
+          "team": {
+            "id": "120d853d-a950-4705-a522-24116d31385c",
+            "name": "BD-licious",
+            "icon": "🍰"
+          },
+          "player": {
+            "id": "cd9c03e4-e302-4a4b-8f1c-b40e95491955",
+            "name": "Gabriel Pellanda"
+          },
+          "created_at": "2026-04-08T15:54:10.142Z"
+        },
+        {
+          "id": "69ed1c91-74a1-4954-9fbe-d9300d2cd2dd",
+          "answer": "Financials",
+          "hidden": false,
+          "team": {
+            "id": "f37b0170-3e05-4b53-84b9-ff573a774430",
+            "name": "Spring",
+            "icon": "🍃"
+          },
+          "player": {
+            "id": "270fec37-2a4f-470e-98ee-602599533962",
+            "name": "Lian Zhu"
+          },
+          "created_at": "2026-04-08T15:54:08.910Z"
+        },
+        {
+          "id": "55d8b428-80c4-42d6-ae4d-b8a822a47c2b",
+          "answer": "Culture\r\nResults oriented",
+          "hidden": false,
+          "team": {
+            "id": "1a9b476a-3d3b-42f0-9f05-fd603191f64d",
+            "name": "Messi-Maradona",
+            "icon": "🏆"
+          },
+          "player": {
+            "id": "bb83f6bc-2ce7-4050-8ca6-b5fca1fb7e4f",
+            "name": "Varun Madaksira"
+          },
+          "created_at": "2026-04-08T15:54:06.132Z"
+        },
+        {
+          "id": "038a8d4c-4d1b-4625-bfac-0653884670fd",
+          "answer": "Financial literacy",
+          "hidden": false,
+          "team": {
+            "id": "aa333ff5-0d7c-4b0b-a8de-03c350dd69a6",
+            "name": "Super Market Maniacs",
+            "icon": "🍔"
+          },
+          "player": {
+            "id": "0a944ac7-1e00-40b3-bc23-b374a57b83c5",
+            "name": "Nick Carrara"
+          },
+          "created_at": "2026-04-08T15:54:04.399Z"
+        },
+        {
+          "id": "227b788f-e0fc-4bec-859f-344c63bb9272",
+          "answer": "Driving business decisions",
+          "hidden": false,
+          "team": {
+            "id": "e33cb93f-38f1-4346-a77c-c6625648491a",
+            "name": "Becton Ballerz",
+            "icon": "🔥"
+          },
+          "player": {
+            "id": "f38dbf55-a6d8-4ad9-a758-017fc5b15357",
+            "name": "Alex Zeepvat"
+          },
+          "created_at": "2026-04-08T15:54:03.610Z"
+        },
+        {
+          "id": "3cbdd7e6-b75c-429f-86e1-93adc8df1976",
+          "answer": "Numbers",
+          "hidden": false,
+          "team": {
+            "id": "aa333ff5-0d7c-4b0b-a8de-03c350dd69a6",
+            "name": "Super Market Maniacs",
+            "icon": "🍔"
+          },
+          "player": {
+            "id": "287b3a86-7430-4ca7-916d-f5b87e4952a1",
+            "name": "Amit"
+          },
+          "created_at": "2026-04-08T15:54:02.871Z"
+        },
+        {
+          "id": "6f779305-f533-47f8-8f25-2b9876b31f52",
+          "answer": "Honest feedback.",
+          "hidden": false,
+          "team": {
+            "id": "3a919996-ec5b-4eea-b263-ef0374e896e4",
+            "name": "Field Ride",
+            "icon": "🏎️"
+          },
+          "player": {
+            "id": "579fcfe4-63a1-4341-ae49-f6c94de44c92",
+            "name": "Evan Gray"
+          },
+          "created_at": "2026-04-08T15:54:00.948Z"
+        },
+        {
+          "id": "48b3aea7-5728-4fde-8b7a-84d25991bed1",
+          "answer": "Numbers",
+          "hidden": false,
+          "team": {
+            "id": "bddf5ec5-3a87-48f5-aab0-bcfd19c17e19",
+            "name": "Diamond Cutters",
+            "icon": "💎"
+          },
+          "player": {
+            "id": "793c494f-9519-4237-a7ed-c1c96c0b5003",
+            "name": "Jennifer Kramer"
+          },
+          "created_at": "2026-04-08T15:54:00.403Z"
+        },
+        {
+          "id": "dfa0be96-5879-4864-99e1-8479daeac0f3",
+          "answer": "associate development",
+          "hidden": false,
+          "team": {
+            "id": "92d0e6f6-504e-4712-8471-58fe59abdb7e",
+            "name": "Eagle Consultants",
+            "icon": "🦅"
+          },
+          "player": {
+            "id": "b15ab960-5150-426e-bb40-3b65b612d97c",
+            "name": "Lauren Parlato"
+          },
+          "created_at": "2026-04-08T15:54:00.054Z"
+        },
+        {
+          "id": "d3d342cf-4e8d-41a2-b269-9f4e3f293ac5",
+          "answer": "People",
+          "hidden": false,
+          "team": {
+            "id": "e33cb93f-38f1-4346-a77c-c6625648491a",
+            "name": "Becton Ballerz",
+            "icon": "🔥"
+          },
+          "player": {
+            "id": "2f00a5e2-141d-4e1e-ba20-3d5d7a639988",
+            "name": "Rajiv Shahapurkar"
+          },
+          "created_at": "2026-04-08T15:53:59.736Z"
+        },
+        {
+          "id": "a5b56d2f-2f5c-4a40-ad9e-d5f7d96eec54",
+          "answer": "People Engagement",
+          "hidden": false,
+          "team": {
+            "id": "4afb23f5-839a-40cb-86c9-922fc7c02f0a",
+            "name": "F&M Consulting",
+            "icon": "📈"
+          },
+          "player": {
+            "id": "c74adb67-0bd5-4e73-8a8d-cd0aff57acec",
+            "name": "David Markey"
+          },
+          "created_at": "2026-04-08T15:53:57.362Z"
+        },
+        {
+          "id": "c1714069-fbd2-4f72-8d8f-479fff39297d",
+          "answer": "Balancing the people and the numbers",
+          "hidden": false,
+          "team": {
+            "id": "4fdd51a3-ddf0-4403-9bfe-1c271793d1e7",
+            "name": "The Daily Sprouts",
+            "icon": "🌱"
+          },
+          "player": {
+            "id": "98e89547-a5d2-4e81-854c-e9511c2139ac",
+            "name": "Katie Davis"
+          },
+          "created_at": "2026-04-08T15:53:56.420Z"
+        },
+        {
+          "id": "59c2e21c-6015-40f8-a8d7-e6a9b276660a",
+          "answer": "numbers oriented decisions",
+          "hidden": false,
+          "team": {
+            "id": "20c60fe6-24e1-4538-98d6-f35b5f3431bf",
+            "name": "Martha Gutierrez",
+            "icon": "✨"
+          },
+          "player": {
+            "id": "e4b01cae-8542-44a7-bb24-4204e8f86132",
+            "name": "Martha Gutierrez"
+          },
+          "created_at": "2026-04-08T15:53:54.261Z"
+        },
+        {
+          "id": "91be6b6e-bdfa-4632-a007-7b2a18547368",
+          "answer": "Financial numbers and what is the story?",
+          "hidden": false,
+          "team": {
+            "id": "e308eeed-c508-4f39-a28c-c7bc7e4d9d01",
+            "name": "Early Birds Consulting",
+            "icon": "🦅"
+          },
+          "player": {
+            "id": "fa0ce0d4-1aa3-476d-bdb4-cee8c54d5297",
+            "name": "Chris Siew"
+          },
+          "created_at": "2026-04-08T15:53:53.202Z"
+        },
+        {
+          "id": "6848e399-6269-4b21-a91a-080458357630",
+          "answer": "Purpose",
+          "hidden": false,
+          "team": {
+            "id": "05cb658c-2912-4379-8395-cdfd1999dc4e",
+            "name": "Rohan Not Solo",
+            "icon": "🦁"
+          },
+          "player": {
+            "id": "f71ede42-c3e0-4fc2-b0e3-51c97d0b1730",
+            "name": "Rohan Shah"
+          },
+          "created_at": "2026-04-08T15:53:52.098Z"
+        },
+        {
+          "id": "4706cc59-249d-4a60-8ba1-b76a1f892723",
+          "answer": "Financials",
+          "hidden": false,
+          "team": {
+            "id": "be0d19ae-de7a-45af-a3a1-a9eebcc5ad27",
+            "name": "Next Horizon Durand",
+            "icon": "🚀"
+          },
+          "player": {
+            "id": "74d57996-ddec-45dc-bcee-9214e142f985",
+            "name": "Lisa Perez-Lopez"
+          },
+          "created_at": "2026-04-08T15:53:50.686Z"
+        },
+        {
+          "id": "80b8a6b4-1bed-4668-a6aa-f60a46547126",
+          "answer": "The numbers. Financials",
+          "hidden": false,
+          "team": {
+            "id": "e95172b4-8ac1-455e-b8b2-84796f27fa80",
+            "name": "Shelf Smart",
+            "icon": "🎸"
+          },
+          "player": {
+            "id": "52018f77-9873-4aa7-a126-10411b80ae7d",
+            "name": "madelyn fuentes"
+          },
+          "created_at": "2026-04-08T15:53:48.360Z"
+        },
+        {
+          "id": "be467663-e9d9-4ee8-a3d4-2cb31dd60262",
+          "answer": "I want to focus on financial acumen",
+          "hidden": false,
+          "team": {
+            "id": "be0d19ae-de7a-45af-a3a1-a9eebcc5ad27",
+            "name": "Next Horizon Durand",
+            "icon": "🚀"
+          },
+          "player": {
+            "id": "098e9223-0c3a-49af-8a04-c90a8ffe7350",
+            "name": "Dennis Campbell"
+          },
+          "created_at": "2026-04-08T15:53:48.120Z"
+        },
+        {
+          "id": "82b90828-747b-4993-bcd4-8cc4b4fb7da2",
+          "answer": "People Engagement",
+          "hidden": false,
+          "team": {
+            "id": "8a9c21d1-b835-4f0c-a951-34bf4e96e1d4",
+            "name": "Team Teddy",
+            "icon": "🐻"
+          },
+          "player": {
+            "id": "a67b379c-2f06-4620-8632-49498553c9b5",
+            "name": "Fayaad Shafie"
+          },
+          "created_at": "2026-04-08T15:53:46.960Z"
+        },
+        {
+          "id": "70186ae1-cca8-40de-a0c8-7dbdab2881b8",
+          "answer": "Flex the people",
+          "hidden": false,
+          "team": {
+            "id": "4fdd51a3-ddf0-4403-9bfe-1c271793d1e7",
+            "name": "The Daily Sprouts",
+            "icon": "🌱"
+          },
+          "player": {
+            "id": "6d6bf944-732a-4470-85b3-8aa467548e71",
+            "name": "Cindy Bedoe"
+          },
+          "created_at": "2026-04-08T15:53:40.981Z"
+        },
+        {
+          "id": "98061bf8-9b19-4211-996d-9ce20a0aa359",
+          "answer": "Financials",
+          "hidden": false,
+          "team": {
+            "id": "730f8bd3-c978-44a0-9fff-e38f7bcf9f80",
+            "name": "Nikki test",
+            "icon": "💡"
+          },
+          "player": {
+            "id": "8b79a703-e490-4340-bb3d-acb194fe6066",
+            "name": "Nikki Larsen"
+          },
+          "created_at": "2026-04-08T15:53:39.778Z"
+        }
+      ]
+    }
+  ]
 }

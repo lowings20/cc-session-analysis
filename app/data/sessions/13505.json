@@ -2457,5 +2457,316 @@
       }
     ],
     "method": "LLM-derived via claude-haiku-4-5: criteria identified from 12 letters, per-team classification of credit."
-  }
+  },
+  "reflections": [
+    {
+      "id": "8f8c2c23-7407-4868-82b3-4497e070f753",
+      "question": "Who is the key stakeholder in your strategy?",
+      "chapter_id": null,
+      "chapter_title": null,
+      "created_at": "2026-04-15T16:22:40.548Z",
+      "answers": [
+        {
+          "id": "82a81dde-27e4-4524-8875-ba3d5f6b94ea",
+          "answer": "Dana",
+          "hidden": false,
+          "team": {
+            "id": "b58c8833-367e-4229-a0ef-1ae324fda9bf",
+            "name": "Team Pink",
+            "icon": "🦩"
+          },
+          "player": {
+            "id": "f8cebf6d-8435-4083-bcf7-961e47525b73",
+            "name": "Adam Druga"
+          },
+          "created_at": "2026-04-15T16:25:35.779Z"
+        },
+        {
+          "id": "f034f90a-a5d5-4625-a07f-3207cb1dbf25",
+          "answer": "Mei and Grace",
+          "hidden": false,
+          "team": {
+            "id": "eb6eba36-8ebd-42ef-aa83-3b82298b301d",
+            "name": "CP Politics",
+            "icon": "🤝"
+          },
+          "player": {
+            "id": "e0f3b8a6-7ba8-4811-a9f4-0b973c086649",
+            "name": "Peter Fayek"
+          },
+          "created_at": "2026-04-15T16:25:13.888Z"
+        },
+        {
+          "id": "853fb55b-dc8f-4004-8a59-cbdfdb43718a",
+          "answer": "Mei and Blaine",
+          "hidden": false,
+          "team": {
+            "id": "faee6b09-4d89-4fdb-9569-911a9f1b3486",
+            "name": "Catalyst Crew",
+            "icon": "🔥"
+          },
+          "player": {
+            "id": "9a68f30b-b8c9-49bc-b9d5-ad69820f7fdb",
+            "name": "Shirene Urry"
+          },
+          "created_at": "2026-04-15T16:24:32.765Z"
+        },
+        {
+          "id": "48d40f6e-8c17-4e02-976f-b2b00292ead1",
+          "answer": "Mei",
+          "hidden": false,
+          "team": {
+            "id": "faee6b09-4d89-4fdb-9569-911a9f1b3486",
+            "name": "Catalyst Crew",
+            "icon": "🔥"
+          },
+          "player": {
+            "id": "b1a8a4c9-dd97-41cd-97ef-8f22d692b66e",
+            "name": "Evan Gray"
+          },
+          "created_at": "2026-04-15T16:23:45.603Z"
+        },
+        {
+          "id": "1af1cae2-b860-48a9-9f7f-20e45deaf84d",
+          "answer": "Mei & Grace",
+          "hidden": false,
+          "team": {
+            "id": "1d24980f-6b79-4101-a244-85a31e38a06c",
+            "name": "Coyotes",
+            "icon": "🦊"
+          },
+          "player": {
+            "id": "db707771-654e-4078-a272-4eaa49980174",
+            "name": "Anand"
+          },
+          "created_at": "2026-04-15T16:23:45.452Z"
+        },
+        {
+          "id": "d5417e1e-019b-4286-ba1f-c03a1ff218af",
+          "answer": "Mei",
+          "hidden": false,
+          "team": {
+            "id": "eb6eba36-8ebd-42ef-aa83-3b82298b301d",
+            "name": "CP Politics",
+            "icon": "🤝"
+          },
+          "player": {
+            "id": "613bdc84-ac4b-4aac-a791-d6414f881146",
+            "name": "Cindy Bedoe"
+          },
+          "created_at": "2026-04-15T16:23:44.509Z"
+        },
+        {
+          "id": "636d0618-4c97-4856-bb73-1dddf25bff51",
+          "answer": "Blaine",
+          "hidden": false,
+          "team": {
+            "id": "40347058-176e-445a-ba37-5d1ebda9aee9",
+            "name": "NE warm weather lovers",
+            "icon": "☀️"
+          },
+          "player": {
+            "id": "68cb4e02-f03f-4fe5-832d-7863767292ba",
+            "name": "Lauren Parlato"
+          },
+          "created_at": "2026-04-15T16:23:41.714Z"
+        },
+        {
+          "id": "88b9e078-5ec8-41a6-b833-86288600227e",
+          "answer": "Mei",
+          "hidden": false,
+          "team": {
+            "id": "edb18006-e1dd-446f-bafa-6cbdbc139dd4",
+            "name": "Group 4 - Lions",
+            "icon": "🔥"
+          },
+          "player": {
+            "id": "0285bbc1-4d3f-4911-ade4-c5f49b9ee3fb",
+            "name": "Rohan Shah"
+          },
+          "created_at": "2026-04-15T16:23:29.840Z"
+        },
+        {
+          "id": "3882122b-0a41-4294-bde7-399581b289ef",
+          "answer": "Grace",
+          "hidden": false,
+          "team": {
+            "id": "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6",
+            "name": "Forging Ahead",
+            "icon": "📈"
+          },
+          "player": {
+            "id": "33b4456d-2fd7-4cfd-9abd-951e1f2d839d",
+            "name": "Fayaad Shafie"
+          },
+          "created_at": "2026-04-15T16:23:20.257Z"
+        },
+        {
+          "id": "ab988b1e-6861-496c-8cbc-32fdfa6c7056",
+          "answer": "Mei",
+          "hidden": false,
+          "team": {
+            "id": "fe526ec7-8944-4c66-aaf5-fddd2fbd4409",
+            "name": "BDX Execs",
+            "icon": "👑"
+          },
+          "player": {
+            "id": "fbfaf143-eaf6-4ead-b443-55871fdbe9c6",
+            "name": "Rajiv Shahapurkar"
+          },
+          "created_at": "2026-04-15T16:23:16.983Z"
+        },
+        {
+          "id": "d91a9999-a9ce-4abf-9902-76214f79db05",
+          "answer": "Dana",
+          "hidden": false,
+          "team": {
+            "id": "b58c8833-367e-4229-a0ef-1ae324fda9bf",
+            "name": "Team Pink",
+            "icon": "🦩"
+          },
+          "player": {
+            "id": "5a83832e-6228-4371-975c-9535e4b0a5c9",
+            "name": "Martha"
+          },
+          "created_at": "2026-04-15T16:23:15.306Z"
+        },
+        {
+          "id": "59dad3e7-8c59-4fb6-ab5e-463e87f214ae",
+          "answer": "Mei",
+          "hidden": false,
+          "team": {
+            "id": "4701260c-46dc-4af5-aa9c-76c2a2ee16d4",
+            "name": "Team \"Get It Done\"",
+            "icon": "⚡"
+          },
+          "player": {
+            "id": "88e0dac1-1da4-4e79-9769-643e523aa610",
+            "name": "David Markey"
+          },
+          "created_at": "2026-04-15T16:23:14.805Z"
+        },
+        {
+          "id": "f4a938a3-1071-4cee-9119-99d57a5db062",
+          "answer": "Dana",
+          "hidden": false,
+          "team": {
+            "id": "1ffe3af4-d1fd-48d2-ba57-b8da727bb9c6",
+            "name": "Forging Ahead",
+            "icon": "📈"
+          },
+          "player": {
+            "id": "cbd822df-3216-46fc-b499-144afc5a4e3a",
+            "name": "Dennis Campbell"
+          },
+          "created_at": "2026-04-15T16:23:10.081Z"
+        },
+        {
+          "id": "816e2cc9-e9c7-481a-8bb3-13ccc7a6a927",
+          "answer": "Dana",
+          "hidden": false,
+          "team": {
+            "id": "2f901bf5-b048-45da-b103-7ee51993f754",
+            "name": "NextGen Cooling",
+            "icon": "❄️"
+          },
+          "player": {
+            "id": "b00f96cc-0f47-4e41-9cb7-0f71fc08ed79",
+            "name": "Matt McCambridge"
+          },
+          "created_at": "2026-04-15T16:23:07.360Z"
+        },
+        {
+          "id": "96d5e70b-1a8b-45bd-800c-356eafd8c6ec",
+          "answer": "Mei and Blaine",
+          "hidden": false,
+          "team": {
+            "id": "edb18006-e1dd-446f-bafa-6cbdbc139dd4",
+            "name": "Group 4 - Lions",
+            "icon": "🔥"
+          },
+          "player": {
+            "id": "369166ba-ee13-4353-9d6a-feb70e486d27",
+            "name": "Varun Madaksira"
+          },
+          "created_at": "2026-04-15T16:23:00.642Z"
+        },
+        {
+          "id": "df671a82-412d-4192-86e6-002efd5a2003",
+          "answer": "Grace",
+          "hidden": false,
+          "team": {
+            "id": "2dfe0726-9b7b-41fb-8303-a6734911675b",
+            "name": "MKT X R&D",
+            "icon": "🎯"
+          },
+          "player": {
+            "id": "2d7a3a21-6860-4322-840c-a17a971776d8",
+            "name": "Anurag Mathur"
+          },
+          "created_at": "2026-04-15T16:22:56.549Z"
+        },
+        {
+          "id": "a37ab46f-da39-47a1-8644-f24a2865c563",
+          "answer": "Grace",
+          "hidden": false,
+          "team": {
+            "id": "1d24980f-6b79-4101-a244-85a31e38a06c",
+            "name": "Coyotes",
+            "icon": "🦊"
+          },
+          "player": {
+            "id": "d288d513-063b-48e4-af34-aea2f6c860bf",
+            "name": "Ben"
+          },
+          "created_at": "2026-04-15T16:22:55.738Z"
+        },
+        {
+          "id": "7af5135d-a495-4c20-81a0-10c404777e2b",
+          "answer": "Quality",
+          "hidden": false,
+          "team": {
+            "id": "d17395f5-6578-447f-a52c-3effdd3ca599",
+            "name": "THE NUMBER 1",
+            "icon": "🥇"
+          },
+          "player": {
+            "id": "92947fbf-75b2-4c7c-900c-cbe79353450d",
+            "name": "GORETTI SANCHEZ REZA"
+          },
+          "created_at": "2026-04-15T16:22:54.609Z"
+        },
+        {
+          "id": "a5e719ce-cbbd-4794-acd5-dfb69a61bd6b",
+          "answer": "Mei and Dana",
+          "hidden": false,
+          "team": {
+            "id": "2f901bf5-b048-45da-b103-7ee51993f754",
+            "name": "NextGen Cooling",
+            "icon": "❄️"
+          },
+          "player": {
+            "id": "cd288c53-60e5-48c9-9850-eb4da62776b5",
+            "name": "Gabriel Pellanda"
+          },
+          "created_at": "2026-04-15T16:22:53.435Z"
+        },
+        {
+          "id": "612988b9-ab64-4ea1-bc1b-bbaf850e5d04",
+          "answer": "Grace",
+          "hidden": false,
+          "team": {
+            "id": "2dfe0726-9b7b-41fb-8303-a6734911675b",
+            "name": "MKT X R&D",
+            "icon": "🎯"
+          },
+          "player": {
+            "id": "5d210cf5-fab2-4aad-ba7e-aef1563db9a6",
+            "name": "Daniel Feltyberger"
+          },
+          "created_at": "2026-04-15T16:22:52.947Z"
+        }
+      ]
+    }
+  ]
 }

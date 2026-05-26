@@ -1454,5 +1454,6 @@
       }
     ],
     "method": "LLM-derived via claude-haiku-4-5: criteria identified from 12 letters, per-team classification of credit."
-  }
+  },
+  "reflections": []
 }

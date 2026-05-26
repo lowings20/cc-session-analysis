@@ -115,5 +115,15 @@
   },
   "chapter_timings": {},
   "events": [],
-  "rubric_by_chapter": {}
+  "rubric_by_chapter": {},
+  "reflections": [
+    {
+      "id": "459fb453-ca92-4e90-9651-163c7a6e2825",
+      "question": "What was the most challenging aspect of this scenario?",
+      "chapter_id": null,
+      "chapter_title": null,
+      "created_at": "2026-05-18T18:42:38.901Z",
+      "answers": []
+    }
+  ]
 }

@@ -1965,5 +1965,226 @@
       }
     ],
     "method": "LLM-derived via claude-haiku-4-5: criteria identified from 10 letters, per-team classification of credit."
-  }
+  },
+  "reflections": [
+    {
+      "id": "94b76822-b702-43ab-8eb8-5c455465314f",
+      "question": "Who do you think is the key stakeholder?",
+      "chapter_id": null,
+      "chapter_title": null,
+      "created_at": "2026-04-14T16:26:35.386Z",
+      "answers": [
+        {
+          "id": "4a47ae76-b67b-47a5-b9ae-a0ccdc18198a",
+          "answer": "Mei",
+          "hidden": false,
+          "team": {
+            "id": "516806fd-368b-4a4c-be03-900bb13289f1",
+            "name": "LEAP Frogs",
+            "icon": "🏆"
+          },
+          "player": {
+            "id": "3fb0088a-2092-4a00-8bec-264ac333a3bc",
+            "name": "Paula Rao"
+          },
+          "created_at": "2026-04-14T16:28:42.852Z"
+        },
+        {
+          "id": "764ec6dd-ed1d-4e97-92a9-5a48a92e01d4",
+          "answer": "Marvin",
+          "hidden": false,
+          "team": {
+            "id": "a8a43b6a-37cc-4c2a-9fdc-8b181ccdefee",
+            "name": "Team Chill",
+            "icon": "❄️"
+          },
+          "player": {
+            "id": "2547edec-0e6a-4fe5-a006-1ae6fbeeacd8",
+            "name": "Gerrit Moyer"
+          },
+          "created_at": "2026-04-14T16:27:36.613Z"
+        },
+        {
+          "id": "8c3c4dda-dfe9-4bb5-9a7c-7319acc60a03",
+          "answer": "Grace: She holds the highest practical veto power over SmartSense.",
+          "hidden": false,
+          "team": {
+            "id": "e9921b59-7c2e-4246-93ec-5c3df3d006ca",
+            "name": "Liza Casiano",
+            "icon": "👑"
+          },
+          "player": {
+            "id": "c10e2699-b4aa-4096-bcc0-cef152b302ea",
+            "name": "Latina´s Innovation"
+          },
+          "created_at": "2026-04-14T16:27:35.307Z"
+        },
+        {
+          "id": "f1e33250-a89d-42c0-9120-38469586e95f",
+          "answer": "Grace",
+          "hidden": false,
+          "team": {
+            "id": "e9921b59-7c2e-4246-93ec-5c3df3d006ca",
+            "name": "Liza Casiano",
+            "icon": "👑"
+          },
+          "player": {
+            "id": "8ff51770-967d-4d11-910a-2d270c5e83a2",
+            "name": "Liza Casiano"
+          },
+          "created_at": "2026-04-14T16:27:35.040Z"
+        },
+        {
+          "id": "5e17fcfa-a8de-4303-aa4d-4d112cb930a9",
+          "answer": "Mei",
+          "hidden": false,
+          "team": {
+            "id": "0ac86fb8-632b-45bf-b2ff-a8ba7a664ed3",
+            "name": "Forward Thinkers",
+            "icon": "🧠"
+          },
+          "player": {
+            "id": "1bd119f1-e5f4-4eeb-a4d6-6a764f432183",
+            "name": "Jessica Hoye"
+          },
+          "created_at": "2026-04-14T16:27:21.332Z"
+        },
+        {
+          "id": "717e0297-a9cf-496e-b943-607bea8fe45e",
+          "answer": "Grace",
+          "hidden": false,
+          "team": {
+            "id": "9091d0f2-89d6-45db-be40-44a2e1421998",
+            "name": "Group 9",
+            "icon": "🥐"
+          },
+          "player": {
+            "id": "0023a95e-0023-46b0-a609-510e37660dd3",
+            "name": "Sunil Mirji"
+          },
+          "created_at": "2026-04-14T16:27:18.642Z"
+        },
+        {
+          "id": "0353e989-b6e8-456e-930e-6cbc89243b1d",
+          "answer": "Grace",
+          "hidden": false,
+          "team": {
+            "id": "a8a43b6a-37cc-4c2a-9fdc-8b181ccdefee",
+            "name": "Team Chill",
+            "icon": "❄️"
+          },
+          "player": {
+            "id": "f210f5a4-544c-45fd-a7e8-fc4a8b07796b",
+            "name": "Mitch Garcia"
+          },
+          "created_at": "2026-04-14T16:27:14.861Z"
+        },
+        {
+          "id": "814db788-12c1-414d-a4cb-53bf2a1c6fa4",
+          "answer": "Dana",
+          "hidden": false,
+          "team": {
+            "id": "a1c85c86-45f8-4d64-a274-b1fe8f9bfeb6",
+            "name": "The Three Amigos",
+            "icon": "🌮"
+          },
+          "player": {
+            "id": "8e94ecb7-09dc-46f6-b641-a4b770745fbe",
+            "name": "Katie Davis"
+          },
+          "created_at": "2026-04-14T16:27:05.692Z"
+        },
+        {
+          "id": "c5f15996-069d-456f-abc2-de7b7db4c6b2",
+          "answer": "Grace",
+          "hidden": false,
+          "team": {
+            "id": "c202222b-8f32-4ec2-a7fc-507e61fa62aa",
+            "name": "Lovely Spring Day",
+            "icon": "🌸"
+          },
+          "player": {
+            "id": "0ff90385-7a32-47a7-85e3-9c3ffd60046e",
+            "name": "Jennifer Kramer"
+          },
+          "created_at": "2026-04-14T16:27:03.629Z"
+        },
+        {
+          "id": "0e2d834d-2ae8-4b93-9802-bb7c59e68bd5",
+          "answer": "Mei",
+          "hidden": false,
+          "team": {
+            "id": "a9e792b1-4335-4fe4-ac12-c065d7b6b921",
+            "name": "Las Mujeres Poderosas",
+            "icon": "🦁"
+          },
+          "player": {
+            "id": "155d9f51-5fe6-4882-aefb-dc9da9d92a81",
+            "name": "Elizabeth Gurin"
+          },
+          "created_at": "2026-04-14T16:27:02.230Z"
+        },
+        {
+          "id": "bca8b23b-874a-4455-a66b-af44ac95fdf4",
+          "answer": "Marvin",
+          "hidden": false,
+          "team": {
+            "id": "a3471f9d-5824-469f-9c48-9b514118213b",
+            "name": "FroZone",
+            "icon": "❄️"
+          },
+          "player": {
+            "id": "0db7fd56-89fd-45d4-8670-452b94b74945",
+            "name": "Philip Song"
+          },
+          "created_at": "2026-04-14T16:26:47.682Z"
+        },
+        {
+          "id": "bca110fd-9722-40ac-bb57-5707838fb9cb",
+          "answer": "Grace",
+          "hidden": false,
+          "team": {
+            "id": "a1c85c86-45f8-4d64-a274-b1fe8f9bfeb6",
+            "name": "The Three Amigos",
+            "icon": "🌮"
+          },
+          "player": {
+            "id": "39de4279-db2c-4a8e-8bd8-55521bcb044e",
+            "name": "Brooks Baker"
+          },
+          "created_at": "2026-04-14T16:26:46.358Z"
+        },
+        {
+          "id": "d49a6f5c-e6db-4684-9222-794c0c2c0746",
+          "answer": "Grace",
+          "hidden": false,
+          "team": {
+            "id": "a3471f9d-5824-469f-9c48-9b514118213b",
+            "name": "FroZone",
+            "icon": "❄️"
+          },
+          "player": {
+            "id": "4b0e6c0d-27cb-4ede-97cf-e7a24d8927ef",
+            "name": "Chris Siew"
+          },
+          "created_at": "2026-04-14T16:26:45.010Z"
+        },
+        {
+          "id": "b9938046-0c11-4f34-80f0-83620243bef7",
+          "answer": "Raj",
+          "hidden": false,
+          "team": {
+            "id": "a1c85c86-45f8-4d64-a274-b1fe8f9bfeb6",
+            "name": "The Three Amigos",
+            "icon": "🌮"
+          },
+          "player": {
+            "id": "cbd427c8-f332-4d18-a93e-cfb1b011dfe6",
+            "name": "Lisa Perez-Lopez"
+          },
+          "created_at": "2026-04-14T16:26:44.806Z"
+        }
+      ]
+    }
+  ]
 }

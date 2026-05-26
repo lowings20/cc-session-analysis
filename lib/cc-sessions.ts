@@ -53,6 +53,24 @@ export interface CcSessionRubric {
   method: string
 }
 
+export interface CcReflectionAnswer {
+  id: string
+  answer: string
+  hidden?: boolean
+  created_at?: string
+  team?: { id: string; name: string; icon: string }
+  player?: { id: string; name: string }
+}
+
+export interface CcReflectionQuestion {
+  id: string
+  question: string
+  chapter_id?: string | null
+  chapter_title?: string | null
+  created_at?: string | null
+  answers: CcReflectionAnswer[]
+}
+
 export interface CcSessionData {
   session_arrow_id: number
   session_cc_uuid: string
@@ -72,6 +90,7 @@ export interface CcSessionData {
   rubric_by_chapter?: Record<string, CcSessionRubric>
   chapter_timings: Record<string, { started_at?: string; ended_at?: string }>
   events: CcSessionEvent[]
+  reflections?: CcReflectionQuestion[]
 }
 
 import { SESSION_REGISTRY as REGISTRY } from './cc-session-registry'
