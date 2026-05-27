@@ -786,11 +786,15 @@
       ],
       "avg_survey_score": null,
       "survey_session_count": 0,
-      "avg_team_score": 56.42857142857143,
-      "team_score_count": 7,
+      "avg_team_score": 73.125,
+      "team_score_count": 24,
       "narrative_outcomes": {
         "Signs of Strain": 6,
-        "Crash Out": 1
+        "Crash Out": 1,
+        "Jordan Steps Up": 12,
+        "Jordan Regains Confidence": 2,
+        "Jordan Doubts His Fit": 2,
+        "Jordan's Progress Levels Off": 1
       },
       "sessions": [
         {
@@ -911,9 +915,15 @@
       ],
       "avg_survey_score": null,
       "survey_session_count": 0,
-      "avg_team_score": null,
-      "team_score_count": 0,
-      "narrative_outcomes": {},
+      "avg_team_score": 67.61904761904762,
+      "team_score_count": 21,
+      "narrative_outcomes": {
+        "Cold as Ice": 5,
+        "Cool and Collected": 5,
+        "Crash Out": 3,
+        "Signs of Strain": 6,
+        "Healthy Tension": 2
+      },
       "sessions": [
         {
           "session_id": 14363,

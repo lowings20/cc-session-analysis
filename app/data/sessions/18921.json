@@ -37,24 +37,2876 @@
       "blocks": 0
     }
   ],
-  "teams": [],
-  "team_results_for_viewed_chapter": {},
+  "teams": [
+    {
+      "id": "8ab9f186-a79c-452d-a614-b01da4eac957",
+      "name": "Titan Tandem",
+      "icon": "🦖",
+      "group_letter": "17"
+    },
+    {
+      "id": "62431c03-9885-4c92-8a40-fbb7e7722d97",
+      "name": "Survivors",
+      "icon": "🔥",
+      "group_letter": "6"
+    },
+    {
+      "id": "8ae8467b-5b77-4bb5-a56c-7b7c927e0283",
+      "name": "DG Duo",
+      "icon": "👥",
+      "group_letter": "14"
+    },
+    {
+      "id": "63ecc1b4-f8b3-4d83-b9cb-8bd4d46e8657",
+      "name": "sweet 16",
+      "icon": "🎂",
+      "group_letter": "16"
+    },
+    {
+      "id": "b74b04d1-9000-4af1-b1e3-39f90ebf0aff",
+      "name": "DG DAWGS",
+      "icon": "🔥",
+      "group_letter": "9"
+    },
+    {
+      "id": "5302e5e8-6357-4ce4-ad23-37d74a5886dd",
+      "name": "The dream Team",
+      "icon": "💫",
+      "group_letter": "12"
+    },
+    {
+      "id": "ae85d0f6-ccc4-481b-bb82-3dbdbe3f1f3e",
+      "name": "Team 3",
+      "icon": "🎲",
+      "group_letter": "3"
+    },
+    {
+      "id": "df1387d3-295f-4e76-b3bb-dfa9cc8a29e7",
+      "name": "Chalants",
+      "icon": "💪",
+      "group_letter": "5"
+    },
+    {
+      "id": "43d83bdb-67c9-4224-b9aa-a9154c244f56",
+      "name": "Big 8",
+      "icon": "🥇",
+      "group_letter": "8"
+    },
+    {
+      "id": "25ce60c5-ef14-4916-bd69-e27e39dd9913",
+      "name": "Next Level Ops",
+      "icon": "🏆",
+      "group_letter": "1"
+    },
+    {
+      "id": "644c324c-6034-4fce-8787-6c4119179f78",
+      "name": "think",
+      "icon": "🦉",
+      "group_letter": "10"
+    },
+    {
+      "id": "78b8b6e0-1a5c-4f17-8e0a-f2a42bbc10b9",
+      "name": "Megatie",
+      "icon": "🏆",
+      "group_letter": "4"
+    },
+    {
+      "id": "593f93d2-b3a8-4eb8-8c1f-7122f8043ef5",
+      "name": "sprite",
+      "icon": "🪄",
+      "group_letter": "15"
+    },
+    {
+      "id": "68359acd-c3ed-4b03-8b64-6b61cf577e37",
+      "name": "Eastcoast",
+      "icon": "🌊",
+      "group_letter": "11"
+    },
+    {
+      "id": "ce57287f-a4c8-4e4b-a4af-c4366cfb9d77",
+      "name": "The Wild Cats",
+      "icon": "🐺",
+      "group_letter": "13"
+    },
+    {
+      "id": "eac46a98-2502-4f4c-a2d7-d98c2a6c4419",
+      "name": "Mighty 2",
+      "icon": "🦁",
+      "group_letter": "2"
+    },
+    {
+      "id": "01980f21-41ed-4fd0-8f61-d95ef8f2d991",
+      "name": "Los Hermanos",
+      "icon": "👬",
+      "group_letter": "7"
+    }
+  ],
+  "team_results_for_viewed_chapter": {
+    "8ab9f186-a79c-452d-a614-b01da4eac957": {
+      "completed_block_count": 4,
+      "opened_block_count": 16,
+      "score": 87,
+      "narrative_outcome": "Jordan Steps Up"
+    },
+    "62431c03-9885-4c92-8a40-fbb7e7722d97": {
+      "completed_block_count": 4,
+      "opened_block_count": 16,
+      "score": 84,
+      "narrative_outcome": "Jordan Steps Up"
+    },
+    "8ae8467b-5b77-4bb5-a56c-7b7c927e0283": {
+      "completed_block_count": 4,
+      "opened_block_count": 16,
+      "score": 73,
+      "narrative_outcome": "Jordan Regains Confidence"
+    },
+    "63ecc1b4-f8b3-4d83-b9cb-8bd4d46e8657": {
+      "completed_block_count": 4,
+      "opened_block_count": 16,
+      "score": 87,
+      "narrative_outcome": "Jordan Steps Up"
+    },
+    "b74b04d1-9000-4af1-b1e3-39f90ebf0aff": {
+      "completed_block_count": 4,
+      "opened_block_count": 16,
+      "score": 85,
+      "narrative_outcome": "Jordan Steps Up"
+    },
+    "5302e5e8-6357-4ce4-ad23-37d74a5886dd": {
+      "completed_block_count": 4,
+      "opened_block_count": 15,
+      "score": 70,
+      "narrative_outcome": "Jordan Doubts His Fit"
+    },
+    "ae85d0f6-ccc4-481b-bb82-3dbdbe3f1f3e": {
+      "completed_block_count": 4,
+      "opened_block_count": 16,
+      "score": 75,
+      "narrative_outcome": "Jordan Steps Up"
+    },
+    "df1387d3-295f-4e76-b3bb-dfa9cc8a29e7": {
+      "completed_block_count": 4,
+      "opened_block_count": 16,
+      "score": 82,
+      "narrative_outcome": "Jordan Steps Up"
+    },
+    "43d83bdb-67c9-4224-b9aa-a9154c244f56": {
+      "completed_block_count": 4,
+      "opened_block_count": 16,
+      "score": 87,
+      "narrative_outcome": "Jordan Steps Up"
+    },
+    "25ce60c5-ef14-4916-bd69-e27e39dd9913": {
+      "completed_block_count": 4,
+      "opened_block_count": 16,
+      "score": 80,
+      "narrative_outcome": "Jordan Steps Up"
+    },
+    "644c324c-6034-4fce-8787-6c4119179f78": {
+      "completed_block_count": 4,
+      "opened_block_count": 16,
+      "score": 53,
+      "narrative_outcome": "Jordan Doubts His Fit"
+    },
+    "78b8b6e0-1a5c-4f17-8e0a-f2a42bbc10b9": {
+      "completed_block_count": 4,
+      "opened_block_count": 16,
+      "score": 98,
+      "narrative_outcome": "Jordan Steps Up"
+    },
+    "593f93d2-b3a8-4eb8-8c1f-7122f8043ef5": {
+      "completed_block_count": 4,
+      "opened_block_count": 16,
+      "score": 88,
+      "narrative_outcome": "Jordan Regains Confidence"
+    },
+    "68359acd-c3ed-4b03-8b64-6b61cf577e37": {
+      "completed_block_count": 4,
+      "opened_block_count": 16,
+      "score": 90,
+      "narrative_outcome": "Jordan Steps Up"
+    },
+    "ce57287f-a4c8-4e4b-a4af-c4366cfb9d77": {
+      "completed_block_count": 4,
+      "opened_block_count": 16,
+      "score": 58,
+      "narrative_outcome": "Jordan's Progress Levels Off"
+    },
+    "eac46a98-2502-4f4c-a2d7-d98c2a6c4419": {
+      "completed_block_count": 4,
+      "opened_block_count": 16,
+      "score": 73,
+      "narrative_outcome": "Jordan Steps Up"
+    },
+    "01980f21-41ed-4fd0-8f61-d95ef8f2d991": {
+      "completed_block_count": 4,
+      "opened_block_count": 16,
+      "score": 90,
+      "narrative_outcome": "Jordan Steps Up"
+    }
+  },
   "team_results_by_chapter": {
     "ad0c31b7-84cf-4a36-b448-1e2849011f32": {},
     "b7a71160-9f6d-4067-93a7-f1e6cc876a76": {},
     "d930fbda-77f4-4a3a-be92-572be4b917ae": {},
-    "89cfef24-2d08-4382-86c4-935d627d6a37": {}
+    "89cfef24-2d08-4382-86c4-935d627d6a37": {
+      "8ab9f186-a79c-452d-a614-b01da4eac957": {
+        "completed_block_count": 4,
+        "opened_block_count": 16,
+        "score": 87,
+        "narrative_outcome": "Jordan Steps Up"
+      },
+      "62431c03-9885-4c92-8a40-fbb7e7722d97": {
+        "completed_block_count": 4,
+        "opened_block_count": 16,
+        "score": 84,
+        "narrative_outcome": "Jordan Steps Up"
+      },
+      "8ae8467b-5b77-4bb5-a56c-7b7c927e0283": {
+        "completed_block_count": 4,
+        "opened_block_count": 16,
+        "score": 73,
+        "narrative_outcome": "Jordan Regains Confidence"
+      },
+      "63ecc1b4-f8b3-4d83-b9cb-8bd4d46e8657": {
+        "completed_block_count": 4,
+        "opened_block_count": 16,
+        "score": 87,
+        "narrative_outcome": "Jordan Steps Up"
+      },
+      "b74b04d1-9000-4af1-b1e3-39f90ebf0aff": {
+        "completed_block_count": 4,
+        "opened_block_count": 16,
+        "score": 85,
+        "narrative_outcome": "Jordan Steps Up"
+      },
+      "5302e5e8-6357-4ce4-ad23-37d74a5886dd": {
+        "completed_block_count": 4,
+        "opened_block_count": 15,
+        "score": 70,
+        "narrative_outcome": "Jordan Doubts His Fit"
+      },
+      "ae85d0f6-ccc4-481b-bb82-3dbdbe3f1f3e": {
+        "completed_block_count": 4,
+        "opened_block_count": 16,
+        "score": 75,
+        "narrative_outcome": "Jordan Steps Up"
+      },
+      "df1387d3-295f-4e76-b3bb-dfa9cc8a29e7": {
+        "completed_block_count": 4,
+        "opened_block_count": 16,
+        "score": 82,
+        "narrative_outcome": "Jordan Steps Up"
+      },
+      "43d83bdb-67c9-4224-b9aa-a9154c244f56": {
+        "completed_block_count": 4,
+        "opened_block_count": 16,
+        "score": 87,
+        "narrative_outcome": "Jordan Steps Up"
+      },
+      "25ce60c5-ef14-4916-bd69-e27e39dd9913": {
+        "completed_block_count": 4,
+        "opened_block_count": 16,
+        "score": 80,
+        "narrative_outcome": "Jordan Steps Up"
+      },
+      "644c324c-6034-4fce-8787-6c4119179f78": {
+        "completed_block_count": 4,
+        "opened_block_count": 16,
+        "score": 53,
+        "narrative_outcome": "Jordan Doubts His Fit"
+      },
+      "78b8b6e0-1a5c-4f17-8e0a-f2a42bbc10b9": {
+        "completed_block_count": 4,
+        "opened_block_count": 16,
+        "score": 98,
+        "narrative_outcome": "Jordan Steps Up"
+      },
+      "593f93d2-b3a8-4eb8-8c1f-7122f8043ef5": {
+        "completed_block_count": 4,
+        "opened_block_count": 16,
+        "score": 88,
+        "narrative_outcome": "Jordan Regains Confidence"
+      },
+      "68359acd-c3ed-4b03-8b64-6b61cf577e37": {
+        "completed_block_count": 4,
+        "opened_block_count": 16,
+        "score": 90,
+        "narrative_outcome": "Jordan Steps Up"
+      },
+      "ce57287f-a4c8-4e4b-a4af-c4366cfb9d77": {
+        "completed_block_count": 4,
+        "opened_block_count": 16,
+        "score": 58,
+        "narrative_outcome": "Jordan's Progress Levels Off"
+      },
+      "eac46a98-2502-4f4c-a2d7-d98c2a6c4419": {
+        "completed_block_count": 4,
+        "opened_block_count": 16,
+        "score": 73,
+        "narrative_outcome": "Jordan Steps Up"
+      },
+      "01980f21-41ed-4fd0-8f61-d95ef8f2d991": {
+        "completed_block_count": 4,
+        "opened_block_count": 16,
+        "score": 90,
+        "narrative_outcome": "Jordan Steps Up"
+      }
+    }
   },
-  "team_analyses_for_viewed_chapter": {},
+  "team_analyses_for_viewed_chapter": {
+    "8ab9f186-a79c-452d-a614-b01da4eac957": {
+      "teamId": "8ab9f186-a79c-452d-a614-b01da4eac957",
+      "teamName": "Titan Tandem",
+      "teamIcon": "🦖",
+      "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": null,
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T18:59:22.925Z",
+      "score": 87,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540541938-Jordan_Steps_up.webp",
+        "story": "Two months later... Jordan uses the kickoff checklist you outlined: Client Success joins mapping, a downstream impact check gates pilots, and a weekly pulse runs through rollout. Fewer surprises hit David’s team, and Marisa reports cleaner handoffs and faster client messaging updates. Jordan volunteers to walk two new associates through the checklist and pilot cadence, raising the team’s baseline for cross-functional coordination on larger projects.",
+        "title": "Jordan Steps Up",
+        "description": "After a strong performance and meaningful coaching, Jordan takes initiative to mentor newer associates and begins emerging as a future leader at Optividia."
+      }
+    },
+    "62431c03-9885-4c92-8a40-fbb7e7722d97": {
+      "teamId": "62431c03-9885-4c92-8a40-fbb7e7722d97",
+      "teamName": "Survivors",
+      "teamIcon": "🔥",
+      "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": null,
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T18:59:30.483Z",
+      "score": 84,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540541938-Jordan_Steps_up.webp",
+        "story": "Two months later... Jordan leads a stretch workflow project with earlier stakeholder mapping and stress-testing built into the first week. You hold recurring development check-ins and help remove blockers so key partners stay engaged. With clearer downstream impact analysis, rework drops and adoption improves across teams. Jordan shares the approach with two newer associates, helping them run their own stakeholder sessions, raising the group’s overall execution consistency.",
+        "title": "Jordan Steps Up",
+        "description": "After a strong performance and meaningful coaching, Jordan takes initiative to mentor newer associates and begins emerging as a future leader at Optividia."
+      }
+    },
+    "8ae8467b-5b77-4bb5-a56c-7b7c927e0283": {
+      "teamId": "8ae8467b-5b77-4bb5-a56c-7b7c927e0283",
+      "teamName": "DG Duo",
+      "teamIcon": "👥",
+      "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": null,
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T18:59:30.485Z",
+      "score": 73,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540483408-Jordan_Regains_His_Confidence.webp",
+        "story": "Two months later... Jordan launches his next project with a kickoff that sets owners, success metrics, and clear “done” criteria. He maintains a shared tracker and decision log, and uses your weekly 15-minute check-ins to surface risks early. After shadowing Maya’s planning approach, his follow-ups become timely and calm. Cross-team confusion drops, deadlines stabilize, and senior leaders note the team’s improved execution cadence.",
+        "title": "Jordan Regains Confidence",
+        "description": "Following a disappointing project, your supportive coaching helps Jordan rebuild confidence, adopt stronger planning habits, and earn renewed recognition from senior leaders."
+      }
+    },
+    "63ecc1b4-f8b3-4d83-b9cb-8bd4d46e8657": {
+      "teamId": "63ecc1b4-f8b3-4d83-b9cb-8bd4d46e8657",
+      "teamName": "sweet 16",
+      "teamIcon": "🎂",
+      "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": null,
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T18:59:29.347Z",
+      "score": 87,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540541938-Jordan_Steps_up.webp",
+        "story": "Two months later... Jordan applies your coaching by mapping stakeholders early and running quick impact checks before proposing changes. After sitting in David and Marisa’s escalation huddles, he spots downstream risks sooner and prevents late-stage rework. Shadowing Maya improves his scoping and sequencing, helping projects move faster with fewer surprises. He shares a simple checklist with newer associates, raising the team’s consistency and reducing escalation load.",
+        "title": "Jordan Steps Up",
+        "description": "After a strong performance and meaningful coaching, Jordan takes initiative to mentor newer associates and begins emerging as a future leader at Optividia."
+      }
+    },
+    "b74b04d1-9000-4af1-b1e3-39f90ebf0aff": {
+      "teamId": "b74b04d1-9000-4af1-b1e3-39f90ebf0aff",
+      "teamName": "DG DAWGS",
+      "teamIcon": "🔥",
+      "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": null,
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T18:59:22.690Z",
+      "score": 85,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540541938-Jordan_Steps_up.webp",
+        "story": "Two months later... Jordan launches a small pilot with a junior partner, using your one-page scope and success metrics to align stakeholders in week one. He builds two “ripple checkpoints” into the plan, catching handoff gaps before testing and preventing rework. Ticket volume continues trending down, and reporting lands in operational metrics leaders track. The junior partner ramps faster through Jordan’s weekly coaching check-ins.",
+        "title": "Jordan Steps Up",
+        "description": "After a strong performance and meaningful coaching, Jordan takes initiative to mentor newer associates and begins emerging as a future leader at Optividia."
+      }
+    },
+    "5302e5e8-6357-4ce4-ad23-37d74a5886dd": {
+      "teamId": "5302e5e8-6357-4ce4-ad23-37d74a5886dd",
+      "teamName": "The dream Team",
+      "teamIcon": "💫",
+      "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": null,
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T18:59:28.619Z",
+      "score": 70,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-0/1775007521271-Jordan-Doubts.webp",
+        "story": "Two months later... Jordan delivers a formal project outline with objectives, stakeholders, milestones, checkpoints, and buffer time, but the discipline fades once execution begins. Client Success and Tech drift out of sync, and issues again surface late. With limited follow-through beyond the initial plan review, Jordan stops volunteering for cross-team work and keeps his head down. The team adjusts by routing coordination to others, slowing momentum.",
+        "title": "Jordan Doubts His Fit",
+        "description": "Still discouraged and without constructive guidance, Jordan withdraws from the team and begins questioning whether he belongs at Optividia."
+      }
+    },
+    "ae85d0f6-ccc4-481b-bb82-3dbdbe3f1f3e": {
+      "teamId": "ae85d0f6-ccc4-481b-bb82-3dbdbe3f1f3e",
+      "teamName": "Team 3",
+      "teamIcon": "🎲",
+      "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": null,
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T18:59:28.412Z",
+      "score": 75,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540541938-Jordan_Steps_up.webp",
+        "story": "Two months later... Jordan applies your coaching by pulling Client Success and Tech Implementation into discovery and running a near-final walkthrough clarifying owners and timing. Ripple effects get caught earlier, and adoption is smoother across teams. The next workflow change ships with fewer rework cycles, and support ticket turnaround improves again. Jordan also starts sharing a simple stakeholder checklist with newer associates, raising the team’s coordination habits.",
+        "title": "Jordan Steps Up",
+        "description": "After a strong performance and meaningful coaching, Jordan takes initiative to mentor newer associates and begins emerging as a future leader at Optividia."
+      }
+    },
+    "df1387d3-295f-4e76-b3bb-dfa9cc8a29e7": {
+      "teamId": "df1387d3-295f-4e76-b3bb-dfa9cc8a29e7",
+      "teamName": "Chalants",
+      "teamIcon": "💪",
+      "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": null,
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T18:59:21.917Z",
+      "score": 82,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540541938-Jordan_Steps_up.webp",
+        "story": "Two months later... Jordan runs stakeholder kickoffs with Client Success and Tech Implementation, using a simple downstream-impact scan to assign owners, metrics, and deadlines early. Scrambles fade as dependencies are surfaced before work begins. You give Jordan a small team-lead slice on a new initiative, and Jordan mentors two newer associates on alignment and planning. The team ships faster with fewer rework loops and clearer accountability.",
+        "title": "Jordan Steps Up",
+        "description": "After a strong performance and meaningful coaching, Jordan takes initiative to mentor newer associates and begins emerging as a future leader at Optividia."
+      }
+    },
+    "43d83bdb-67c9-4224-b9aa-a9154c244f56": {
+      "teamId": "43d83bdb-67c9-4224-b9aa-a9154c244f56",
+      "teamName": "Big 8",
+      "teamIcon": "🥇",
+      "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": null,
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T18:59:35.947Z",
+      "score": 87,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540541938-Jordan_Steps_up.webp",
+        "story": "Two months later... Jordan launches a new cross-team effort with a one-page kickoff summary, clear roles, SLAs, and a written definition of done. Weekly design syncs keep Client Success and Implementation aligned, and meetings end with decisions instead of status. After shadowing Maya, Jordan adopts tighter plans and risk checkpoints with David and Marisa. The team sees fewer midstream surprises, faster sign-offs, and smoother handoffs.",
+        "title": "Jordan Steps Up",
+        "description": "After a strong performance and meaningful coaching, Jordan takes initiative to mentor newer associates and begins emerging as a future leader at Optividia."
+      }
+    },
+    "25ce60c5-ef14-4916-bd69-e27e39dd9913": {
+      "teamId": "25ce60c5-ef14-4916-bd69-e27e39dd9913",
+      "teamName": "Next Level Ops",
+      "teamIcon": "🏆",
+      "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": null,
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T18:59:27.691Z",
+      "score": 80,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540541938-Jordan_Steps_up.webp",
+        "story": "Two months later... Jordan applies your “zoom in/zoom out” guidance by mapping downstream impacts at kickoff and pulling key stakeholders in early. The next delivery runs smoother, with fewer last-minute handoff issues and clearer SLAs. He shares his one-page GROW template with newer associates, helping them plan holistically and ask for support sooner. The team sees faster alignment across functions and more consistent outcomes on larger projects.",
+        "title": "Jordan Steps Up",
+        "description": "After a strong performance and meaningful coaching, Jordan takes initiative to mentor newer associates and begins emerging as a future leader at Optividia."
+      }
+    },
+    "644c324c-6034-4fce-8787-6c4119179f78": {
+      "teamId": "644c324c-6034-4fce-8787-6c4119179f78",
+      "teamName": "think",
+      "teamIcon": "🦉",
+      "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": null,
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T18:59:27.898Z",
+      "score": 53,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-0/1775007521271-Jordan-Doubts.webp",
+        "story": "Two months later... you schedule a touch-base and ask Jordan to bring 2–3 development goals and a clearer workflow. Without sustained structure, daily stakeholder updates stay inconsistent and ownership remains fuzzy. Jordan delivers tasks but avoids leading cross-functional check-ins, worried he’ll miss something again. The team compensates with extra coordination, and stakeholders continue to escalate for clarity, slowing momentum and leaving Jordan increasingly disengaged.",
+        "title": "Jordan Doubts His Fit",
+        "description": "Still discouraged and without constructive guidance, Jordan withdraws from the team and begins questioning whether he belongs at Optividia."
+      }
+    },
+    "78b8b6e0-1a5c-4f17-8e0a-f2a42bbc10b9": {
+      "teamId": "78b8b6e0-1a5c-4f17-8e0a-f2a42bbc10b9",
+      "teamName": "Megatie",
+      "teamIcon": "🏆",
+      "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": null,
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T18:59:21.060Z",
+      "score": 98,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540541938-Jordan_Steps_up.webp",
+        "story": "Two months later... Jordan runs biweekly check-ins with you, arriving with a RACI draft and a simple map of downstream impacts tied to company goals. He pulls Client Success and Tech Implementation into design earlier, preventing midstream resets and speeding adoption. His systems-thinking lens surfaces risks before launch, and support ticket turnaround improves again. Newer associates begin copying his templates, and cross-team handoffs stay smoother.",
+        "title": "Jordan Steps Up",
+        "description": "After a strong performance and meaningful coaching, Jordan takes initiative to mentor newer associates and begins emerging as a future leader at Optividia."
+      }
+    },
+    "593f93d2-b3a8-4eb8-8c1f-7122f8043ef5": {
+      "teamId": "593f93d2-b3a8-4eb8-8c1f-7122f8043ef5",
+      "teamName": "sprite",
+      "teamIcon": "🪄",
+      "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": null,
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T18:59:27.244Z",
+      "score": 88,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540483408-Jordan_Regains_His_Confidence.webp",
+        "story": "Two months later... Jordan runs the next rollout with a one-page comms template you provided, listing milestones, owners, and clear “done” criteria. After shadowing Maya’s stakeholder updates, he sets a steady cadence and a single source of truth, raising risks early with a recovery plan. Cross-team side conversations fade, adoption moves faster, and senior leaders note the tighter execution. The team trusts timelines more and spends less time chasing status.",
+        "title": "Jordan Regains Confidence",
+        "description": "Following a disappointing project, your supportive coaching helps Jordan rebuild confidence, adopt stronger planning habits, and earn renewed recognition from senior leaders."
+      }
+    },
+    "68359acd-c3ed-4b03-8b64-6b61cf577e37": {
+      "teamId": "68359acd-c3ed-4b03-8b64-6b61cf577e37",
+      "teamName": "Eastcoast",
+      "teamIcon": "🌊",
+      "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": null,
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T18:59:33.096Z",
+      "score": 90,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540541938-Jordan_Steps_up.webp",
+        "story": "Two months later... Jordan runs cross-team meetings with paced pauses, then closes by capturing decisions, owners, and dates live. You reinforce the habit with direct, in-the-moment feedback, and his same-day recaps keep David’s and Marisa’s teams aligned. With fewer last-minute scrambles, delivery becomes more predictable. Jordan begins coaching a newer associate on meeting structure and follow-ups, and the team adopts his recap template as a standard.",
+        "title": "Jordan Steps Up",
+        "description": "After a strong performance and meaningful coaching, Jordan takes initiative to mentor newer associates and begins emerging as a future leader at Optividia."
+      }
+    },
+    "ce57287f-a4c8-4e4b-a4af-c4366cfb9d77": {
+      "teamId": "ce57287f-a4c8-4e4b-a4af-c4366cfb9d77",
+      "teamName": "The Wild Cats",
+      "teamIcon": "🐺",
+      "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": null,
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T18:59:30.025Z",
+      "score": 58,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540517044-Jordan_stagnates.webp",
+        "story": "Two months later... Jordan continues delivering steady results, but growth is uneven. He locks in early commitments and flags barriers to you sooner, keeping timelines tighter. Yet his system-thinking stretch is inconsistent, so the team still relies on you to connect goals across functions. Jordan gives more real-time positive feedback and matches tasks to strengths, improving morale, but he hasn’t fully taken on more complex leadership responsibilities.",
+        "title": "Jordan's Progress Levels Off",
+        "description": "Despite solid project results, the lack of focused coaching leaves Jordan comfortable but stagnant, performing well without developing new skills or ambition."
+      }
+    },
+    "eac46a98-2502-4f4c-a2d7-d98c2a6c4419": {
+      "teamId": "eac46a98-2502-4f4c-a2d7-d98c2a6c4419",
+      "teamName": "Mighty 2",
+      "teamIcon": "🦁",
+      "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": null,
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T18:59:31.068Z",
+      "score": 73,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540541938-Jordan_Steps_up.webp",
+        "story": "Two months later... Jordan leads the cross-functional initiative using your SMART plan, RACI, and weekly stakeholder check-ins. With Stephen as tie-breaker and clean dashboard access, decisions move faster and rework drops. After shadowing Maya, Jordan starts anticipating downstream impacts earlier and keeps David and Marisa’s teams aligned from kickoff. He begins coaching newer associates on planning cadence and escalation paths, raising the team’s execution standard.",
+        "title": "Jordan Steps Up",
+        "description": "After a strong performance and meaningful coaching, Jordan takes initiative to mentor newer associates and begins emerging as a future leader at Optividia."
+      }
+    },
+    "01980f21-41ed-4fd0-8f61-d95ef8f2d991": {
+      "teamId": "01980f21-41ed-4fd0-8f61-d95ef8f2d991",
+      "teamName": "Los Hermanos",
+      "teamIcon": "👬",
+      "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+      "scoreDisplayType": "STARS",
+      "scoreDisplayConfig": null,
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T18:59:33.566Z",
+      "score": 90,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540541938-Jordan_Steps_up.webp",
+        "story": "Two months later... Jordan leads a cross-functional initiative, starting with an impact map that clarifies upstream inputs and downstream effects. After stakeholder meetings, Jordan sends 24-hour recaps with owners and milestones, preventing misalignment. Early risk flags help the team resolve dependencies before they derail timelines. The approach spreads: newer associates adopt the same templates, and support tickets keep trending down as delivery becomes smoother.",
+        "title": "Jordan Steps Up",
+        "description": "After a strong performance and meaningful coaching, Jordan takes initiative to mentor newer associates and begins emerging as a future leader at Optividia."
+      }
+    }
+  },
   "team_analyses_by_chapter": {
-    "ad0c31b7-84cf-4a36-b448-1e2849011f32": {},
-    "b7a71160-9f6d-4067-93a7-f1e6cc876a76": {},
-    "d930fbda-77f4-4a3a-be92-572be4b917ae": {},
-    "89cfef24-2d08-4382-86c4-935d627d6a37": {}
+    "ad0c31b7-84cf-4a36-b448-1e2849011f32": {
+      "8ab9f186-a79c-452d-a614-b01da4eac957": {
+        "teamId": "8ab9f186-a79c-452d-a614-b01da4eac957",
+        "teamName": "Titan Tandem",
+        "teamIcon": "🦖",
+        "chapterId": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad0c31b7-84cf-4a36-b448-1e2849011f32/1775006382222-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:37:55.914Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "62431c03-9885-4c92-8a40-fbb7e7722d97": {
+        "teamId": "62431c03-9885-4c92-8a40-fbb7e7722d97",
+        "teamName": "Survivors",
+        "teamIcon": "🔥",
+        "chapterId": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad0c31b7-84cf-4a36-b448-1e2849011f32/1775006382222-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:37:55.914Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "8ae8467b-5b77-4bb5-a56c-7b7c927e0283": {
+        "teamId": "8ae8467b-5b77-4bb5-a56c-7b7c927e0283",
+        "teamName": "DG Duo",
+        "teamIcon": "👥",
+        "chapterId": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad0c31b7-84cf-4a36-b448-1e2849011f32/1775006382222-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:37:55.914Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "63ecc1b4-f8b3-4d83-b9cb-8bd4d46e8657": {
+        "teamId": "63ecc1b4-f8b3-4d83-b9cb-8bd4d46e8657",
+        "teamName": "sweet 16",
+        "teamIcon": "🎂",
+        "chapterId": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad0c31b7-84cf-4a36-b448-1e2849011f32/1775006382222-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:37:55.915Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "b74b04d1-9000-4af1-b1e3-39f90ebf0aff": {
+        "teamId": "b74b04d1-9000-4af1-b1e3-39f90ebf0aff",
+        "teamName": "DG DAWGS",
+        "teamIcon": "🔥",
+        "chapterId": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad0c31b7-84cf-4a36-b448-1e2849011f32/1775006382222-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:37:55.915Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "5302e5e8-6357-4ce4-ad23-37d74a5886dd": {
+        "teamId": "5302e5e8-6357-4ce4-ad23-37d74a5886dd",
+        "teamName": "The dream Team",
+        "teamIcon": "💫",
+        "chapterId": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad0c31b7-84cf-4a36-b448-1e2849011f32/1775006382222-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:37:55.915Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "ae85d0f6-ccc4-481b-bb82-3dbdbe3f1f3e": {
+        "teamId": "ae85d0f6-ccc4-481b-bb82-3dbdbe3f1f3e",
+        "teamName": "Team 3",
+        "teamIcon": "🎲",
+        "chapterId": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad0c31b7-84cf-4a36-b448-1e2849011f32/1775006382222-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:37:55.915Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "df1387d3-295f-4e76-b3bb-dfa9cc8a29e7": {
+        "teamId": "df1387d3-295f-4e76-b3bb-dfa9cc8a29e7",
+        "teamName": "Chalants",
+        "teamIcon": "💪",
+        "chapterId": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad0c31b7-84cf-4a36-b448-1e2849011f32/1775006382222-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:37:55.915Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "43d83bdb-67c9-4224-b9aa-a9154c244f56": {
+        "teamId": "43d83bdb-67c9-4224-b9aa-a9154c244f56",
+        "teamName": "Big 8",
+        "teamIcon": "🥇",
+        "chapterId": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad0c31b7-84cf-4a36-b448-1e2849011f32/1775006382222-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:37:55.915Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "25ce60c5-ef14-4916-bd69-e27e39dd9913": {
+        "teamId": "25ce60c5-ef14-4916-bd69-e27e39dd9913",
+        "teamName": "Next Level Ops",
+        "teamIcon": "🏆",
+        "chapterId": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad0c31b7-84cf-4a36-b448-1e2849011f32/1775006382222-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:37:55.916Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "644c324c-6034-4fce-8787-6c4119179f78": {
+        "teamId": "644c324c-6034-4fce-8787-6c4119179f78",
+        "teamName": "think",
+        "teamIcon": "🦉",
+        "chapterId": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad0c31b7-84cf-4a36-b448-1e2849011f32/1775006382222-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:37:55.916Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "78b8b6e0-1a5c-4f17-8e0a-f2a42bbc10b9": {
+        "teamId": "78b8b6e0-1a5c-4f17-8e0a-f2a42bbc10b9",
+        "teamName": "Megatie",
+        "teamIcon": "🏆",
+        "chapterId": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad0c31b7-84cf-4a36-b448-1e2849011f32/1775006382222-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:37:55.916Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "593f93d2-b3a8-4eb8-8c1f-7122f8043ef5": {
+        "teamId": "593f93d2-b3a8-4eb8-8c1f-7122f8043ef5",
+        "teamName": "sprite",
+        "teamIcon": "🪄",
+        "chapterId": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad0c31b7-84cf-4a36-b448-1e2849011f32/1775006382222-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:37:55.916Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "68359acd-c3ed-4b03-8b64-6b61cf577e37": {
+        "teamId": "68359acd-c3ed-4b03-8b64-6b61cf577e37",
+        "teamName": "Eastcoast",
+        "teamIcon": "🌊",
+        "chapterId": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad0c31b7-84cf-4a36-b448-1e2849011f32/1775006382222-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:37:55.916Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "ce57287f-a4c8-4e4b-a4af-c4366cfb9d77": {
+        "teamId": "ce57287f-a4c8-4e4b-a4af-c4366cfb9d77",
+        "teamName": "The Wild Cats",
+        "teamIcon": "🐺",
+        "chapterId": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad0c31b7-84cf-4a36-b448-1e2849011f32/1775006382222-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:37:55.916Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "eac46a98-2502-4f4c-a2d7-d98c2a6c4419": {
+        "teamId": "eac46a98-2502-4f4c-a2d7-d98c2a6c4419",
+        "teamName": "Mighty 2",
+        "teamIcon": "🦁",
+        "chapterId": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad0c31b7-84cf-4a36-b448-1e2849011f32/1775006382222-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:37:55.917Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "01980f21-41ed-4fd0-8f61-d95ef8f2d991": {
+        "teamId": "01980f21-41ed-4fd0-8f61-d95ef8f2d991",
+        "teamName": "Los Hermanos",
+        "teamIcon": "👬",
+        "chapterId": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad0c31b7-84cf-4a36-b448-1e2849011f32/1775006382222-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:37:55.929Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      }
+    },
+    "b7a71160-9f6d-4067-93a7-f1e6cc876a76": {
+      "8ab9f186-a79c-452d-a614-b01da4eac957": {
+        "teamId": "8ab9f186-a79c-452d-a614-b01da4eac957",
+        "teamName": "Titan Tandem",
+        "teamIcon": "🦖",
+        "chapterId": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-b7a71160-9f6d-4067-93a7-f1e6cc876a76/1768229617773-Chapter_1_Background__1_.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:58:52.979Z",
+        "score": 93,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "62431c03-9885-4c92-8a40-fbb7e7722d97": {
+        "teamId": "62431c03-9885-4c92-8a40-fbb7e7722d97",
+        "teamName": "Survivors",
+        "teamIcon": "🔥",
+        "chapterId": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-b7a71160-9f6d-4067-93a7-f1e6cc876a76/1768229617773-Chapter_1_Background__1_.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:59:05.169Z",
+        "score": 83,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "8ae8467b-5b77-4bb5-a56c-7b7c927e0283": {
+        "teamId": "8ae8467b-5b77-4bb5-a56c-7b7c927e0283",
+        "teamName": "DG Duo",
+        "teamIcon": "👥",
+        "chapterId": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-b7a71160-9f6d-4067-93a7-f1e6cc876a76/1768229617773-Chapter_1_Background__1_.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:58:53.753Z",
+        "score": 83,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "63ecc1b4-f8b3-4d83-b9cb-8bd4d46e8657": {
+        "teamId": "63ecc1b4-f8b3-4d83-b9cb-8bd4d46e8657",
+        "teamName": "sweet 16",
+        "teamIcon": "🎂",
+        "chapterId": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-b7a71160-9f6d-4067-93a7-f1e6cc876a76/1768229617773-Chapter_1_Background__1_.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:59:04.205Z",
+        "score": 68,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "b74b04d1-9000-4af1-b1e3-39f90ebf0aff": {
+        "teamId": "b74b04d1-9000-4af1-b1e3-39f90ebf0aff",
+        "teamName": "DG DAWGS",
+        "teamIcon": "🔥",
+        "chapterId": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-b7a71160-9f6d-4067-93a7-f1e6cc876a76/1768229617773-Chapter_1_Background__1_.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:59:00.539Z",
+        "score": 78,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "5302e5e8-6357-4ce4-ad23-37d74a5886dd": {
+        "teamId": "5302e5e8-6357-4ce4-ad23-37d74a5886dd",
+        "teamName": "The dream Team",
+        "teamIcon": "💫",
+        "chapterId": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-b7a71160-9f6d-4067-93a7-f1e6cc876a76/1768229617773-Chapter_1_Background__1_.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:58:55.899Z",
+        "score": 70,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "ae85d0f6-ccc4-481b-bb82-3dbdbe3f1f3e": {
+        "teamId": "ae85d0f6-ccc4-481b-bb82-3dbdbe3f1f3e",
+        "teamName": "Team 3",
+        "teamIcon": "🎲",
+        "chapterId": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-b7a71160-9f6d-4067-93a7-f1e6cc876a76/1768229617773-Chapter_1_Background__1_.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:58:52.356Z",
+        "score": 95,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "df1387d3-295f-4e76-b3bb-dfa9cc8a29e7": {
+        "teamId": "df1387d3-295f-4e76-b3bb-dfa9cc8a29e7",
+        "teamName": "Chalants",
+        "teamIcon": "💪",
+        "chapterId": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-b7a71160-9f6d-4067-93a7-f1e6cc876a76/1768229617773-Chapter_1_Background__1_.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:58:58.201Z",
+        "score": 65,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "43d83bdb-67c9-4224-b9aa-a9154c244f56": {
+        "teamId": "43d83bdb-67c9-4224-b9aa-a9154c244f56",
+        "teamName": "Big 8",
+        "teamIcon": "🥇",
+        "chapterId": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-b7a71160-9f6d-4067-93a7-f1e6cc876a76/1768229617773-Chapter_1_Background__1_.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:58:54.780Z",
+        "score": 83,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "25ce60c5-ef14-4916-bd69-e27e39dd9913": {
+        "teamId": "25ce60c5-ef14-4916-bd69-e27e39dd9913",
+        "teamName": "Next Level Ops",
+        "teamIcon": "🏆",
+        "chapterId": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-b7a71160-9f6d-4067-93a7-f1e6cc876a76/1768229617773-Chapter_1_Background__1_.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:58:52.743Z",
+        "score": 79,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "644c324c-6034-4fce-8787-6c4119179f78": {
+        "teamId": "644c324c-6034-4fce-8787-6c4119179f78",
+        "teamName": "think",
+        "teamIcon": "🦉",
+        "chapterId": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-b7a71160-9f6d-4067-93a7-f1e6cc876a76/1768229617773-Chapter_1_Background__1_.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:58:58.587Z",
+        "score": 80,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "78b8b6e0-1a5c-4f17-8e0a-f2a42bbc10b9": {
+        "teamId": "78b8b6e0-1a5c-4f17-8e0a-f2a42bbc10b9",
+        "teamName": "Megatie",
+        "teamIcon": "🏆",
+        "chapterId": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-b7a71160-9f6d-4067-93a7-f1e6cc876a76/1768229617773-Chapter_1_Background__1_.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:58:46.535Z",
+        "score": 96,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "593f93d2-b3a8-4eb8-8c1f-7122f8043ef5": {
+        "teamId": "593f93d2-b3a8-4eb8-8c1f-7122f8043ef5",
+        "teamName": "sprite",
+        "teamIcon": "🪄",
+        "chapterId": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-b7a71160-9f6d-4067-93a7-f1e6cc876a76/1768229617773-Chapter_1_Background__1_.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:58:58.585Z",
+        "score": 57,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "68359acd-c3ed-4b03-8b64-6b61cf577e37": {
+        "teamId": "68359acd-c3ed-4b03-8b64-6b61cf577e37",
+        "teamName": "Eastcoast",
+        "teamIcon": "🌊",
+        "chapterId": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-b7a71160-9f6d-4067-93a7-f1e6cc876a76/1768229617773-Chapter_1_Background__1_.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:58:55.200Z",
+        "score": 89,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "ce57287f-a4c8-4e4b-a4af-c4366cfb9d77": {
+        "teamId": "ce57287f-a4c8-4e4b-a4af-c4366cfb9d77",
+        "teamName": "The Wild Cats",
+        "teamIcon": "🐺",
+        "chapterId": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-b7a71160-9f6d-4067-93a7-f1e6cc876a76/1768229617773-Chapter_1_Background__1_.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:58:55.225Z",
+        "score": 68,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "eac46a98-2502-4f4c-a2d7-d98c2a6c4419": {
+        "teamId": "eac46a98-2502-4f4c-a2d7-d98c2a6c4419",
+        "teamName": "Mighty 2",
+        "teamIcon": "🦁",
+        "chapterId": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-b7a71160-9f6d-4067-93a7-f1e6cc876a76/1768229617773-Chapter_1_Background__1_.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:59:01.149Z",
+        "score": 84,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "01980f21-41ed-4fd0-8f61-d95ef8f2d991": {
+        "teamId": "01980f21-41ed-4fd0-8f61-d95ef8f2d991",
+        "teamName": "Los Hermanos",
+        "teamIcon": "👬",
+        "chapterId": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-b7a71160-9f6d-4067-93a7-f1e6cc876a76/1768229617773-Chapter_1_Background__1_.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T17:58:51.395Z",
+        "score": 92,
+        "analysis": "$18",
+        "narrativeImpact": null
+      }
+    },
+    "d930fbda-77f4-4a3a-be92-572be4b917ae": {
+      "8ab9f186-a79c-452d-a614-b01da4eac957": {
+        "teamId": "8ab9f186-a79c-452d-a614-b01da4eac957",
+        "teamName": "Titan Tandem",
+        "teamIcon": "🦖",
+        "chapterId": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d930fbda-77f4-4a3a-be92-572be4b917ae/1775006400064-chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:25:45.678Z",
+        "score": 80,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "62431c03-9885-4c92-8a40-fbb7e7722d97": {
+        "teamId": "62431c03-9885-4c92-8a40-fbb7e7722d97",
+        "teamName": "Survivors",
+        "teamIcon": "🔥",
+        "chapterId": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d930fbda-77f4-4a3a-be92-572be4b917ae/1775006400064-chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:25:50.999Z",
+        "score": 83,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "8ae8467b-5b77-4bb5-a56c-7b7c927e0283": {
+        "teamId": "8ae8467b-5b77-4bb5-a56c-7b7c927e0283",
+        "teamName": "DG Duo",
+        "teamIcon": "👥",
+        "chapterId": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d930fbda-77f4-4a3a-be92-572be4b917ae/1775006400064-chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:25:52.795Z",
+        "score": 65,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "63ecc1b4-f8b3-4d83-b9cb-8bd4d46e8657": {
+        "teamId": "63ecc1b4-f8b3-4d83-b9cb-8bd4d46e8657",
+        "teamName": "sweet 16",
+        "teamIcon": "🎂",
+        "chapterId": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d930fbda-77f4-4a3a-be92-572be4b917ae/1775006400064-chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:25:49.983Z",
+        "score": 86,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "b74b04d1-9000-4af1-b1e3-39f90ebf0aff": {
+        "teamId": "b74b04d1-9000-4af1-b1e3-39f90ebf0aff",
+        "teamName": "DG DAWGS",
+        "teamIcon": "🔥",
+        "chapterId": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d930fbda-77f4-4a3a-be92-572be4b917ae/1775006400064-chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:25:46.691Z",
+        "score": 84,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "5302e5e8-6357-4ce4-ad23-37d74a5886dd": {
+        "teamId": "5302e5e8-6357-4ce4-ad23-37d74a5886dd",
+        "teamName": "The dream Team",
+        "teamIcon": "💫",
+        "chapterId": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d930fbda-77f4-4a3a-be92-572be4b917ae/1775006400064-chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:25:52.831Z",
+        "score": 62,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "ae85d0f6-ccc4-481b-bb82-3dbdbe3f1f3e": {
+        "teamId": "ae85d0f6-ccc4-481b-bb82-3dbdbe3f1f3e",
+        "teamName": "Team 3",
+        "teamIcon": "🎲",
+        "chapterId": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d930fbda-77f4-4a3a-be92-572be4b917ae/1775006400064-chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:25:50.459Z",
+        "score": 77,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "df1387d3-295f-4e76-b3bb-dfa9cc8a29e7": {
+        "teamId": "df1387d3-295f-4e76-b3bb-dfa9cc8a29e7",
+        "teamName": "Chalants",
+        "teamIcon": "💪",
+        "chapterId": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d930fbda-77f4-4a3a-be92-572be4b917ae/1775006400064-chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:25:47.491Z",
+        "score": 72,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "43d83bdb-67c9-4224-b9aa-a9154c244f56": {
+        "teamId": "43d83bdb-67c9-4224-b9aa-a9154c244f56",
+        "teamName": "Big 8",
+        "teamIcon": "🥇",
+        "chapterId": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d930fbda-77f4-4a3a-be92-572be4b917ae/1775006400064-chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:25:41.604Z",
+        "score": 85,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "25ce60c5-ef14-4916-bd69-e27e39dd9913": {
+        "teamId": "25ce60c5-ef14-4916-bd69-e27e39dd9913",
+        "teamName": "Next Level Ops",
+        "teamIcon": "🏆",
+        "chapterId": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d930fbda-77f4-4a3a-be92-572be4b917ae/1775006400064-chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:25:55.069Z",
+        "score": 83,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "644c324c-6034-4fce-8787-6c4119179f78": {
+        "teamId": "644c324c-6034-4fce-8787-6c4119179f78",
+        "teamName": "think",
+        "teamIcon": "🦉",
+        "chapterId": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d930fbda-77f4-4a3a-be92-572be4b917ae/1775006400064-chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:25:51.975Z",
+        "score": 60,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "78b8b6e0-1a5c-4f17-8e0a-f2a42bbc10b9": {
+        "teamId": "78b8b6e0-1a5c-4f17-8e0a-f2a42bbc10b9",
+        "teamName": "Megatie",
+        "teamIcon": "🏆",
+        "chapterId": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d930fbda-77f4-4a3a-be92-572be4b917ae/1775006400064-chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:25:52.643Z",
+        "score": 76,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "593f93d2-b3a8-4eb8-8c1f-7122f8043ef5": {
+        "teamId": "593f93d2-b3a8-4eb8-8c1f-7122f8043ef5",
+        "teamName": "sprite",
+        "teamIcon": "🪄",
+        "chapterId": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d930fbda-77f4-4a3a-be92-572be4b917ae/1775006400064-chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:25:53.540Z",
+        "score": 70,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "68359acd-c3ed-4b03-8b64-6b61cf577e37": {
+        "teamId": "68359acd-c3ed-4b03-8b64-6b61cf577e37",
+        "teamName": "Eastcoast",
+        "teamIcon": "🌊",
+        "chapterId": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d930fbda-77f4-4a3a-be92-572be4b917ae/1775006400064-chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:25:46.005Z",
+        "score": 82,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "ce57287f-a4c8-4e4b-a4af-c4366cfb9d77": {
+        "teamId": "ce57287f-a4c8-4e4b-a4af-c4366cfb9d77",
+        "teamName": "The Wild Cats",
+        "teamIcon": "🐺",
+        "chapterId": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d930fbda-77f4-4a3a-be92-572be4b917ae/1775006400064-chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:25:45.794Z",
+        "score": 78,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "eac46a98-2502-4f4c-a2d7-d98c2a6c4419": {
+        "teamId": "eac46a98-2502-4f4c-a2d7-d98c2a6c4419",
+        "teamName": "Mighty 2",
+        "teamIcon": "🦁",
+        "chapterId": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d930fbda-77f4-4a3a-be92-572be4b917ae/1775006400064-chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:25:50.533Z",
+        "score": 86,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "01980f21-41ed-4fd0-8f61-d95ef8f2d991": {
+        "teamId": "01980f21-41ed-4fd0-8f61-d95ef8f2d991",
+        "teamName": "Los Hermanos",
+        "teamIcon": "👬",
+        "chapterId": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-d930fbda-77f4-4a3a-be92-572be4b917ae/1775006400064-chapter_3.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:25:53.337Z",
+        "score": 82,
+        "analysis": "$18",
+        "narrativeImpact": null
+      }
+    },
+    "89cfef24-2d08-4382-86c4-935d627d6a37": {
+      "8ab9f186-a79c-452d-a614-b01da4eac957": {
+        "teamId": "8ab9f186-a79c-452d-a614-b01da4eac957",
+        "teamName": "Titan Tandem",
+        "teamIcon": "🦖",
+        "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:22.925Z",
+        "score": 87,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540541938-Jordan_Steps_up.webp",
+          "story": "Two months later... Jordan uses the kickoff checklist you outlined: Client Success joins mapping, a downstream impact check gates pilots, and a weekly pulse runs through rollout. Fewer surprises hit David’s team, and Marisa reports cleaner handoffs and faster client messaging updates. Jordan volunteers to walk two new associates through the checklist and pilot cadence, raising the team’s baseline for cross-functional coordination on larger projects.",
+          "title": "Jordan Steps Up",
+          "description": "After a strong performance and meaningful coaching, Jordan takes initiative to mentor newer associates and begins emerging as a future leader at Optividia."
+        }
+      },
+      "62431c03-9885-4c92-8a40-fbb7e7722d97": {
+        "teamId": "62431c03-9885-4c92-8a40-fbb7e7722d97",
+        "teamName": "Survivors",
+        "teamIcon": "🔥",
+        "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:30.483Z",
+        "score": 84,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540541938-Jordan_Steps_up.webp",
+          "story": "Two months later... Jordan leads a stretch workflow project with earlier stakeholder mapping and stress-testing built into the first week. You hold recurring development check-ins and help remove blockers so key partners stay engaged. With clearer downstream impact analysis, rework drops and adoption improves across teams. Jordan shares the approach with two newer associates, helping them run their own stakeholder sessions, raising the group’s overall execution consistency.",
+          "title": "Jordan Steps Up",
+          "description": "After a strong performance and meaningful coaching, Jordan takes initiative to mentor newer associates and begins emerging as a future leader at Optividia."
+        }
+      },
+      "8ae8467b-5b77-4bb5-a56c-7b7c927e0283": {
+        "teamId": "8ae8467b-5b77-4bb5-a56c-7b7c927e0283",
+        "teamName": "DG Duo",
+        "teamIcon": "👥",
+        "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:30.485Z",
+        "score": 73,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540483408-Jordan_Regains_His_Confidence.webp",
+          "story": "Two months later... Jordan launches his next project with a kickoff that sets owners, success metrics, and clear “done” criteria. He maintains a shared tracker and decision log, and uses your weekly 15-minute check-ins to surface risks early. After shadowing Maya’s planning approach, his follow-ups become timely and calm. Cross-team confusion drops, deadlines stabilize, and senior leaders note the team’s improved execution cadence.",
+          "title": "Jordan Regains Confidence",
+          "description": "Following a disappointing project, your supportive coaching helps Jordan rebuild confidence, adopt stronger planning habits, and earn renewed recognition from senior leaders."
+        }
+      },
+      "63ecc1b4-f8b3-4d83-b9cb-8bd4d46e8657": {
+        "teamId": "63ecc1b4-f8b3-4d83-b9cb-8bd4d46e8657",
+        "teamName": "sweet 16",
+        "teamIcon": "🎂",
+        "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:29.347Z",
+        "score": 87,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540541938-Jordan_Steps_up.webp",
+          "story": "Two months later... Jordan applies your coaching by mapping stakeholders early and running quick impact checks before proposing changes. After sitting in David and Marisa’s escalation huddles, he spots downstream risks sooner and prevents late-stage rework. Shadowing Maya improves his scoping and sequencing, helping projects move faster with fewer surprises. He shares a simple checklist with newer associates, raising the team’s consistency and reducing escalation load.",
+          "title": "Jordan Steps Up",
+          "description": "After a strong performance and meaningful coaching, Jordan takes initiative to mentor newer associates and begins emerging as a future leader at Optividia."
+        }
+      },
+      "b74b04d1-9000-4af1-b1e3-39f90ebf0aff": {
+        "teamId": "b74b04d1-9000-4af1-b1e3-39f90ebf0aff",
+        "teamName": "DG DAWGS",
+        "teamIcon": "🔥",
+        "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:22.690Z",
+        "score": 85,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540541938-Jordan_Steps_up.webp",
+          "story": "Two months later... Jordan launches a small pilot with a junior partner, using your one-page scope and success metrics to align stakeholders in week one. He builds two “ripple checkpoints” into the plan, catching handoff gaps before testing and preventing rework. Ticket volume continues trending down, and reporting lands in operational metrics leaders track. The junior partner ramps faster through Jordan’s weekly coaching check-ins.",
+          "title": "Jordan Steps Up",
+          "description": "After a strong performance and meaningful coaching, Jordan takes initiative to mentor newer associates and begins emerging as a future leader at Optividia."
+        }
+      },
+      "5302e5e8-6357-4ce4-ad23-37d74a5886dd": {
+        "teamId": "5302e5e8-6357-4ce4-ad23-37d74a5886dd",
+        "teamName": "The dream Team",
+        "teamIcon": "💫",
+        "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:28.619Z",
+        "score": 70,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-0/1775007521271-Jordan-Doubts.webp",
+          "story": "Two months later... Jordan delivers a formal project outline with objectives, stakeholders, milestones, checkpoints, and buffer time, but the discipline fades once execution begins. Client Success and Tech drift out of sync, and issues again surface late. With limited follow-through beyond the initial plan review, Jordan stops volunteering for cross-team work and keeps his head down. The team adjusts by routing coordination to others, slowing momentum.",
+          "title": "Jordan Doubts His Fit",
+          "description": "Still discouraged and without constructive guidance, Jordan withdraws from the team and begins questioning whether he belongs at Optividia."
+        }
+      },
+      "ae85d0f6-ccc4-481b-bb82-3dbdbe3f1f3e": {
+        "teamId": "ae85d0f6-ccc4-481b-bb82-3dbdbe3f1f3e",
+        "teamName": "Team 3",
+        "teamIcon": "🎲",
+        "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:28.412Z",
+        "score": 75,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540541938-Jordan_Steps_up.webp",
+          "story": "Two months later... Jordan applies your coaching by pulling Client Success and Tech Implementation into discovery and running a near-final walkthrough clarifying owners and timing. Ripple effects get caught earlier, and adoption is smoother across teams. The next workflow change ships with fewer rework cycles, and support ticket turnaround improves again. Jordan also starts sharing a simple stakeholder checklist with newer associates, raising the team’s coordination habits.",
+          "title": "Jordan Steps Up",
+          "description": "After a strong performance and meaningful coaching, Jordan takes initiative to mentor newer associates and begins emerging as a future leader at Optividia."
+        }
+      },
+      "df1387d3-295f-4e76-b3bb-dfa9cc8a29e7": {
+        "teamId": "df1387d3-295f-4e76-b3bb-dfa9cc8a29e7",
+        "teamName": "Chalants",
+        "teamIcon": "💪",
+        "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:21.917Z",
+        "score": 82,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540541938-Jordan_Steps_up.webp",
+          "story": "Two months later... Jordan runs stakeholder kickoffs with Client Success and Tech Implementation, using a simple downstream-impact scan to assign owners, metrics, and deadlines early. Scrambles fade as dependencies are surfaced before work begins. You give Jordan a small team-lead slice on a new initiative, and Jordan mentors two newer associates on alignment and planning. The team ships faster with fewer rework loops and clearer accountability.",
+          "title": "Jordan Steps Up",
+          "description": "After a strong performance and meaningful coaching, Jordan takes initiative to mentor newer associates and begins emerging as a future leader at Optividia."
+        }
+      },
+      "43d83bdb-67c9-4224-b9aa-a9154c244f56": {
+        "teamId": "43d83bdb-67c9-4224-b9aa-a9154c244f56",
+        "teamName": "Big 8",
+        "teamIcon": "🥇",
+        "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:35.947Z",
+        "score": 87,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540541938-Jordan_Steps_up.webp",
+          "story": "Two months later... Jordan launches a new cross-team effort with a one-page kickoff summary, clear roles, SLAs, and a written definition of done. Weekly design syncs keep Client Success and Implementation aligned, and meetings end with decisions instead of status. After shadowing Maya, Jordan adopts tighter plans and risk checkpoints with David and Marisa. The team sees fewer midstream surprises, faster sign-offs, and smoother handoffs.",
+          "title": "Jordan Steps Up",
+          "description": "After a strong performance and meaningful coaching, Jordan takes initiative to mentor newer associates and begins emerging as a future leader at Optividia."
+        }
+      },
+      "25ce60c5-ef14-4916-bd69-e27e39dd9913": {
+        "teamId": "25ce60c5-ef14-4916-bd69-e27e39dd9913",
+        "teamName": "Next Level Ops",
+        "teamIcon": "🏆",
+        "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:27.691Z",
+        "score": 80,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540541938-Jordan_Steps_up.webp",
+          "story": "Two months later... Jordan applies your “zoom in/zoom out” guidance by mapping downstream impacts at kickoff and pulling key stakeholders in early. The next delivery runs smoother, with fewer last-minute handoff issues and clearer SLAs. He shares his one-page GROW template with newer associates, helping them plan holistically and ask for support sooner. The team sees faster alignment across functions and more consistent outcomes on larger projects.",
+          "title": "Jordan Steps Up",
+          "description": "After a strong performance and meaningful coaching, Jordan takes initiative to mentor newer associates and begins emerging as a future leader at Optividia."
+        }
+      },
+      "644c324c-6034-4fce-8787-6c4119179f78": {
+        "teamId": "644c324c-6034-4fce-8787-6c4119179f78",
+        "teamName": "think",
+        "teamIcon": "🦉",
+        "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:27.898Z",
+        "score": 53,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-0/1775007521271-Jordan-Doubts.webp",
+          "story": "Two months later... you schedule a touch-base and ask Jordan to bring 2–3 development goals and a clearer workflow. Without sustained structure, daily stakeholder updates stay inconsistent and ownership remains fuzzy. Jordan delivers tasks but avoids leading cross-functional check-ins, worried he’ll miss something again. The team compensates with extra coordination, and stakeholders continue to escalate for clarity, slowing momentum and leaving Jordan increasingly disengaged.",
+          "title": "Jordan Doubts His Fit",
+          "description": "Still discouraged and without constructive guidance, Jordan withdraws from the team and begins questioning whether he belongs at Optividia."
+        }
+      },
+      "78b8b6e0-1a5c-4f17-8e0a-f2a42bbc10b9": {
+        "teamId": "78b8b6e0-1a5c-4f17-8e0a-f2a42bbc10b9",
+        "teamName": "Megatie",
+        "teamIcon": "🏆",
+        "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:21.060Z",
+        "score": 98,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540541938-Jordan_Steps_up.webp",
+          "story": "Two months later... Jordan runs biweekly check-ins with you, arriving with a RACI draft and a simple map of downstream impacts tied to company goals. He pulls Client Success and Tech Implementation into design earlier, preventing midstream resets and speeding adoption. His systems-thinking lens surfaces risks before launch, and support ticket turnaround improves again. Newer associates begin copying his templates, and cross-team handoffs stay smoother.",
+          "title": "Jordan Steps Up",
+          "description": "After a strong performance and meaningful coaching, Jordan takes initiative to mentor newer associates and begins emerging as a future leader at Optividia."
+        }
+      },
+      "593f93d2-b3a8-4eb8-8c1f-7122f8043ef5": {
+        "teamId": "593f93d2-b3a8-4eb8-8c1f-7122f8043ef5",
+        "teamName": "sprite",
+        "teamIcon": "🪄",
+        "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:27.244Z",
+        "score": 88,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540483408-Jordan_Regains_His_Confidence.webp",
+          "story": "Two months later... Jordan runs the next rollout with a one-page comms template you provided, listing milestones, owners, and clear “done” criteria. After shadowing Maya’s stakeholder updates, he sets a steady cadence and a single source of truth, raising risks early with a recovery plan. Cross-team side conversations fade, adoption moves faster, and senior leaders note the tighter execution. The team trusts timelines more and spends less time chasing status.",
+          "title": "Jordan Regains Confidence",
+          "description": "Following a disappointing project, your supportive coaching helps Jordan rebuild confidence, adopt stronger planning habits, and earn renewed recognition from senior leaders."
+        }
+      },
+      "68359acd-c3ed-4b03-8b64-6b61cf577e37": {
+        "teamId": "68359acd-c3ed-4b03-8b64-6b61cf577e37",
+        "teamName": "Eastcoast",
+        "teamIcon": "🌊",
+        "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:33.096Z",
+        "score": 90,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540541938-Jordan_Steps_up.webp",
+          "story": "Two months later... Jordan runs cross-team meetings with paced pauses, then closes by capturing decisions, owners, and dates live. You reinforce the habit with direct, in-the-moment feedback, and his same-day recaps keep David’s and Marisa’s teams aligned. With fewer last-minute scrambles, delivery becomes more predictable. Jordan begins coaching a newer associate on meeting structure and follow-ups, and the team adopts his recap template as a standard.",
+          "title": "Jordan Steps Up",
+          "description": "After a strong performance and meaningful coaching, Jordan takes initiative to mentor newer associates and begins emerging as a future leader at Optividia."
+        }
+      },
+      "ce57287f-a4c8-4e4b-a4af-c4366cfb9d77": {
+        "teamId": "ce57287f-a4c8-4e4b-a4af-c4366cfb9d77",
+        "teamName": "The Wild Cats",
+        "teamIcon": "🐺",
+        "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:30.025Z",
+        "score": 58,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540517044-Jordan_stagnates.webp",
+          "story": "Two months later... Jordan continues delivering steady results, but growth is uneven. He locks in early commitments and flags barriers to you sooner, keeping timelines tighter. Yet his system-thinking stretch is inconsistent, so the team still relies on you to connect goals across functions. Jordan gives more real-time positive feedback and matches tasks to strengths, improving morale, but he hasn’t fully taken on more complex leadership responsibilities.",
+          "title": "Jordan's Progress Levels Off",
+          "description": "Despite solid project results, the lack of focused coaching leaves Jordan comfortable but stagnant, performing well without developing new skills or ambition."
+        }
+      },
+      "eac46a98-2502-4f4c-a2d7-d98c2a6c4419": {
+        "teamId": "eac46a98-2502-4f4c-a2d7-d98c2a6c4419",
+        "teamName": "Mighty 2",
+        "teamIcon": "🦁",
+        "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:31.068Z",
+        "score": 73,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540541938-Jordan_Steps_up.webp",
+          "story": "Two months later... Jordan leads the cross-functional initiative using your SMART plan, RACI, and weekly stakeholder check-ins. With Stephen as tie-breaker and clean dashboard access, decisions move faster and rework drops. After shadowing Maya, Jordan starts anticipating downstream impacts earlier and keeps David and Marisa’s teams aligned from kickoff. He begins coaching newer associates on planning cadence and escalation paths, raising the team’s execution standard.",
+          "title": "Jordan Steps Up",
+          "description": "After a strong performance and meaningful coaching, Jordan takes initiative to mentor newer associates and begins emerging as a future leader at Optividia."
+        }
+      },
+      "01980f21-41ed-4fd0-8f61-d95ef8f2d991": {
+        "teamId": "01980f21-41ed-4fd0-8f61-d95ef8f2d991",
+        "teamName": "Los Hermanos",
+        "teamIcon": "👬",
+        "chapterId": "89cfef24-2d08-4382-86c4-935d627d6a37",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/1775006412451-chapter_4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:33.566Z",
+        "score": 90,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-89cfef24-2d08-4382-86c4-935d627d6a37/option-3/1774540541938-Jordan_Steps_up.webp",
+          "story": "Two months later... Jordan leads a cross-functional initiative, starting with an impact map that clarifies upstream inputs and downstream effects. After stakeholder meetings, Jordan sends 24-hour recaps with owners and milestones, preventing misalignment. Early risk flags help the team resolve dependencies before they derail timelines. The approach spreads: newer associates adopt the same templates, and support tickets keep trending down as delivery becomes smoother.",
+          "title": "Jordan Steps Up",
+          "description": "After a strong performance and meaningful coaching, Jordan takes initiative to mentor newer associates and begins emerging as a future leader at Optividia."
+        }
+      }
+    }
   },
-  "chapter_timings": {},
-  "events": [],
-  "rubric_by_chapter": {},
+  "chapter_timings": {
+    "ad0c31b7-84cf-4a36-b448-1e2849011f32": {
+      "started_at": "2026-05-20T17:18:07.679Z",
+      "ended_at": "2026-05-20T17:37:55.868Z"
+    },
+    "b7a71160-9f6d-4067-93a7-f1e6cc876a76": {
+      "started_at": "2026-05-20T17:38:00.445Z",
+      "ended_at": "2026-05-20T17:58:14.231Z"
+    },
+    "d930fbda-77f4-4a3a-be92-572be4b917ae": {
+      "started_at": "2026-05-20T18:10:04.714Z",
+      "ended_at": "2026-05-20T18:25:09.690Z"
+    },
+    "89cfef24-2d08-4382-86c4-935d627d6a37": {
+      "started_at": "2026-05-20T18:43:47.461Z",
+      "ended_at": "2026-05-20T18:58:48.540Z"
+    }
+  },
+  "events": [
+    {
+      "id": "82ab9eb1-134b-4590-bcf8-b05da000dc8c",
+      "chapter_id": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter One has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-20T17:18:07.679Z",
+      "updated_at": "2026-05-20T17:18:07.679Z"
+    },
+    {
+      "id": "3754ecb3-3ab3-4be1-8f31-7cf1aa65f9c9",
+      "chapter_id": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams have a few minutes to review general information about the case. This is a quick orientation chapter before moving right into Chapter 2.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams explore all of the available resources?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T17:18:12.104Z",
+      "updated_at": "2026-05-20T17:18:12.112Z"
+    },
+    {
+      "id": "4eee7e84-1647-4da8-916c-56776e01c7fe",
+      "chapter_id": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T17:18:48.025Z",
+      "updated_at": "2026-05-20T17:18:48.033Z"
+    },
+    {
+      "id": "73f3d703-97db-4e7e-9703-35a0e9370b70",
+      "chapter_id": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+      "type": "CASE_PROGRESS",
+      "content": "0 teams have explored all of the available resources.\n<br><br>\nThese teams have not yet explored all of the resources: <b>DG DAWGS, think, The dream Team, Team 3, Big 8, Chalants, Megatie, Next Level Ops, The Wild Cats, Mighty 2, sprite, Titan Tandem, Eastcoast, Survivors, Los Hermanos, DG Duo, sweet 16</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$58",
+          "inputTokens": 2856,
+          "rawResponse": "0 teams have explored all of the available resources.\n<br><br>\nThese teams have not yet explored all of the resources: <b>DG DAWGS, think, The dream Team, Team 3, Big 8, Chalants, Megatie, Next Level Ops, The Wild Cats, Mighty 2, sprite, Titan Tandem, Eastcoast, Survivors, Los Hermanos, DG Duo, sweet 16</b>.",
+          "outputTokens": 111,
+          "systemPrompt": "$59",
+          "dataContextLength": 7898
+        }
+      },
+      "created_at": "2026-05-20T17:19:12.020Z",
+      "updated_at": "2026-05-20T17:19:14.379Z"
+    },
+    {
+      "id": "1bff1947-d083-4e60-8088-01fe1a17f42e",
+      "chapter_id": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+      "type": "CASE_PROGRESS",
+      "content": "13 teams have opened all of the resources.\n<br><br>\nThese teams have not yet opened all of the resources: <b>think, The dream Team, Megatie, Survivors</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$56",
+          "inputTokens": 2809,
+          "rawResponse": "13 teams have opened all of the resources.\n<br><br>\nThese teams have not yet opened all of the resources: <b>think, The dream Team, Megatie, Survivors</b>.",
+          "outputTokens": 50,
+          "systemPrompt": "$57",
+          "dataContextLength": 7854
+        }
+      },
+      "created_at": "2026-05-20T17:22:00.140Z",
+      "updated_at": "2026-05-20T17:22:03.330Z"
+    },
+    {
+      "id": "ab31bd93-55ee-4968-b3d0-44f5865b3460",
+      "chapter_id": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+      "type": "CASE_PROGRESS",
+      "content": "This chapter does not contain any unlockable resources.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$54",
+          "inputTokens": 2805,
+          "rawResponse": "This chapter does not contain any unlockable resources.",
+          "outputTokens": 14,
+          "systemPrompt": "$55",
+          "dataContextLength": 7853
+        }
+      },
+      "created_at": "2026-05-20T17:22:24.025Z",
+      "updated_at": "2026-05-20T17:22:25.612Z"
+    },
+    {
+      "id": "371c098d-3dcb-489c-8c6b-28175d17a609",
+      "chapter_id": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Keep going!</b> No need to debrief Chapter 1. Use the slides to introduce Chapter 2 now.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T17:23:12.064Z",
+      "updated_at": "2026-05-20T17:23:12.068Z"
+    },
+    {
+      "id": "fd58e304-c845-428c-8d8f-52175d325c68",
+      "chapter_id": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-20T17:37:55.860Z",
+      "updated_at": "2026-05-20T17:37:55.860Z"
+    },
+    {
+      "id": "57be08d0-7dd9-4acd-92d1-e1eea7e2bbdd",
+      "chapter_id": "ad0c31b7-84cf-4a36-b448-1e2849011f32",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter One ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-20T17:37:55.868Z",
+      "updated_at": "2026-05-20T17:37:55.868Z"
+    },
+    {
+      "id": "45368195-9e45-42d0-8d08-4ae951a47abe",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 2: Chapter Two has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-20T17:38:00.445Z",
+      "updated_at": "2026-05-20T17:38:00.445Z"
+    },
+    {
+      "id": "879a8c42-1983-4ccb-9577-4fb5c7e2c14a",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams meet with Jordan to align on what success looks like for the upcoming project.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams clearly articulate the objectives and deliverables of the project?\n<li>Do they provide context on how the project aligns with the larger goals of the team or company?\n<li>Do they outline the timeline and how success will be measured?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T17:38:12.025Z",
+      "updated_at": "2026-05-20T17:38:12.028Z"
+    },
+    {
+      "id": "dcd04c9d-6840-4bf2-b6b1-f13453dffb00",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T17:39:36.023Z",
+      "updated_at": "2026-05-20T17:39:36.027Z"
+    },
+    {
+      "id": "2041bd8b-41dd-44d6-b695-5f341a985a1d",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "CASE_PROGRESS",
+      "content": "<p>17 teams have explored all of the available resources.</p>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$52",
+          "inputTokens": 3111,
+          "rawResponse": "<p>17 teams have explored all of the available resources.</p>",
+          "outputTokens": 19,
+          "systemPrompt": "$53",
+          "dataContextLength": 8037
+        }
+      },
+      "created_at": "2026-05-20T17:41:12.024Z",
+      "updated_at": "2026-05-20T17:41:14.865Z"
+    },
+    {
+      "id": "6ced88f1-210e-4119-82db-757bd66d93cf",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "CASE_PROGRESS",
+      "content": "<p>17 teams have started their conversations with Jordan.</p>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$50",
+          "inputTokens": 3008,
+          "rawResponse": "<p>17 teams have started their conversations with Jordan.</p>",
+          "outputTokens": 18,
+          "systemPrompt": "$51",
+          "dataContextLength": 8036
+        }
+      },
+      "created_at": "2026-05-20T17:42:36.090Z",
+      "updated_at": "2026-05-20T17:42:38.368Z"
+    },
+    {
+      "id": "1cf233f0-16c2-4be8-8ea7-b1cf417d64bb",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Initial Focus of Conversations:</b> Teams are asking Jordan to clarify project goals, define success metrics, map current workflows, and identify pain points before starting work.\n<br><br>\n<i>Reviewing 17 active conversations.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$4e",
+          "inputTokens": 4894,
+          "rawResponse": "<b>Initial Focus of Conversations:</b> Teams are asking Jordan to clarify project goals, define success metrics, map current workflows, and identify pain points before starting work.\n<br><br>\n<i>Reviewing 17 active conversations.</i>",
+          "outputTokens": 60,
+          "systemPrompt": "$4f",
+          "dataContextLength": 12993
+        }
+      },
+      "created_at": "2026-05-20T17:44:12.029Z",
+      "updated_at": "2026-05-20T17:44:15.693Z"
+    },
+    {
+      "id": "1d1b3a89-6a59-4f4b-b1c8-f90b1edfa508",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to remind participants: <br><br>\n<i>Keep going! The more you talk with Jordan, the more you'll learn and the more trust you will develop.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T17:47:12.023Z",
+      "updated_at": "2026-05-20T17:47:12.025Z"
+    },
+    {
+      "id": "d944b2ff-af05-4736-8381-377a695028a5",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Relevant:</b> 1 team has provided context on how the project aligns with the larger goals of the team or company.<br><br>\n\nExample: Team 3 said: \"Streamlining these internal processes is essential to sustaining our client satisfaction scores and keeping our operations running efficiently as we continue to scale.\"<br><br>\n\n<i>Reviewing 17 active conversations.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$4a",
+          "inputTokens": 13774,
+          "rawResponse": "<b>Relevant:</b> 1 team has provided context on how the project aligns with the larger goals of the team or company.<br><br>\n\nExample: Team 3 said: \"Streamlining these internal processes is essential to sustaining our client satisfaction scores and keeping our operations running efficiently as we continue to scale.\"<br><br>\n\n<i>Reviewing 17 active conversations.</i>",
+          "outputTokens": 95,
+          "systemPrompt": "$4b",
+          "dataContextLength": 43106
+        }
+      },
+      "created_at": "2026-05-20T17:49:24.026Z",
+      "updated_at": "2026-05-20T17:49:30.277Z"
+    },
+    {
+      "id": "01aa2e27-5d9a-4c81-9891-acdffb7fb243",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "CASE_PROGRESS",
+      "content": "This chapter does not contain any unlockable resources.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$46",
+          "inputTokens": 3060,
+          "rawResponse": "This chapter does not contain any unlockable resources.",
+          "outputTokens": 14,
+          "systemPrompt": "$47",
+          "dataContextLength": 8044
+        }
+      },
+      "created_at": "2026-05-20T17:50:48.024Z",
+      "updated_at": "2026-05-20T17:50:50.337Z"
+    },
+    {
+      "id": "140ccd20-2416-4b87-9c46-09b387068a91",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Conversation Summary:</b> Teams have been focused on clarifying project goals, defining success metrics, and establishing structures for Jordan to begin. Most conversations show managers helping Jordan translate excitement into actionable plans with timelines and checkpoints.\n\n<br><br>\n\n<b>A possible strength is:</b> Several teams (Titan Tandem, Mighty 2, Eastcoast, Los Hermanos) successfully co-created SMART goals with Jordan, specifying 8-week timelines, measurable outcomes, and weekly check-ins—building both clarity and trust.\n\n<br><br>\n\n<b>A possible gap is:</b> Some teams (Chalants, sprite) asked good questions but left Jordan's final question unanswered, missing an opportunity to close the loop and reinforce support. A few others (The Wild Cats, think) emphasized structure but spent less time exploring Jordan's specific concerns or building relational trust.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$44",
+          "inputTokens": 17154,
+          "rawResponse": "<b>Conversation Summary:</b> Teams have been focused on clarifying project goals, defining success metrics, and establishing structures for Jordan to begin. Most conversations show managers helping Jordan translate excitement into actionable plans with timelines and checkpoints.\n\n<br><br>\n\n<b>A possible strength is:</b> Several teams (Titan Tandem, Mighty 2, Eastcoast, Los Hermanos) successfully co-created SMART goals with Jordan, specifying 8-week timelines, measurable outcomes, and weekly check-ins—building both clarity and trust.\n\n<br><br>\n\n<b>A possible gap is:</b> Some teams (Chalants, sprite) asked good questions but left Jordan's final question unanswered, missing an opportunity to close the loop and reinforce support. A few others (The Wild Cats, think) emphasized structure but spent less time exploring Jordan's specific concerns or building relational trust.",
+          "outputTokens": 209,
+          "systemPrompt": "$45",
+          "dataContextLength": 55076
+        }
+      },
+      "created_at": "2026-05-20T17:51:36.030Z",
+      "updated_at": "2026-05-20T17:51:43.896Z"
+    },
+    {
+      "id": "07cd0163-4ab9-49c3-887d-53061d703b58",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by +1 min — 1 min 42 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": 60
+      },
+      "created_at": "2026-05-20T17:52:18.974Z",
+      "updated_at": "2026-05-20T17:52:18.974Z"
+    },
+    {
+      "id": "cd023127-b4c3-4fa3-bf23-f53aa5f39d21",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by +1 min — 2 min 31 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": 60
+      },
+      "created_at": "2026-05-20T17:52:29.987Z",
+      "updated_at": "2026-05-20T17:52:29.987Z"
+    },
+    {
+      "id": "061f8f8c-960e-4f76-905e-adbc74dd2818",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "CASE_PROGRESS",
+      "content": "Timer adjusted by +1 min — 3 min 23 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_adjusted",
+        "adjustmentSeconds": 60
+      },
+      "created_at": "2026-05-20T17:52:38.314Z",
+      "updated_at": "2026-05-20T17:52:38.314Z"
+    },
+    {
+      "id": "f3d2f3c5-792f-4a07-b1ed-74125feb905d",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "STARTING_MESSAGE",
+      "content": "Decision phase has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "decision_started"
+      },
+      "created_at": "2026-05-20T17:56:02.965Z",
+      "updated_at": "2026-05-20T17:56:02.965Z"
+    },
+    {
+      "id": "5474af8c-e645-4488-afa0-4b840b688f09",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Decision Time!</b> Teams must articulate Jordan's goal for the upcoming project. Note that this does not affect the chapter scoring, which is based on whether teams articulated the goals to Jordan during their conversation with him. This extra decision is mostly to push teams to crystalize the goal for themselves.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T17:56:12.023Z",
+      "updated_at": "2026-05-20T17:56:12.026Z"
+    },
+    {
+      "id": "6ad65c4d-b200-4884-ad73-95235ccc9418",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "CASE_PROGRESS",
+      "content": "17 teams have started writing Jordan's goal.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CUSTOM_VARIABLE",
+          "userPrompt": "$42",
+          "inputTokens": 1933,
+          "rawResponse": "17 teams have started writing Jordan's goal.",
+          "outputTokens": 14,
+          "systemPrompt": "$43",
+          "dataContextLength": 4630
+        }
+      },
+      "created_at": "2026-05-20T17:58:12.024Z",
+      "updated_at": "2026-05-20T17:58:14.862Z"
+    },
+    {
+      "id": "00ce6a9d-660c-459b-89cd-9f925cdbdd37",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 1 min 49 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-20T17:58:14.221Z",
+      "updated_at": "2026-05-20T17:58:14.221Z"
+    },
+    {
+      "id": "2862f21a-34dc-41a6-bb1c-546364600455",
+      "chapter_id": "b7a71160-9f6d-4067-93a7-f1e6cc876a76",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter Two ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-20T17:58:14.231Z",
+      "updated_at": "2026-05-20T17:58:14.231Z"
+    },
+    {
+      "id": "2c438394-6e42-4c5a-a271-6cb2b1aad65b",
+      "chapter_id": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 3: Chapter Three has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-20T18:10:04.714Z",
+      "updated_at": "2026-05-20T18:10:04.714Z"
+    },
+    {
+      "id": "ad9276f8-d23e-4f55-adbb-f2d60e4b82f3",
+      "chapter_id": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams meet with Jordan to give him feedback on the project so far. \n<br><br>\nNote: based on how clearly teams articulated Jordan's goals, they will either need to deliver either <b><i>urgent</b></i> or only <b><i>slightly corrective</b></i> feedback to Jordan.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams cite clear, concrete examples of where Jordan's presentation caused confusion?\n<li>Do teams communicate the impact of Jordan's actions on the team, and on Jordan's own career?\n<li>Do teams continue to develop trust with Jordan?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T18:10:24.025Z",
+      "updated_at": "2026-05-20T18:10:24.028Z"
+    },
+    {
+      "id": "f5c01b52-b69a-447a-ad27-1bd43ed3a391",
+      "chapter_id": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+      "type": "COHORT_INSIGHTS",
+      "content": "3 teams have received resources suggesting that Jordan requires urgent feedback: <b>The dream Team, Chalants, The Wild Cats, sprite, sweet 16</b>\n<br><br>\n12 teams have received resources suggesting that Jordan requires only slightly corrective feedback: <b>DG DAWGS, think, Team 3, Big 8, Megatie, Next Level Ops, Mighty 2, Titan Tandem, Eastcoast, Survivors, Los Hermanos, DG Duo</b>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CUSTOM_VARIABLE",
+          "userPrompt": "$40",
+          "inputTokens": 1350,
+          "rawResponse": "3 teams have received resources suggesting that Jordan requires urgent feedback: <b>The dream Team, Chalants, The Wild Cats, sprite, sweet 16</b>\n<br><br>\n12 teams have received resources suggesting that Jordan requires only slightly corrective feedback: <b>DG DAWGS, think, Team 3, Big 8, Megatie, Next Level Ops, Mighty 2, Titan Tandem, Eastcoast, Survivors, Los Hermanos, DG Duo</b>",
+          "outputTokens": 123,
+          "systemPrompt": "$41",
+          "dataContextLength": 1465
+        }
+      },
+      "created_at": "2026-05-20T18:11:00.108Z",
+      "updated_at": "2026-05-20T18:11:03.468Z"
+    },
+    {
+      "id": "d3531ad1-76e6-45ad-9c46-56ea77f73c7a",
+      "chapter_id": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T18:11:36.077Z",
+      "updated_at": "2026-05-20T18:11:36.087Z"
+    },
+    {
+      "id": "80ac3d13-faa6-4dfd-b658-65c4374a4e57",
+      "chapter_id": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+      "type": "CASE_PROGRESS",
+      "content": "16 teams have explored all of the available resources.\n<br><br>\nThese teams have not yet explored all of the resources: <b>think</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$3e",
+          "inputTokens": 4216,
+          "rawResponse": "16 teams have explored all of the available resources.\n<br><br>\nThese teams have not yet explored all of the resources: <b>think</b>.",
+          "outputTokens": 40,
+          "systemPrompt": "$3f",
+          "dataContextLength": 12549
+        }
+      },
+      "created_at": "2026-05-20T18:13:12.025Z",
+      "updated_at": "2026-05-20T18:13:14.337Z"
+    },
+    {
+      "id": "a89d21ba-cdb0-43b5-82be-e0eaa4579d82",
+      "chapter_id": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+      "type": "CASE_PROGRESS",
+      "content": "17 teams have started their conversations with Jordan.\n<br><br>\nThese teams have not yet started the conversation: <b>Team 3, The Wild Cats, Mighty 2</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$3c",
+          "inputTokens": 4118,
+          "rawResponse": "17 teams have started their conversations with Jordan.\n<br><br>\nThese teams have not yet started the conversation: <b>Team 3, The Wild Cats, Mighty 2</b>.",
+          "outputTokens": 49,
+          "systemPrompt": "$3d",
+          "dataContextLength": 12544
+        }
+      },
+      "created_at": "2026-05-20T18:14:36.119Z",
+      "updated_at": "2026-05-20T18:14:38.415Z"
+    },
+    {
+      "id": "cd5cfee2-3b40-4b58-9565-af91e3b72b0e",
+      "chapter_id": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Initial Focus of Conversations:</b> Teams are initiating feedback discussions about Jordan's recent presentation, asking how Jordan feels it went before sharing stakeholder input.\n\n<br><br>\n\n<i>Reviewing 17 active conversations for this cohort insight.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$3a",
+          "inputTokens": 5360,
+          "rawResponse": "<b>Initial Focus of Conversations:</b> Teams are initiating feedback discussions about Jordan's recent presentation, asking how Jordan feels it went before sharing stakeholder input.\n\n<br><br>\n\n<i>Reviewing 17 active conversations for this cohort insight.</i>",
+          "outputTokens": 63,
+          "systemPrompt": "$3b",
+          "dataContextLength": 13782
+        }
+      },
+      "created_at": "2026-05-20T18:16:12.025Z",
+      "updated_at": "2026-05-20T18:16:15.546Z"
+    },
+    {
+      "id": "175efc6a-3d9c-4df7-a3e2-8234d6e85a7d",
+      "chapter_id": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to give participants a helpful reminder: <br><br>\n<i>Remember: articulate the Situation, Behavior, and Impact.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T18:17:36.087Z",
+      "updated_at": "2026-05-20T18:17:36.106Z"
+    },
+    {
+      "id": "79139e61-3822-478d-8e52-486bca52f4af",
+      "chapter_id": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Behavior:</b> 11 teams have mentioned the specific behavior that caused a problem.\n\n<br><br>\n\nBest example from <b>Titan Tandem</b>: \"ownership and next steps were not clearly defined some teams left unsure how to move forward.\"\n\n<br><br>\n\n<i>Reviewing 18 active conversations.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$36",
+          "inputTokens": 11534,
+          "rawResponse": "<b>Behavior:</b> 11 teams have mentioned the specific behavior that caused a problem.\n\n<br><br>\n\nBest example from <b>Titan Tandem</b>: \"ownership and next steps were not clearly defined some teams left unsure how to move forward.\"\n\n<br><br>\n\n<i>Reviewing 18 active conversations.</i>",
+          "outputTokens": 86,
+          "systemPrompt": "$37",
+          "dataContextLength": 35573
+        }
+      },
+      "created_at": "2026-05-20T18:20:36.085Z",
+      "updated_at": "2026-05-20T18:20:40.239Z"
+    },
+    {
+      "id": "1bbd2a45-c2cb-4bef-9d97-92b68c108615",
+      "chapter_id": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+      "type": "CASE_PROGRESS",
+      "content": "This chapter does not contain any unlockable resources.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$32",
+          "inputTokens": 4165,
+          "rawResponse": "This chapter does not contain any unlockable resources.",
+          "outputTokens": 14,
+          "systemPrompt": "$33",
+          "dataContextLength": 12549
+        }
+      },
+      "created_at": "2026-05-20T18:23:00.142Z",
+      "updated_at": "2026-05-20T18:23:02.317Z"
+    },
+    {
+      "id": "3d5d4773-8762-45a3-a814-8f0ac4186285",
+      "chapter_id": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Conversation Summary:</b> Teams have been focused on delivering feedback to Jordan about presentation clarity, ownership gaps, and missing milestones.\n\n<br><br>\n\n<b>A possible strength is...</b> Most teams successfully identified the Situation (unclear ownership/timing) and Impact (team confusion, delays). Several built trust by acknowledging Jordan's effort first.\n\n<br><br>\n\n<b>A possible gap is...</b> Few teams clearly named the specific Behavior causing the issue (e.g., \"moving too quickly without pausing for alignment\"). Some jumped to solutions without ensuring Jordan understood what to change.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$30",
+          "inputTokens": 17287,
+          "rawResponse": "<b>Conversation Summary:</b> Teams have been focused on delivering feedback to Jordan about presentation clarity, ownership gaps, and missing milestones.\n\n<br><br>\n\n<b>A possible strength is...</b> Most teams successfully identified the Situation (unclear ownership/timing) and Impact (team confusion, delays). Several built trust by acknowledging Jordan's effort first.\n\n<br><br>\n\n<b>A possible gap is...</b> Few teams clearly named the specific Behavior causing the issue (e.g., \"moving too quickly without pausing for alignment\"). Some jumped to solutions without ensuring Jordan understood what to change.",
+          "outputTokens": 138,
+          "systemPrompt": "$31",
+          "dataContextLength": 56459
+        }
+      },
+      "created_at": "2026-05-20T18:23:36.112Z",
+      "updated_at": "2026-05-20T18:23:41.469Z"
+    },
+    {
+      "id": "bb7ddcf7-f38e-4674-a5f4-5ad7069651b2",
+      "chapter_id": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-20T18:25:09.678Z",
+      "updated_at": "2026-05-20T18:25:09.678Z"
+    },
+    {
+      "id": "b369918a-f21b-4aa8-93d1-dfe8a6bc2c9b",
+      "chapter_id": "d930fbda-77f4-4a3a-be92-572be4b917ae",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter Three ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-20T18:25:09.690Z",
+      "updated_at": "2026-05-20T18:25:09.690Z"
+    },
+    {
+      "id": "9ca90312-7e90-4b82-bd0f-d3319f571490",
+      "chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 4: Chapter Four has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-20T18:43:47.461Z",
+      "updated_at": "2026-05-20T18:43:47.461Z"
+    },
+    {
+      "id": "48f589ba-dff7-465c-9232-9c04cf34c692",
+      "chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams coach Jordan on his overall career development. \n<br><br>\nNote: how well teams gave feedback in the prior chapter will impact Jordan's attitude at the start of the chapter.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams facilitate Jordan's own self-reflection on his career development?\n<li>Do teams encourage Jordan to brainstorm solutions?\n<li>Do teams assist Jordan in committing to a path forward?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T18:44:00.149Z",
+      "updated_at": "2026-05-20T18:44:00.159Z"
+    },
+    {
+      "id": "5361a587-2402-422d-8ec3-bbcb3239b07e",
+      "chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "type": "COHORT_INSIGHTS",
+      "content": "3 teams are in a world where Jordan performed poorly on the project and will feel somewhat defeated at the start of the meeting: <b>think, The dream Team, DG Duo</b>\n<br><br>\n14 teams are in a world where Jordan performed well on the project and will feel confident at the start of the meeting: <b>DG DAWGS, Team 3, Big 8, Chalants, Megatie, Next Level Ops, The Wild Cats, Mighty 2, Titan Tandem, Eastcoast, Survivors, Los Hermanos, sweet 16</b>\n\n<p><i>Note: sprite (score: 70) is at the threshold and was counted as \"poorly\" per your criterion of ≤70.</i></p>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CUSTOM_VARIABLE",
+          "userPrompt": "$2e",
+          "inputTokens": 1323,
+          "rawResponse": "3 teams are in a world where Jordan performed poorly on the project and will feel somewhat defeated at the start of the meeting: <b>think, The dream Team, DG Duo</b>\n<br><br>\n14 teams are in a world where Jordan performed well on the project and will feel confident at the start of the meeting: <b>DG DAWGS, Team 3, Big 8, Chalants, Megatie, Next Level Ops, The Wild Cats, Mighty 2, Titan Tandem, Eastcoast, Survivors, Los Hermanos, sweet 16</b>\n\n<p><i>Note: sprite (score: 70) is at the threshold and was counted as \"poorly\" per your criterion of ≤70.</i></p>",
+          "outputTokens": 182,
+          "systemPrompt": "$2f",
+          "dataContextLength": 1465
+        }
+      },
+      "created_at": "2026-05-20T18:44:36.030Z",
+      "updated_at": "2026-05-20T18:44:40.248Z"
+    },
+    {
+      "id": "d003d0aa-d92a-4a29-a7c8-660d169989eb",
+      "chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T18:45:24.021Z",
+      "updated_at": "2026-05-20T18:45:24.024Z"
+    },
+    {
+      "id": "712276f1-4899-4288-9d2f-197a6145604c",
+      "chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "type": "CASE_PROGRESS",
+      "content": "<p>16 teams have explored all of the available resources.</p>\n<br><br>\n<p>These teams have not yet explored all of the resources: <b>DG DAWGS</b>.</p>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$2c",
+          "inputTokens": 4437,
+          "rawResponse": "<p>16 teams have explored all of the available resources.</p>\n<br><br>\n<p>These teams have not yet explored all of the resources: <b>DG DAWGS</b>.</p>",
+          "outputTokens": 54,
+          "systemPrompt": "$2d",
+          "dataContextLength": 12819
+        }
+      },
+      "created_at": "2026-05-20T18:46:48.025Z",
+      "updated_at": "2026-05-20T18:46:50.601Z"
+    },
+    {
+      "id": "7bc357ab-c7cd-4119-b729-e1abd15d422d",
+      "chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "type": "CASE_PROGRESS",
+      "content": "17 teams have started their conversations with Jordan.\n<br><br>\nThis team has not yet started the conversation: <b>The dream Team</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$2a",
+          "inputTokens": 4336,
+          "rawResponse": "17 teams have started their conversations with Jordan.\n<br><br>\nThis team has not yet started the conversation: <b>The dream Team</b>.",
+          "outputTokens": 39,
+          "systemPrompt": "$2b",
+          "dataContextLength": 12815
+        }
+      },
+      "created_at": "2026-05-20T18:48:24.023Z",
+      "updated_at": "2026-05-20T18:48:28.042Z"
+    },
+    {
+      "id": "a48957ae-87bf-4cc1-8a03-5bbeb5cb2cff",
+      "chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Initial Focus of Conversations:</b> Teams are discussing Jordan's post-project reflection, focusing on growth areas like upfront planning, stakeholder communication, cross-team alignment, and systems thinking for future leadership roles.\n<br><br>\n<i>Reviewing 17 active conversations.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$28",
+          "inputTokens": 6440,
+          "rawResponse": "<b>Initial Focus of Conversations:</b> Teams are discussing Jordan's post-project reflection, focusing on growth areas like upfront planning, stakeholder communication, cross-team alignment, and systems thinking for future leadership roles.\n<br><br>\n<i>Reviewing 17 active conversations.</i>",
+          "outputTokens": 70,
+          "systemPrompt": "$29",
+          "dataContextLength": 18838
+        }
+      },
+      "created_at": "2026-05-20T18:49:48.030Z",
+      "updated_at": "2026-05-20T18:49:51.416Z"
+    },
+    {
+      "id": "4a903bd7-ab59-4fc6-9bb5-f29612a7404d",
+      "chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to give participants a helpful reminder: <br><br>\n<i>Remember to ask probing questions to get Jordan doing most of the thinking here!</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T18:51:24.024Z",
+      "updated_at": "2026-05-20T18:51:24.026Z"
+    },
+    {
+      "id": "63180f8a-a9ea-4363-ba80-4a97bb28d8e4",
+      "chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Reality:</b> 0 teams have asked how Jordan views his own project management skills.<br>\n<br>\n<i>Reviewing 17 active conversations.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$26",
+          "inputTokens": 11241,
+          "rawResponse": "<b>Reality:</b> 0 teams have asked how Jordan views his own project management skills.<br>\n<br>\n<i>Reviewing 17 active conversations.</i>",
+          "outputTokens": 45,
+          "systemPrompt": "$27",
+          "dataContextLength": 35811
+        }
+      },
+      "created_at": "2026-05-20T18:52:48.032Z",
+      "updated_at": "2026-05-20T18:52:50.993Z"
+    },
+    {
+      "id": "af0b6ca5-9fcd-4bc8-876c-aa2a897db38a",
+      "chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "type": "CASE_PROGRESS",
+      "content": "This chapter does not contain any unlockable resources.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$20",
+          "inputTokens": 4386,
+          "rawResponse": "This chapter does not contain any unlockable resources.",
+          "outputTokens": 14,
+          "systemPrompt": "$21",
+          "dataContextLength": 12824
+        }
+      },
+      "created_at": "2026-05-20T18:56:36.029Z",
+      "updated_at": "2026-05-20T18:56:37.920Z"
+    },
+    {
+      "id": "33559c39-58bb-4c7d-a999-1eef07ea0d69",
+      "chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Conversation Summary:</b> Teams have been focused on coaching Jordan toward stronger project management skills, with most securing concrete commitments around structure, stakeholder alignment, and systems thinking.\n\n<br><br>\n\n<b>A possible strength is...</b> Many teams successfully guided Jordan to articulate specific next steps (SMART plans, weekly check-ins, shadowing Maya) and secured his commitment to improvement.\n\n<br><br>\n\n<b>A possible gap is...</b> Several teams moved quickly to solutions without giving Jordan sufficient space to self-direct the conversation or deeply explore his own development priorities first.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$1e",
+          "inputTokens": 19084,
+          "rawResponse": "<b>Conversation Summary:</b> Teams have been focused on coaching Jordan toward stronger project management skills, with most securing concrete commitments around structure, stakeholder alignment, and systems thinking.\n\n<br><br>\n\n<b>A possible strength is...</b> Many teams successfully guided Jordan to articulate specific next steps (SMART plans, weekly check-ins, shadowing Maya) and secured his commitment to improvement.\n\n<br><br>\n\n<b>A possible gap is...</b> Several teams moved quickly to solutions without giving Jordan sufficient space to self-direct the conversation or deeply explore his own development priorities first.",
+          "outputTokens": 134,
+          "systemPrompt": "$1f",
+          "dataContextLength": 63668
+        }
+      },
+      "created_at": "2026-05-20T18:57:24.026Z",
+      "updated_at": "2026-05-20T18:57:29.752Z"
+    },
+    {
+      "id": "c34c8473-e7c6-4657-814a-6527b0ad0152",
+      "chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Debrief Reminder:</b> Now it's time to bring it all together in the final debrief! <ul>\n<li> Show <b><i>Snapshot</b></i> in the Debrief tools to show what happened next. If any teams earned \"Jordan Steps Up,\" ask them how they achieved that.\n<li> Use the slides to explore the GROW model more deeply.\n<li> Finally, use <b><i>Reflections</b></i> to ask any reflection questions that strike you as valuable for your cohort.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T18:58:48.030Z",
+      "updated_at": "2026-05-20T18:58:48.035Z"
+    },
+    {
+      "id": "010a251b-5807-48c7-8463-5f6201ee8662",
+      "chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-20T18:58:48.534Z",
+      "updated_at": "2026-05-20T18:58:48.534Z"
+    },
+    {
+      "id": "b7cda070-f652-4286-b1c1-c34ddbcf5282",
+      "chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter Four ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-20T18:58:48.540Z",
+      "updated_at": "2026-05-20T18:58:48.540Z"
+    },
+    {
+      "id": "89e47167-643b-4e25-b1a4-bc597c6a0e4b",
+      "chapter_id": "89cfef24-2d08-4382-86c4-935d627d6a37",
+      "type": "ENDING_MESSAGE",
+      "content": "Case completed — all chapters finished.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "case_completed"
+      },
+      "created_at": "2026-05-20T18:58:49.187Z",
+      "updated_at": "2026-05-20T18:58:49.187Z"
+    }
+  ],
   "reflections": [
     {
       "id": "d1ad44ad-de1f-4c07-b817-347e0fa86e36",

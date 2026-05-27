@@ -32,80 +32,2008 @@
   ],
   "teams": [
     {
-      "id": "ab74bc44-9798-453a-b7c5-a107b291e7cb",
-      "name": "Group 1",
-      "icon": "📝",
-      "group_letter": "1"
+      "id": "4ececf54-f3c4-4dc8-a3a8-02765d04ab9a",
+      "name": "Meeee",
+      "icon": "✨",
+      "group_letter": "11"
     },
     {
-      "id": "619824fc-eb73-4c77-bb13-42792651cc2c",
-      "name": "Group 2",
-      "icon": "🧮",
-      "group_letter": "2"
-    },
-    {
-      "id": "6a4b8177-3c63-4ac4-8420-c39fe614ec7a",
-      "name": "Group 3",
-      "icon": "🗝️",
-      "group_letter": "3"
-    },
-    {
-      "id": "feffd1f8-90ec-4cc2-a6d8-5794162078e2",
-      "name": "Group 4",
-      "icon": "🗓️",
-      "group_letter": "4"
-    },
-    {
-      "id": "2ff43f2b-f994-48aa-bb03-9d092748b8dc",
-      "name": "Group 5",
-      "icon": "⏰",
-      "group_letter": "5"
-    },
-    {
-      "id": "9113be40-2ffc-423f-a520-513cae5ca529",
-      "name": "Group 6",
-      "icon": "🎲",
-      "group_letter": "6"
-    },
-    {
-      "id": "b4aa07da-406e-49af-b958-89b444e27e92",
-      "name": "Group 7",
-      "icon": "👬",
+      "id": "555d8446-c8b5-4f23-b143-a8063800997d",
+      "name": "The High D's",
+      "icon": "🏔️",
       "group_letter": "7"
     },
     {
-      "id": "338df87e-b48a-4cb4-b3f2-c1936af5c8a3",
-      "name": "Group 8",
-      "icon": "🔐",
+      "id": "e793ab07-ee9b-4974-b771-15bbf9b3fbaa",
+      "name": "LyteBright",
+      "icon": "✨",
+      "group_letter": "1"
+    },
+    {
+      "id": "329c5422-2ea8-4a0a-964c-82169e4b7c28",
+      "name": "D&B Influence",
+      "icon": "🤝",
+      "group_letter": "2"
+    },
+    {
+      "id": "bd94ab2e-c524-45b7-b25c-1912782f2a0d",
+      "name": "LyteInfluencers",
+      "icon": "🌟",
+      "group_letter": "4"
+    },
+    {
+      "id": "d80e228a-b35a-4b31-9198-72269c97c05e",
+      "name": "C-Squad",
+      "icon": "💪",
+      "group_letter": "10"
+    },
+    {
+      "id": "05ec48ea-1801-445f-a43c-901296e153c4",
+      "name": "CL Innovations",
+      "icon": "🚀",
       "group_letter": "8"
     },
     {
-      "id": "d520b0ec-d651-4cd9-8324-8bcdeba6b410",
-      "name": "Group 9",
-      "icon": "🛰️",
+      "id": "6d8ea347-c987-432b-b1bd-5dbc3b5e611a",
+      "name": "LyteSpeed",
+      "icon": "🏎️",
+      "group_letter": "5"
+    },
+    {
+      "id": "1c1478ee-1f56-4387-9c0a-cca7b4bfd360",
+      "name": "FryeFuller",
+      "icon": "🔥",
+      "group_letter": "6"
+    },
+    {
+      "id": "5b876762-67fa-43fc-a307-70a96c7ac493",
+      "name": "Spark Team",
+      "icon": "🔥",
       "group_letter": "9"
     },
     {
-      "id": "658b1451-9128-474a-88f8-6829a13736c4",
-      "name": "Group 10",
-      "icon": "🖲️",
-      "group_letter": "10"
+      "id": "e95f2138-797f-41a6-bd21-422db663ca15",
+      "name": "Precision Influence",
+      "icon": "🎯",
+      "group_letter": "3"
     }
   ],
-  "team_results_for_viewed_chapter": {},
+  "team_results_for_viewed_chapter": {
+    "4ececf54-f3c4-4dc8-a3a8-02765d04ab9a": {
+      "completed_block_count": 2,
+      "opened_block_count": 0,
+      "score": 0,
+      "narrative_outcome": "Crash Out"
+    },
+    "555d8446-c8b5-4f23-b143-a8063800997d": {
+      "completed_block_count": 3,
+      "opened_block_count": 13,
+      "score": 53,
+      "narrative_outcome": "Signs of Strain"
+    },
+    "e793ab07-ee9b-4974-b771-15bbf9b3fbaa": {
+      "completed_block_count": 3,
+      "opened_block_count": 13,
+      "score": 72,
+      "narrative_outcome": "Healthy Tension"
+    },
+    "329c5422-2ea8-4a0a-964c-82169e4b7c28": {
+      "completed_block_count": 3,
+      "opened_block_count": 13,
+      "score": 40,
+      "narrative_outcome": "Crash Out"
+    },
+    "bd94ab2e-c524-45b7-b25c-1912782f2a0d": {
+      "completed_block_count": 3,
+      "opened_block_count": 12,
+      "score": 50,
+      "narrative_outcome": "Signs of Strain"
+    },
+    "d80e228a-b35a-4b31-9198-72269c97c05e": {
+      "completed_block_count": 3,
+      "opened_block_count": 13,
+      "score": 59,
+      "narrative_outcome": "Signs of Strain"
+    },
+    "05ec48ea-1801-445f-a43c-901296e153c4": {
+      "completed_block_count": 3,
+      "opened_block_count": 14,
+      "score": 57,
+      "narrative_outcome": "Signs of Strain"
+    },
+    "6d8ea347-c987-432b-b1bd-5dbc3b5e611a": {
+      "completed_block_count": 3,
+      "opened_block_count": 13,
+      "score": 45,
+      "narrative_outcome": "Crash Out"
+    },
+    "1c1478ee-1f56-4387-9c0a-cca7b4bfd360": {
+      "completed_block_count": 3,
+      "opened_block_count": 13,
+      "score": 60,
+      "narrative_outcome": "Signs of Strain"
+    },
+    "5b876762-67fa-43fc-a307-70a96c7ac493": {
+      "completed_block_count": 3,
+      "opened_block_count": 13,
+      "score": 50,
+      "narrative_outcome": "Signs of Strain"
+    },
+    "e95f2138-797f-41a6-bd21-422db663ca15": {
+      "completed_block_count": 3,
+      "opened_block_count": 13,
+      "score": 79,
+      "narrative_outcome": "Healthy Tension"
+    }
+  },
   "team_results_by_chapter": {
     "82919bde-7e61-4994-8a41-e0266b38618c": {},
     "ad460970-2521-46ec-b8f1-a38b84ad2a0c": {},
-    "79f1e087-7861-439a-ad08-64f6b5700672": {}
+    "79f1e087-7861-439a-ad08-64f6b5700672": {
+      "4ececf54-f3c4-4dc8-a3a8-02765d04ab9a": {
+        "completed_block_count": 2,
+        "opened_block_count": 0,
+        "score": 0,
+        "narrative_outcome": "Crash Out"
+      },
+      "555d8446-c8b5-4f23-b143-a8063800997d": {
+        "completed_block_count": 3,
+        "opened_block_count": 13,
+        "score": 53,
+        "narrative_outcome": "Signs of Strain"
+      },
+      "e793ab07-ee9b-4974-b771-15bbf9b3fbaa": {
+        "completed_block_count": 3,
+        "opened_block_count": 13,
+        "score": 72,
+        "narrative_outcome": "Healthy Tension"
+      },
+      "329c5422-2ea8-4a0a-964c-82169e4b7c28": {
+        "completed_block_count": 3,
+        "opened_block_count": 13,
+        "score": 40,
+        "narrative_outcome": "Crash Out"
+      },
+      "bd94ab2e-c524-45b7-b25c-1912782f2a0d": {
+        "completed_block_count": 3,
+        "opened_block_count": 12,
+        "score": 50,
+        "narrative_outcome": "Signs of Strain"
+      },
+      "d80e228a-b35a-4b31-9198-72269c97c05e": {
+        "completed_block_count": 3,
+        "opened_block_count": 13,
+        "score": 59,
+        "narrative_outcome": "Signs of Strain"
+      },
+      "05ec48ea-1801-445f-a43c-901296e153c4": {
+        "completed_block_count": 3,
+        "opened_block_count": 14,
+        "score": 57,
+        "narrative_outcome": "Signs of Strain"
+      },
+      "6d8ea347-c987-432b-b1bd-5dbc3b5e611a": {
+        "completed_block_count": 3,
+        "opened_block_count": 13,
+        "score": 45,
+        "narrative_outcome": "Crash Out"
+      },
+      "1c1478ee-1f56-4387-9c0a-cca7b4bfd360": {
+        "completed_block_count": 3,
+        "opened_block_count": 13,
+        "score": 60,
+        "narrative_outcome": "Signs of Strain"
+      },
+      "5b876762-67fa-43fc-a307-70a96c7ac493": {
+        "completed_block_count": 3,
+        "opened_block_count": 13,
+        "score": 50,
+        "narrative_outcome": "Signs of Strain"
+      },
+      "e95f2138-797f-41a6-bd21-422db663ca15": {
+        "completed_block_count": 3,
+        "opened_block_count": 13,
+        "score": 79,
+        "narrative_outcome": "Healthy Tension"
+      }
+    }
   },
-  "team_analyses_for_viewed_chapter": {},
+  "team_analyses_for_viewed_chapter": {
+    "4ececf54-f3c4-4dc8-a3a8-02765d04ab9a": {
+      "teamId": "4ececf54-f3c4-4dc8-a3a8-02765d04ab9a",
+      "teamName": "Meeee",
+      "teamIcon": "✨",
+      "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "lowLabel": "FRAGILE",
+        "highLabel": "STRONG",
+        "scoreLabel": "Team Alignment",
+        "mediumLabel": "EMERGING",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T19:50:11.064Z",
+      "score": 0,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1770057159169-Crash_Out.webp",
+        "story": "One month later... InsightFlow is still live, but teams use it sporadically and avoid it for high-stakes decisions. With no clear reinforcement, Marcela’s group slides back to familiar spreadsheets and ad-hoc reviews, signaling the change is optional. Sam’s unresolved skepticism continues to shadow the data, and others mirror his caution. August notes the rollout happened, but your influence didn’t stabilize adoption before momentum faded.",
+        "title": "Crash Out",
+        "description": "InsightFlow loses momentum after the initial rollout, used inconsistently and rarely relied upon for important decisions. Marcela returns to familiar ways of working, reinforcing the perception that the change was optional. Sam’s skepticism goes unaddressed, and never stands fully behind the platform. August concludes that while the initiative had potential, your approach lacked the influence needed to stabilize the system before it stalled."
+      }
+    },
+    "555d8446-c8b5-4f23-b143-a8063800997d": {
+      "teamId": "555d8446-c8b5-4f23-b143-a8063800997d",
+      "teamName": "The High D's",
+      "teamIcon": "🏔️",
+      "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "lowLabel": "FRAGILE",
+        "highLabel": "STRONG",
+        "scoreLabel": "Team Alignment",
+        "mediumLabel": "EMERGING",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T19:50:41.205Z",
+      "score": 53,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540966757-Signs_of_Strain.webp",
+        "story": "One month later... you publish ten-minute weekly async roadmaps and keep a standing 15-minute escalation slot. Marcela submits friction reports, but duplicate entry persists and several required fields still drive placeholder junk. Sam delivers a baseline plan and weekly readouts, yet access delays and drive-by requests blur the data. InsightFlow usage grows unevenly, and August sees progress—but also a rollout still fighting rework and credibility gaps.",
+        "title": "Signs of Strain",
+        "description": "InsightFlow technically rolls out, but adoption across the company is uneven. Marcela complies with the new workflow without fully embracing it, while Sam’s concerns are never fully resolved, quietly limiting how much confidence others place in the outputs. August views your leadership as capable but incomplete—effective at launching initiatives, yet less successful at addressing the deeper dynamics that determine long-term health."
+      }
+    },
+    "e793ab07-ee9b-4974-b771-15bbf9b3fbaa": {
+      "teamId": "e793ab07-ee9b-4974-b771-15bbf9b3fbaa",
+      "teamName": "LyteBright",
+      "teamIcon": "✨",
+      "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "lowLabel": "FRAGILE",
+        "highLabel": "STRONG",
+        "scoreLabel": "Team Alignment",
+        "mediumLabel": "EMERGING",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T19:50:48.962Z",
+      "score": 72,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540988262-Healthy_Tension.webp",
+        "story": "One month later... you run a tightly scoped pilot with product, using baseline metrics on time-to-insight, clarification pings, and rework cycles. Prefilled fields and a notebook-to-InsightFlow push reduce extra clicks, while guardrails keep analyst judgment and narrative context intact. Roderick handles most click-testing, with Marcela doing output sanity checks. Sam remains cautious but constructive, citing side-by-side account results. August sees steady momentum and credible influence.",
+        "title": "Healthy Tension",
+        "description": "InsightFlow moves forward with momentum, even as questions and adjustments continue to surface. Marcela adopts the workflow more consistently, while still shaping how it fits into real work. Sam remains cautious but constructive, signaling that while the approach isn’t perfect, it’s responsible enough to continue. August sees you as a thoughtful leader—someone who can move the organization ahead while holding space for the tension that comes with meaningful change."
+      }
+    },
+    "329c5422-2ea8-4a0a-964c-82169e4b7c28": {
+      "teamId": "329c5422-2ea8-4a0a-964c-82169e4b7c28",
+      "teamName": "D&B Influence",
+      "teamIcon": "🤝",
+      "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "lowLabel": "FRAGILE",
+        "highLabel": "STRONG",
+        "scoreLabel": "Team Alignment",
+        "mediumLabel": "EMERGING",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T19:50:32.808Z",
+      "score": 40,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1770057159169-Crash_Out.webp",
+        "story": "One month later... you set up daily 10-minute triage and a weekly retro, but the issue log grows faster than engineering fixes. Roderick’s rote entry helps briefly, yet mapping drift and unversioned template tweaks keep outputs inconsistent. Sam’s bake-off stalls without protected time, so the gated rollout never stabilizes. Other teams bypass InsightFlow for urgent decisions. August sees uneven throughput and concludes your influence wasn’t enough to lock in change.",
+        "title": "Crash Out",
+        "description": "InsightFlow loses momentum after the initial rollout, used inconsistently and rarely relied upon for important decisions. Marcela returns to familiar ways of working, reinforcing the perception that the change was optional. Sam’s skepticism goes unaddressed, and never stands fully behind the platform. August concludes that while the initiative had potential, your approach lacked the influence needed to stabilize the system before it stalled."
+      }
+    },
+    "bd94ab2e-c524-45b7-b25c-1912782f2a0d": {
+      "teamId": "bd94ab2e-c524-45b7-b25c-1912782f2a0d",
+      "teamName": "LyteInfluencers",
+      "teamIcon": "🌟",
+      "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "lowLabel": "FRAGILE",
+        "highLabel": "STRONG",
+        "scoreLabel": "Team Alignment",
+        "mediumLabel": "EMERGING",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T19:50:33.152Z",
+      "score": 50,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540966757-Signs_of_Strain.webp",
+        "story": "One month later... InsightFlow is live, but adoption is uneven. You set up weekly tracking for mapping issues and push teams toward “common rules,” yet definitions still drift and outputs vary by configuration. Sam continues supporting only the pilot, holding the line on exit criteria and versioning. Marcela uses the system when required but keeps side workflows to protect focus time. August sees progress, but influence hasn’t fully converted skeptics.",
+        "title": "Signs of Strain",
+        "description": "InsightFlow technically rolls out, but adoption across the company is uneven. Marcela complies with the new workflow without fully embracing it, while Sam’s concerns are never fully resolved, quietly limiting how much confidence others place in the outputs. August views your leadership as capable but incomplete—effective at launching initiatives, yet less successful at addressing the deeper dynamics that determine long-term health."
+      }
+    },
+    "d80e228a-b35a-4b31-9198-72269c97c05e": {
+      "teamId": "d80e228a-b35a-4b31-9198-72269c97c05e",
+      "teamName": "C-Squad",
+      "teamIcon": "💪",
+      "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "lowLabel": "FRAGILE",
+        "highLabel": "STRONG",
+        "scoreLabel": "Team Alignment",
+        "mediumLabel": "EMERGING",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T19:50:43.667Z",
+      "score": 59,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540966757-Signs_of_Strain.webp",
+        "story": "One month later... you launch InsightFlow with a narrow pilot and weekly check-ins, but no hard cutoff for the old process. Marcela pushes for “blessed metrics” and quality gates, yet teams keep duplicating work across tools. Sam runs a parallel comparison and flags inconsistent outputs, slowing confidence beyond the pilot group. August sees progress, but also uneven adoption and unclear decision rights limiting your influence.",
+        "title": "Signs of Strain",
+        "description": "InsightFlow technically rolls out, but adoption across the company is uneven. Marcela complies with the new workflow without fully embracing it, while Sam’s concerns are never fully resolved, quietly limiting how much confidence others place in the outputs. August views your leadership as capable but incomplete—effective at launching initiatives, yet less successful at addressing the deeper dynamics that determine long-term health."
+      }
+    },
+    "05ec48ea-1801-445f-a43c-901296e153c4": {
+      "teamId": "05ec48ea-1801-445f-a43c-901296e153c4",
+      "teamName": "CL Innovations",
+      "teamIcon": "🚀",
+      "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "lowLabel": "FRAGILE",
+        "highLabel": "STRONG",
+        "scoreLabel": "Team Alignment",
+        "mediumLabel": "EMERGING",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T19:50:30.209Z",
+      "score": 57,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540966757-Signs_of_Strain.webp",
+        "story": "One month later... you launch an implementation dashboard and schedule weekly 15-minute check-ins, but Ops and Legal approvals still drag and requirements keep shifting before QA. Marcela ships to staging, yet keeps workarounds to avoid double-entry. Sam attends the stakeholder meeting and submits metrics and a draft RACI, but continues manual validation due to brittle mapping and broad permissions. August notes progress, but uneven adoption limits your influence.",
+        "title": "Signs of Strain",
+        "description": "InsightFlow technically rolls out, but adoption across the company is uneven. Marcela complies with the new workflow without fully embracing it, while Sam’s concerns are never fully resolved, quietly limiting how much confidence others place in the outputs. August views your leadership as capable but incomplete—effective at launching initiatives, yet less successful at addressing the deeper dynamics that determine long-term health."
+      }
+    },
+    "6d8ea347-c987-432b-b1bd-5dbc3b5e611a": {
+      "teamId": "6d8ea347-c987-432b-b1bd-5dbc3b5e611a",
+      "teamName": "LyteSpeed",
+      "teamIcon": "🏎️",
+      "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "lowLabel": "FRAGILE",
+        "highLabel": "STRONG",
+        "scoreLabel": "Team Alignment",
+        "mediumLabel": "EMERGING",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T19:50:40.541Z",
+      "score": 45,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1770057159169-Crash_Out.webp",
+        "story": "One month later... you scheduled the 45-minute working session and set weekly check-ins, but schema fixes and stable IDs missed deadlines. Analysts kept exporting and remapping outside InsightFlow, while “pilot” outputs circulated without clear labels. Sam’s validation notes surfaced mismatches, yet no governance source of truth was locked. Adoption became optional, parallel pipelines persisted, and August saw the rollout stall from unresolved workflow friction and limited influence over owners.",
+        "title": "Crash Out",
+        "description": "InsightFlow loses momentum after the initial rollout, used inconsistently and rarely relied upon for important decisions. Marcela returns to familiar ways of working, reinforcing the perception that the change was optional. Sam’s skepticism goes unaddressed, and never stands fully behind the platform. August concludes that while the initiative had potential, your approach lacked the influence needed to stabilize the system before it stalled."
+      }
+    },
+    "1c1478ee-1f56-4387-9c0a-cca7b4bfd360": {
+      "teamId": "1c1478ee-1f56-4387-9c0a-cca7b4bfd360",
+      "teamName": "FryeFuller",
+      "teamIcon": "🔥",
+      "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "lowLabel": "FRAGILE",
+        "highLabel": "STRONG",
+        "scoreLabel": "Team Alignment",
+        "mediumLabel": "EMERGING",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T19:50:49.966Z",
+      "score": 60,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540966757-Signs_of_Strain.webp",
+        "story": "One month later... you convene Marcela and Sam with the product lead to tackle duplicate customer entry and rigid categories. A short pilot runs, but teams still paste watered-down summaries after doing the real work in notebooks and docs. Templates help, yet ownership and a cutoff date for the old doc/Slack loop remain unclear. Adoption grows in pockets, and August notes progress, but uneven trust limits influence.",
+        "title": "Signs of Strain",
+        "description": "InsightFlow technically rolls out, but adoption across the company is uneven. Marcela complies with the new workflow without fully embracing it, while Sam’s concerns are never fully resolved, quietly limiting how much confidence others place in the outputs. August views your leadership as capable but incomplete—effective at launching initiatives, yet less successful at addressing the deeper dynamics that determine long-term health."
+      }
+    },
+    "5b876762-67fa-43fc-a307-70a96c7ac493": {
+      "teamId": "5b876762-67fa-43fc-a307-70a96c7ac493",
+      "teamName": "Spark Team",
+      "teamIcon": "🔥",
+      "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "lowLabel": "FRAGILE",
+        "highLabel": "STRONG",
+        "scoreLabel": "Team Alignment",
+        "mediumLabel": "EMERGING",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T19:50:37.642Z",
+      "score": 50,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540966757-Signs_of_Strain.webp",
+        "story": "One month later... you send the guardrails email and redirect drive-by requests into InsightFlow, but exceptions keep slipping through when “urgent” asks appear. Marcela delivers an MVP pilot with minimal required fields and basic timestamps, yet adoption stays uneven as teams still DM for faster answers. Sam’s two-week reconciliation flags definition drift, slowing trust. August sees progress, but notes the rollout depends heavily on enforcement and unresolved data governance.",
+        "title": "Signs of Strain",
+        "description": "InsightFlow technically rolls out, but adoption across the company is uneven. Marcela complies with the new workflow without fully embracing it, while Sam’s concerns are never fully resolved, quietly limiting how much confidence others place in the outputs. August views your leadership as capable but incomplete—effective at launching initiatives, yet less successful at addressing the deeper dynamics that determine long-term health."
+      }
+    },
+    "e95f2138-797f-41a6-bd21-422db663ca15": {
+      "teamId": "e95f2138-797f-41a6-bd21-422db663ca15",
+      "teamName": "Precision Influence",
+      "teamIcon": "🎯",
+      "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+      "scoreDisplayType": "GAUGE",
+      "scoreDisplayConfig": {
+        "lowLabel": "FRAGILE",
+        "highLabel": "STRONG",
+        "scoreLabel": "Team Alignment",
+        "mediumLabel": "EMERGING",
+        "lowThreshold": 50,
+        "mediumThreshold": 84
+      },
+      "scoreHidden": false,
+      "hasNarrativeImpact": true,
+      "analysisType": "DEFAULT",
+      "analysisOptions": null,
+      "generatedAt": "2026-05-20T19:50:50.443Z",
+      "score": 79,
+      "analysis": "$18",
+      "narrativeImpact": {
+        "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540988262-Healthy_Tension.webp",
+        "story": "One month later... you tighten InsightFlow into a true “island” pilot on the adherence weekly insights workflow, using Marcela’s minimum schema and Sam’s written go/stop criteria. A two-week shadow evaluation compares outputs, then a sunset date ends parallel reporting. Rework counts drop, cycle time improves, and definitions stop drifting—though edge cases still trigger debate. August notes steady momentum and increasing trust in your outcome-led leadership.",
+        "title": "Healthy Tension",
+        "description": "InsightFlow moves forward with momentum, even as questions and adjustments continue to surface. Marcela adopts the workflow more consistently, while still shaping how it fits into real work. Sam remains cautious but constructive, signaling that while the approach isn’t perfect, it’s responsible enough to continue. August sees you as a thoughtful leader—someone who can move the organization ahead while holding space for the tension that comes with meaningful change."
+      }
+    }
+  },
   "team_analyses_by_chapter": {
-    "82919bde-7e61-4994-8a41-e0266b38618c": {},
-    "ad460970-2521-46ec-b8f1-a38b84ad2a0c": {},
-    "79f1e087-7861-439a-ad08-64f6b5700672": {}
+    "82919bde-7e61-4994-8a41-e0266b38618c": {
+      "4ececf54-f3c4-4dc8-a3a8-02765d04ab9a": {
+        "teamId": "4ececf54-f3c4-4dc8-a3a8-02765d04ab9a",
+        "teamName": "Meeee",
+        "teamIcon": "✨",
+        "chapterId": "82919bde-7e61-4994-8a41-e0266b38618c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-82919bde-7e61-4994-8a41-e0266b38618c/1770734703120-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:38:18.558Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "555d8446-c8b5-4f23-b143-a8063800997d": {
+        "teamId": "555d8446-c8b5-4f23-b143-a8063800997d",
+        "teamName": "The High D's",
+        "teamIcon": "🏔️",
+        "chapterId": "82919bde-7e61-4994-8a41-e0266b38618c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-82919bde-7e61-4994-8a41-e0266b38618c/1770734703120-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:38:18.558Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "e793ab07-ee9b-4974-b771-15bbf9b3fbaa": {
+        "teamId": "e793ab07-ee9b-4974-b771-15bbf9b3fbaa",
+        "teamName": "LyteBright",
+        "teamIcon": "✨",
+        "chapterId": "82919bde-7e61-4994-8a41-e0266b38618c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-82919bde-7e61-4994-8a41-e0266b38618c/1770734703120-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:38:18.562Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "329c5422-2ea8-4a0a-964c-82169e4b7c28": {
+        "teamId": "329c5422-2ea8-4a0a-964c-82169e4b7c28",
+        "teamName": "D&B Influence",
+        "teamIcon": "🤝",
+        "chapterId": "82919bde-7e61-4994-8a41-e0266b38618c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-82919bde-7e61-4994-8a41-e0266b38618c/1770734703120-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:38:18.558Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "bd94ab2e-c524-45b7-b25c-1912782f2a0d": {
+        "teamId": "bd94ab2e-c524-45b7-b25c-1912782f2a0d",
+        "teamName": "LyteInfluencers",
+        "teamIcon": "🌟",
+        "chapterId": "82919bde-7e61-4994-8a41-e0266b38618c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-82919bde-7e61-4994-8a41-e0266b38618c/1770734703120-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:38:18.559Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "d80e228a-b35a-4b31-9198-72269c97c05e": {
+        "teamId": "d80e228a-b35a-4b31-9198-72269c97c05e",
+        "teamName": "C-Squad",
+        "teamIcon": "💪",
+        "chapterId": "82919bde-7e61-4994-8a41-e0266b38618c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-82919bde-7e61-4994-8a41-e0266b38618c/1770734703120-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:38:18.562Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "05ec48ea-1801-445f-a43c-901296e153c4": {
+        "teamId": "05ec48ea-1801-445f-a43c-901296e153c4",
+        "teamName": "CL Innovations",
+        "teamIcon": "🚀",
+        "chapterId": "82919bde-7e61-4994-8a41-e0266b38618c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-82919bde-7e61-4994-8a41-e0266b38618c/1770734703120-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:38:18.562Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "6d8ea347-c987-432b-b1bd-5dbc3b5e611a": {
+        "teamId": "6d8ea347-c987-432b-b1bd-5dbc3b5e611a",
+        "teamName": "LyteSpeed",
+        "teamIcon": "🏎️",
+        "chapterId": "82919bde-7e61-4994-8a41-e0266b38618c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-82919bde-7e61-4994-8a41-e0266b38618c/1770734703120-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:38:18.562Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "1c1478ee-1f56-4387-9c0a-cca7b4bfd360": {
+        "teamId": "1c1478ee-1f56-4387-9c0a-cca7b4bfd360",
+        "teamName": "FryeFuller",
+        "teamIcon": "🔥",
+        "chapterId": "82919bde-7e61-4994-8a41-e0266b38618c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-82919bde-7e61-4994-8a41-e0266b38618c/1770734703120-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:38:18.562Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "5b876762-67fa-43fc-a307-70a96c7ac493": {
+        "teamId": "5b876762-67fa-43fc-a307-70a96c7ac493",
+        "teamName": "Spark Team",
+        "teamIcon": "🔥",
+        "chapterId": "82919bde-7e61-4994-8a41-e0266b38618c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-82919bde-7e61-4994-8a41-e0266b38618c/1770734703120-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:38:18.562Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      },
+      "e95f2138-797f-41a6-bd21-422db663ca15": {
+        "teamId": "e95f2138-797f-41a6-bd21-422db663ca15",
+        "teamName": "Precision Influence",
+        "teamIcon": "🎯",
+        "chapterId": "82919bde-7e61-4994-8a41-e0266b38618c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-82919bde-7e61-4994-8a41-e0266b38618c/1770734703120-Chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:38:18.563Z",
+        "score": null,
+        "analysis": "Good work so far. Please listen to the facilitator's instructions for what comes next.",
+        "narrativeImpact": null
+      }
+    },
+    "ad460970-2521-46ec-b8f1-a38b84ad2a0c": {
+      "4ececf54-f3c4-4dc8-a3a8-02765d04ab9a": {
+        "teamId": "4ececf54-f3c4-4dc8-a3a8-02765d04ab9a",
+        "teamName": "Meeee",
+        "teamIcon": "✨",
+        "chapterId": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad460970-2521-46ec-b8f1-a38b84ad2a0c/1769632799044-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "UNCLEAR",
+          "highLabel": "EMERGING",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "FRAGILE",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:58:53.268Z",
+        "score": 0,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "555d8446-c8b5-4f23-b143-a8063800997d": {
+        "teamId": "555d8446-c8b5-4f23-b143-a8063800997d",
+        "teamName": "The High D's",
+        "teamIcon": "🏔️",
+        "chapterId": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad460970-2521-46ec-b8f1-a38b84ad2a0c/1769632799044-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "UNCLEAR",
+          "highLabel": "EMERGING",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "FRAGILE",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:17.191Z",
+        "score": 84,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "e793ab07-ee9b-4974-b771-15bbf9b3fbaa": {
+        "teamId": "e793ab07-ee9b-4974-b771-15bbf9b3fbaa",
+        "teamName": "LyteBright",
+        "teamIcon": "✨",
+        "chapterId": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad460970-2521-46ec-b8f1-a38b84ad2a0c/1769632799044-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "UNCLEAR",
+          "highLabel": "EMERGING",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "FRAGILE",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:18.043Z",
+        "score": 81,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "329c5422-2ea8-4a0a-964c-82169e4b7c28": {
+        "teamId": "329c5422-2ea8-4a0a-964c-82169e4b7c28",
+        "teamName": "D&B Influence",
+        "teamIcon": "🤝",
+        "chapterId": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad460970-2521-46ec-b8f1-a38b84ad2a0c/1769632799044-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "UNCLEAR",
+          "highLabel": "EMERGING",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "FRAGILE",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:28.743Z",
+        "score": 71,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "bd94ab2e-c524-45b7-b25c-1912782f2a0d": {
+        "teamId": "bd94ab2e-c524-45b7-b25c-1912782f2a0d",
+        "teamName": "LyteInfluencers",
+        "teamIcon": "🌟",
+        "chapterId": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad460970-2521-46ec-b8f1-a38b84ad2a0c/1769632799044-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "UNCLEAR",
+          "highLabel": "EMERGING",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "FRAGILE",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:14.944Z",
+        "score": 63,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "d80e228a-b35a-4b31-9198-72269c97c05e": {
+        "teamId": "d80e228a-b35a-4b31-9198-72269c97c05e",
+        "teamName": "C-Squad",
+        "teamIcon": "💪",
+        "chapterId": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad460970-2521-46ec-b8f1-a38b84ad2a0c/1769632799044-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "UNCLEAR",
+          "highLabel": "EMERGING",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "FRAGILE",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:26.727Z",
+        "score": 73,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "05ec48ea-1801-445f-a43c-901296e153c4": {
+        "teamId": "05ec48ea-1801-445f-a43c-901296e153c4",
+        "teamName": "CL Innovations",
+        "teamIcon": "🚀",
+        "chapterId": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad460970-2521-46ec-b8f1-a38b84ad2a0c/1769632799044-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "UNCLEAR",
+          "highLabel": "EMERGING",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "FRAGILE",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:13.340Z",
+        "score": 66,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "6d8ea347-c987-432b-b1bd-5dbc3b5e611a": {
+        "teamId": "6d8ea347-c987-432b-b1bd-5dbc3b5e611a",
+        "teamName": "LyteSpeed",
+        "teamIcon": "🏎️",
+        "chapterId": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad460970-2521-46ec-b8f1-a38b84ad2a0c/1769632799044-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "UNCLEAR",
+          "highLabel": "EMERGING",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "FRAGILE",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:23.636Z",
+        "score": 85,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "1c1478ee-1f56-4387-9c0a-cca7b4bfd360": {
+        "teamId": "1c1478ee-1f56-4387-9c0a-cca7b4bfd360",
+        "teamName": "FryeFuller",
+        "teamIcon": "🔥",
+        "chapterId": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad460970-2521-46ec-b8f1-a38b84ad2a0c/1769632799044-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "UNCLEAR",
+          "highLabel": "EMERGING",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "FRAGILE",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:21.733Z",
+        "score": 93,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "5b876762-67fa-43fc-a307-70a96c7ac493": {
+        "teamId": "5b876762-67fa-43fc-a307-70a96c7ac493",
+        "teamName": "Spark Team",
+        "teamIcon": "🔥",
+        "chapterId": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad460970-2521-46ec-b8f1-a38b84ad2a0c/1769632799044-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "UNCLEAR",
+          "highLabel": "EMERGING",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "FRAGILE",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:16.878Z",
+        "score": 74,
+        "analysis": "$18",
+        "narrativeImpact": null
+      },
+      "e95f2138-797f-41a6-bd21-422db663ca15": {
+        "teamId": "e95f2138-797f-41a6-bd21-422db663ca15",
+        "teamName": "Precision Influence",
+        "teamIcon": "🎯",
+        "chapterId": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-ad460970-2521-46ec-b8f1-a38b84ad2a0c/1769632799044-Chapter_2.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "UNCLEAR",
+          "highLabel": "EMERGING",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "FRAGILE",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T18:59:17.000Z",
+        "score": 87,
+        "analysis": "$18",
+        "narrativeImpact": null
+      }
+    },
+    "79f1e087-7861-439a-ad08-64f6b5700672": {
+      "4ececf54-f3c4-4dc8-a3a8-02765d04ab9a": {
+        "teamId": "4ececf54-f3c4-4dc8-a3a8-02765d04ab9a",
+        "teamName": "Meeee",
+        "teamIcon": "✨",
+        "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "FRAGILE",
+          "highLabel": "STRONG",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "EMERGING",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T19:50:11.064Z",
+        "score": 0,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1770057159169-Crash_Out.webp",
+          "story": "One month later... InsightFlow is still live, but teams use it sporadically and avoid it for high-stakes decisions. With no clear reinforcement, Marcela’s group slides back to familiar spreadsheets and ad-hoc reviews, signaling the change is optional. Sam’s unresolved skepticism continues to shadow the data, and others mirror his caution. August notes the rollout happened, but your influence didn’t stabilize adoption before momentum faded.",
+          "title": "Crash Out",
+          "description": "InsightFlow loses momentum after the initial rollout, used inconsistently and rarely relied upon for important decisions. Marcela returns to familiar ways of working, reinforcing the perception that the change was optional. Sam’s skepticism goes unaddressed, and never stands fully behind the platform. August concludes that while the initiative had potential, your approach lacked the influence needed to stabilize the system before it stalled."
+        }
+      },
+      "555d8446-c8b5-4f23-b143-a8063800997d": {
+        "teamId": "555d8446-c8b5-4f23-b143-a8063800997d",
+        "teamName": "The High D's",
+        "teamIcon": "🏔️",
+        "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "FRAGILE",
+          "highLabel": "STRONG",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "EMERGING",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T19:50:41.205Z",
+        "score": 53,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540966757-Signs_of_Strain.webp",
+          "story": "One month later... you publish ten-minute weekly async roadmaps and keep a standing 15-minute escalation slot. Marcela submits friction reports, but duplicate entry persists and several required fields still drive placeholder junk. Sam delivers a baseline plan and weekly readouts, yet access delays and drive-by requests blur the data. InsightFlow usage grows unevenly, and August sees progress—but also a rollout still fighting rework and credibility gaps.",
+          "title": "Signs of Strain",
+          "description": "InsightFlow technically rolls out, but adoption across the company is uneven. Marcela complies with the new workflow without fully embracing it, while Sam’s concerns are never fully resolved, quietly limiting how much confidence others place in the outputs. August views your leadership as capable but incomplete—effective at launching initiatives, yet less successful at addressing the deeper dynamics that determine long-term health."
+        }
+      },
+      "e793ab07-ee9b-4974-b771-15bbf9b3fbaa": {
+        "teamId": "e793ab07-ee9b-4974-b771-15bbf9b3fbaa",
+        "teamName": "LyteBright",
+        "teamIcon": "✨",
+        "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "FRAGILE",
+          "highLabel": "STRONG",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "EMERGING",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T19:50:48.962Z",
+        "score": 72,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540988262-Healthy_Tension.webp",
+          "story": "One month later... you run a tightly scoped pilot with product, using baseline metrics on time-to-insight, clarification pings, and rework cycles. Prefilled fields and a notebook-to-InsightFlow push reduce extra clicks, while guardrails keep analyst judgment and narrative context intact. Roderick handles most click-testing, with Marcela doing output sanity checks. Sam remains cautious but constructive, citing side-by-side account results. August sees steady momentum and credible influence.",
+          "title": "Healthy Tension",
+          "description": "InsightFlow moves forward with momentum, even as questions and adjustments continue to surface. Marcela adopts the workflow more consistently, while still shaping how it fits into real work. Sam remains cautious but constructive, signaling that while the approach isn’t perfect, it’s responsible enough to continue. August sees you as a thoughtful leader—someone who can move the organization ahead while holding space for the tension that comes with meaningful change."
+        }
+      },
+      "329c5422-2ea8-4a0a-964c-82169e4b7c28": {
+        "teamId": "329c5422-2ea8-4a0a-964c-82169e4b7c28",
+        "teamName": "D&B Influence",
+        "teamIcon": "🤝",
+        "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "FRAGILE",
+          "highLabel": "STRONG",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "EMERGING",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T19:50:32.808Z",
+        "score": 40,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1770057159169-Crash_Out.webp",
+          "story": "One month later... you set up daily 10-minute triage and a weekly retro, but the issue log grows faster than engineering fixes. Roderick’s rote entry helps briefly, yet mapping drift and unversioned template tweaks keep outputs inconsistent. Sam’s bake-off stalls without protected time, so the gated rollout never stabilizes. Other teams bypass InsightFlow for urgent decisions. August sees uneven throughput and concludes your influence wasn’t enough to lock in change.",
+          "title": "Crash Out",
+          "description": "InsightFlow loses momentum after the initial rollout, used inconsistently and rarely relied upon for important decisions. Marcela returns to familiar ways of working, reinforcing the perception that the change was optional. Sam’s skepticism goes unaddressed, and never stands fully behind the platform. August concludes that while the initiative had potential, your approach lacked the influence needed to stabilize the system before it stalled."
+        }
+      },
+      "bd94ab2e-c524-45b7-b25c-1912782f2a0d": {
+        "teamId": "bd94ab2e-c524-45b7-b25c-1912782f2a0d",
+        "teamName": "LyteInfluencers",
+        "teamIcon": "🌟",
+        "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "FRAGILE",
+          "highLabel": "STRONG",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "EMERGING",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T19:50:33.152Z",
+        "score": 50,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540966757-Signs_of_Strain.webp",
+          "story": "One month later... InsightFlow is live, but adoption is uneven. You set up weekly tracking for mapping issues and push teams toward “common rules,” yet definitions still drift and outputs vary by configuration. Sam continues supporting only the pilot, holding the line on exit criteria and versioning. Marcela uses the system when required but keeps side workflows to protect focus time. August sees progress, but influence hasn’t fully converted skeptics.",
+          "title": "Signs of Strain",
+          "description": "InsightFlow technically rolls out, but adoption across the company is uneven. Marcela complies with the new workflow without fully embracing it, while Sam’s concerns are never fully resolved, quietly limiting how much confidence others place in the outputs. August views your leadership as capable but incomplete—effective at launching initiatives, yet less successful at addressing the deeper dynamics that determine long-term health."
+        }
+      },
+      "d80e228a-b35a-4b31-9198-72269c97c05e": {
+        "teamId": "d80e228a-b35a-4b31-9198-72269c97c05e",
+        "teamName": "C-Squad",
+        "teamIcon": "💪",
+        "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "FRAGILE",
+          "highLabel": "STRONG",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "EMERGING",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T19:50:43.667Z",
+        "score": 59,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540966757-Signs_of_Strain.webp",
+          "story": "One month later... you launch InsightFlow with a narrow pilot and weekly check-ins, but no hard cutoff for the old process. Marcela pushes for “blessed metrics” and quality gates, yet teams keep duplicating work across tools. Sam runs a parallel comparison and flags inconsistent outputs, slowing confidence beyond the pilot group. August sees progress, but also uneven adoption and unclear decision rights limiting your influence.",
+          "title": "Signs of Strain",
+          "description": "InsightFlow technically rolls out, but adoption across the company is uneven. Marcela complies with the new workflow without fully embracing it, while Sam’s concerns are never fully resolved, quietly limiting how much confidence others place in the outputs. August views your leadership as capable but incomplete—effective at launching initiatives, yet less successful at addressing the deeper dynamics that determine long-term health."
+        }
+      },
+      "05ec48ea-1801-445f-a43c-901296e153c4": {
+        "teamId": "05ec48ea-1801-445f-a43c-901296e153c4",
+        "teamName": "CL Innovations",
+        "teamIcon": "🚀",
+        "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "FRAGILE",
+          "highLabel": "STRONG",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "EMERGING",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T19:50:30.209Z",
+        "score": 57,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540966757-Signs_of_Strain.webp",
+          "story": "One month later... you launch an implementation dashboard and schedule weekly 15-minute check-ins, but Ops and Legal approvals still drag and requirements keep shifting before QA. Marcela ships to staging, yet keeps workarounds to avoid double-entry. Sam attends the stakeholder meeting and submits metrics and a draft RACI, but continues manual validation due to brittle mapping and broad permissions. August notes progress, but uneven adoption limits your influence.",
+          "title": "Signs of Strain",
+          "description": "InsightFlow technically rolls out, but adoption across the company is uneven. Marcela complies with the new workflow without fully embracing it, while Sam’s concerns are never fully resolved, quietly limiting how much confidence others place in the outputs. August views your leadership as capable but incomplete—effective at launching initiatives, yet less successful at addressing the deeper dynamics that determine long-term health."
+        }
+      },
+      "6d8ea347-c987-432b-b1bd-5dbc3b5e611a": {
+        "teamId": "6d8ea347-c987-432b-b1bd-5dbc3b5e611a",
+        "teamName": "LyteSpeed",
+        "teamIcon": "🏎️",
+        "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "FRAGILE",
+          "highLabel": "STRONG",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "EMERGING",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T19:50:40.541Z",
+        "score": 45,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1770057159169-Crash_Out.webp",
+          "story": "One month later... you scheduled the 45-minute working session and set weekly check-ins, but schema fixes and stable IDs missed deadlines. Analysts kept exporting and remapping outside InsightFlow, while “pilot” outputs circulated without clear labels. Sam’s validation notes surfaced mismatches, yet no governance source of truth was locked. Adoption became optional, parallel pipelines persisted, and August saw the rollout stall from unresolved workflow friction and limited influence over owners.",
+          "title": "Crash Out",
+          "description": "InsightFlow loses momentum after the initial rollout, used inconsistently and rarely relied upon for important decisions. Marcela returns to familiar ways of working, reinforcing the perception that the change was optional. Sam’s skepticism goes unaddressed, and never stands fully behind the platform. August concludes that while the initiative had potential, your approach lacked the influence needed to stabilize the system before it stalled."
+        }
+      },
+      "1c1478ee-1f56-4387-9c0a-cca7b4bfd360": {
+        "teamId": "1c1478ee-1f56-4387-9c0a-cca7b4bfd360",
+        "teamName": "FryeFuller",
+        "teamIcon": "🔥",
+        "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "FRAGILE",
+          "highLabel": "STRONG",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "EMERGING",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T19:50:49.966Z",
+        "score": 60,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540966757-Signs_of_Strain.webp",
+          "story": "One month later... you convene Marcela and Sam with the product lead to tackle duplicate customer entry and rigid categories. A short pilot runs, but teams still paste watered-down summaries after doing the real work in notebooks and docs. Templates help, yet ownership and a cutoff date for the old doc/Slack loop remain unclear. Adoption grows in pockets, and August notes progress, but uneven trust limits influence.",
+          "title": "Signs of Strain",
+          "description": "InsightFlow technically rolls out, but adoption across the company is uneven. Marcela complies with the new workflow without fully embracing it, while Sam’s concerns are never fully resolved, quietly limiting how much confidence others place in the outputs. August views your leadership as capable but incomplete—effective at launching initiatives, yet less successful at addressing the deeper dynamics that determine long-term health."
+        }
+      },
+      "5b876762-67fa-43fc-a307-70a96c7ac493": {
+        "teamId": "5b876762-67fa-43fc-a307-70a96c7ac493",
+        "teamName": "Spark Team",
+        "teamIcon": "🔥",
+        "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "FRAGILE",
+          "highLabel": "STRONG",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "EMERGING",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T19:50:37.642Z",
+        "score": 50,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540966757-Signs_of_Strain.webp",
+          "story": "One month later... you send the guardrails email and redirect drive-by requests into InsightFlow, but exceptions keep slipping through when “urgent” asks appear. Marcela delivers an MVP pilot with minimal required fields and basic timestamps, yet adoption stays uneven as teams still DM for faster answers. Sam’s two-week reconciliation flags definition drift, slowing trust. August sees progress, but notes the rollout depends heavily on enforcement and unresolved data governance.",
+          "title": "Signs of Strain",
+          "description": "InsightFlow technically rolls out, but adoption across the company is uneven. Marcela complies with the new workflow without fully embracing it, while Sam’s concerns are never fully resolved, quietly limiting how much confidence others place in the outputs. August views your leadership as capable but incomplete—effective at launching initiatives, yet less successful at addressing the deeper dynamics that determine long-term health."
+        }
+      },
+      "e95f2138-797f-41a6-bd21-422db663ca15": {
+        "teamId": "e95f2138-797f-41a6-bd21-422db663ca15",
+        "teamName": "Precision Influence",
+        "teamIcon": "🎯",
+        "chapterId": "79f1e087-7861-439a-ad08-64f6b5700672",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-79f1e087-7861-439a-ad08-64f6b5700672/1769632814671-Chapter_3.webp",
+        "scoreDisplayType": "GAUGE",
+        "scoreDisplayConfig": {
+          "lowLabel": "FRAGILE",
+          "highLabel": "STRONG",
+          "scoreLabel": "Team Alignment",
+          "mediumLabel": "EMERGING",
+          "lowThreshold": 50,
+          "mediumThreshold": 84
+        },
+        "scoreHidden": false,
+        "hasNarrativeImpact": true,
+        "analysisType": "DEFAULT",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-20T19:50:50.443Z",
+        "score": 79,
+        "analysis": "$18",
+        "narrativeImpact": {
+          "image": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/outcome-images/chapter-79f1e087-7861-439a-ad08-64f6b5700672/option-3/1774540988262-Healthy_Tension.webp",
+          "story": "One month later... you tighten InsightFlow into a true “island” pilot on the adherence weekly insights workflow, using Marcela’s minimum schema and Sam’s written go/stop criteria. A two-week shadow evaluation compares outputs, then a sunset date ends parallel reporting. Rework counts drop, cycle time improves, and definitions stop drifting—though edge cases still trigger debate. August notes steady momentum and increasing trust in your outcome-led leadership.",
+          "title": "Healthy Tension",
+          "description": "InsightFlow moves forward with momentum, even as questions and adjustments continue to surface. Marcela adopts the workflow more consistently, while still shaping how it fits into real work. Sam remains cautious but constructive, signaling that while the approach isn’t perfect, it’s responsible enough to continue. August sees you as a thoughtful leader—someone who can move the organization ahead while holding space for the tension that comes with meaningful change."
+        }
+      }
+    }
   },
-  "chapter_timings": {},
-  "events": [],
-  "rubric_by_chapter": {},
+  "chapter_timings": {
+    "82919bde-7e61-4994-8a41-e0266b38618c": {
+      "started_at": "2026-05-20T18:21:21.672Z",
+      "ended_at": "2026-05-20T18:38:18.533Z"
+    },
+    "ad460970-2521-46ec-b8f1-a38b84ad2a0c": {
+      "started_at": "2026-05-20T18:38:20.550Z",
+      "ended_at": "2026-05-20T18:58:34.818Z"
+    },
+    "79f1e087-7861-439a-ad08-64f6b5700672": {
+      "started_at": "2026-05-20T19:29:25.708Z",
+      "ended_at": "2026-05-20T19:49:54.443Z"
+    }
+  },
+  "events": [
+    {
+      "id": "4397b99f-cd44-4197-a696-6fe6d68bb8b3",
+      "chapter_id": "82919bde-7e61-4994-8a41-e0266b38618c",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 1 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-20T18:21:21.672Z",
+      "updated_at": "2026-05-20T18:21:21.672Z"
+    },
+    {
+      "id": "0bd2734a-65ca-4d5f-8147-d6a4b7f916e8",
+      "chapter_id": "82919bde-7e61-4994-8a41-e0266b38618c",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams review the core context around LumenLyte Labs and its current change initiative, a technology platform called InsightFlow. The chapter ends with a decision in which teams will reflect on what difficulties, if any, they anticipate.\n\n<b>What to look for:</b><ul>\n<li>Do teams review all of the materials?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T18:21:36.108Z",
+      "updated_at": "2026-05-20T18:21:36.119Z"
+    },
+    {
+      "id": "8620af4e-a095-4a98-bc31-d17c966c6ecb",
+      "chapter_id": "82919bde-7e61-4994-8a41-e0266b38618c",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T18:22:00.165Z",
+      "updated_at": "2026-05-20T18:22:00.170Z"
+    },
+    {
+      "id": "8e3015c4-ec86-4e85-8c1b-6391a601b5b4",
+      "chapter_id": "82919bde-7e61-4994-8a41-e0266b38618c",
+      "type": "CASE_PROGRESS",
+      "content": "0 teams have explored all of the available resources.\n<br><br>\nThese teams have not yet explored all of the resources: <b>LyteBright, DB Influence, Precision Influence, LyteInfluencers, LyteSpeed, FryeFuller, The High D's, CL Innovations, Spark Team, C-Squad, Group 11</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$46",
+          "inputTokens": 2595,
+          "rawResponse": "0 teams have explored all of the available resources.\n<br><br>\nThese teams have not yet explored all of the resources: <b>LyteBright, DB Influence, Precision Influence, LyteInfluencers, LyteSpeed, FryeFuller, The High D's, CL Innovations, Spark Team, C-Squad, Group 11</b>.",
+          "outputTokens": 93,
+          "systemPrompt": "$47",
+          "dataContextLength": 6543
+        }
+      },
+      "created_at": "2026-05-20T18:22:36.120Z",
+      "updated_at": "2026-05-20T18:22:39.257Z"
+    },
+    {
+      "id": "192a610f-468c-41d9-afd4-c25ebb9e813a",
+      "chapter_id": "82919bde-7e61-4994-8a41-e0266b38618c",
+      "type": "CASE_PROGRESS",
+      "content": "7 teams have opened the Chapter 1 resources.<br>\nThese teams have not yet opened the resources: <b>LyteBright, LyteInfluencers, Spark Team, Group 11</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$44",
+          "inputTokens": 2528,
+          "rawResponse": "7 teams have opened the Chapter 1 resources.<br>\nThese teams have not yet opened the resources: <b>LyteBright, LyteInfluencers, Spark Team, Group 11</b>.",
+          "outputTokens": 54,
+          "systemPrompt": "$45",
+          "dataContextLength": 6523
+        }
+      },
+      "created_at": "2026-05-20T18:26:00.159Z",
+      "updated_at": "2026-05-20T18:26:02.532Z"
+    },
+    {
+      "id": "4525d89b-e193-420b-9445-ca683fc8f0eb",
+      "chapter_id": "82919bde-7e61-4994-8a41-e0266b38618c",
+      "type": "CASE_PROGRESS",
+      "content": "This chapter does not contain any unlockable resources.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$42",
+          "inputTokens": 2545,
+          "rawResponse": "This chapter does not contain any unlockable resources.",
+          "outputTokens": 14,
+          "systemPrompt": "$43",
+          "dataContextLength": 6519
+        }
+      },
+      "created_at": "2026-05-20T18:26:36.027Z",
+      "updated_at": "2026-05-20T18:26:37.521Z"
+    },
+    {
+      "id": "a5ef9ec7-9ee5-4c22-a175-81263dc773c9",
+      "chapter_id": "82919bde-7e61-4994-8a41-e0266b38618c",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Reminder:</b> Move teams to the Decision now.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T18:27:24.022Z",
+      "updated_at": "2026-05-20T18:27:24.025Z"
+    },
+    {
+      "id": "28016199-4d81-46a3-be06-a3764b290c0c",
+      "chapter_id": "82919bde-7e61-4994-8a41-e0266b38618c",
+      "type": "STARTING_MESSAGE",
+      "content": "Decision phase has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "decision_started"
+      },
+      "created_at": "2026-05-20T18:27:24.811Z",
+      "updated_at": "2026-05-20T18:27:24.811Z"
+    },
+    {
+      "id": "095dc16e-dcd2-4d33-806c-7e131e059542",
+      "chapter_id": "82919bde-7e61-4994-8a41-e0266b38618c",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Decision Time!</b> Teams must state where they anticipate ambiguity or tension might show up as Tanya steps into an elevated role. This provides a hint toward what happens in future chapters. It also helps to show you whether any teams are demonstrating keen insight into potential issues with team morale, etc.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T18:27:36.026Z",
+      "updated_at": "2026-05-20T18:27:36.028Z"
+    },
+    {
+      "id": "a9ac3cc5-35a9-47b7-96f0-ca860a01c75b",
+      "chapter_id": "82919bde-7e61-4994-8a41-e0266b38618c",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Debrief Reminder:</b> Conduct a quick debrief, then move into Chapter 2. <ul>\n<li> Show <b><i>Approaches</b></i> in the Debrief tools to show what teams wrote about expected sources of resistance.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T18:31:36.024Z",
+      "updated_at": "2026-05-20T18:31:36.028Z"
+    },
+    {
+      "id": "dfc50f02-d322-489d-8d07-b20ad6962ef4",
+      "chapter_id": "82919bde-7e61-4994-8a41-e0266b38618c",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-20T18:38:18.525Z",
+      "updated_at": "2026-05-20T18:38:18.525Z"
+    },
+    {
+      "id": "b9a0e8a2-4b25-44e3-8edc-3fb673cdfaa7",
+      "chapter_id": "82919bde-7e61-4994-8a41-e0266b38618c",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 1 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-20T18:38:18.533Z",
+      "updated_at": "2026-05-20T18:38:18.533Z"
+    },
+    {
+      "id": "b8310f0f-85c6-409b-9acf-9c2f909900ce",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 2: Chapter 2 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-20T18:38:20.550Z",
+      "updated_at": "2026-05-20T18:38:20.550Z"
+    },
+    {
+      "id": "01b6f8e2-8553-41a6-acd1-d3c11af552cc",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams have a 20-minute conversation with Marcela, a direct report who has been resistant to a new company initiative. The goal is to understand her perspective and shift her mindset.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams open the conversation by listening and asking questions, or do they jump straight into persuasion mode?\n<li>Do teams seek to understand what is behind Marcela's resistance before trying to change her mind?\n<li>Do teams find common ground or connect the initiative to something Marcela personally cares about?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T18:38:36.023Z",
+      "updated_at": "2026-05-20T18:38:36.027Z"
+    },
+    {
+      "id": "616b9ea0-5eeb-4a50-825e-f956251aa9a2",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T18:40:24.025Z",
+      "updated_at": "2026-05-20T18:40:24.027Z"
+    },
+    {
+      "id": "61bfc8d5-3829-43c1-8c2c-1adc64e82f84",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "CASE_PROGRESS",
+      "content": "10 teams have explored all of the available resources.\n<br><br>\nThese teams have not yet explored all of the resources: <b>Meeee</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$40",
+          "inputTokens": 2849,
+          "rawResponse": "10 teams have explored all of the available resources.\n<br><br>\nThese teams have not yet explored all of the resources: <b>Meeee</b>.",
+          "outputTokens": 43,
+          "systemPrompt": "$41",
+          "dataContextLength": 7308
+        }
+      },
+      "created_at": "2026-05-20T18:42:24.026Z",
+      "updated_at": "2026-05-20T18:42:26.629Z"
+    },
+    {
+      "id": "58b06642-6fa9-4a25-b7e6-88f89020541c",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "CASE_PROGRESS",
+      "content": "10 teams have started their conversation with Marcela.<br>\nThese teams have not yet started the conversation: <b>Meeee</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$3e",
+          "inputTokens": 2728,
+          "rawResponse": "10 teams have started their conversation with Marcela.<br>\nThese teams have not yet started the conversation: <b>Meeee</b>.",
+          "outputTokens": 38,
+          "systemPrompt": "$3f",
+          "dataContextLength": 7311
+        }
+      },
+      "created_at": "2026-05-20T18:44:24.023Z",
+      "updated_at": "2026-05-20T18:44:26.469Z"
+    },
+    {
+      "id": "74cba2f8-2f5e-4e1d-a93e-762444c60fc6",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Initial Focus of Conversations:</b> Teams are primarily asking Marcela about her concerns with InsightFlow—overhead, extra documentation, workflow slowdowns, and lack of early input. Some are exploring her feedback mechanisms and vision alignment.\n\n<br><br>\n<i>Reviewing 10 active conversations.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$3c",
+          "inputTokens": 10307,
+          "rawResponse": "<b>Initial Focus of Conversations:</b> Teams are primarily asking Marcela about her concerns with InsightFlow—overhead, extra documentation, workflow slowdowns, and lack of early input. Some are exploring her feedback mechanisms and vision alignment.\n\n<br><br>\n<i>Reviewing 10 active conversations.</i>",
+          "outputTokens": 74,
+          "systemPrompt": "$3d",
+          "dataContextLength": 31997
+        }
+      },
+      "created_at": "2026-05-20T18:46:24.023Z",
+      "updated_at": "2026-05-20T18:46:28.446Z"
+    },
+    {
+      "id": "3a4a78ee-90c2-4bef-a378-50a866406d0f",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to give participants a helpful reminder: <br><br>\n<i>Remember to ask probing questions to understand the source of Marcela's resistance.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T18:48:24.024Z",
+      "updated_at": "2026-05-20T18:48:24.027Z"
+    },
+    {
+      "id": "973c871a-15ec-46ed-bfe9-b49e3b02160d",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Shared Interest:</b> 2 teams have connected the initiative to something Marcela personally cares about.<br>\n\n<b>Precision Influence:</b> \"your role is not to babysit the system, it's to define what good looks like so InsightFlow preserves speed, quality, and clarity — then the system supports your expertise instead of consuming it.\"<br><br>\n\n<i>Reviewing 11 active conversations.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$36",
+          "inputTokens": 21164,
+          "rawResponse": "<b>Shared Interest:</b> 2 teams have connected the initiative to something Marcela personally cares about.<br>\n\n<b>Precision Influence:</b> \"your role is not to babysit the system, it's to define what good looks like so InsightFlow preserves speed, quality, and clarity — then the system supports your expertise instead of consuming it.\"<br><br>\n\n<i>Reviewing 11 active conversations.</i>",
+          "outputTokens": 106,
+          "systemPrompt": "$37",
+          "dataContextLength": 69255
+        }
+      },
+      "created_at": "2026-05-20T18:53:24.025Z",
+      "updated_at": "2026-05-20T18:53:28.455Z"
+    },
+    {
+      "id": "49f000f1-6f7a-49bb-bd8c-2c5a491c4d19",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Confrontational Tone:</b> 0 teams have used a confrontational or authoritative tone with Marcela.<br><br>\n\n<i>Reviewing 11 active conversations.</i><br><br>\n\nAll teams demonstrated collaborative, questioning, or supportive approaches. None used confrontational or directive language toward Marcela.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$34",
+          "inputTokens": 22802,
+          "rawResponse": "<b>Confrontational Tone:</b> 0 teams have used a confrontational or authoritative tone with Marcela.<br><br>\n\n<i>Reviewing 11 active conversations.</i><br><br>\n\nAll teams demonstrated collaborative, questioning, or supportive approaches. None used confrontational or directive language toward Marcela.",
+          "outputTokens": 79,
+          "systemPrompt": "$35",
+          "dataContextLength": 74932
+        }
+      },
+      "created_at": "2026-05-20T18:54:24.024Z",
+      "updated_at": "2026-05-20T18:54:28.423Z"
+    },
+    {
+      "id": "f29bc759-dc3e-4dee-889c-70b592a62796",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "CASE_PROGRESS",
+      "content": "This chapter has unlockable resources.\n<ul>\n<li>1 team has unlocked A Post from the Past</li>\n<li>0 teams have unlocked Direct Message from Sam</li>\n</ul>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$32",
+          "inputTokens": 2796,
+          "rawResponse": "This chapter has unlockable resources.\n<ul>\n<li>1 team has unlocked A Post from the Past</li>\n<li>0 teams have unlocked Direct Message from Sam</li>\n</ul>",
+          "outputTokens": 54,
+          "systemPrompt": "$33",
+          "dataContextLength": 7318
+        }
+      },
+      "created_at": "2026-05-20T18:55:24.025Z",
+      "updated_at": "2026-05-20T18:55:26.921Z"
+    },
+    {
+      "id": "4066cd7e-cb93-4de6-b844-08b04f4bc660",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Conversation Summary:</b> Teams have been focused on understanding Marcela's workflow concerns and exploring how InsightFlow addresses her frustrations with rework, inconsistent definitions, and time protection.\n\n<br><br>\n\n<b>A possible strength is</b> several teams successfully connected InsightFlow benefits to Marcela's core motivators: autonomy, credibility, and reducing duplicative work through standardized definitions and cleaner handoffs.\n\n<br><br>\n\n<b>A possible gap is</b> most conversations centered on process mechanics rather than deeply exploring what truly drives Marcela professionally—recognition as a trusted expert and protecting her analytical reputation.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$30",
+          "inputTokens": 26877,
+          "rawResponse": "<b>Conversation Summary:</b> Teams have been focused on understanding Marcela's workflow concerns and exploring how InsightFlow addresses her frustrations with rework, inconsistent definitions, and time protection.\n\n<br><br>\n\n<b>A possible strength is</b> several teams successfully connected InsightFlow benefits to Marcela's core motivators: autonomy, credibility, and reducing duplicative work through standardized definitions and cleaner handoffs.\n\n<br><br>\n\n<b>A possible gap is</b> most conversations centered on process mechanics rather than deeply exploring what truly drives Marcela professionally—recognition as a trusted expert and protecting her analytical reputation.",
+          "outputTokens": 147,
+          "systemPrompt": "$31",
+          "dataContextLength": 88697
+        }
+      },
+      "created_at": "2026-05-20T18:56:24.023Z",
+      "updated_at": "2026-05-20T18:56:29.806Z"
+    },
+    {
+      "id": "5dcd6166-8555-4526-8189-f9ed6d5416ef",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Debrief Reminder:</b> Take time to debrief the chapter together. <ul>\n<li> Show <b><i>Snapshot</b></i> in the Debrief tools to show how teams performed. If any teams earned strong alignment, ask how they achieved that.\n<li> Use the slides to explore WIIFM more deeply.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T18:58:24.023Z",
+      "updated_at": "2026-05-20T18:58:24.025Z"
+    },
+    {
+      "id": "991cf68e-0940-4c84-9f64-9408b37a3624",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-20T18:58:34.811Z",
+      "updated_at": "2026-05-20T18:58:34.811Z"
+    },
+    {
+      "id": "6e9ef111-b662-46c2-96d8-3e20739a2fb3",
+      "chapter_id": "ad460970-2521-46ec-b8f1-a38b84ad2a0c",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 2 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-20T18:58:34.818Z",
+      "updated_at": "2026-05-20T18:58:34.818Z"
+    },
+    {
+      "id": "990d50f9-86e1-4a2f-8e50-5e75462d9566",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 3: Chapter 3 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-20T19:29:25.708Z",
+      "updated_at": "2026-05-20T19:29:25.708Z"
+    },
+    {
+      "id": "c7f4cb10-4c18-4ae5-92ef-a01e1926e6c4",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams talk with Sam, an influential leader at the company who has concerns that the change will impact company culture.\n\n<b>What to look for:</b><ul>\n<li>Do teams work to understand Sam's perspective?\n<li>Do teams get below Sam's initial position to understand his true interests?\n<li>Do teams find common ground with Sam based on their shared interests?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T19:29:48.028Z",
+      "updated_at": "2026-05-20T19:29:48.032Z"
+    },
+    {
+      "id": "d3439bce-7fb1-4218-af0d-8ab2879df146",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "COHORT_INSIGHTS",
+      "content": "7 teams received a \"strong approach\" resource: <b>LyteBright, DB Influence, Precision Influence, LyteSpeed, FryeFuller, The High D's, Spark Team, C-Squad</b><br>\n3 teams received an \"improvement suggestions\" resource: <b>LyteInfluencers, CL Innovations, Meeee</b>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CUSTOM_VARIABLE",
+          "userPrompt": "$2e",
+          "inputTokens": 1034,
+          "rawResponse": "7 teams received a \"strong approach\" resource: <b>LyteBright, DB Influence, Precision Influence, LyteSpeed, FryeFuller, The High D's, Spark Team, C-Squad</b><br>\n3 teams received an \"improvement suggestions\" resource: <b>LyteInfluencers, CL Innovations, Meeee</b>",
+          "outputTokens": 95,
+          "systemPrompt": "$2f",
+          "dataContextLength": 969
+        }
+      },
+      "created_at": "2026-05-20T19:30:36.025Z",
+      "updated_at": "2026-05-20T19:30:39.202Z"
+    },
+    {
+      "id": "7739f0ee-ee88-40f2-b522-628e04ca3e49",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T19:31:36.025Z",
+      "updated_at": "2026-05-20T19:31:36.029Z"
+    },
+    {
+      "id": "028d53e3-adbf-4cb3-9ae8-e79ab215b2b9",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "CASE_PROGRESS",
+      "content": "10 teams have explored all of the available resources.\n<br><br>\nThese teams have not yet explored all of the resources: <b>Meeee</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$2c",
+          "inputTokens": 3113,
+          "rawResponse": "10 teams have explored all of the available resources.\n<br><br>\nThese teams have not yet explored all of the resources: <b>Meeee</b>.",
+          "outputTokens": 43,
+          "systemPrompt": "$2d",
+          "dataContextLength": 8232
+        }
+      },
+      "created_at": "2026-05-20T19:33:36.025Z",
+      "updated_at": "2026-05-20T19:33:38.910Z"
+    },
+    {
+      "id": "269d8435-ca76-44fa-8776-3b353c71b9b6",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "CASE_PROGRESS",
+      "content": "10 teams have started their conversation with Sam.<br>\nThese teams have not yet started the conversation: <b>Meeee</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$2a",
+          "inputTokens": 2988,
+          "rawResponse": "10 teams have started their conversation with Sam.<br>\nThese teams have not yet started the conversation: <b>Meeee</b>.",
+          "outputTokens": 36,
+          "systemPrompt": "$2b",
+          "dataContextLength": 8236
+        }
+      },
+      "created_at": "2026-05-20T19:35:36.024Z",
+      "updated_at": "2026-05-20T19:35:38.562Z"
+    },
+    {
+      "id": "20a7eb50-e622-406f-91d9-ac6afde63f24",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Initial Focus of Conversations:</b> Teams are primarily discussing Sam's concerns about InsightFlow's readiness, inconsistent pilot outputs, increased process overhead, and the need for validation before broader rollout.\n\n<br><br>\n<i>9 active conversations are being reviewed.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$28",
+          "inputTokens": 11582,
+          "rawResponse": "<b>Initial Focus of Conversations:</b> Teams are primarily discussing Sam's concerns about InsightFlow's readiness, inconsistent pilot outputs, increased process overhead, and the need for validation before broader rollout.\n\n<br><br>\n<i>9 active conversations are being reviewed.</i>",
+          "outputTokens": 68,
+          "systemPrompt": "$29",
+          "dataContextLength": 38166
+        }
+      },
+      "created_at": "2026-05-20T19:37:36.026Z",
+      "updated_at": "2026-05-20T19:37:39.382Z"
+    },
+    {
+      "id": "39eeea9a-8bdc-4e45-9bd4-4f837bb1dab0",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to give participants a helpful reminder: <br><br>\n<i>Remember to ask probing questions to get below Sam's initial position. Can you find any shared interests?</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T19:39:36.022Z",
+      "updated_at": "2026-05-20T19:39:36.025Z"
+    },
+    {
+      "id": "2fbc748f-8eda-401b-b133-87c8de9a777c",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Shared Interest:</b> 0 teams have expressed a shared interest in maintaining the firm's culture.<br><br>\n\n<i>Reviewing 10 active conversations.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$24",
+          "inputTokens": 21761,
+          "rawResponse": "<b>Shared Interest:</b> 0 teams have expressed a shared interest in maintaining the firm's culture.<br><br>\n\n<i>Reviewing 10 active conversations.</i>",
+          "outputTokens": 46,
+          "systemPrompt": "$25",
+          "dataContextLength": 72984
+        }
+      },
+      "created_at": "2026-05-20T19:43:36.021Z",
+      "updated_at": "2026-05-20T19:43:40.470Z"
+    },
+    {
+      "id": "9957306f-0a4b-4a51-adc6-77e08ecd8fef",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Alignment:</b> 0 teams have explained how InsightFlow aligns with and can support the preservation of the firm's culture.<br><br>\n\n<i>Reviewing 11 active conversations.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$22",
+          "inputTokens": 25326,
+          "rawResponse": "<b>Alignment:</b> 0 teams have explained how InsightFlow aligns with and can support the preservation of the firm's culture.<br><br>\n\n<i>Reviewing 11 active conversations.</i>",
+          "outputTokens": 53,
+          "systemPrompt": "$23",
+          "dataContextLength": 85447
+        }
+      },
+      "created_at": "2026-05-20T19:45:36.022Z",
+      "updated_at": "2026-05-20T19:45:39.387Z"
+    },
+    {
+      "id": "c81e380b-e0e2-4a8d-b617-b01fb27c63ca",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "CASE_PROGRESS",
+      "content": "This chapter has unlockable resources. <ul>\n<li>0 teams have unlocked LumenLyte Values Poster</li>\n</ul>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$20",
+          "inputTokens": 3062,
+          "rawResponse": "This chapter has unlockable resources. <ul>\n<li>0 teams have unlocked LumenLyte Values Poster</li>\n</ul>",
+          "outputTokens": 38,
+          "systemPrompt": "$21",
+          "dataContextLength": 8242
+        }
+      },
+      "created_at": "2026-05-20T19:46:36.020Z",
+      "updated_at": "2026-05-20T19:46:38.724Z"
+    },
+    {
+      "id": "cb247a1d-8949-41bf-beb0-1346fd6eea76",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Conversation Summary:</b> Teams have been focused on understanding Sam's concerns about InsightFlow's readiness, exploring pilot validation approaches, and negotiating ownership structures to ensure quality before scaling the rollout.\n\n<br><br>\n\n<b>A possible strength is</b> that most teams successfully identified shared interests around data quality, evidence-based decisions, and protecting analyst judgment—several secured Sam's commitment to lead validation work with clear guardrails.\n\n<br><br>\n\n<b>A possible gap is</b> that few teams fully probed the *emotional* source of Sam's resistance (past project trauma, fear of repeating failures) or explicitly acknowledged his influence as leverage for broader team buy-in.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$1e",
+          "inputTokens": 28368,
+          "rawResponse": "<b>Conversation Summary:</b> Teams have been focused on understanding Sam's concerns about InsightFlow's readiness, exploring pilot validation approaches, and negotiating ownership structures to ensure quality before scaling the rollout.\n\n<br><br>\n\n<b>A possible strength is</b> that most teams successfully identified shared interests around data quality, evidence-based decisions, and protecting analyst judgment—several secured Sam's commitment to lead validation work with clear guardrails.\n\n<br><br>\n\n<b>A possible gap is</b> that few teams fully probed the *emotional* source of Sam's resistance (past project trauma, fear of repeating failures) or explicitly acknowledged his influence as leverage for broader team buy-in.",
+          "outputTokens": 158,
+          "systemPrompt": "$1f",
+          "dataContextLength": 96258
+        }
+      },
+      "created_at": "2026-05-20T19:47:36.033Z",
+      "updated_at": "2026-05-20T19:47:42.614Z"
+    },
+    {
+      "id": "d1533e82-9d6a-410d-b9ac-db946cd32a88",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Debrief Reminder:</b> Now it's time to bring it all together in the final debrief! <ul>\n<li> Show <b><i>Snapshot</b></i> in the Debrief tools to show what happened next. If any teams earned \"Feeling the Flow,\" ask them how they achieved that.\n<li> Use <b><i>Approaches</b></i> to show the questions that teams asked. \n<li> Use the slides to explore the idea of finding shared interests.\n<li> Finally, use <b><i>Reflections</b></i> to ask any reflection questions that strike you as valuable for your cohort.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-20T19:49:36.024Z",
+      "updated_at": "2026-05-20T19:49:36.026Z"
+    },
+    {
+      "id": "341c55e3-5bfd-48f3-8d28-afcfa861b385",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-20T19:49:54.436Z",
+      "updated_at": "2026-05-20T19:49:54.436Z"
+    },
+    {
+      "id": "f38fc342-8f48-4641-bb17-3c5848a54869",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 3 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-20T19:49:54.443Z",
+      "updated_at": "2026-05-20T19:49:54.443Z"
+    },
+    {
+      "id": "f34e679e-e337-47cb-b2d2-0e5e66ac43e2",
+      "chapter_id": "79f1e087-7861-439a-ad08-64f6b5700672",
+      "type": "ENDING_MESSAGE",
+      "content": "Case completed — all chapters finished.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "case_completed"
+      },
+      "created_at": "2026-05-20T19:49:54.713Z",
+      "updated_at": "2026-05-20T19:49:54.713Z"
+    }
+  ],
   "reflections": []
 }
