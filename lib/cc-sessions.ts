@@ -91,6 +91,7 @@ export interface CcSessionData {
   chapter_timings: Record<string, { started_at?: string; ended_at?: string }>
   events: CcSessionEvent[]
   reflections?: CcReflectionQuestion[]
+  bookmark_count?: number | null
 }
 
 import { SESSION_REGISTRY as REGISTRY } from './cc-session-registry'

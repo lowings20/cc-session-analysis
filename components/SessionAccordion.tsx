@@ -80,6 +80,10 @@ function SessionItem({ session, ccData, runsheetSegments }: ItemProps) {
     return new Date(session.start_date).getTime() > Date.now()
   })()
 
+  // Reflection answers across all questions; bookmark count (when extracted)
+  const reflectionCount = (ccData?.reflections ?? []).reduce((n, q) => n + (q.answers?.length ?? 0), 0)
+  const bookmarkCount = ccData?.bookmark_count ?? null
+
   return (
     <div className={`rounded-lg border border-[#1e293b] overflow-hidden ${isFuture ? 'bg-[#0a121f] opacity-70' : 'bg-[#0f172a]'}`}>
       <button
@@ -116,6 +120,8 @@ function SessionItem({ session, ccData, runsheetSegments }: ItemProps) {
             </span>
           ) : (
             <>
+              {reflectionCount > 0 && <CountChip icon="💬" count={reflectionCount} title={`${reflectionCount} reflection response${reflectionCount === 1 ? '' : 's'}`} />}
+              {bookmarkCount !== null && bookmarkCount > 0 && <CountChip icon="🔖" count={bookmarkCount} title={`${bookmarkCount} bookmarked message${bookmarkCount === 1 ? '' : 's'}`} />}
               <StatusPill ok={hasSurvey} label="Survey" />
               <StatusPill ok={hasActivity} label="Activity" />
               <StatusPill ok={hasScoring} label="Scoring" />
@@ -147,6 +153,18 @@ function SessionItem({ session, ccData, runsheetSegments }: ItemProps) {
         </div>
       )}
     </div>
+  )
+}
+
+function CountChip({ icon, count, title }: { icon: string; count: number; title: string }) {
+  return (
+    <span
+      title={title}
+      className="text-[10px] px-1.5 py-0.5 rounded bg-[#1e293b] border border-[#334155] text-[#cbd5e1] flex items-center gap-1"
+    >
+      <span>{icon}</span>
+      <span className="tabular-nums">{count}</span>
+    </span>
   )
 }
 
