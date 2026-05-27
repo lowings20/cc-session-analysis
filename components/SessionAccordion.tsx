@@ -71,7 +71,7 @@ function SessionItem({ session, ccData, runsheetSegments }: ItemProps) {
   const [open, setOpen] = useState(false)
 
   const hasSurvey = typeof session.survey_score === 'number'
-  const hasActivity = !!ccData
+  const hasActivity = !!ccData && ccData.events.length > 0
   const hasScoring = !!ccData && Object.keys(ccData.team_results_for_viewed_chapter).length > 0
 
   // Is this session in the future?
@@ -201,11 +201,13 @@ function SurveyBlock({ session }: { session: SessionRow }) {
 function TimingBlock({ session, ccData, runsheetSegments }: { session: SessionRow; ccData: CcSessionData | null; runsheetSegments: RunsheetSegment[] }) {
   const plannedTotalMin = runsheetSegments.reduce((s, x) => s + x.length_min, 0)
 
-  if (!ccData) {
+  if (!ccData || ccData.events.length === 0) {
     return (
       <div className="space-y-3">
         <div className="text-sm text-[#94a3b8]">
-          No activity feed extracted yet. To enable this row, share the facilitator URL for this session.
+          {ccData
+            ? 'No activity feed events were recorded for this session — it was launched but may not have been run.'
+            : 'No activity feed extracted yet. To enable this row, share the facilitator URL for this session.'}
         </div>
         {/* Show planned-only as reference */}
         <PlannedBar segments={runsheetSegments} totalMin={plannedTotalMin} />
@@ -300,7 +302,7 @@ function PlannedBar({ segments, totalMin }: { segments: RunsheetSegment[]; total
 }
 
 function TimingInsightBlock({ ccData, runsheetSegments }: { ccData: CcSessionData | null; runsheetSegments: RunsheetSegment[] }) {
-  if (!ccData) {
+  if (!ccData || ccData.events.length === 0) {
     return <div className="text-sm text-[#94a3b8]">Needs activity feed data.</div>
   }
   const sessionStart = ts(ccData.events[0].created_at)
