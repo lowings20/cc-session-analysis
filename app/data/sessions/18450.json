@@ -1,0 +1,631 @@
+{
+  "session_arrow_id": 18450,
+  "session_cc_uuid": "37f68994-81b2-490d-a3da-4a6a6d5fb96a",
+  "case_challenge": "Influencing Without Authority",
+  "case_challenge_id": "38f208dd-a242-4566-b6d1-1d995f02966c",
+  "viewed_chapter_id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+  "extracted_at": "2026-05-20T00:00:00.000Z",
+  "source_url": "https://abilitieplaysession.abilitie.com/facilitator/37f68994-81b2-490d-a3da-4a6a6d5fb96a",
+  "tenant_dns": "abilitieplaysession.abilitie.com",
+  "chapters": [
+    {
+      "id": "45dd8681-023a-458a-9480-5c699ed76314",
+      "title": "Chapter 1",
+      "order": 1,
+      "duration_min": 3,
+      "blocks": 0
+    },
+    {
+      "id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "title": "Chapter 2",
+      "order": 2,
+      "duration_min": 24,
+      "blocks": 0
+    },
+    {
+      "id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "title": "Chapter 3",
+      "order": 3,
+      "duration_min": 15,
+      "blocks": 0
+    },
+    {
+      "id": "a563e32f-b2f6-461a-8f8b-57e097c75cbd",
+      "title": "Chapter 4",
+      "order": 4,
+      "duration_min": 12,
+      "blocks": 0
+    }
+  ],
+  "teams": [
+    {
+      "id": "ac38b170-60a9-427c-9c2f-085c23d2e973",
+      "name": "Team Steve",
+      "icon": "💪",
+      "group_letter": "1"
+    },
+    {
+      "id": "ec7e789f-8326-475f-8dfa-81510beab896",
+      "name": "Group 2",
+      "icon": "🎸",
+      "group_letter": "2"
+    },
+    {
+      "id": "c6a366b4-4ede-4357-85b5-69d1187487a8",
+      "name": "Group 3",
+      "icon": "💎",
+      "group_letter": "3"
+    }
+  ],
+  "team_results_for_viewed_chapter": {},
+  "team_results_by_chapter": {
+    "45dd8681-023a-458a-9480-5c699ed76314": {},
+    "56540d39-9c35-4083-ab28-6dd78ef4f258": {},
+    "8790fc80-aa22-4d3c-8d7e-00689f05be6f": {},
+    "a563e32f-b2f6-461a-8f8b-57e097c75cbd": {}
+  },
+  "team_analyses_for_viewed_chapter": {},
+  "team_analyses_by_chapter": {
+    "45dd8681-023a-458a-9480-5c699ed76314": {
+      "ac38b170-60a9-427c-9c2f-085c23d2e973": {
+        "teamId": "ac38b170-60a9-427c-9c2f-085c23d2e973",
+        "teamName": "Team Steve",
+        "teamIcon": "💪",
+        "chapterId": "45dd8681-023a-458a-9480-5c699ed76314",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-45dd8681-023a-458a-9480-5c699ed76314/1774649344880-Chapter-4.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-26T19:20:47.757Z",
+        "score": null,
+        "analysis": "Good work getting started. Now let's meet some members of the team at ForgePro...",
+        "narrativeImpact": null
+      }
+    },
+    "56540d39-9c35-4083-ab28-6dd78ef4f258": {
+      "ac38b170-60a9-427c-9c2f-085c23d2e973": {
+        "teamId": "ac38b170-60a9-427c-9c2f-085c23d2e973",
+        "teamName": "Team Steve",
+        "teamIcon": "💪",
+        "chapterId": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-56540d39-9c35-4083-ab28-6dd78ef4f258/1774649360464-chapter_1.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-26T19:50:48.113Z",
+        "score": null,
+        "analysis": "Nice work exploring the perspectives of key stakeholders. Now let’s continue building your understanding of the landscape.",
+        "narrativeImpact": null
+      }
+    },
+    "8790fc80-aa22-4d3c-8d7e-00689f05be6f": {
+      "ac38b170-60a9-427c-9c2f-085c23d2e973": {
+        "teamId": "ac38b170-60a9-427c-9c2f-085c23d2e973",
+        "teamName": "Team Steve",
+        "teamIcon": "💪",
+        "chapterId": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+        "chapterImage": "https://case-challenge-a3-storage-production.s3.us-east-1.amazonaws.com/chapter-backgrounds/chapter-8790fc80-aa22-4d3c-8d7e-00689f05be6f/1774649380117-chapter_2.webp",
+        "scoreDisplayType": "STARS",
+        "scoreDisplayConfig": null,
+        "scoreHidden": false,
+        "hasNarrativeImpact": false,
+        "analysisType": "STATIC",
+        "analysisOptions": null,
+        "generatedAt": "2026-05-26T19:56:16.407Z",
+        "score": null,
+        "analysis": "Great progress mapping the influence dynamics. Get ready to draft your strategy for Mei!",
+        "narrativeImpact": null
+      }
+    },
+    "a563e32f-b2f6-461a-8f8b-57e097c75cbd": {}
+  },
+  "chapter_timings": {
+    "45dd8681-023a-458a-9480-5c699ed76314": {
+      "started_at": "2026-05-26T19:19:07.380Z",
+      "ended_at": "2026-05-26T19:20:47.742Z"
+    },
+    "56540d39-9c35-4083-ab28-6dd78ef4f258": {
+      "started_at": "2026-05-26T19:21:17.857Z",
+      "ended_at": "2026-05-26T19:50:48.099Z"
+    },
+    "8790fc80-aa22-4d3c-8d7e-00689f05be6f": {
+      "started_at": "2026-05-26T19:51:50.848Z",
+      "ended_at": "2026-05-26T19:56:16.396Z"
+    }
+  },
+  "events": [
+    {
+      "id": "38ca44c3-9c07-4dbf-9b8c-476aac422b91",
+      "chapter_id": "45dd8681-023a-458a-9480-5c699ed76314",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 1 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-26T19:19:07.380Z",
+      "updated_at": "2026-05-26T19:19:07.380Z"
+    },
+    {
+      "id": "80991afe-03eb-4892-88af-5cb5374442ea",
+      "chapter_id": "45dd8681-023a-458a-9480-5c699ed76314",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br\nTeams have a few minutes to review general information about the case. This is a quick orientation chapter before moving right into Chapter 2.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams explore all of the available resources?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-26T19:19:12.023Z",
+      "updated_at": "2026-05-26T19:19:12.029Z"
+    },
+    {
+      "id": "aa082a4f-9953-4dd2-89c9-807f62db7682",
+      "chapter_id": "45dd8681-023a-458a-9480-5c699ed76314",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-26T19:19:36.021Z",
+      "updated_at": "2026-05-26T19:19:36.022Z"
+    },
+    {
+      "id": "7611e4d3-3deb-483a-9944-f4f26913a7be",
+      "chapter_id": "45dd8681-023a-458a-9480-5c699ed76314",
+      "type": "CASE_PROGRESS",
+      "content": "1 team has explored all of the available resources.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$34",
+          "inputTokens": 764,
+          "rawResponse": "1 team has explored all of the available resources.",
+          "outputTokens": 15,
+          "systemPrompt": "$35",
+          "dataContextLength": 241
+        }
+      },
+      "created_at": "2026-05-26T19:19:48.018Z",
+      "updated_at": "2026-05-26T19:19:50.824Z"
+    },
+    {
+      "id": "4b74a38a-527a-4b0b-8c08-1dd5f3192bca",
+      "chapter_id": "45dd8681-023a-458a-9480-5c699ed76314",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 1 min 20 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-26T19:20:47.737Z",
+      "updated_at": "2026-05-26T19:20:47.737Z"
+    },
+    {
+      "id": "b4c153ed-febd-437b-ab3a-943bd062306b",
+      "chapter_id": "45dd8681-023a-458a-9480-5c699ed76314",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 1 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-26T19:20:47.742Z",
+      "updated_at": "2026-05-26T19:20:47.742Z"
+    },
+    {
+      "id": "bc48094b-7e34-4bff-bc32-1586a8fc2cd5",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 2: Chapter 2 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-26T19:21:17.857Z",
+      "updated_at": "2026-05-26T19:21:17.857Z"
+    },
+    {
+      "id": "719ed900-2f04-4a8e-85db-59aafa8bad21",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams meet with both Blaine and Grace to get a better understanding of the various stakeholders at ForgePro. Teams take notes that they can reference later on.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams talk with both Blaine and Grace?\n<li>Do they unlock additional information by asking specifically about each of the other stakeholders?\n<li>Do they take notes that will be useful to them in the next chapter?",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-26T19:21:36.021Z",
+      "updated_at": "2026-05-26T19:21:36.024Z"
+    },
+    {
+      "id": "569a378a-b739-422d-bc12-431f74b2418a",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-26T19:23:48.022Z",
+      "updated_at": "2026-05-26T19:23:48.023Z"
+    },
+    {
+      "id": "01770bb7-2800-4912-ab42-ecff6d24c228",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "CASE_PROGRESS",
+      "content": "0 teams have explored all of the available resources.\n<br><br>\nThese teams have not yet explored all of the resources: <b>Team Steve</b>.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$32",
+          "inputTokens": 1107,
+          "rawResponse": "0 teams have explored all of the available resources.\n<br><br>\nThese teams have not yet explored all of the resources: <b>Team Steve</b>.",
+          "outputTokens": 41,
+          "systemPrompt": "$33",
+          "dataContextLength": 1375
+        }
+      },
+      "created_at": "2026-05-26T19:26:12.042Z",
+      "updated_at": "2026-05-26T19:26:14.936Z"
+    },
+    {
+      "id": "62d5bc56-52ee-44d7-943e-5c6253436eff",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "COHORT_INSIGHTS",
+      "content": "1 team has started their conversations with Blaine. <br>\n0 teams have started their conversations with Grace.\n\n<br><br>\nThese teams have not yet started either conversation: <b>None—all teams have started at least one conversation.</b>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$30",
+          "inputTokens": 1722,
+          "rawResponse": "1 team has started their conversations with Blaine. <br>\n0 teams have started their conversations with Grace.\n\n<br><br>\nThese teams have not yet started either conversation: <b>None—all teams have started at least one conversation.</b>",
+          "outputTokens": 62,
+          "systemPrompt": "$31",
+          "dataContextLength": 3505
+        }
+      },
+      "created_at": "2026-05-26T19:28:36.020Z",
+      "updated_at": "2026-05-26T19:28:38.340Z"
+    },
+    {
+      "id": "7463f1cb-bb2a-491a-84a3-cdb15462a8be",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "CASE_PROGRESS",
+      "content": "<b>Initial Focus of Conversations:</b> Team Steve is exploring SmartSense's commercial opportunity, sales impact, pricing power, internal champions, potential resistance from operations/engineering, and strategies to secure Raj's support.\n<br><br>\n<i>Reviewing 1 active conversation.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$2e",
+          "inputTokens": 2296,
+          "rawResponse": "<b>Initial Focus of Conversations:</b> Team Steve is exploring SmartSense's commercial opportunity, sales impact, pricing power, internal champions, potential resistance from operations/engineering, and strategies to secure Raj's support.\n<br><br>\n<i>Reviewing 1 active conversation.</i>",
+          "outputTokens": 71,
+          "systemPrompt": "$2f",
+          "dataContextLength": 5377
+        }
+      },
+      "created_at": "2026-05-26T19:31:00.105Z",
+      "updated_at": "2026-05-26T19:31:03.739Z"
+    },
+    {
+      "id": "e0df791d-7ceb-403a-8883-5026aba199ff",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Suggestion:</b> You might consider using the Send Message feature to give participants a helpful reminder: <br><br>\n<i>Remember to spend time talking with both Blaine and Grace. It may help to ask specific questions about each stakeholder.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-26T19:33:24.021Z",
+      "updated_at": "2026-05-26T19:33:24.023Z"
+    },
+    {
+      "id": "6620d166-3e5c-40fa-bc87-4af9768119e6",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Blaine Specific Questions:</b> Teams have asked specific questions about the following stakeholders:\n<ul>\n<li>1 team has asked at least one question about Mei\n<li>1 team has asked at least one question about Grace\n<li>1 team has asked at least one question about Dana\n<li>1 team has asked at least one question about Marvin\n<li>1 team has asked at least one question about Raj\n<li>0 teams have asked at least one question about Blaine himself\n</ul>\n\n<br><br>\n<i>1 conversation reviewed.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$2a",
+          "inputTokens": 3240,
+          "rawResponse": "<b>Blaine Specific Questions:</b> Teams have asked specific questions about the following stakeholders:\n<ul>\n<li>1 team has asked at least one question about Mei\n<li>1 team has asked at least one question about Grace\n<li>1 team has asked at least one question about Dana\n<li>1 team has asked at least one question about Marvin\n<li>1 team has asked at least one question about Raj\n<li>0 teams have asked at least one question about Blaine himself\n</ul>\n\n<br><br>\n<i>1 conversation reviewed.</i>",
+          "outputTokens": 148,
+          "systemPrompt": "$2b",
+          "dataContextLength": 7932
+        }
+      },
+      "created_at": "2026-05-26T19:37:00.103Z",
+      "updated_at": "2026-05-26T19:37:03.136Z"
+    },
+    {
+      "id": "492e6f7d-8835-4edc-820e-2e8ac418049e",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Grace Probing:</b> 0 teams have asked Grace questions that will allow them to understand who has what kind of influence at ForgePro.<br><br>\n\n<i>Reviewing 1 active conversation.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$28",
+          "inputTokens": 1033,
+          "rawResponse": "<b>Grace Probing:</b> 0 teams have asked Grace questions that will allow them to understand who has what kind of influence at ForgePro.<br><br>\n\n<i>Reviewing 1 active conversation.</i>",
+          "outputTokens": 57,
+          "systemPrompt": "$29",
+          "dataContextLength": 847
+        }
+      },
+      "created_at": "2026-05-26T19:38:12.017Z",
+      "updated_at": "2026-05-26T19:38:14.272Z"
+    },
+    {
+      "id": "63e5dfd7-9d8a-49db-a8f8-dd3b75a619bf",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Grace Specific Questions:</b> Teams have asked specific questions about the following stakeholders: <ul>\n<li>0 teams have asked at least one question about Mei\n<li>0 teams have asked at least one question about Blaine\n<li>0 teams have asked at least one question about Dana\n<li>0 teams have asked at least one question about Marvin\n<li>0 teams have asked at least one question about Raj\n<li>0 teams have asked at least one question about Grace herself\n</ul>\n\n<br><br>\n<i>Reviewing 1 active conversation.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$26",
+          "inputTokens": 1041,
+          "rawResponse": "<b>Grace Specific Questions:</b> Teams have asked specific questions about the following stakeholders: <ul>\n<li>0 teams have asked at least one question about Mei\n<li>0 teams have asked at least one question about Blaine\n<li>0 teams have asked at least one question about Dana\n<li>0 teams have asked at least one question about Marvin\n<li>0 teams have asked at least one question about Raj\n<li>0 teams have asked at least one question about Grace herself\n</ul>\n\n<br><br>\n<i>Reviewing 1 active conversation.</i>",
+          "outputTokens": 148,
+          "systemPrompt": "$27",
+          "dataContextLength": 847
+        }
+      },
+      "created_at": "2026-05-26T19:39:24.021Z",
+      "updated_at": "2026-05-26T19:39:26.985Z"
+    },
+    {
+      "id": "84014eec-4831-4131-a922-07cbd9007759",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Teams have been noting the following about the various stakeholders at ForgePro:</b>\n\n<ul>\n<li><b>Mei:</b> Only 1 team is active; no notes recorded yet about any stakeholders.\n<li><b>Grace:</b> No notes recorded.\n<li><b>Blaine:</b> No notes recorded.\n<li><b>Dana:</b> No notes recorded.\n<li><b>Marvin:</b> No notes recorded.\n<li><b>Raj:</b> No notes recorded.\n</ul>\n\n<br><br>\n<i>Reviewing 1 active conversation.</i>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CUSTOM_VARIABLE",
+          "userPrompt": "$24",
+          "inputTokens": 809,
+          "rawResponse": "<b>Teams have been noting the following about the various stakeholders at ForgePro:</b>\n\n<ul>\n<li><b>Mei:</b> Only 1 team is active; no notes recorded yet about any stakeholders.\n<li><b>Grace:</b> No notes recorded.\n<li><b>Blaine:</b> No notes recorded.\n<li><b>Dana:</b> No notes recorded.\n<li><b>Marvin:</b> No notes recorded.\n<li><b>Raj:</b> No notes recorded.\n</ul>\n\n<br><br>\n<i>Reviewing 1 active conversation.</i>",
+          "outputTokens": 156,
+          "systemPrompt": "$25",
+          "dataContextLength": 105
+        }
+      },
+      "created_at": "2026-05-26T19:40:36.024Z",
+      "updated_at": "2026-05-26T19:40:40.255Z"
+    },
+    {
+      "id": "8207db47-cdf6-4992-9326-e9c001892560",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "CASE_PROGRESS",
+      "content": "This chapter has unlockable resources. \n\n<ul>\n<li>1 team has unlocked Funding Decision – CoolGo Mini Add-On Proposal\n<li>1 team has unlocked FWD: Engineering Status Update\n<li>1 team has unlocked Incident Summary\n</ul>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$22",
+          "inputTokens": 1050,
+          "rawResponse": "This chapter has unlockable resources. \n\n<ul>\n<li>1 team has unlocked Funding Decision – CoolGo Mini Add-On Proposal\n<li>1 team has unlocked FWD: Engineering Status Update\n<li>1 team has unlocked Incident Summary\n</ul>",
+          "outputTokens": 74,
+          "systemPrompt": "$23",
+          "dataContextLength": 1375
+        }
+      },
+      "created_at": "2026-05-26T19:41:48.022Z",
+      "updated_at": "2026-05-26T19:41:50.411Z"
+    },
+    {
+      "id": "6995bad6-e0cd-49d0-b5c0-4ab160e01a75",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "COHORT_INSIGHTS",
+      "content": "<b>Conversation Summary:</b> Teams have been focused on understanding stakeholder perspectives and influencing strategies, particularly with Blaine. Strong stakeholder mapping and influence tactics were explored with one character.\n<br><br>\n<b>A possible gap is:</b> Limited engagement with Grace—only one brief exchange versus extensive dialogue with Blaine, missing deeper insights into her concerns and influence.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "CONVERSATION",
+          "userPrompt": "$20",
+          "inputTokens": 3388,
+          "rawResponse": "<b>Conversation Summary:</b> Teams have been focused on understanding stakeholder perspectives and influencing strategies, particularly with Blaine. Strong stakeholder mapping and influence tactics were explored with one character.\n<br><br>\n<b>A possible gap is:</b> Limited engagement with Grace—only one brief exchange versus extensive dialogue with Blaine, missing deeper insights into her concerns and influence.",
+          "outputTokens": 88,
+          "systemPrompt": "$21",
+          "dataContextLength": 8781
+        }
+      },
+      "created_at": "2026-05-26T19:43:00.200Z",
+      "updated_at": "2026-05-26T19:43:04.694Z"
+    },
+    {
+      "id": "03a7dfe4-4055-4e18-8b91-40d0f480a7b4",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "FACILITATION_TIP",
+      "content": "<b>Debrief Reminder:</b> This is a very quick debrief. <ul>\n<li> Use the slides to note that Blaine and Grace might have shared additional information, or even conflicting information.\n<li> Then move directly to the next chapter.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-26T19:45:24.017Z",
+      "updated_at": "2026-05-26T19:45:24.020Z"
+    },
+    {
+      "id": "decf8f3d-e17c-437f-9303-ed28f2f1b006",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 0 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-26T19:50:48.085Z",
+      "updated_at": "2026-05-26T19:50:48.085Z"
+    },
+    {
+      "id": "48e92e6f-ef8a-4198-a04f-13a43970a785",
+      "chapter_id": "56540d39-9c35-4083-ab28-6dd78ef4f258",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 2 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-26T19:50:48.099Z",
+      "updated_at": "2026-05-26T19:50:48.099Z"
+    },
+    {
+      "id": "7713b000-2824-4cbd-9d41-1a30f57e397f",
+      "chapter_id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "type": "STARTING_MESSAGE",
+      "content": "Chapter 3: Chapter 3 has started.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_started"
+      },
+      "created_at": "2026-05-26T19:51:50.848Z",
+      "updated_at": "2026-05-26T19:51:50.848Z"
+    },
+    {
+      "id": "1d79d3dd-8816-4560-aa20-957c967243ac",
+      "chapter_id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "type": "FACILITATION_TIP",
+      "content": "<b>What is this chapter about?</b><br>\nTeams use the included tool to map who has what sort of influencing power at ForgePro.\n<br><br>\n<b>What to look for:</b><ul>\n<li>Do teams complete the Stakeholder Mapping Tool?\n<li>Are teams thoughtfully considering the various types of influencing power?\n<br><br>\n<b>Note: </b> There will be only a few updates in the Activity Feed during this chapter.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-26T19:52:00.168Z",
+      "updated_at": "2026-05-26T19:52:00.183Z"
+    },
+    {
+      "id": "ce110adf-8847-4a83-bec8-3be9959d8162",
+      "chapter_id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "type": "FACILITATION_TIP",
+      "content": "Remember to move around to listen to teams' discussions. Sometimes the most insightful comments are said from one participant to another, rather than to an AI character.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {},
+      "created_at": "2026-05-26T19:53:24.019Z",
+      "updated_at": "2026-05-26T19:53:24.021Z"
+    },
+    {
+      "id": "c4a44f3b-6620-4d98-8d34-76f98e61ad98",
+      "chapter_id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "type": "CASE_PROGRESS",
+      "content": "1 team has explored all of the available resources.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "techDetails": {
+          "model": "arn:aws:bedrock:us-east-1:095634157675:inference-profile/global.anthropic.claude-sonnet-4-5-20250929-v1:0",
+          "inputType": "SESSION_STATS",
+          "userPrompt": "$1e",
+          "inputTokens": 790,
+          "rawResponse": "1 team has explored all of the available resources.",
+          "outputTokens": 15,
+          "systemPrompt": "$1f",
+          "dataContextLength": 306
+        }
+      },
+      "created_at": "2026-05-26T19:55:00.080Z",
+      "updated_at": "2026-05-26T19:55:02.454Z"
+    },
+    {
+      "id": "1280a8ed-9abc-4b23-bab6-20b7447f341f",
+      "chapter_id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "type": "CASE_PROGRESS",
+      "content": "Timer paused — 10 min 35 sec remaining.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "timer_paused"
+      },
+      "created_at": "2026-05-26T19:56:16.392Z",
+      "updated_at": "2026-05-26T19:56:16.392Z"
+    },
+    {
+      "id": "114b0573-6a93-4948-846c-556ed9b5b047",
+      "chapter_id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "type": "ENDING_MESSAGE",
+      "content": "Chapter 3 ended — showing feedback.",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "chapter_ended"
+      },
+      "created_at": "2026-05-26T19:56:16.396Z",
+      "updated_at": "2026-05-26T19:56:16.396Z"
+    },
+    {
+      "id": "5f29d913-3f5c-4322-bb0e-91efd65b09c3",
+      "chapter_id": "8790fc80-aa22-4d3c-8d7e-00689f05be6f",
+      "type": "CASE_PROGRESS",
+      "content": "Message sent to participants: <blockquote>only 2 minutes to go!</blockquote>",
+      "is_finished": true,
+      "invalidated": false,
+      "metadata": {
+        "source": "facilitator_message",
+        "messageId": "f6459014-b362-4082-a098-28fb77c5fc70"
+      },
+      "created_at": "2026-05-26T20:32:45.216Z",
+      "updated_at": "2026-05-26T20:32:45.216Z"
+    }
+  ],
+  "reflections": [
+    {
+      "id": "e59a6d77-6426-43af-81f8-3381e3bd4d07",
+      "question": "what do you htink so far?",
+      "chapter_id": null,
+      "chapter_title": null,
+      "created_at": "2026-05-26T20:33:09.898Z",
+      "answers": [
+        {
+          "id": "9dc0f307-9d00-4fe1-a540-23da9da86984",
+          "answer": "i love it!",
+          "hidden": false,
+          "team": {
+            "id": "ec7e789f-8326-475f-8dfa-81510beab896",
+            "name": "Group 2",
+            "icon": "🎸"
+          },
+          "player": {
+            "id": "798d34d2-1e4e-43e1-9ef5-74e7a964f60e",
+            "name": "Jonathan 2"
+          },
+          "created_at": "2026-05-26T20:34:17.698Z"
+        }
+      ]
+    }
+  ]
+}

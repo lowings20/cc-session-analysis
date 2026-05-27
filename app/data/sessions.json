@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T00:00:00.000Z",
+  "generated_at": "2026-05-27T00:00:00.000Z",
   "source": "Arrow (portal.program_session ⨝ program_session_simulation ⨝ simulation ⨝ roster) where roster.number_of_teams >= 4 and simulation.external_case_name IS NOT NULL. Facilitators/producers limited to contract_accepted = true and not canceled. runsheet_version sourced from filenames in local 'Slides and Runsheets 3' folder. has_survey from portal.program_session_survey. has_transcript not yet wired.",
   "rows": [
     {
@@ -83,6 +83,26 @@
       "survey_response_count": null
     },
     {
+      "session_id": 18450,
+      "session_uuid": "6c03ad6d-ecad-429f-a03d-cc0c4ddac51e",
+      "session_name": "Case Challenge: Influencing Without Authority",
+      "start_date": "2026-05-28T14:00:00.000Z",
+      "program_id": 6981,
+      "program_name": "Play Session: Case Challenges May 2026",
+      "program_uuid": "d52b1af4-0141-4d5f-aed1-d54afe2583e9",
+      "case_challenge": "Influencing Without Authority",
+      "number_of_teams": 10,
+      "players_per_team": 2,
+      "facilitators": "Steve Gartrell",
+      "producers": "Ali Block",
+      "has_survey": false,
+      "has_transcript": false,
+      "runsheet_version": "v26.03.18",
+      "survey_score": null,
+      "survey_analyze_url": null,
+      "survey_response_count": null
+    },
+    {
       "session_id": 19638,
       "session_uuid": "cb7ae5fb-94f3-446e-8366-4e45c99e2031",
       "session_name": "Case Challenge: Leading in Times of Change",
@@ -111,7 +131,7 @@
       "program_name": "Entain Management Programme 2026 - Cohort 2",
       "program_uuid": "44fadd71-622e-454a-a4cd-73aadb56e379",
       "case_challenge": "Navigating Critical Conversations",
-      "number_of_teams": 10,
+      "number_of_teams": 11,
       "players_per_team": 2,
       "facilitators": "Paul Kirkitelos",
       "producers": "Trazana Bush",

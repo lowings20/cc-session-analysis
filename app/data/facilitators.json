@@ -49,7 +49,7 @@
           "session_name": "Case Challenge: Navigating Critical Conversations",
           "case_challenge": "Navigating Critical Conversations",
           "start_date": "2026-05-22T08:00:00.000Z",
-          "number_of_teams": 10,
+          "number_of_teams": 11,
           "survey_score": null,
           "survey_response_count": null
         },
@@ -1781,6 +1781,38 @@
           "Business Challenge - Consumer Packaged Goods": 1
         }
       }
+    },
+    {
+      "name": "Steve Gartrell",
+      "slug": "steve-gartrell",
+      "has_transcripts": false,
+      "session_count": 1,
+      "case_challenges": [
+        "Influencing Without Authority"
+      ],
+      "avg_survey_score": null,
+      "survey_session_count": 0,
+      "avg_team_score": null,
+      "team_score_count": 0,
+      "narrative_outcomes": {},
+      "sessions": [
+        {
+          "session_id": 18450,
+          "program_name": "Play Session: Case Challenges May 2026",
+          "program_uuid": "d52b1af4-0141-4d5f-aed1-d54afe2583e9",
+          "session_name": "Case Challenge: Influencing Without Authority",
+          "case_challenge": "Influencing Without Authority",
+          "start_date": "2026-05-28T14:00:00.000Z",
+          "number_of_teams": 10,
+          "survey_score": null,
+          "survey_response_count": null
+        }
+      ],
+      "magic_moments": [],
+      "strengths": [],
+      "learn_from": [],
+      "strengths_method": null,
+      "arrow": null
     },
     {
       "name": "Rebecca Kaloo",
